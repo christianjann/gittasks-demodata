@@ -1,0 +1,18 @@
+---
+title: Note 16 in goals - long_term
+created: 2023-06-25T11:28:29.857895
+updated: 2024-06-16T11:28:29.857895
+source: https://example228.com
+author: Grace Lee
+tags:
+  - personal
+  - shopping
+---
+
+# Note 16 in goals - long_term
+
+This is some sample content for the note.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

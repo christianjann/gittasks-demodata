@@ -1,0 +1,15 @@
+---
+title: Note 6 in shopping
+created: 2024-12-30T11:28:29.959951
+updated: 2025-04-03T11:28:29.959951
+source: https://example884.com
+author: Frank Miller
+---
+
+# Note 6 in shopping
+
+This is some sample content for the note.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

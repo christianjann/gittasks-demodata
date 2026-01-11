@@ -1,0 +1,16 @@
+---
+title: Note 2 in personal
+created: 2024-12-12T11:28:29.560462
+updated: 2025-07-18T11:28:29.560462
+author: Charlie Brown
+tags:
+  - social
+---
+
+# Note 2 in personal
+
+This is some sample content for the note.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

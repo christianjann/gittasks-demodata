@@ -1,0 +1,20 @@
+---
+title: Note 47 in archive - old_notes - 2020
+created: 2024-11-12T11:28:29.728670
+updated: 2025-04-26T11:28:29.728670
+source: https://example930.com
+completed: True
+due: 2025-10-19T11:28:29.728670
+tags:
+  - note
+  - design
+  - research
+---
+
+# Note 47 in archive - old_notes - 2020
+
+This is some sample content for the note.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
