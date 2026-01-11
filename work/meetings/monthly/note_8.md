@@ -5,7 +5,7 @@ updated: 2025-07-16T11:28:29.621893
 latitude: 48.0965
 longitude: 132.9164
 altitude: 761
-completed: no
+completed?: no
 tags:
   - recipe
 ---

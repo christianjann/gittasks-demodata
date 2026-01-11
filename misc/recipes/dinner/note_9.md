@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -28.0819
 longitude: 42.6687
 altitude: 3772
-completed: no
+completed?: no
 due: 2026-11-24T11:28:29.783523
 tags:
   - recipe

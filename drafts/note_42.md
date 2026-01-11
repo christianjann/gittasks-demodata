@@ -3,7 +3,7 @@ title: Note 42 in drafts
 created: 2023-08-18T11:28:29.745337
 updated: 2024-05-18T11:28:29.745337
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - note
 ---

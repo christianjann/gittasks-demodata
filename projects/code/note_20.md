@@ -4,7 +4,7 @@ created: 2023-04-04T11:28:29.675187
 updated: 2023-05-09T11:28:29.675187
 source: https://example80.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - urgent
   - goal

@@ -6,7 +6,7 @@ source: https://example326.com
 latitude: -78.3992
 longitude: 147.7521
 altitude: 2143
-completed: no
+completed?: no
 tags:
   - personal
   - travel

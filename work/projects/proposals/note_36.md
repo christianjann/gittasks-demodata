@@ -3,7 +3,7 @@ title: Note 36 in work - projects - proposals
 created: 2023-05-27T11:28:29.657720
 updated: 2023-08-27T11:28:29.657720
 source: https://example773.com
-completed: no
+completed?: no
 tags:
   - note
   - social

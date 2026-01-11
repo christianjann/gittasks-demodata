@@ -2,7 +2,7 @@
 title: Note 49 in personal - thoughts - inspirations
 created: 2023-04-11T11:28:29.589748
 updated: 2023-10-17T11:28:29.589748
-completed: no
+completed?: no
 due: 2024-10-14T11:28:29.589748
 tags:
   - reference

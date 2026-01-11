@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 15.7185
 longitude: 38.4395
 altitude: 948
-completed: no
+completed?: no
 tags:
   - draft
   - goal

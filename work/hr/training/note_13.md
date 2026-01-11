@@ -6,7 +6,7 @@ source: https://example533.com
 latitude: -9.5408
 longitude: -123.8484
 altitude: 4040
-completed: no
+completed?: no
 tags:
   - social
 ---

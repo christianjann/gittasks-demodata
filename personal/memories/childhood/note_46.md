@@ -3,7 +3,7 @@ title: Note 46 in personal - memories - childhood
 created: 2024-01-21T11:28:29.597495
 updated: 2024-11-16T11:28:29.597495
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2024-11-21T11:28:29.597495
 tags:
   - design

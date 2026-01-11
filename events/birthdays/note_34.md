@@ -2,7 +2,7 @@
 title: Note 34 in events - birthdays
 created: 2024-02-19T11:28:29.957329
 updated: 2024-08-23T11:28:29.957329
-completed: no
+completed?: no
 tags:
   - hobby
   - thought

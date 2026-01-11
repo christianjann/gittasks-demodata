@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 11.3792
 longitude: 160.5759
 altitude: 1745
-completed: no
+completed?: no
 tags:
   - template
   - goal

@@ -6,7 +6,7 @@ source: https://example460.com
 latitude: 51.1363
 longitude: -20.798
 altitude: 818
-completed: no
+completed?: no
 tags:
   - meeting
 ---

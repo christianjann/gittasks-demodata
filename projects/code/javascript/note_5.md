@@ -3,7 +3,7 @@ title: Note 5 in projects - code - javascript
 created: 2024-01-25T11:28:29.681851
 updated: 2024-10-20T11:28:29.681851
 source: https://example374.com
-completed: yes
+completed?: yes
 tags:
   - note
 ---

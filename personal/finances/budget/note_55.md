@@ -3,7 +3,7 @@ title: Note 55 in personal - finances - budget
 created: 2024-01-29T11:28:29.608696
 updated: 2024-06-27T11:28:29.608696
 source: https://example64.com
-completed: no
+completed?: no
 tags:
   - archive
   - journal

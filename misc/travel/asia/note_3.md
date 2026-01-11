@@ -3,7 +3,7 @@ title: Note 3 in misc - travel - asia
 created: 2025-11-22T11:28:29.793612
 updated: 2026-02-07T11:28:29.793612
 source: https://example507.com
-completed: yes
+completed?: yes
 due: 2026-12-31T11:28:29.793612
 tags:
   - archive

@@ -6,7 +6,7 @@ source: https://example421.com
 latitude: -52.2507
 longitude: 57.8633
 altitude: 1826
-completed: no
+completed?: no
 tags:
   - hobby
   - goal

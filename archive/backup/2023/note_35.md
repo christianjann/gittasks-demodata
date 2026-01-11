@@ -3,7 +3,7 @@ title: Note 35 in archive - backup - 2023
 created: 2025-06-05T11:28:29.740832
 updated: 2025-10-13T11:28:29.740832
 source: https://example266.com
-completed: no
+completed?: no
 ---
 
 # Note 35 in archive - backup - 2023

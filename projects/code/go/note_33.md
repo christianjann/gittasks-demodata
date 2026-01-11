@@ -3,7 +3,7 @@ title: Note 33 in projects - code - go
 created: 2024-06-08T11:28:29.688808
 updated: 2024-11-16T11:28:29.688808
 source: https://example328.com
-completed: yes
+completed?: yes
 due: 2025-07-04T11:28:29.688808
 tags:
   - design

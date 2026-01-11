@@ -4,7 +4,7 @@ created: 2025-06-12T11:28:29.594819
 updated: 2026-06-04T11:28:29.594819
 source: https://example617.com
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2027-01-19T11:28:29.594819
 tags:
   - design

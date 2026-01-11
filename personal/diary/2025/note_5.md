@@ -4,7 +4,7 @@ created: 2025-01-10T11:28:29.576392
 updated: 2025-03-17T11:28:29.576392
 source: https://example514.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 ---
 
 # Note 5 in personal - diary - 2025

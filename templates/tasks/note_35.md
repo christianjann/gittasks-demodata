@@ -3,7 +3,7 @@ title: Note 35 in templates - tasks
 created: 2023-01-27T11:28:29.906801
 updated: 2023-08-07T11:28:29.906801
 source: https://example93.com
-completed: no
+completed?: no
 due: 2024-01-28T11:28:29.906801
 tags:
   - design

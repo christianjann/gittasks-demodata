@@ -5,7 +5,7 @@ updated: 2023-11-09T11:28:29.679190
 latitude: 42.9389
 longitude: 70.2442
 altitude: 519
-completed: yes
+completed?: yes
 ---
 
 # Note 17 in projects - code - python

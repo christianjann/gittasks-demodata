@@ -4,7 +4,7 @@ created: 2023-03-23T11:28:29.676099
 updated: 2024-01-13T11:28:29.676099
 source: https://example451.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - work
   - diary

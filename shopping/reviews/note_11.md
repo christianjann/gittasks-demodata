@@ -6,7 +6,7 @@ source: https://example472.com
 latitude: 25.1493
 longitude: -120.6327
 altitude: 890
-completed: no
+completed?: no
 ---
 
 # Note 11 in shopping - reviews

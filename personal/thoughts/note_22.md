@@ -3,7 +3,7 @@ title: Note 22 in personal - thoughts
 created: 2023-08-01T11:28:29.580869
 updated: 2024-07-27T11:28:29.580869
 source: https://example611.com
-completed: yes
+completed?: yes
 due: 2025-01-22T11:28:29.580869
 tags:
   - idea

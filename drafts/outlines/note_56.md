@@ -3,7 +3,7 @@ title: Note 56 in drafts - outlines
 created: 2023-11-23T11:28:29.763073
 updated: 2024-10-31T11:28:29.763073
 source: https://example194.com
-completed: yes
+completed?: yes
 ---
 
 # Note 56 in drafts - outlines

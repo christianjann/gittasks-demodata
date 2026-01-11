@@ -2,7 +2,7 @@
 title: Note 1 in work - meetings - monthly
 created: 2025-10-28T11:28:29.621514
 updated: 2026-03-14T11:28:29.621514
-completed: yes
+completed?: yes
 due: 2027-02-27T11:28:29.621514
 tags:
   - health

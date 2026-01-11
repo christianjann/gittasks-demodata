@@ -6,7 +6,7 @@ source: https://example248.com
 latitude: -38.2458
 longitude: 100.1981
 altitude: 408
-completed: yes
+completed?: yes
 due: 2025-03-10T11:28:29.766282
 tags:
   - shopping

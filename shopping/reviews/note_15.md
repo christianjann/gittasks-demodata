@@ -4,7 +4,7 @@ created: 2023-10-30T11:28:29.966138
 updated: 2023-12-30T11:28:29.966138
 source: https://example9.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - archive
   - blog

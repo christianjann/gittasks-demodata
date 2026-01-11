@@ -3,7 +3,7 @@ title: Note 36 in personal
 created: 2024-06-24T11:28:29.563533
 updated: 2025-06-16T11:28:29.563533
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - meeting
   - blog

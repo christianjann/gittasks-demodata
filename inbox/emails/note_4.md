@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: 48.6238
 longitude: -69.3636
 altitude: 2974
-completed: yes
+completed?: yes
 tags:
   - meeting
   - goal

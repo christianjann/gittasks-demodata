@@ -5,7 +5,7 @@ updated: 2023-10-10T11:28:29.907582
 latitude: 62.1717
 longitude: -159.7687
 altitude: 2270
-completed: yes
+completed?: yes
 tags:
   - urgent
   - travel

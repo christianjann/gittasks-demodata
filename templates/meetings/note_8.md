@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 7.076
 longitude: 157.4173
 altitude: 514
-completed: yes
+completed?: yes
 tags:
   - meeting
   - draft

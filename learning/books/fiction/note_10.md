@@ -3,7 +3,7 @@ title: Note 10 in learning - books - fiction
 created: 2025-12-16T11:28:29.821703
 updated: 2026-03-06T11:28:29.821703
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - journal
   - note

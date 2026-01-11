@@ -3,7 +3,7 @@ title: Note 4 in references - articles
 created: 2025-08-15T11:28:29.885282
 updated: 2026-01-08T11:28:29.885282
 source: https://example814.com
-completed: no
+completed?: no
 tags:
   - goal
   - research

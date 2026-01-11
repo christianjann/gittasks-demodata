@@ -3,7 +3,7 @@ title: Note 12 in misc - health
 created: 2025-04-24T11:28:29.797040
 updated: 2025-08-29T11:28:29.797040
 source: https://example55.com
-completed: yes
+completed?: yes
 due: 2025-12-30T11:28:29.797040
 tags:
   - misc

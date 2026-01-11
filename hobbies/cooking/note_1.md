@@ -3,7 +3,7 @@ title: Note 1 in hobbies - cooking
 created: 2025-12-03T11:28:29.981188
 updated: 2026-10-11T11:28:29.981188
 source: https://example169.com
-completed: no
+completed?: no
 ---
 
 # Note 1 in hobbies - cooking

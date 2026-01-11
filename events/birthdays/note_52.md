@@ -3,7 +3,7 @@ title: Note 52 in events - birthdays
 created: 2023-06-18T11:28:29.958402
 updated: 2023-08-14T11:28:29.958402
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2024-05-10T11:28:29.958402
 ---
 

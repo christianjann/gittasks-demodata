@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 16.8116
 longitude: -100.1886
 altitude: 1475
-completed: no
+completed?: no
 due: 2026-10-06T11:28:29.869741
 tags:
   - design

@@ -3,7 +3,7 @@ title: Note 54 in blog - drafts
 created: 2023-08-12T11:28:29.923598
 updated: 2024-07-31T11:28:29.923598
 source: https://example697.com
-completed: yes
+completed?: yes
 due: 2024-12-20T11:28:29.923598
 tags:
   - learning

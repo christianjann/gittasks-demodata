@@ -2,7 +2,7 @@
 title: Note 59 in work - projects - completed
 created: 2025-05-14T11:28:29.654231
 updated: 2025-10-13T11:28:29.654231
-completed: no
+completed?: no
 tags:
   - template
   - code

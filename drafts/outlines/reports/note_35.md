@@ -6,7 +6,7 @@ source: https://example945.com
 latitude: 24.4664
 longitude: 123.4787
 altitude: 289
-completed: yes
+completed?: yes
 ---
 
 # Note 35 in drafts - outlines - reports

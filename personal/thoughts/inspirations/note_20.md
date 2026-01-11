@@ -4,7 +4,7 @@ created: 2024-06-02T11:28:29.587796
 updated: 2025-04-05T11:28:29.587796
 source: https://example284.com
 author: Jack Taylor
-completed: no
+completed?: no
 ---
 
 # Note 20 in personal - thoughts - inspirations

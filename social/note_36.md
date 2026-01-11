@@ -4,7 +4,7 @@ created: 2023-03-08T11:28:29.934587
 updated: 2023-10-17T11:28:29.934587
 source: https://example436.com
 author: Eve Adams
-completed: no
+completed?: no
 due: 2024-01-15T11:28:29.934587
 tags:
   - shopping

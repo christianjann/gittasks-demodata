@@ -5,7 +5,7 @@ updated: 2026-02-18T11:28:29.830664
 latitude: 54.1295
 longitude: 88.0137
 altitude: 211
-completed: yes
+completed?: yes
 tags:
   - goal
   - journal

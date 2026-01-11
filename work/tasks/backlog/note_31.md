@@ -3,7 +3,7 @@ title: Note 31 in work - tasks - backlog
 created: 2023-09-12T11:28:29.634944
 updated: 2024-07-07T11:28:29.634944
 source: https://example269.com
-completed: yes
+completed?: yes
 tags:
   - learning
   - template

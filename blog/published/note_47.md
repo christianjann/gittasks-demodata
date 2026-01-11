@@ -6,7 +6,7 @@ source: https://example712.com
 latitude: -38.8318
 longitude: -159.8927
 altitude: 4145
-completed: no
+completed?: no
 due: 2025-10-23T11:28:29.927325
 tags:
   - research

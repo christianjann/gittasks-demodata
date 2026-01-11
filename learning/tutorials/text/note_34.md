@@ -6,7 +6,7 @@ source: https://example913.com
 latitude: -70.3432
 longitude: 4.0068
 altitude: 3066
-completed: no
+completed?: no
 tags:
   - task
 ---

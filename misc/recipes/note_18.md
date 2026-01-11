@@ -3,7 +3,7 @@ title: Note 18 in misc - recipes
 created: 2024-06-06T11:28:29.777032
 updated: 2024-08-16T11:28:29.777032
 source: https://example62.com
-completed: yes
+completed?: yes
 ---
 
 # Note 18 in misc - recipes

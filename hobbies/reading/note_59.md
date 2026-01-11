@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 70.4117
 longitude: 53.9387
 altitude: 780
-completed: no
+completed?: no
 tags:
   - goal
 ---

@@ -6,7 +6,7 @@ source: https://example448.com
 latitude: -0.5922
 longitude: 121.6291
 altitude: 2821
-completed: yes
+completed?: yes
 due: 2024-02-20T11:28:29.746292
 tags:
   - goal

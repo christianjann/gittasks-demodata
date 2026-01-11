@@ -2,7 +2,7 @@
 title: Note 13 in drafts - outlines
 created: 2023-01-16T11:28:29.760337
 updated: 2023-08-17T11:28:29.760337
-completed: yes
+completed?: yes
 tags:
   - task
   - journal

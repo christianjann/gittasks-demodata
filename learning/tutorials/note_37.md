@@ -4,7 +4,7 @@ created: 2024-08-06T11:28:29.830397
 updated: 2025-02-01T11:28:29.830397
 source: https://example380.com
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - diary
   - idea

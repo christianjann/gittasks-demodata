@@ -4,7 +4,7 @@ created: 2025-11-25T11:28:29.841572
 updated: 2026-07-19T11:28:29.841572
 source: https://example385.com
 author: Eve Adams
-completed: yes
+completed?: yes
 tags:
   - note
   - hobby

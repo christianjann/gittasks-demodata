@@ -4,7 +4,7 @@ created: 2023-04-27T11:28:29.937930
 updated: 2023-07-06T11:28:29.937930
 source: https://example528.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2023-11-29T11:28:29.937930
 tags:
   - finance

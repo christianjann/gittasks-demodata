@@ -2,7 +2,7 @@
 title: Note 32 in personal - diary - 2024
 created: 2024-07-20T11:28:29.575006
 updated: 2024-11-27T11:28:29.575006
-completed: no
+completed?: no
 due: 2025-02-16T11:28:29.575006
 tags:
   - recipe

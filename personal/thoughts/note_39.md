@@ -6,7 +6,7 @@ source: https://example573.com
 latitude: 87.1596
 longitude: -48.9755
 altitude: 3175
-completed: no
+completed?: no
 tags:
   - finance
   - health

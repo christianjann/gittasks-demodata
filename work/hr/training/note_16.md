@@ -5,7 +5,7 @@ updated: 2025-10-25T11:28:29.667895
 latitude: 59.2518
 longitude: 104.1768
 altitude: 97
-completed: no
+completed?: no
 tags:
   - design
   - research

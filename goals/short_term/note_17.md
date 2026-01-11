@@ -5,7 +5,7 @@ updated: 2025-07-11T11:28:29.853982
 latitude: -29.025
 longitude: 30.2892
 altitude: 4926
-completed: yes
+completed?: yes
 tags:
   - meeting
   - urgent

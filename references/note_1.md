@@ -3,7 +3,7 @@ title: Note 1 in references
 created: 2025-10-22T11:28:29.880613
 updated: 2026-04-14T11:28:29.880613
 source: https://example516.com
-completed: yes
+completed?: yes
 due: 2027-03-15T11:28:29.880613
 ---
 

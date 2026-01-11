@@ -2,7 +2,7 @@
 title: Note 51 in misc
 created: 2025-06-16T11:28:29.775492
 updated: 2025-11-25T11:28:29.775492
-completed: yes
+completed?: yes
 tags:
   - personal
   - archive

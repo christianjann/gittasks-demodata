@@ -3,7 +3,7 @@ title: Note 17 in blog - ideas
 created: 2024-02-10T11:28:29.929181
 updated: 2024-12-07T11:28:29.929181
 source: https://example687.com
-completed: yes
+completed?: yes
 due: 2025-10-06T11:28:29.929181
 tags:
   - template

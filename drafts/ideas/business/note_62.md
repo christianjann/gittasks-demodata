@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: -22.2172
 longitude: -117.3019
 altitude: 4778
-completed: yes
+completed?: yes
 due: 2024-09-09T11:28:29.757238
 tags:
   - diary

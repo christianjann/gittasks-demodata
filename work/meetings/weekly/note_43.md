@@ -6,7 +6,7 @@ source: https://example232.com
 latitude: -89.642
 longitude: 17.3314
 altitude: 4088
-completed: yes
+completed?: yes
 due: 2025-10-08T11:28:29.620845
 tags:
   - diary

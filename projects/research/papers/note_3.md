@@ -3,7 +3,7 @@ title: Note 3 in projects - research - papers
 created: 2023-03-03T11:28:29.705008
 updated: 2024-02-10T11:28:29.705008
 source: https://example196.com
-completed: yes
+completed?: yes
 due: 2024-11-04T11:28:29.705008
 tags:
   - work

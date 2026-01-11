@@ -4,7 +4,7 @@ created: 2024-06-09T11:28:29.650427
 updated: 2024-11-30T11:28:29.650427
 source: https://example875.com
 author: Alice Johnson
-completed: no
+completed?: no
 due: 2025-09-02T11:28:29.650427
 ---
 

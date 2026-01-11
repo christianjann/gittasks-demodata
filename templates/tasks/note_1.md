@@ -3,7 +3,7 @@ title: Note 1 in templates - tasks
 created: 2025-02-02T11:28:29.904554
 updated: 2025-06-16T11:28:29.904554
 source: https://example720.com
-completed: no
+completed?: no
 due: 2025-07-11T11:28:29.904554
 tags:
   - urgent

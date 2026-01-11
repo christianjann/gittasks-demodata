@@ -3,7 +3,7 @@ title: Note 48 in blog - ideas
 created: 2024-12-11T11:28:29.931336
 updated: 2024-12-31T11:28:29.931336
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2025-11-30T11:28:29.931336
 tags:
   - design

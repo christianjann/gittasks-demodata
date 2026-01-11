@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -57.4717
 longitude: -46.6964
 altitude: 3698
-completed: no
+completed?: no
 tags:
   - shopping
   - finance

@@ -4,7 +4,7 @@ created: 2025-06-12T11:28:29.748679
 updated: 2025-06-29T11:28:29.748679
 source: https://example734.com
 author: Eve Adams
-completed: no
+completed?: no
 ---
 
 # Note 33 in drafts - ideas

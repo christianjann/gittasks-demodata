@@ -3,7 +3,7 @@ title: Note 36 in events - past
 created: 2023-05-15T11:28:29.954310
 updated: 2023-08-09T11:28:29.954310
 source: https://example902.com
-completed: yes
+completed?: yes
 due: 2024-05-06T11:28:29.954310
 tags:
   - urgent

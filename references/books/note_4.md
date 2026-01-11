@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 19.2649
 longitude: 96.7945
 altitude: 2208
-completed: yes
+completed?: yes
 tags:
   - shopping
   - health

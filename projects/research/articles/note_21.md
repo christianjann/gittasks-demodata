@@ -3,7 +3,7 @@ title: Note 21 in projects - research - articles
 created: 2023-12-16T11:28:29.708859
 updated: 2024-08-06T11:28:29.708859
 author: Charlie Brown
-completed: no
+completed?: no
 due: 2025-04-18T11:28:29.708859
 tags:
   - archive

@@ -6,7 +6,7 @@ source: https://example346.com
 latitude: -84.2209
 longitude: 168.3858
 altitude: 534
-completed: no
+completed?: no
 tags:
   - diary
   - personal

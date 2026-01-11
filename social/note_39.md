@@ -2,7 +2,7 @@
 title: Note 39 in social
 created: 2023-10-01T11:28:29.934767
 updated: 2023-10-09T11:28:29.934767
-completed: no
+completed?: no
 tags:
   - event
   - research

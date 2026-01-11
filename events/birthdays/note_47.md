@@ -4,7 +4,7 @@ created: 2023-05-14T11:28:29.958115
 updated: 2023-05-19T11:28:29.958115
 source: https://example45.com
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2023-09-06T11:28:29.958115
 tags:
   - shopping

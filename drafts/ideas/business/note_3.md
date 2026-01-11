@@ -6,7 +6,7 @@ source: https://example88.com
 latitude: 13.7555
 longitude: -63.4304
 altitude: 122
-completed: yes
+completed?: yes
 tags:
   - thought
   - task

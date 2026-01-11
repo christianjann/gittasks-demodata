@@ -4,7 +4,7 @@ created: 2023-10-15T11:28:29.814950
 updated: 2023-11-20T11:28:29.814950
 source: https://example159.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2024-06-18T11:28:29.814950
 tags:
   - personal

@@ -2,7 +2,7 @@
 title: Note 38 in misc - health
 created: 2024-05-01T11:28:29.798593
 updated: 2025-01-13T11:28:29.798593
-completed: yes
+completed?: yes
 due: 2025-05-01T11:28:29.798593
 tags:
   - hobby

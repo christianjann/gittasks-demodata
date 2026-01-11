@@ -4,7 +4,7 @@ created: 2024-01-10T11:28:29.656248
 updated: 2024-07-23T11:28:29.656248
 source: https://example782.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2025-01-03T11:28:29.656248
 tags:
   - health

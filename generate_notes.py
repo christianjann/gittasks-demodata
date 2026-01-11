@@ -170,7 +170,7 @@ for folder in folders:
             frontmatter['altitude'] = random.randint(0, 5000)
         
         if random.random() > 0.4:  # 60% chance for tasks
-            frontmatter['completed'] = random.choice(['yes', 'no'])
+            frontmatter['completed?'] = random.choice(['yes', 'no'])
             if random.random() > 0.5:
                 due = updated + datetime.timedelta(days=random.randint(1, 365))
                 frontmatter['due'] = due.isoformat()

@@ -4,7 +4,7 @@ created: 2023-01-27T11:28:29.950399
 updated: 2023-08-07T11:28:29.950399
 source: https://example39.com
 author: Diana Prince
-completed: no
+completed?: no
 ---
 
 # Note 22 in events - upcoming

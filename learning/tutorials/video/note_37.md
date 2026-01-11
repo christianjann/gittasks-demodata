@@ -2,7 +2,7 @@
 title: Note 37 in learning - tutorials - video
 created: 2025-12-09T11:28:29.833571
 updated: 2026-10-03T11:28:29.833571
-completed: yes
+completed?: yes
 tags:
   - reference
   - template

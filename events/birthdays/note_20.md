@@ -4,7 +4,7 @@ created: 2024-06-28T11:28:29.956549
 updated: 2025-05-09T11:28:29.956549
 source: https://example801.com
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - research
 ---

@@ -4,7 +4,7 @@ created: 2024-06-19T11:28:29.804744
 updated: 2024-11-18T11:28:29.804744
 source: https://example962.com
 author: Frank Miller
-completed: yes
+completed?: yes
 tags:
   - social
   - archive

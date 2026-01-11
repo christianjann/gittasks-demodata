@@ -2,7 +2,7 @@
 title: Note 9 in templates - tasks
 created: 2025-01-04T11:28:29.905003
 updated: 2025-10-04T11:28:29.905003
-completed: yes
+completed?: yes
 due: 2026-04-02T11:28:29.905003
 ---
 

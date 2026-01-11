@@ -5,7 +5,7 @@ updated: 2025-10-15T11:28:29.859887
 latitude: -86.7253
 longitude: 113.3805
 altitude: 3421
-completed: yes
+completed?: yes
 ---
 
 # Note 50 in goals - long_term

@@ -4,7 +4,7 @@ created: 2024-04-21T11:28:29.903214
 updated: 2024-08-22T11:28:29.903214
 source: https://example46.com
 author: Frank Miller
-completed: yes
+completed?: yes
 ---
 
 # Note 21 in templates - notes

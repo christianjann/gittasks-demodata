@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -0.266
 longitude: 8.9386
 altitude: 4936
-completed: no
+completed?: no
 tags:
   - travel
   - research

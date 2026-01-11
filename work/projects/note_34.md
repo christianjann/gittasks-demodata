@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: 57.8291
 longitude: 137.5736
 altitude: 738
-completed: yes
+completed?: yes
 tags:
   - research
   - urgent

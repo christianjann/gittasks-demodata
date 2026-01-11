@@ -3,7 +3,7 @@ title: Note 32 in templates
 created: 2024-06-12T11:28:29.900147
 updated: 2024-12-23T11:28:29.900147
 source: https://example168.com
-completed: yes
+completed?: yes
 due: 2025-05-21T11:28:29.900147
 tags:
   - reference

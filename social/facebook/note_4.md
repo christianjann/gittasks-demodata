@@ -3,7 +3,7 @@ title: Note 4 in social - facebook
 created: 2024-02-22T11:28:29.944246
 updated: 2025-01-22T11:28:29.944246
 source: https://example931.com
-completed: no
+completed?: no
 tags:
   - misc
   - event

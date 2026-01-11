@@ -2,7 +2,7 @@
 title: Note 58 in projects - code - go
 created: 2024-09-28T11:28:29.690232
 updated: 2025-06-05T11:28:29.690232
-completed: no
+completed?: no
 tags:
   - personal
 ---

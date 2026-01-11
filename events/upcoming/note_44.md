@@ -6,7 +6,7 @@ source: https://example110.com
 latitude: 86.0561
 longitude: 11.2465
 altitude: 3488
-completed: yes
+completed?: yes
 due: 2027-01-31T11:28:29.951734
 ---
 

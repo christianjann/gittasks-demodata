@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: 9.8417
 longitude: -120.0842
 altitude: 3560
-completed: no
+completed?: no
 tags:
   - learning
   - finance

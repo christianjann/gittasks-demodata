@@ -5,7 +5,7 @@ updated: 2025-12-12T11:28:29.977961
 latitude: -3.9064
 longitude: 45.5767
 altitude: 65
-completed: yes
+completed?: yes
 ---
 
 # Note 22 in hobbies - reading

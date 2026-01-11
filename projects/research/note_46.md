@@ -3,7 +3,7 @@ title: Note 46 in projects - research
 created: 2024-05-13T11:28:29.704157
 updated: 2024-08-31T11:28:29.704157
 author: Frank Miller
-completed: no
+completed?: no
 due: 2025-06-04T11:28:29.704157
 tags:
   - meeting

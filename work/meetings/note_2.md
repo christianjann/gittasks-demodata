@@ -2,7 +2,7 @@
 title: Note 2 in work - meetings
 created: 2023-12-01T11:28:29.615888
 updated: 2024-10-27T11:28:29.615888
-completed: no
+completed?: no
 due: 2025-10-23T11:28:29.615888
 ---
 

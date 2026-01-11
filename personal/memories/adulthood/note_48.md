@@ -3,7 +3,7 @@ title: Note 48 in personal - memories - adulthood
 created: 2023-06-21T11:28:29.600988
 updated: 2024-01-13T11:28:29.600988
 author: Frank Miller
-completed: no
+completed?: no
 due: 2024-04-20T11:28:29.600988
 tags:
   - shopping

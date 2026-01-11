@@ -6,7 +6,7 @@ source: https://example12.com
 latitude: 27.0163
 longitude: -123.6253
 altitude: 4524
-completed: yes
+completed?: yes
 tags:
   - blog
   - journal

@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: -19.1984
 longitude: -54.1893
 altitude: 4308
-completed: yes
+completed?: yes
 due: 2026-11-03T11:28:29.964263
 tags:
   - recipe

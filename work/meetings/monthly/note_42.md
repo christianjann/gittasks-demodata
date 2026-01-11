@@ -3,7 +3,7 @@ title: Note 42 in work - meetings - monthly
 created: 2025-11-20T11:28:29.623863
 updated: 2026-03-21T11:28:29.623863
 author: Alice Johnson
-completed: no
+completed?: no
 due: 2026-09-29T11:28:29.623863
 ---
 

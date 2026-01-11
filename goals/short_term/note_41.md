@@ -3,7 +3,7 @@ title: Note 41 in goals - short_term
 created: 2025-11-17T11:28:29.855332
 updated: 2026-07-06T11:28:29.855332
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - hobby
   - note

@@ -6,7 +6,7 @@ source: https://example289.com
 latitude: 21.006
 longitude: 89.5105
 altitude: 4937
-completed: yes
+completed?: yes
 tags:
   - research
   - journal

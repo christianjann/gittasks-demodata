@@ -2,7 +2,7 @@
 title: Note 3 in projects - code - javascript
 created: 2025-01-08T11:28:29.681747
 updated: 2025-03-10T11:28:29.681747
-completed: yes
+completed?: yes
 due: 2025-08-17T11:28:29.681747
 tags:
   - goal

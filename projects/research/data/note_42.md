@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: 58.4695
 longitude: 119.0941
 altitude: 4642
-completed: no
+completed?: no
 ---
 
 # Note 42 in projects - research - data

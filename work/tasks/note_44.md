@@ -4,7 +4,7 @@ created: 2025-11-18T11:28:29.629684
 updated: 2026-03-29T11:28:29.629684
 source: https://example317.com
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2026-08-24T11:28:29.629684
 tags:
   - template

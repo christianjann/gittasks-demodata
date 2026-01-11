@@ -3,7 +3,7 @@ title: Note 13 in drafts - ideas
 created: 2025-11-07T11:28:29.747539
 updated: 2026-10-06T11:28:29.747539
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - urgent
   - draft

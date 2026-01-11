@@ -3,7 +3,7 @@ title: Note 14 in goals - long_term
 created: 2023-07-10T11:28:29.857788
 updated: 2024-02-17T11:28:29.857788
 source: https://example858.com
-completed: no
+completed?: no
 tags:
   - draft
 ---

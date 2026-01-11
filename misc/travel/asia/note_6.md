@@ -2,7 +2,7 @@
 title: Note 6 in misc - travel - asia
 created: 2023-12-02T11:28:29.793838
 updated: 2024-03-19T11:28:29.793838
-completed: no
+completed?: no
 tags:
   - idea
   - social

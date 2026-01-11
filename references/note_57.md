@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -12.7074
 longitude: -62.7901
 altitude: 951
-completed: no
+completed?: no
 due: 2024-03-31T11:28:29.884406
 tags:
   - travel

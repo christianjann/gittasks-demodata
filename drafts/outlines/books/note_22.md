@@ -6,7 +6,7 @@ source: https://example101.com
 latitude: -25.616
 longitude: 47.9472
 altitude: 719
-completed: yes
+completed?: yes
 tags:
   - journal
   - code

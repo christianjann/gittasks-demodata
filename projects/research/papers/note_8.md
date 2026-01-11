@@ -2,7 +2,7 @@
 title: Note 8 in projects - research - papers
 created: 2023-04-20T11:28:29.705334
 updated: 2024-03-28T11:28:29.705334
-completed: yes
+completed?: yes
 due: 2024-06-02T11:28:29.705334
 tags:
   - thought

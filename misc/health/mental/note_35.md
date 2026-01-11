@@ -3,7 +3,7 @@ title: Note 35 in misc - health - mental
 created: 2024-09-15T11:28:29.805871
 updated: 2025-09-06T11:28:29.805871
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2025-10-25T11:28:29.805871
 tags:
   - design

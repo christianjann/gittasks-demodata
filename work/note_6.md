@@ -4,7 +4,7 @@ created: 2025-05-30T11:28:29.613133
 updated: 2026-01-19T11:28:29.613133
 source: https://example891.com
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - research
   - personal

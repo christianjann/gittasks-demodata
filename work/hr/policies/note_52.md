@@ -4,7 +4,7 @@ created: 2023-06-02T11:28:29.666939
 updated: 2023-08-07T11:28:29.666939
 source: https://example529.com
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - template
   - thought

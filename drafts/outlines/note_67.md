@@ -3,7 +3,7 @@ title: Note 67 in drafts - outlines
 created: 2023-12-13T11:28:29.763788
 updated: 2024-05-14T11:28:29.763788
 author: Henry Wilson
-completed: no
+completed?: no
 tags:
   - task
   - thought

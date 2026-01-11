@@ -4,7 +4,7 @@ created: 2024-11-09T11:28:29.848384
 updated: 2025-08-19T11:28:29.848384
 source: https://example313.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - research
   - diary

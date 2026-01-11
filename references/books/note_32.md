@@ -3,7 +3,7 @@ title: Note 32 in references - books
 created: 2025-06-21T11:28:29.891092
 updated: 2026-05-11T11:28:29.891092
 author: Eve Adams
-completed: no
+completed?: no
 due: 2026-10-10T11:28:29.891092
 tags:
   - goal

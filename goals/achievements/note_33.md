@@ -3,7 +3,7 @@ title: Note 33 in goals - achievements
 created: 2024-08-11T11:28:29.863061
 updated: 2024-11-17T11:28:29.863061
 source: https://example149.com
-completed: yes
+completed?: yes
 ---
 
 # Note 33 in goals - achievements

@@ -6,7 +6,7 @@ source: https://example925.com
 latitude: 19.4183
 longitude: -148.8573
 altitude: 2600
-completed: yes
+completed?: yes
 due: 2024-04-28T11:28:29.849005
 tags:
   - archive

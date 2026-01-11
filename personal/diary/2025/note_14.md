@@ -6,7 +6,7 @@ source: https://example990.com
 latitude: -65.6826
 longitude: -9.6928
 altitude: 4034
-completed: no
+completed?: no
 due: 2024-09-13T11:28:29.576979
 ---
 

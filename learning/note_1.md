@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: 7.2738
 longitude: -179.4399
 altitude: 2743
-completed: yes
+completed?: yes
 tags:
   - hobby
 ---

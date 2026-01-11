@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 60.5711
 longitude: -11.7001
 altitude: 3122
-completed: no
+completed?: no
 ---
 
 # Note 2 in learning - books

@@ -3,7 +3,7 @@ title: Note 1 in journal - monthly
 created: 2023-07-31T11:28:29.874460
 updated: 2023-10-09T11:28:29.874460
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - travel
 ---

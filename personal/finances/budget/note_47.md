@@ -3,7 +3,7 @@ title: Note 47 in personal - finances - budget
 created: 2025-08-02T11:28:29.608248
 updated: 2025-11-22T11:28:29.608248
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2026-06-28T11:28:29.608248
 tags:
   - goal

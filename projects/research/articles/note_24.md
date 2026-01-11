@@ -4,7 +4,7 @@ created: 2024-02-10T11:28:29.709018
 updated: 2024-12-10T11:28:29.709018
 source: https://example385.com
 author: Frank Miller
-completed: no
+completed?: no
 due: 2025-03-22T11:28:29.709018
 tags:
   - journal

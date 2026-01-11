@@ -3,7 +3,7 @@ title: Note 39 in projects - research - data
 created: 2025-07-14T11:28:29.714149
 updated: 2026-03-04T11:28:29.714149
 source: https://example169.com
-completed: no
+completed?: no
 tags:
   - blog
 ---

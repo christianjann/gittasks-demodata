@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: 26.1688
 longitude: -72.0856
 altitude: 4110
-completed: no
+completed?: no
 tags:
   - journal
   - shopping

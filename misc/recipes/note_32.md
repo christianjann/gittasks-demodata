@@ -3,7 +3,7 @@ title: Note 32 in misc - recipes
 created: 2023-02-26T11:28:29.777915
 updated: 2023-08-07T11:28:29.777915
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - diary
   - travel

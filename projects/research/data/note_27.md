@@ -5,7 +5,7 @@ updated: 2024-05-18T11:28:29.713135
 latitude: 65.1758
 longitude: -49.2247
 altitude: 3800
-completed: yes
+completed?: yes
 tags:
   - draft
   - design

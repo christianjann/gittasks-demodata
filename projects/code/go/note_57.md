@@ -6,7 +6,7 @@ source: https://example410.com
 latitude: -66.6197
 longitude: 138.309
 altitude: 2275
-completed: no
+completed?: no
 tags:
   - meeting
   - goal

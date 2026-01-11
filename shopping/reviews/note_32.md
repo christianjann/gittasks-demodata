@@ -2,7 +2,7 @@
 title: Note 32 in shopping - reviews
 created: 2023-10-27T11:28:29.967042
 updated: 2023-12-30T11:28:29.967042
-completed: no
+completed?: no
 due: 2024-09-05T11:28:29.967042
 tags:
   - shopping

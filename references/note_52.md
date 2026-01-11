@@ -6,7 +6,7 @@ source: https://example485.com
 latitude: -83.1537
 longitude: -70.1261
 altitude: 1640
-completed: no
+completed?: no
 tags:
   - personal
   - learning

@@ -6,7 +6,7 @@ source: https://example329.com
 latitude: 58.9468
 longitude: 16.6129
 altitude: 2500
-completed: yes
+completed?: yes
 due: 2025-10-11T11:28:29.692571
 tags:
   - event

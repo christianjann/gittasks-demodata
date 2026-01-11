@@ -6,7 +6,7 @@ source: https://example513.com
 latitude: 38.6333
 longitude: 60.1194
 altitude: 532
-completed: no
+completed?: no
 tags:
   - note
   - urgent

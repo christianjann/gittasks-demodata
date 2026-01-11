@@ -6,7 +6,7 @@ source: https://example656.com
 latitude: -19.1881
 longitude: -45.4391
 altitude: 4573
-completed: yes
+completed?: yes
 ---
 
 # Note 34 in projects - research

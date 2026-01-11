@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -5.6522
 longitude: -146.8798
 altitude: 2327
-completed: yes
+completed?: yes
 due: 2024-04-23T11:28:29.960725
 tags:
   - diary

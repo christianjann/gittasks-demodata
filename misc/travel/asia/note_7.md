@@ -3,7 +3,7 @@ title: Note 7 in misc - travel - asia
 created: 2023-11-05T11:28:29.793890
 updated: 2024-02-20T11:28:29.793890
 source: https://example480.com
-completed: no
+completed?: no
 tags:
   - shopping
   - travel

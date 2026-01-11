@@ -3,7 +3,7 @@ title: Note 14 in shopping - lists
 created: 2025-09-06T11:28:29.962952
 updated: 2025-12-01T11:28:29.962952
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2026-08-27T11:28:29.962952
 tags:
   - finance

@@ -6,7 +6,7 @@ source: https://example499.com
 latitude: -9.5289
 longitude: -47.9482
 altitude: 3890
-completed: yes
+completed?: yes
 due: 2026-05-31T11:28:29.598946
 tags:
   - blog

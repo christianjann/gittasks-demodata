@@ -5,7 +5,7 @@ updated: 2025-02-12T11:28:29.943338
 latitude: -31.8402
 longitude: -106.9166
 altitude: 4910
-completed: yes
+completed?: yes
 tags:
   - event
   - journal

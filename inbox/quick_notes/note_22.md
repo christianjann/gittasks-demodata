@@ -6,7 +6,7 @@ source: https://example444.com
 latitude: -44.3086
 longitude: 123.1416
 altitude: 1471
-completed: no
+completed?: no
 ---
 
 # Note 22 in inbox - quick_notes

@@ -6,7 +6,7 @@ source: https://example769.com
 latitude: -13.9339
 longitude: 26.1809
 altitude: 3855
-completed: yes
+completed?: yes
 tags:
   - personal
   - diary

@@ -6,7 +6,7 @@ source: https://example323.com
 latitude: 21.5902
 longitude: -101.3172
 altitude: 2247
-completed: no
+completed?: no
 tags:
   - draft
 ---

@@ -3,7 +3,7 @@ title: Note 15 in personal - diary - 2025
 created: 2025-01-30T11:28:29.577046
 updated: 2026-01-13T11:28:29.577046
 source: https://example343.com
-completed: no
+completed?: no
 tags:
   - event
   - finance

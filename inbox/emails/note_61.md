@@ -6,7 +6,7 @@ source: https://example922.com
 latitude: -30.6705
 longitude: -72.3975
 altitude: 3344
-completed: yes
+completed?: yes
 ---
 
 # Note 61 in inbox - emails

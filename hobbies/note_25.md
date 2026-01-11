@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -42.2282
 longitude: -28.5278
 altitude: 1024
-completed: no
+completed?: no
 tags:
   - travel
   - work

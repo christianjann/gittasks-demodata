@@ -3,7 +3,7 @@ title: Note 20 in drafts
 created: 2024-06-13T11:28:29.743871
 updated: 2024-09-17T11:28:29.743871
 source: https://example565.com
-completed: yes
+completed?: yes
 ---
 
 # Note 20 in drafts

@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: 22.5029
 longitude: -65.9862
 altitude: 2866
-completed: yes
+completed?: yes
 ---
 
 # Note 11 in projects - code - javascript

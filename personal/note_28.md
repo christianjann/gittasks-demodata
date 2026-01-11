@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: -25.4433
 longitude: -163.6089
 altitude: 2661
-completed: no
+completed?: no
 tags:
   - meeting
   - diary

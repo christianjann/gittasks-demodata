@@ -3,7 +3,7 @@ title: Note 16 in projects - research
 created: 2023-04-19T11:28:29.702067
 updated: 2024-03-31T11:28:29.702067
 source: https://example89.com
-completed: yes
+completed?: yes
 due: 2024-08-14T11:28:29.702067
 tags:
   - learning

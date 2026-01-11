@@ -2,7 +2,7 @@
 title: Note 59 in work - projects
 created: 2023-06-08T11:28:29.646571
 updated: 2024-05-18T11:28:29.646571
-completed: yes
+completed?: yes
 tags:
   - journal
   - personal

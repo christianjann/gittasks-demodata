@@ -4,7 +4,7 @@ created: 2023-06-13T11:28:29.626763
 updated: 2023-08-05T11:28:29.626763
 source: https://example769.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 due: 2023-09-23T11:28:29.626763
 tags:
   - event

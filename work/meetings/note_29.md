@@ -4,7 +4,7 @@ created: 2025-05-04T11:28:29.617618
 updated: 2026-01-05T11:28:29.617618
 source: https://example8.com
 author: Eve Adams
-completed: no
+completed?: no
 due: 2026-07-14T11:28:29.617618
 tags:
   - thought

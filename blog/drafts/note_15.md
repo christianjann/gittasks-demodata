@@ -4,7 +4,7 @@ created: 2023-11-24T11:28:29.920735
 updated: 2024-07-12T11:28:29.920735
 source: https://example829.com
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2025-06-09T11:28:29.920735
 ---
 

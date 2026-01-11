@@ -4,7 +4,7 @@ created: 2024-12-30T11:28:29.850422
 updated: 2025-02-17T11:28:29.850422
 source: https://example968.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - social
   - idea

@@ -3,7 +3,7 @@ title: Note 52 in hobbies - reading
 created: 2025-08-23T11:28:29.980014
 updated: 2026-08-14T11:28:29.980014
 source: https://example339.com
-completed: no
+completed?: no
 due: 2026-08-19T11:28:29.980014
 tags:
   - journal

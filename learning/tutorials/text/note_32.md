@@ -6,7 +6,7 @@ source: https://example745.com
 latitude: -39.3152
 longitude: -28.1646
 altitude: 2514
-completed: yes
+completed?: yes
 tags:
   - code
 ---

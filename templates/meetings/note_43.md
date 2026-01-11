@@ -5,7 +5,7 @@ updated: 2024-01-30T11:28:29.910560
 latitude: 24.7037
 longitude: 46.9602
 altitude: 95
-completed: no
+completed?: no
 tags:
   - health
   - journal

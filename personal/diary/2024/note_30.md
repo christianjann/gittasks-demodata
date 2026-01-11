@@ -2,7 +2,7 @@
 title: Note 30 in personal - diary - 2024
 created: 2025-06-06T11:28:29.574886
 updated: 2026-03-28T11:28:29.574886
-completed: no
+completed?: no
 due: 2027-03-05T11:28:29.574886
 tags:
   - task

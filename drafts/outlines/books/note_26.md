@@ -3,7 +3,7 @@ title: Note 26 in drafts - outlines - books
 created: 2025-07-02T11:28:29.765421
 updated: 2026-01-04T11:28:29.765421
 source: https://example914.com
-completed: no
+completed?: no
 due: 2026-02-06T11:28:29.765421
 tags:
   - task

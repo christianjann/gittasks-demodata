@@ -4,7 +4,7 @@ created: 2023-01-25T11:28:29.848442
 updated: 2023-04-12T11:28:29.848442
 source: https://example871.com
 author: Diana Prince
-completed: no
+completed?: no
 tags:
   - task
   - thought

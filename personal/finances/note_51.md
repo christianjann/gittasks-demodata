@@ -6,7 +6,7 @@ source: https://example706.com
 latitude: -1.0438
 longitude: 85.996
 altitude: 916
-completed: no
+completed?: no
 due: 2025-06-22T11:28:29.605108
 tags:
   - template

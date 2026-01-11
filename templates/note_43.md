@@ -3,7 +3,7 @@ title: Note 43 in templates
 created: 2025-08-28T11:28:29.900847
 updated: 2026-04-01T11:28:29.900847
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - note
 ---

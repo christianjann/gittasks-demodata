@@ -3,7 +3,7 @@ title: Note 41 in projects
 created: 2025-12-26T11:28:29.672921
 updated: 2026-03-12T11:28:29.672921
 source: https://example46.com
-completed: no
+completed?: no
 tags:
   - thought
   - draft

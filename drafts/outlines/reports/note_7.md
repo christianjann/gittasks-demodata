@@ -3,7 +3,7 @@ title: Note 7 in drafts - outlines - reports
 created: 2025-07-11T11:28:29.769911
 updated: 2026-03-20T11:28:29.769911
 source: https://example819.com
-completed: yes
+completed?: yes
 tags:
   - recipe
   - template

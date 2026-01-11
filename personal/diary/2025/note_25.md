@@ -3,7 +3,7 @@ title: Note 25 in personal - diary - 2025
 created: 2024-03-17T11:28:29.577804
 updated: 2024-08-07T11:28:29.577804
 author: Frank Miller
-completed: no
+completed?: no
 due: 2025-06-13T11:28:29.577804
 tags:
   - task

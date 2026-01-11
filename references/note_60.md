@@ -5,7 +5,7 @@ updated: 2025-07-03T11:28:29.884656
 latitude: -74.5445
 longitude: -44.9368
 altitude: 1486
-completed: no
+completed?: no
 due: 2025-12-31T11:28:29.884656
 tags:
   - thought

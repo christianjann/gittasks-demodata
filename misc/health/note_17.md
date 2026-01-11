@@ -2,7 +2,7 @@
 title: Note 17 in misc - health
 created: 2025-06-12T11:28:29.797315
 updated: 2026-04-30T11:28:29.797315
-completed: no
+completed?: no
 due: 2026-06-02T11:28:29.797315
 tags:
   - task

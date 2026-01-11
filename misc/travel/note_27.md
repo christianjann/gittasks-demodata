@@ -2,7 +2,7 @@
 title: Note 27 in misc - travel
 created: 2024-09-17T11:28:29.787961
 updated: 2024-12-08T11:28:29.787961
-completed: yes
+completed?: yes
 ---
 
 # Note 27 in misc - travel

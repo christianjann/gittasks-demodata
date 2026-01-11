@@ -4,7 +4,7 @@ created: 2024-02-19T11:28:29.649103
 updated: 2025-01-01T11:28:29.649103
 source: https://example958.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - archive
   - note

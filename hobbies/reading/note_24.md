@@ -3,7 +3,7 @@ title: Note 24 in hobbies - reading
 created: 2024-01-12T11:28:29.978125
 updated: 2024-09-17T11:28:29.978125
 source: https://example174.com
-completed: yes
+completed?: yes
 ---
 
 # Note 24 in hobbies - reading

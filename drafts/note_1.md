@@ -3,7 +3,7 @@ title: Note 1 in drafts
 created: 2024-01-24T11:28:29.742646
 updated: 2024-09-30T11:28:29.742646
 source: https://example251.com
-completed: no
+completed?: no
 tags:
   - archive
   - hobby

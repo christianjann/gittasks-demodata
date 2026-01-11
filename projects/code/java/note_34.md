@@ -4,7 +4,7 @@ created: 2023-07-31T11:28:29.686079
 updated: 2024-04-09T11:28:29.686079
 source: https://example284.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - meeting
   - blog

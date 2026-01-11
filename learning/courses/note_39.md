@@ -3,7 +3,7 @@ title: Note 39 in learning - courses
 created: 2023-03-29T11:28:29.812216
 updated: 2023-12-17T11:28:29.812216
 source: https://example727.com
-completed: no
+completed?: no
 tags:
   - diary
   - personal

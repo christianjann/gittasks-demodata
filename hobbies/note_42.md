@@ -5,7 +5,7 @@ updated: 2023-11-10T11:28:29.970873
 latitude: 19.6802
 longitude: -1.1943
 altitude: 3156
-completed: no
+completed?: no
 due: 2024-05-27T11:28:29.970873
 tags:
   - work

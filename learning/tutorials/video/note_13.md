@@ -4,7 +4,7 @@ created: 2024-12-03T11:28:29.832159
 updated: 2025-01-10T11:28:29.832159
 source: https://example110.com
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2025-08-20T11:28:29.832159
 tags:
   - thought

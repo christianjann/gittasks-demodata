@@ -4,7 +4,7 @@ created: 2023-03-13T11:28:29.707280
 updated: 2023-05-04T11:28:29.707280
 source: https://example532.com
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2023-11-09T11:28:29.707280
 tags:
   - meeting

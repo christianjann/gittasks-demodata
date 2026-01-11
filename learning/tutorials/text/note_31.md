@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -8.0154
 longitude: -164.0115
 altitude: 2084
-completed: no
+completed?: no
 due: 2025-07-28T11:28:29.835887
 tags:
   - urgent

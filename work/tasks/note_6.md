@@ -3,7 +3,7 @@ title: Note 6 in work - tasks
 created: 2023-05-16T11:28:29.626935
 updated: 2023-10-05T11:28:29.626935
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2024-02-29T11:28:29.626935
 tags:
   - idea

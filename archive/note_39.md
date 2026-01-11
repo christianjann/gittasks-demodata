@@ -4,7 +4,7 @@ created: 2025-08-22T11:28:29.717655
 updated: 2025-08-22T11:28:29.717655
 source: https://example187.com
 author: Bob Smith
-completed: yes
+completed?: yes
 ---
 
 # Note 39 in archive

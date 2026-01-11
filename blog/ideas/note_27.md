@@ -6,7 +6,7 @@ source: https://example195.com
 latitude: -30.1392
 longitude: -49.4887
 altitude: 4649
-completed: yes
+completed?: yes
 due: 2024-10-08T11:28:29.929837
 tags:
   - learning

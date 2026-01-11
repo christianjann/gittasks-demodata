@@ -3,7 +3,7 @@ title: Note 52 in templates
 created: 2023-06-19T11:28:29.901364
 updated: 2024-01-19T11:28:29.901364
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2024-03-10T11:28:29.901364
 ---
 

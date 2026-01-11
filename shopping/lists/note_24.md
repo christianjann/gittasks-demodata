@@ -6,7 +6,7 @@ source: https://example434.com
 latitude: 31.4363
 longitude: -96.4655
 altitude: 2002
-completed: no
+completed?: no
 tags:
   - idea
   - work

@@ -4,7 +4,7 @@ created: 2023-04-17T11:28:29.945715
 updated: 2024-01-09T11:28:29.945715
 source: https://example822.com
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2024-04-12T11:28:29.945715
 tags:
   - idea

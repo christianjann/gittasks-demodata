@@ -3,7 +3,7 @@ title: Note 41 in projects - code - python
 created: 2024-06-29T11:28:29.680835
 updated: 2025-03-10T11:28:29.680835
 author: Diana Prince
-completed: no
+completed?: no
 tags:
   - journal
   - diary

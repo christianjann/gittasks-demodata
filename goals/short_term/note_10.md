@@ -3,7 +3,7 @@ title: Note 10 in goals - short_term
 created: 2024-12-05T11:28:29.853620
 updated: 2025-10-28T11:28:29.853620
 source: https://example500.com
-completed: no
+completed?: no
 tags:
   - meeting
 ---

@@ -3,7 +3,7 @@ title: Note 1 in blog - ideas
 created: 2025-04-05T11:28:29.927824
 updated: 2025-12-21T11:28:29.927824
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2026-08-03T11:28:29.927824
 tags:
   - recipe

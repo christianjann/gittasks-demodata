@@ -3,7 +3,7 @@ title: Note 38 in projects - code - python
 created: 2023-01-13T11:28:29.680662
 updated: 2023-11-26T11:28:29.680662
 author: Henry Wilson
-completed: no
+completed?: no
 tags:
   - hobby
   - blog

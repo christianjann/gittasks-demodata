@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 80.8975
 longitude: -4.6259
 altitude: 1204
-completed: no
+completed?: no
 tags:
   - recipe
   - hobby

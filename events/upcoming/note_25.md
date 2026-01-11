@@ -3,7 +3,7 @@ title: Note 25 in events - upcoming
 created: 2025-09-10T11:28:29.950621
 updated: 2026-07-20T11:28:29.950621
 source: https://example313.com
-completed: no
+completed?: no
 tags:
   - shopping
   - personal

@@ -2,7 +2,7 @@
 title: Note 44 in misc
 created: 2025-09-26T11:28:29.775095
 updated: 2026-02-22T11:28:29.775095
-completed: yes
+completed?: yes
 ---
 
 # Note 44 in misc

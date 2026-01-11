@@ -3,7 +3,7 @@ title: Note 8 in blog
 created: 2025-02-22T11:28:29.916094
 updated: 2025-03-27T11:28:29.916094
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - design
   - finance

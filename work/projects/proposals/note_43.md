@@ -4,7 +4,7 @@ created: 2024-07-23T11:28:29.658127
 updated: 2025-01-25T11:28:29.658127
 source: https://example277.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2025-05-12T11:28:29.658127
 tags:
   - social

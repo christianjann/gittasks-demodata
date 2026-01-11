@@ -3,7 +3,7 @@ title: Note 10 in work - projects
 created: 2025-08-19T11:28:29.642664
 updated: 2025-12-09T11:28:29.642664
 source: https://example885.com
-completed: yes
+completed?: yes
 tags:
   - draft
   - archive

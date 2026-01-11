@@ -4,7 +4,7 @@ created: 2023-07-10T11:28:29.801950
 updated: 2024-01-29T11:28:29.801950
 source: https://example897.com
 author: Bob Smith
-completed: no
+completed?: no
 due: 2024-12-16T11:28:29.801950
 tags:
   - travel

@@ -3,7 +3,7 @@ title: Note 30 in work - projects - proposals
 created: 2024-04-13T11:28:29.657284
 updated: 2025-02-06T11:28:29.657284
 source: https://example104.com
-completed: no
+completed?: no
 tags:
   - recipe
   - event

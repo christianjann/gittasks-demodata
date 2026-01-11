@@ -2,7 +2,7 @@
 title: Note 44 in work - projects - proposals
 created: 2023-01-21T11:28:29.658189
 updated: 2023-08-10T11:28:29.658189
-completed: no
+completed?: no
 tags:
   - design
 ---

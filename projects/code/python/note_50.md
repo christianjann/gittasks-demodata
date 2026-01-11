@@ -3,7 +3,7 @@ title: Note 50 in projects - code - python
 created: 2024-11-23T11:28:29.681384
 updated: 2025-01-04T11:28:29.681384
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2025-04-09T11:28:29.681384
 ---
 

@@ -4,7 +4,7 @@ created: 2025-06-20T11:28:29.874998
 updated: 2026-01-14T11:28:29.874998
 source: https://example86.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - recipe
   - journal

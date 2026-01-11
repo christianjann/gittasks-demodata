@@ -6,7 +6,7 @@ source: https://example592.com
 latitude: -37.1552
 longitude: 160.1502
 altitude: 4742
-completed: no
+completed?: no
 tags:
   - shopping
   - misc

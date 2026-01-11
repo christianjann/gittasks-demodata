@@ -3,7 +3,7 @@ title: Note 40 in work - projects - proposals
 created: 2025-08-26T11:28:29.657952
 updated: 2026-05-29T11:28:29.657952
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - personal
   - design

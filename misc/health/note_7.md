@@ -4,7 +4,7 @@ created: 2024-08-29T11:28:29.796769
 updated: 2025-07-06T11:28:29.796769
 source: https://example674.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2025-09-25T11:28:29.796769
 tags:
   - recipe

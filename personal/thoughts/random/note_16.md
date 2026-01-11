@@ -5,7 +5,7 @@ updated: 2024-11-20T11:28:29.583237
 latitude: -65.67
 longitude: -86.3731
 altitude: 3052
-completed: yes
+completed?: yes
 ---
 
 # Note 16 in personal - thoughts - random

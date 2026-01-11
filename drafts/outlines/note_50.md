@@ -3,7 +3,7 @@ title: Note 50 in drafts - outlines
 created: 2025-06-15T11:28:29.762729
 updated: 2025-11-18T11:28:29.762729
 source: https://example226.com
-completed: yes
+completed?: yes
 tags:
   - research
 ---

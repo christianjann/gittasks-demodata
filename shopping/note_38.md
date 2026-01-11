@@ -3,7 +3,7 @@ title: Note 38 in shopping
 created: 2023-08-13T11:28:29.962004
 updated: 2024-05-18T11:28:29.962004
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - template
   - diary

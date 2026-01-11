@@ -2,7 +2,7 @@
 title: Note 52 in blog - ideas
 created: 2024-03-23T11:28:29.931683
 updated: 2024-12-30T11:28:29.931683
-completed: no
+completed?: no
 tags:
   - blog
 ---

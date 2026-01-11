@@ -6,7 +6,7 @@ source: https://example434.com
 latitude: 78.9897
 longitude: 39.5867
 altitude: 4464
-completed: yes
+completed?: yes
 due: 2025-03-22T11:28:29.691575
 tags:
   - recipe

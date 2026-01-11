@@ -3,7 +3,7 @@ title: Note 43 in social
 created: 2024-02-24T11:28:29.935011
 updated: 2024-05-06T11:28:29.935011
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - journal
   - archive

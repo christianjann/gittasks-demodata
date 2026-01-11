@@ -2,7 +2,7 @@
 title: Note 18 in personal - memories
 created: 2025-09-13T11:28:29.591178
 updated: 2026-01-14T11:28:29.591178
-completed: yes
+completed?: yes
 due: 2026-07-06T11:28:29.591178
 tags:
   - idea

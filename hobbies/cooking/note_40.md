@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 6.4362
 longitude: 114.5718
 altitude: 835
-completed: yes
+completed?: yes
 tags:
   - draft
   - journal

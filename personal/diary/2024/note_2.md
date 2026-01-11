@@ -3,7 +3,7 @@ title: Note 2 in personal - diary - 2024
 created: 2023-05-27T11:28:29.573062
 updated: 2023-08-06T11:28:29.573062
 author: Charlie Brown
-completed: no
+completed?: no
 due: 2024-05-27T11:28:29.573062
 tags:
   - meeting

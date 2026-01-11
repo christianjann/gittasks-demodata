@@ -3,7 +3,7 @@ title: Note 36 in projects - design - ui
 created: 2024-10-17T11:28:29.695168
 updated: 2024-12-25T11:28:29.695168
 source: https://example642.com
-completed: yes
+completed?: yes
 due: 2025-11-14T11:28:29.695168
 ---
 

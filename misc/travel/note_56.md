@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -63.7003
 longitude: 101.3368
 altitude: 1321
-completed: yes
+completed?: yes
 tags:
   - travel
   - blog

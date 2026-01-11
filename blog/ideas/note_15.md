@@ -6,7 +6,7 @@ source: https://example235.com
 latitude: 36.3461
 longitude: 111.2538
 altitude: 2229
-completed: yes
+completed?: yes
 tags:
   - goal
   - learning

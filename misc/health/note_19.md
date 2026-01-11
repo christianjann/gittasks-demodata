@@ -6,7 +6,7 @@ source: https://example726.com
 latitude: 77.3741
 longitude: 6.4895
 altitude: 3563
-completed: no
+completed?: no
 due: 2025-12-17T11:28:29.797430
 tags:
   - shopping

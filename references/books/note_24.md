@@ -3,7 +3,7 @@ title: Note 24 in references - books
 created: 2025-10-16T11:28:29.890407
 updated: 2025-10-17T11:28:29.890407
 source: https://example837.com
-completed: no
+completed?: no
 tags:
   - journal
 ---

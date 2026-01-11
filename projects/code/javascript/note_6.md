@@ -2,7 +2,7 @@
 title: Note 6 in projects - code - javascript
 created: 2024-12-03T11:28:29.681905
 updated: 2024-12-20T11:28:29.681905
-completed: no
+completed?: no
 due: 2025-05-13T11:28:29.681905
 tags:
   - code

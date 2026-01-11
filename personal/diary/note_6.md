@@ -3,7 +3,7 @@ title: Note 6 in personal - diary
 created: 2024-03-24T11:28:29.566566
 updated: 2024-12-10T11:28:29.566566
 source: https://example74.com
-completed: yes
+completed?: yes
 due: 2025-07-22T11:28:29.566566
 ---
 

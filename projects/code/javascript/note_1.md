@@ -5,7 +5,7 @@ updated: 2026-03-24T11:28:29.681606
 latitude: 42.644
 longitude: -156.6291
 altitude: 1907
-completed: no
+completed?: no
 tags:
   - learning
   - hobby

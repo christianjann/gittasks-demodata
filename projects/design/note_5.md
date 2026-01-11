@@ -2,7 +2,7 @@
 title: Note 5 in projects - design
 created: 2024-03-25T11:28:29.690690
 updated: 2024-06-29T11:28:29.690690
-completed: no
+completed?: no
 due: 2024-08-01T11:28:29.690690
 tags:
   - research

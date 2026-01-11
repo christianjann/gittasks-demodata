@@ -4,7 +4,7 @@ created: 2024-12-18T11:28:29.642270
 updated: 2025-10-11T11:28:29.642270
 source: https://example205.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - diary
   - template

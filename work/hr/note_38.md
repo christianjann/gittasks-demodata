@@ -3,7 +3,7 @@ title: Note 38 in work - hr
 created: 2023-07-11T11:28:29.661232
 updated: 2023-07-27T11:28:29.661232
 source: https://example371.com
-completed: yes
+completed?: yes
 tags:
   - travel
   - misc

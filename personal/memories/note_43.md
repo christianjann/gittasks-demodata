@@ -3,7 +3,7 @@ title: Note 43 in personal - memories
 created: 2023-06-23T11:28:29.592856
 updated: 2023-09-26T11:28:29.592856
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - draft
 ---

@@ -6,7 +6,7 @@ source: https://example786.com
 latitude: -68.7296
 longitude: 55.0008
 altitude: 735
-completed: no
+completed?: no
 due: 2025-01-10T11:28:29.839816
 tags:
   - finance

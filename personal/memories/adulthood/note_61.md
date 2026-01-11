@@ -3,7 +3,7 @@ title: Note 61 in personal - memories - adulthood
 created: 2024-03-31T11:28:29.601790
 updated: 2024-09-14T11:28:29.601790
 source: https://example930.com
-completed: yes
+completed?: yes
 due: 2025-04-06T11:28:29.601790
 ---
 

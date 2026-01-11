@@ -6,7 +6,7 @@ source: https://example631.com
 latitude: -0.6853
 longitude: -62.0749
 altitude: 2564
-completed: yes
+completed?: yes
 tags:
   - finance
   - health

@@ -3,7 +3,7 @@ title: Note 35 in work - meetings - quarterly
 created: 2024-01-30T11:28:29.625956
 updated: 2024-09-06T11:28:29.625956
 source: https://example751.com
-completed: no
+completed?: no
 ---
 
 # Note 35 in work - meetings - quarterly

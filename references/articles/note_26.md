@@ -4,7 +4,7 @@ created: 2025-12-10T11:28:29.886595
 updated: 2026-06-01T11:28:29.886595
 source: https://example356.com
 author: Frank Miller
-completed: yes
+completed?: yes
 ---
 
 # Note 26 in references - articles

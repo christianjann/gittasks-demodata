@@ -3,7 +3,7 @@ title: Note 15 in events
 created: 2025-08-03T11:28:29.947439
 updated: 2025-09-24T11:28:29.947439
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - template
   - diary

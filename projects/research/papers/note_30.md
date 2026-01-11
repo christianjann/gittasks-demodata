@@ -3,7 +3,7 @@ title: Note 30 in projects - research - papers
 created: 2023-08-11T11:28:29.706746
 updated: 2024-01-08T11:28:29.706746
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - thought
 ---

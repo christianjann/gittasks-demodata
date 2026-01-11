@@ -6,7 +6,7 @@ source: https://example448.com
 latitude: -75.8755
 longitude: 77.3647
 altitude: 1644
-completed: no
+completed?: no
 due: 2024-12-23T11:28:29.717492
 tags:
   - journal

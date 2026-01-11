@@ -4,7 +4,7 @@ created: 2023-04-23T11:28:29.632506
 updated: 2023-06-19T11:28:29.632506
 source: https://example907.com
 author: Diana Prince
-completed: no
+completed?: no
 tags:
   - urgent
   - goal

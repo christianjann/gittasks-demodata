@@ -2,7 +2,7 @@
 title: Note 50 in hobbies - cooking
 created: 2025-07-17T11:28:29.984019
 updated: 2026-06-04T11:28:29.984019
-completed: yes
+completed?: yes
 due: 2027-05-20T11:28:29.984019
 tags:
   - recipe

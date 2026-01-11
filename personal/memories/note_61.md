@@ -3,7 +3,7 @@ title: Note 61 in personal - memories
 created: 2023-01-16T11:28:29.594066
 updated: 2023-06-08T11:28:29.594066
 source: https://example570.com
-completed: yes
+completed?: yes
 tags:
   - design
   - social

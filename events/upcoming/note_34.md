@@ -4,7 +4,7 @@ created: 2023-12-22T11:28:29.951128
 updated: 2024-04-18T11:28:29.951128
 source: https://example280.com
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2024-05-13T11:28:29.951128
 tags:
   - travel

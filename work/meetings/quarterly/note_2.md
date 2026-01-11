@@ -3,7 +3,7 @@ title: Note 2 in work - meetings - quarterly
 created: 2024-08-11T11:28:29.624042
 updated: 2024-11-13T11:28:29.624042
 author: Grace Lee
-completed: no
+completed?: no
 due: 2025-09-15T11:28:29.624042
 tags:
   - idea

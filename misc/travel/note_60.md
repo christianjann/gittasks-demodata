@@ -6,7 +6,7 @@ source: https://example338.com
 latitude: -81.6285
 longitude: 156.0958
 altitude: 2295
-completed: yes
+completed?: yes
 tags:
   - design
   - recipe

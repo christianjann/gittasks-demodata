@@ -2,7 +2,7 @@
 title: Note 3 in drafts - ideas
 created: 2023-07-26T11:28:29.746928
 updated: 2024-05-18T11:28:29.746928
-completed: no
+completed?: no
 due: 2024-10-07T11:28:29.746928
 ---
 

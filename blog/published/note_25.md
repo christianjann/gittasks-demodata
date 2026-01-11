@@ -2,7 +2,7 @@
 title: Note 25 in blog - published
 created: 2023-04-12T11:28:29.925866
 updated: 2023-12-20T11:28:29.925866
-completed: yes
+completed?: yes
 due: 2024-07-06T11:28:29.925866
 tags:
   - travel

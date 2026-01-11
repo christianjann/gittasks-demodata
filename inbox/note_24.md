@@ -2,7 +2,7 @@
 title: Note 24 in inbox
 created: 2025-05-17T11:28:29.837918
 updated: 2025-12-28T11:28:29.837918
-completed: yes
+completed?: yes
 due: 2026-11-27T11:28:29.837918
 tags:
   - social

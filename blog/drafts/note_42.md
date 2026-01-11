@@ -3,7 +3,7 @@ title: Note 42 in blog - drafts
 created: 2024-10-29T11:28:29.922788
 updated: 2025-06-15T11:28:29.922788
 source: https://example35.com
-completed: yes
+completed?: yes
 ---
 
 # Note 42 in blog - drafts

@@ -2,7 +2,7 @@
 title: Note 33 in work - tasks - completed
 created: 2024-11-09T11:28:29.640054
 updated: 2025-04-02T11:28:29.640054
-completed: no
+completed?: no
 due: 2025-12-08T11:28:29.640054
 ---
 

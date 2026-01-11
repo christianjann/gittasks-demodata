@@ -3,7 +3,7 @@ title: Note 22 in inbox - reminders
 created: 2025-05-29T11:28:29.844098
 updated: 2025-08-18T11:28:29.844098
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2025-11-10T11:28:29.844098
 tags:
   - work

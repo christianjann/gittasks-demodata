@@ -3,7 +3,7 @@ title: Note 7 in social
 created: 2024-10-10T11:28:29.932814
 updated: 2024-11-05T11:28:29.932814
 source: https://example696.com
-completed: yes
+completed?: yes
 due: 2025-09-03T11:28:29.932814
 tags:
   - idea

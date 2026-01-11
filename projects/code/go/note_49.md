@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: -60.9734
 longitude: 51.2695
 altitude: 3709
-completed: no
+completed?: no
 ---
 
 # Note 49 in projects - code - go

@@ -2,7 +2,7 @@
 title: Note 55 in journal
 created: 2023-09-07T11:28:29.867695
 updated: 2023-10-24T11:28:29.867695
-completed: no
+completed?: no
 due: 2024-08-09T11:28:29.867695
 ---
 

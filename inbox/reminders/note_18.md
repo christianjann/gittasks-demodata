@@ -2,7 +2,7 @@
 title: Note 18 in inbox - reminders
 created: 2024-09-13T11:28:29.843869
 updated: 2025-05-17T11:28:29.843869
-completed: yes
+completed?: yes
 tags:
   - learning
   - journal

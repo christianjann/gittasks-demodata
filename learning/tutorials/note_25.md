@@ -3,7 +3,7 @@ title: Note 25 in learning - tutorials
 created: 2024-07-23T11:28:29.829643
 updated: 2025-04-29T11:28:29.829643
 source: https://example676.com
-completed: no
+completed?: no
 tags:
   - recipe
   - draft

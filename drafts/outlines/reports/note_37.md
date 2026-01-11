@@ -3,7 +3,7 @@ title: Note 37 in drafts - outlines - reports
 created: 2023-08-30T11:28:29.771622
 updated: 2024-04-04T11:28:29.771622
 source: https://example316.com
-completed: yes
+completed?: yes
 tags:
   - hobby
   - code

@@ -6,7 +6,7 @@ source: https://example143.com
 latitude: 39.4764
 longitude: 123.5168
 altitude: 1041
-completed: yes
+completed?: yes
 tags:
   - shopping
 ---

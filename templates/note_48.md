@@ -4,7 +4,7 @@ created: 2024-07-21T11:28:29.901135
 updated: 2024-09-04T11:28:29.901135
 source: https://example265.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2024-10-31T11:28:29.901135
 tags:
   - learning

@@ -3,7 +3,7 @@ title: Note 36 in misc - travel
 created: 2025-08-14T11:28:29.788750
 updated: 2025-10-28T11:28:29.788750
 source: https://example988.com
-completed: no
+completed?: no
 due: 2026-09-03T11:28:29.788750
 ---
 

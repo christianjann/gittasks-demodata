@@ -5,7 +5,7 @@ updated: 2026-03-28T11:28:29.648347
 latitude: 24.9558
 longitude: 62.5735
 altitude: 850
-completed: yes
+completed?: yes
 ---
 
 # Note 23 in work - projects - active

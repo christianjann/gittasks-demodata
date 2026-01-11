@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 14.3542
 longitude: -61.5999
 altitude: 2512
-completed: yes
+completed?: yes
 due: 2026-04-21T11:28:29.800573
 tags:
   - meeting

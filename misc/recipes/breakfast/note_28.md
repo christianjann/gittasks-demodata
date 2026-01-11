@@ -3,7 +3,7 @@ title: Note 28 in misc - recipes - breakfast
 created: 2025-08-23T11:28:29.780804
 updated: 2026-07-04T11:28:29.780804
 source: https://example687.com
-completed: no
+completed?: no
 tags:
   - reference
   - personal

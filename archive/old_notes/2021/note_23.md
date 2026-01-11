@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 64.2597
 longitude: 109.5207
 altitude: 4254
-completed: no
+completed?: no
 due: 2025-02-03T11:28:29.731704
 tags:
   - social

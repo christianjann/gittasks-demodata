@@ -2,7 +2,7 @@
 title: Note 38 in journal - monthly
 created: 2023-05-31T11:28:29.876645
 updated: 2023-11-30T11:28:29.876645
-completed: yes
+completed?: yes
 tags:
   - finance
   - work

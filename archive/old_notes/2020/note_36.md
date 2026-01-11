@@ -3,7 +3,7 @@ title: Note 36 in archive - old_notes - 2020
 created: 2024-06-10T11:28:29.727672
 updated: 2025-05-21T11:28:29.727672
 author: Charlie Brown
-completed: no
+completed?: no
 tags:
   - work
   - health

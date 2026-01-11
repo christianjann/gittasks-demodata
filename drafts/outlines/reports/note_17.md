@@ -2,7 +2,7 @@
 title: Note 17 in drafts - outlines - reports
 created: 2025-05-17T11:28:29.770509
 updated: 2025-12-16T11:28:29.770509
-completed: no
+completed?: no
 due: 2026-04-17T11:28:29.770509
 tags:
   - event

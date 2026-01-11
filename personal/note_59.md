@@ -6,7 +6,7 @@ source: https://example701.com
 latitude: 28.4596
 longitude: -7.0546
 altitude: 2523
-completed: no
+completed?: no
 tags:
   - idea
   - travel

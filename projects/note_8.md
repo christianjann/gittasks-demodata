@@ -4,7 +4,7 @@ created: 2023-05-06T11:28:29.670845
 updated: 2023-12-28T11:28:29.670845
 source: https://example841.com
 author: Diana Prince
-completed: yes
+completed?: yes
 ---
 
 # Note 8 in projects

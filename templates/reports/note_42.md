@@ -3,7 +3,7 @@ title: Note 42 in templates - reports
 created: 2024-10-06T11:28:29.915092
 updated: 2025-05-11T11:28:29.915092
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - hobby
   - social

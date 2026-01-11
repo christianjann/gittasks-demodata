@@ -3,7 +3,7 @@ title: Note 8 in work - meetings - quarterly
 created: 2024-02-19T11:28:29.624374
 updated: 2024-09-25T11:28:29.624374
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - journal
   - draft

@@ -3,7 +3,7 @@ title: Note 35 in work - meetings - monthly
 created: 2025-09-04T11:28:29.623460
 updated: 2026-03-26T11:28:29.623460
 author: Jack Taylor
-completed: yes
+completed?: yes
 ---
 
 # Note 35 in work - meetings - monthly

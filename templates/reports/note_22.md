@@ -2,7 +2,7 @@
 title: Note 22 in templates - reports
 created: 2024-10-12T11:28:29.913727
 updated: 2025-01-25T11:28:29.913727
-completed: no
+completed?: no
 ---
 
 # Note 22 in templates - reports

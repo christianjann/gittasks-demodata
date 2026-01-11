@@ -5,7 +5,7 @@ updated: 2024-01-09T11:28:29.653670
 latitude: 22.0258
 longitude: 16.5266
 altitude: 19
-completed: yes
+completed?: yes
 due: 2024-11-14T11:28:29.653670
 tags:
   - note

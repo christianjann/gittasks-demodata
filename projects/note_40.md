@@ -4,7 +4,7 @@ created: 2025-04-07T11:28:29.672862
 updated: 2025-12-05T11:28:29.672862
 source: https://example581.com
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - diary
   - learning

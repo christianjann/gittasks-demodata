@@ -2,7 +2,7 @@
 title: Note 9 in references - articles
 created: 2023-12-07T11:28:29.885636
 updated: 2024-08-03T11:28:29.885636
-completed: yes
+completed?: yes
 tags:
   - work
   - personal

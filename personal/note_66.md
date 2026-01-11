@@ -3,7 +3,7 @@ title: Note 66 in personal
 created: 2023-02-12T11:28:29.566062
 updated: 2023-07-03T11:28:29.566062
 source: https://example983.com
-completed: no
+completed?: no
 due: 2023-11-19T11:28:29.566062
 tags:
   - goal

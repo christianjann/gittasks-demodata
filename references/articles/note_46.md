@@ -3,7 +3,7 @@ title: Note 46 in references - articles
 created: 2023-03-10T11:28:29.887878
 updated: 2023-07-14T11:28:29.887878
 author: Diana Prince
-completed: no
+completed?: no
 due: 2023-08-22T11:28:29.887878
 ---
 

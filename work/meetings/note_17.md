@@ -6,7 +6,7 @@ source: https://example24.com
 latitude: 14.1335
 longitude: -111.2112
 altitude: 4278
-completed: no
+completed?: no
 due: 2024-03-16T11:28:29.616796
 tags:
   - task

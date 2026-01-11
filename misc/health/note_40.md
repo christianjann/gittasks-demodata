@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 8.9834
 longitude: 4.1042
 altitude: 2343
-completed: yes
+completed?: yes
 due: 2024-05-01T11:28:29.798711
 tags:
   - goal

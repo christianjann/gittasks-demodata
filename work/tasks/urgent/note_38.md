@@ -3,7 +3,7 @@ title: Note 38 in work - tasks - urgent
 created: 2025-10-07T11:28:29.632305
 updated: 2026-06-28T11:28:29.632305
 source: https://example346.com
-completed: no
+completed?: no
 tags:
   - draft
 ---

@@ -3,7 +3,7 @@ title: Note 11 in inbox - emails
 created: 2025-12-25T11:28:29.847182
 updated: 2026-12-17T11:28:29.847182
 source: https://example989.com
-completed: yes
+completed?: yes
 due: 2027-09-24T11:28:29.847182
 tags:
   - template

@@ -6,7 +6,7 @@ author: Charlie Brown
 latitude: 83.8839
 longitude: 55.7184
 altitude: 900
-completed: yes
+completed?: yes
 ---
 
 # Note 8 in personal - finances - budget

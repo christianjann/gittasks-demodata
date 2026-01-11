@@ -2,7 +2,7 @@
 title: Note 52 in projects
 created: 2023-08-25T11:28:29.673744
 updated: 2024-06-16T11:28:29.673744
-completed: yes
+completed?: yes
 tags:
   - diary
   - urgent

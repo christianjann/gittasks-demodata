@@ -3,7 +3,7 @@ title: Note 55 in drafts - ideas - business
 created: 2023-10-18T11:28:29.756871
 updated: 2024-07-14T11:28:29.756871
 author: Henry Wilson
-completed: no
+completed?: no
 ---
 
 # Note 55 in drafts - ideas - business

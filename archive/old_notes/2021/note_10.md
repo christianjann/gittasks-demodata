@@ -6,7 +6,7 @@ source: https://example751.com
 latitude: -1.7231
 longitude: 6.7023
 altitude: 3162
-completed: yes
+completed?: yes
 due: 2024-12-11T11:28:29.730906
 tags:
   - design

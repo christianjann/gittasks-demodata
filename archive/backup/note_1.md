@@ -2,7 +2,7 @@
 title: Note 1 in archive - backup
 created: 2025-04-19T11:28:29.732849
 updated: 2025-12-09T11:28:29.732849
-completed: yes
+completed?: yes
 tags:
   - finance
   - diary

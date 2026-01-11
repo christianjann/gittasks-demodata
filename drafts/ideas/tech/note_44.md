@@ -3,7 +3,7 @@ title: Note 44 in drafts - ideas - tech
 created: 2025-08-12T11:28:29.753642
 updated: 2025-11-22T11:28:29.753642
 author: Eve Adams
-completed: yes
+completed?: yes
 tags:
   - social
 ---

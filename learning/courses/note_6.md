@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: 65.7024
 longitude: -175.2142
 altitude: 748
-completed: yes
+completed?: yes
 tags:
   - event
   - misc

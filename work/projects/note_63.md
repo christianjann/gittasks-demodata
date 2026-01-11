@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -69.9733
 longitude: 78.1197
 altitude: 3857
-completed: no
+completed?: no
 tags:
   - draft
   - health

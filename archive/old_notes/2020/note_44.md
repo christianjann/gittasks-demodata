@@ -3,7 +3,7 @@ title: Note 44 in archive - old_notes - 2020
 created: 2025-06-17T11:28:29.728407
 updated: 2025-10-03T11:28:29.728407
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2026-05-22T11:28:29.728407
 tags:
   - meeting

@@ -6,7 +6,7 @@ source: https://example284.com
 latitude: -22.1204
 longitude: -122.4049
 altitude: 1186
-completed: yes
+completed?: yes
 due: 2026-09-24T11:28:29.711466
 tags:
   - social

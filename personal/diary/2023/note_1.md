@@ -4,7 +4,7 @@ created: 2025-11-12T11:28:29.569353
 updated: 2026-07-19T11:28:29.569353
 source: https://example799.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2027-03-14T11:28:29.569353
 tags:
   - social

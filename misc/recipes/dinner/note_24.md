@@ -2,7 +2,7 @@
 title: Note 24 in misc - recipes - dinner
 created: 2025-07-21T11:28:29.784367
 updated: 2026-05-13T11:28:29.784367
-completed: no
+completed?: no
 due: 2027-02-16T11:28:29.784367
 ---
 

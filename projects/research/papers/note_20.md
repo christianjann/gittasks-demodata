@@ -3,7 +3,7 @@ title: Note 20 in projects - research - papers
 created: 2025-09-24T11:28:29.706125
 updated: 2026-01-27T11:28:29.706125
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - travel
 ---

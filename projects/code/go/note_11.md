@@ -2,7 +2,7 @@
 title: Note 11 in projects - code - go
 created: 2024-01-15T11:28:29.687282
 updated: 2024-01-22T11:28:29.687282
-completed: no
+completed?: no
 due: 2024-02-28T11:28:29.687282
 tags:
   - idea

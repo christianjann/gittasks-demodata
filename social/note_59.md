@@ -3,7 +3,7 @@ title: Note 59 in social
 created: 2024-07-23T11:28:29.935989
 updated: 2025-02-01T11:28:29.935989
 source: https://example174.com
-completed: no
+completed?: no
 due: 2025-12-10T11:28:29.935989
 ---
 

@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 32.4186
 longitude: 127.3762
 altitude: 1244
-completed: no
+completed?: no
 ---
 
 # Note 20 in templates - meetings

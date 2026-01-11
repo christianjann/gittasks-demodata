@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: -51.0852
 longitude: 1.5707
 altitude: 3083
-completed: no
+completed?: no
 ---
 
 # Note 37 in work - tasks - urgent

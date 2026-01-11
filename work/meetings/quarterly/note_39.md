@@ -6,7 +6,7 @@ source: https://example320.com
 latitude: 40.5801
 longitude: 77.3768
 altitude: 3059
-completed: no
+completed?: no
 due: 2025-04-11T11:28:29.626247
 tags:
   - meeting

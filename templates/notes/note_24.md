@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: -28.4878
 longitude: 76.0159
 altitude: 1839
-completed: yes
+completed?: yes
 tags:
   - hobby
 ---

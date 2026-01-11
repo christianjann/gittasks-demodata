@@ -3,7 +3,7 @@ title: Note 42 in work - projects - active
 created: 2025-11-19T11:28:29.649685
 updated: 2025-11-28T11:28:29.649685
 source: https://example912.com
-completed: no
+completed?: no
 due: 2026-03-03T11:28:29.649685
 tags:
   - misc

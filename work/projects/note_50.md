@@ -3,7 +3,7 @@ title: Note 50 in work - projects
 created: 2024-04-03T11:28:29.645947
 updated: 2025-03-25T11:28:29.645947
 source: https://example788.com
-completed: no
+completed?: no
 due: 2025-12-09T11:28:29.645947
 tags:
   - recipe

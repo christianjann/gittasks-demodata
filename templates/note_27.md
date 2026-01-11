@@ -3,7 +3,7 @@ title: Note 27 in templates
 created: 2025-10-25T11:28:29.899859
 updated: 2026-06-18T11:28:29.899859
 source: https://example536.com
-completed: no
+completed?: no
 tags:
   - recipe
   - health

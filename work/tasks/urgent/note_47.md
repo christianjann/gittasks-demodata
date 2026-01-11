@@ -2,7 +2,7 @@
 title: Note 47 in work - tasks - urgent
 created: 2023-06-15T11:28:29.632929
 updated: 2023-11-29T11:28:29.632929
-completed: no
+completed?: no
 tags:
   - archive
   - misc

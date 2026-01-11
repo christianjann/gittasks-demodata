@@ -3,7 +3,7 @@ title: Note 22 in projects - code - go
 created: 2024-03-27T11:28:29.687901
 updated: 2024-08-26T11:28:29.687901
 author: Henry Wilson
-completed: no
+completed?: no
 tags:
   - idea
   - archive

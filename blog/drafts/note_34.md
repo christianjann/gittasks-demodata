@@ -6,7 +6,7 @@ source: https://example981.com
 latitude: -5.8508
 longitude: -161.0396
 altitude: 947
-completed: yes
+completed?: yes
 due: 2025-10-10T11:28:29.922249
 tags:
   - shopping

@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -7.647
 longitude: -71.206
 altitude: 3602
-completed: yes
+completed?: yes
 due: 2027-03-12T11:28:29.915399
 tags:
   - archive

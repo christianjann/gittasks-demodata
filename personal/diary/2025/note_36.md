@@ -4,7 +4,7 @@ created: 2023-11-28T11:28:29.578590
 updated: 2024-10-21T11:28:29.578590
 source: https://example239.com
 author: Charlie Brown
-completed: no
+completed?: no
 tags:
   - goal
   - shopping

@@ -4,7 +4,7 @@ created: 2024-01-05T11:28:29.813913
 updated: 2024-02-13T11:28:29.813913
 source: https://example515.com
 author: Henry Wilson
-completed: no
+completed?: no
 ---
 
 # Note 28 in learning - courses - online

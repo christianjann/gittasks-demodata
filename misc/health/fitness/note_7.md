@@ -5,7 +5,7 @@ updated: 2026-10-30T11:28:29.800635
 latitude: 50.645
 longitude: 128.9679
 altitude: 2945
-completed: no
+completed?: no
 due: 2026-11-03T11:28:29.800635
 tags:
   - travel

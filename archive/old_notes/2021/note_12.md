@@ -4,7 +4,7 @@ created: 2023-11-11T11:28:29.731028
 updated: 2024-05-31T11:28:29.731028
 source: https://example782.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - thought
 ---

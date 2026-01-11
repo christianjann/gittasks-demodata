@@ -3,7 +3,7 @@ title: Note 13 in blog - ideas
 created: 2024-10-18T11:28:29.928873
 updated: 2024-12-23T11:28:29.928873
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - urgent
   - shopping

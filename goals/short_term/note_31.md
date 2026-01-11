@@ -2,7 +2,7 @@
 title: Note 31 in goals - short_term
 created: 2023-06-15T11:28:29.854789
 updated: 2024-01-08T11:28:29.854789
-completed: yes
+completed?: yes
 tags:
   - work
 ---

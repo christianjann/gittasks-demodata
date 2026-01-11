@@ -3,7 +3,7 @@ title: Note 11 in projects - design - graphics
 created: 2023-08-24T11:28:29.698242
 updated: 2024-04-21T11:28:29.698242
 author: Eve Adams
-completed: no
+completed?: no
 tags:
   - goal
 ---

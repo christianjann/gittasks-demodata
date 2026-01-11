@@ -4,7 +4,7 @@ created: 2025-09-08T11:28:29.751980
 updated: 2025-12-10T11:28:29.751980
 source: https://example885.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - hobby
   - task

@@ -2,7 +2,7 @@
 title: Note 1 in learning - courses - online
 created: 2023-03-21T11:28:29.812372
 updated: 2023-12-29T11:28:29.812372
-completed: no
+completed?: no
 due: 2024-03-01T11:28:29.812372
 tags:
   - archive

@@ -2,7 +2,7 @@
 title: Note 16 in work - meetings - quarterly
 created: 2023-04-07T11:28:29.624867
 updated: 2024-01-24T11:28:29.624867
-completed: no
+completed?: no
 ---
 
 # Note 16 in work - meetings - quarterly

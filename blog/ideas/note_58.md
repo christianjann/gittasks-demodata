@@ -3,7 +3,7 @@ title: Note 58 in blog - ideas
 created: 2023-04-05T11:28:29.932050
 updated: 2023-09-20T11:28:29.932050
 author: Charlie Brown
-completed: no
+completed?: no
 due: 2024-04-08T11:28:29.932050
 ---
 

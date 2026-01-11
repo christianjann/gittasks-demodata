@@ -6,7 +6,7 @@ source: https://example433.com
 latitude: -29.3643
 longitude: 49.1456
 altitude: 2253
-completed: no
+completed?: no
 due: 2023-10-09T11:28:29.565246
 ---
 

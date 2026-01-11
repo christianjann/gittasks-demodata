@@ -3,7 +3,7 @@ title: Note 46 in personal - finances - investments
 created: 2024-08-25T11:28:29.611497
 updated: 2025-05-27T11:28:29.611497
 author: Bob Smith
-completed: yes
+completed?: yes
 ---
 
 # Note 46 in personal - finances - investments

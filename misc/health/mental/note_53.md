@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: -9.935
 longitude: -114.8065
 altitude: 4592
-completed: no
+completed?: no
 due: 2026-02-16T11:28:29.806865
 ---
 

@@ -2,7 +2,7 @@
 title: Note 7 in templates
 created: 2024-10-28T11:28:29.898441
 updated: 2025-05-24T11:28:29.898441
-completed: no
+completed?: no
 tags:
   - task
   - misc

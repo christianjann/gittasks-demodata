@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 42.4412
 longitude: -133.8374
 altitude: 4128
-completed: yes
+completed?: yes
 tags:
   - hobby
 ---

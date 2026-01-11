@@ -4,7 +4,7 @@ created: 2024-02-22T11:28:29.751327
 updated: 2024-11-10T11:28:29.751327
 source: https://example912.com
 author: Alice Johnson
-completed: no
+completed?: no
 ---
 
 # Note 8 in drafts - ideas - tech

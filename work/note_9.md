@@ -5,7 +5,7 @@ updated: 2025-09-11T11:28:29.613374
 latitude: 8.9292
 longitude: 0.4894
 altitude: 3480
-completed: no
+completed?: no
 tags:
   - health
   - recipe

@@ -4,7 +4,7 @@ created: 2023-06-03T11:28:29.655141
 updated: 2023-12-05T11:28:29.655141
 source: https://example880.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 due: 2023-12-29T11:28:29.655141
 tags:
   - research

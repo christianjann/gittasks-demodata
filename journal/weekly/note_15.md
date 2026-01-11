@@ -4,7 +4,7 @@ created: 2025-10-23T11:28:29.872150
 updated: 2026-04-12T11:28:29.872150
 source: https://example567.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - journal
 ---

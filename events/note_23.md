@@ -6,7 +6,7 @@ source: https://example438.com
 latitude: -16.1603
 longitude: -43.4573
 altitude: 330
-completed: no
+completed?: no
 tags:
   - work
   - task

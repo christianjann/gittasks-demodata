@@ -3,7 +3,7 @@ title: Note 39 in work - projects - proposals
 created: 2024-03-04T11:28:29.657892
 updated: 2024-08-26T11:28:29.657892
 source: https://example230.com
-completed: yes
+completed?: yes
 due: 2024-11-25T11:28:29.657892
 tags:
   - task

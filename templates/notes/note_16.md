@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 2.0162
 longitude: 100.4606
 altitude: 2089
-completed: yes
+completed?: yes
 tags:
   - meeting
   - hobby

@@ -3,7 +3,7 @@ title: Note 21 in work
 created: 2023-07-11T11:28:29.614115
 updated: 2023-08-20T11:28:29.614115
 source: https://example719.com
-completed: yes
+completed?: yes
 ---
 
 # Note 21 in work

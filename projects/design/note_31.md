@@ -4,7 +4,7 @@ created: 2025-09-24T11:28:29.692299
 updated: 2025-12-18T11:28:29.692299
 source: https://example716.com
 author: Alice Johnson
-completed: no
+completed?: no
 due: 2026-04-03T11:28:29.692299
 tags:
   - hobby

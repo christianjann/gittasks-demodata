@@ -4,7 +4,7 @@ created: 2025-12-26T11:28:29.754168
 updated: 2026-02-26T11:28:29.754168
 source: https://example234.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - meeting
   - template

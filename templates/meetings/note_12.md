@@ -4,7 +4,7 @@ created: 2023-04-14T11:28:29.908671
 updated: 2023-10-17T11:28:29.908671
 source: https://example650.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - archive
   - research

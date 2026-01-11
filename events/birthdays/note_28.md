@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 28.9909
 longitude: -161.0467
 altitude: 2105
-completed: yes
+completed?: yes
 tags:
   - research
 ---

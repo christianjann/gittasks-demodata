@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -7.7518
 longitude: 53.8983
 altitude: 1941
-completed: no
+completed?: no
 due: 2025-04-03T11:28:29.758278
 tags:
   - personal

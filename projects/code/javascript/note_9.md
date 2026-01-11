@@ -6,7 +6,7 @@ source: https://example972.com
 latitude: 63.5778
 longitude: -163.1161
 altitude: 3391
-completed: yes
+completed?: yes
 tags:
   - design
   - misc

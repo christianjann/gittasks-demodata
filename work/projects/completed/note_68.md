@@ -4,7 +4,7 @@ created: 2023-06-25T11:28:29.654821
 updated: 2023-10-11T11:28:29.654821
 source: https://example300.com
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - idea
   - work

@@ -3,7 +3,7 @@ title: Note 25 in misc - travel - europe
 created: 2023-02-22T11:28:29.791705
 updated: 2023-06-27T11:28:29.791705
 source: https://example785.com
-completed: no
+completed?: no
 due: 2024-01-29T11:28:29.791705
 tags:
   - draft

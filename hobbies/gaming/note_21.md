@@ -3,7 +3,7 @@ title: Note 21 in hobbies - gaming
 created: 2025-04-26T11:28:29.975208
 updated: 2026-04-24T11:28:29.975208
 source: https://example39.com
-completed: no
+completed?: no
 tags:
   - code
   - goal

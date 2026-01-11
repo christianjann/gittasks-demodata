@@ -2,7 +2,7 @@
 title: Note 30 in templates - reports
 created: 2024-09-21T11:28:29.914323
 updated: 2025-09-03T11:28:29.914323
-completed: no
+completed?: no
 tags:
   - code
 ---

@@ -3,7 +3,7 @@ title: Note 10 in learning - books - non_fiction
 created: 2025-12-06T11:28:29.824586
 updated: 2026-02-11T11:28:29.824586
 source: https://example626.com
-completed: no
+completed?: no
 tags:
   - template
   - learning

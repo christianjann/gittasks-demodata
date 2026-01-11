@@ -4,7 +4,7 @@ created: 2025-06-08T11:28:29.631320
 updated: 2025-12-03T11:28:29.631320
 source: https://example299.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - meeting
   - research

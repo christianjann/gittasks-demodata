@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 64.0977
 longitude: 9.9818
 altitude: 861
-completed: yes
+completed?: yes
 tags:
   - thought
   - health

@@ -2,7 +2,7 @@
 title: Note 27 in social - facebook
 created: 2024-04-05T11:28:29.945775
 updated: 2024-06-30T11:28:29.945775
-completed: no
+completed?: no
 due: 2025-06-30T11:28:29.945775
 ---
 

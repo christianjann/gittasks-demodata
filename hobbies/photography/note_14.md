@@ -2,7 +2,7 @@
 title: Note 14 in hobbies - photography
 created: 2025-11-28T11:28:29.972106
 updated: 2026-02-27T11:28:29.972106
-completed: no
+completed?: no
 due: 2026-04-12T11:28:29.972106
 tags:
   - code

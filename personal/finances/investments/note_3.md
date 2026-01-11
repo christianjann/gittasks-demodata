@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 51.1673
 longitude: 8.248
 altitude: 1867
-completed: yes
+completed?: yes
 due: 2024-07-17T11:28:29.608981
 tags:
   - recipe

@@ -3,7 +3,7 @@ title: Note 36 in blog - drafts
 created: 2024-01-28T11:28:29.922373
 updated: 2024-09-02T11:28:29.922373
 source: https://example607.com
-completed: no
+completed?: no
 tags:
   - urgent
   - idea

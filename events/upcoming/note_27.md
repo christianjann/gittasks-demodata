@@ -2,7 +2,7 @@
 title: Note 27 in events - upcoming
 created: 2025-01-06T11:28:29.950750
 updated: 2025-10-18T11:28:29.950750
-completed: no
+completed?: no
 due: 2026-06-18T11:28:29.950750
 ---
 

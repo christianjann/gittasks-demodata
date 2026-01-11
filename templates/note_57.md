@@ -2,7 +2,7 @@
 title: Note 57 in templates
 created: 2025-02-06T11:28:29.901701
 updated: 2025-10-30T11:28:29.901701
-completed: no
+completed?: no
 due: 2025-11-16T11:28:29.901701
 tags:
   - misc

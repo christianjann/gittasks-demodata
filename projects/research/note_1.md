@@ -3,7 +3,7 @@ title: Note 1 in projects - research
 created: 2023-03-24T11:28:29.701126
 updated: 2024-01-30T11:28:29.701126
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - learning
   - research

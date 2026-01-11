@@ -3,7 +3,7 @@ title: Note 3 in drafts
 created: 2025-10-01T11:28:29.742765
 updated: 2025-12-31T11:28:29.742765
 author: Frank Miller
-completed: yes
+completed?: yes
 tags:
   - task
   - urgent

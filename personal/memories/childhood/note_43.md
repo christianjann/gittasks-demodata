@@ -6,7 +6,7 @@ source: https://example971.com
 latitude: 15.4745
 longitude: -40.2869
 altitude: 2545
-completed: no
+completed?: no
 due: 2026-07-30T11:28:29.597307
 tags:
   - diary

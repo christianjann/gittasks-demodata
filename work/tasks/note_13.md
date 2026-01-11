@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: -64.7137
 longitude: -148.7446
 altitude: 2064
-completed: no
+completed?: no
 tags:
   - diary
 ---

@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 84.1561
 longitude: -40.7598
 altitude: 1895
-completed: no
+completed?: no
 due: 2024-02-21T11:28:29.970262
 tags:
   - blog

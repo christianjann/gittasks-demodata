@@ -5,7 +5,7 @@ updated: 2024-02-19T11:28:29.618077
 latitude: 30.2491
 longitude: -154.4159
 altitude: 3780
-completed: no
+completed?: no
 due: 2024-09-02T11:28:29.618077
 tags:
   - misc

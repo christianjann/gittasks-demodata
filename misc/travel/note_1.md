@@ -4,7 +4,7 @@ created: 2023-07-25T11:28:29.786412
 updated: 2024-06-21T11:28:29.786412
 source: https://example361.com
 author: Frank Miller
-completed: no
+completed?: no
 ---
 
 # Note 1 in misc - travel

@@ -3,7 +3,7 @@ title: Note 40 in work - meetings - quarterly
 created: 2025-11-15T11:28:29.626311
 updated: 2026-05-28T11:28:29.626311
 source: https://example412.com
-completed: no
+completed?: no
 tags:
   - recipe
   - event

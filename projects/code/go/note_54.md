@@ -2,7 +2,7 @@
 title: Note 54 in projects - code - go
 created: 2024-09-19T11:28:29.690020
 updated: 2024-09-24T11:28:29.690020
-completed: no
+completed?: no
 ---
 
 # Note 54 in projects - code - go

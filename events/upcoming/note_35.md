@@ -3,7 +3,7 @@ title: Note 35 in events - upcoming
 created: 2023-02-09T11:28:29.951185
 updated: 2023-05-07T11:28:29.951185
 author: Bob Smith
-completed: no
+completed?: no
 due: 2023-11-17T11:28:29.951185
 tags:
   - reference

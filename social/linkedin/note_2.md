@@ -5,7 +5,7 @@ updated: 2023-10-05T11:28:29.940440
 latitude: -8.5658
 longitude: 117.6504
 altitude: 2832
-completed: no
+completed?: no
 tags:
   - social
   - personal

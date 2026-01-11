@@ -3,7 +3,7 @@ title: Note 22 in learning - tutorials - text
 created: 2024-05-19T11:28:29.835381
 updated: 2024-12-03T11:28:29.835381
 author: Grace Lee
-completed: no
+completed?: no
 due: 2025-08-04T11:28:29.835381
 tags:
   - task

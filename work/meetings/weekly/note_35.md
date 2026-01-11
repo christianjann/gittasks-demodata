@@ -3,7 +3,7 @@ title: Note 35 in work - meetings - weekly
 created: 2024-09-26T11:28:29.620366
 updated: 2025-05-22T11:28:29.620366
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - template
   - diary

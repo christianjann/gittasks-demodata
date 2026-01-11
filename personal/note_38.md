@@ -4,7 +4,7 @@ created: 2025-10-12T11:28:29.563721
 updated: 2026-09-03T11:28:29.563721
 source: https://example244.com
 author: Eve Adams
-completed: yes
+completed?: yes
 tags:
   - task
   - note

@@ -6,7 +6,7 @@ source: https://example212.com
 latitude: -11.7011
 longitude: -23.0547
 altitude: 4776
-completed: yes
+completed?: yes
 due: 2025-11-23T11:28:29.855450
 tags:
   - meeting

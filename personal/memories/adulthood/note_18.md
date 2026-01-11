@@ -2,7 +2,7 @@
 title: Note 18 in personal - memories - adulthood
 created: 2024-12-03T11:28:29.599195
 updated: 2025-05-29T11:28:29.599195
-completed: no
+completed?: no
 ---
 
 # Note 18 in personal - memories - adulthood

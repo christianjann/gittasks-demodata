@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: -10.107
 longitude: 153.4087
 altitude: 3893
-completed: yes
+completed?: yes
 tags:
   - finance
   - shopping

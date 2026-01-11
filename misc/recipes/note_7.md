@@ -4,7 +4,7 @@ created: 2023-01-24T11:28:29.776368
 updated: 2023-07-30T11:28:29.776368
 source: https://example536.com
 author: Frank Miller
-completed: yes
+completed?: yes
 ---
 
 # Note 7 in misc - recipes

@@ -6,7 +6,7 @@ source: https://example355.com
 latitude: 33.9493
 longitude: 111.8776
 altitude: 3145
-completed: yes
+completed?: yes
 ---
 
 # Note 10 in hobbies - cooking

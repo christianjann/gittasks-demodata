@@ -4,7 +4,7 @@ created: 2023-04-22T11:28:29.817456
 updated: 2024-02-01T11:28:29.817456
 source: https://example399.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - travel
   - note

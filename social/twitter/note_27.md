@@ -3,7 +3,7 @@ title: Note 27 in social - twitter
 created: 2025-05-17T11:28:29.938329
 updated: 2026-03-14T11:28:29.938329
 author: Diana Prince
-completed: yes
+completed?: yes
 due: 2026-04-06T11:28:29.938329
 tags:
   - learning

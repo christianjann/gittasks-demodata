@@ -5,7 +5,7 @@ updated: 2024-07-29T11:28:29.853822
 latitude: -79.2342
 longitude: 26.5546
 altitude: 4146
-completed: yes
+completed?: yes
 tags:
   - research
   - template

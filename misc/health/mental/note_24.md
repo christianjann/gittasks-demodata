@@ -4,7 +4,7 @@ created: 2024-02-16T11:28:29.805284
 updated: 2024-06-28T11:28:29.805284
 source: https://example454.com
 author: Grace Lee
-completed: yes
+completed?: yes
 tags:
   - thought
   - archive

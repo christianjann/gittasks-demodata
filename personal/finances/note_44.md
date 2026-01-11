@@ -3,7 +3,7 @@ title: Note 44 in personal - finances
 created: 2025-11-30T11:28:29.604694
 updated: 2026-08-27T11:28:29.604694
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2027-02-14T11:28:29.604694
 tags:
   - hobby

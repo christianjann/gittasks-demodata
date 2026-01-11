@@ -3,7 +3,7 @@ title: Note 26 in work - meetings
 created: 2023-05-16T11:28:29.617406
 updated: 2024-02-18T11:28:29.617406
 source: https://example229.com
-completed: yes
+completed?: yes
 tags:
   - work
   - health

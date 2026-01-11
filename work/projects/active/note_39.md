@@ -4,7 +4,7 @@ created: 2024-03-26T11:28:29.649423
 updated: 2025-01-18T11:28:29.649423
 source: https://example471.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 ---
 
 # Note 39 in work - projects - active

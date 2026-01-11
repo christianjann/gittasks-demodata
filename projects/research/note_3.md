@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: 38.1818
 longitude: -27.9383
 altitude: 59
-completed: no
+completed?: no
 tags:
   - travel
   - research

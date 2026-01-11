@@ -2,7 +2,7 @@
 title: Note 3 in personal - diary - 2025
 created: 2025-04-02T11:28:29.576279
 updated: 2025-04-29T11:28:29.576279
-completed: yes
+completed?: yes
 ---
 
 # Note 3 in personal - diary - 2025

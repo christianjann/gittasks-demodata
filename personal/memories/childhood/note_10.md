@@ -2,7 +2,7 @@
 title: Note 10 in personal - memories - childhood
 created: 2024-06-19T11:28:29.595331
 updated: 2025-04-05T11:28:29.595331
-completed: no
+completed?: no
 ---
 
 # Note 10 in personal - memories - childhood

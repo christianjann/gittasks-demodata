@@ -4,7 +4,7 @@ created: 2025-08-10T11:28:29.833304
 updated: 2026-03-12T11:28:29.833304
 source: https://example856.com
 author: Eve Adams
-completed: yes
+completed?: yes
 tags:
   - research
   - event

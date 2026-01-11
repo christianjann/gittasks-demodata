@@ -2,7 +2,7 @@
 title: Note 9 in work - hr - training
 created: 2023-09-02T11:28:29.667468
 updated: 2024-06-26T11:28:29.667468
-completed: yes
+completed?: yes
 tags:
   - thought
 ---

@@ -3,7 +3,7 @@ title: Note 23 in work - tasks - completed
 created: 2024-08-07T11:28:29.639248
 updated: 2024-10-03T11:28:29.639248
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - research
 ---

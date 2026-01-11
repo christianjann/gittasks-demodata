@@ -3,7 +3,7 @@ title: Note 33 in journal - yearly
 created: 2025-11-15T11:28:29.879354
 updated: 2026-09-05T11:28:29.879354
 source: https://example20.com
-completed: yes
+completed?: yes
 due: 2027-06-15T11:28:29.879354
 tags:
   - health

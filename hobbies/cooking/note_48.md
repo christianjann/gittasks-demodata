@@ -3,7 +3,7 @@ title: Note 48 in hobbies - cooking
 created: 2024-07-29T11:28:29.983906
 updated: 2024-08-12T11:28:29.983906
 source: https://example786.com
-completed: no
+completed?: no
 due: 2024-10-04T11:28:29.983906
 tags:
   - diary

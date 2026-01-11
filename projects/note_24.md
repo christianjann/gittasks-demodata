@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 15.923
 longitude: 19.0792
 altitude: 4291
-completed: no
+completed?: no
 ---
 
 # Note 24 in projects

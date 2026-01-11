@@ -3,7 +3,7 @@ title: Note 56 in personal - finances
 created: 2023-06-10T11:28:29.605403
 updated: 2023-07-14T11:28:29.605403
 author: Charlie Brown
-completed: no
+completed?: no
 tags:
   - travel
   - event

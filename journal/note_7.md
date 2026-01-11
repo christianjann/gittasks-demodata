@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: -35.2796
 longitude: 100.8031
 altitude: 1629
-completed: yes
+completed?: yes
 due: 2025-12-02T11:28:29.863942
 ---
 

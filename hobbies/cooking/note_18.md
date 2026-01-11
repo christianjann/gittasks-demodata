@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: 35.1105
 longitude: 107.063
 altitude: 2081
-completed: yes
+completed?: yes
 ---
 
 # Note 18 in hobbies - cooking

@@ -6,7 +6,7 @@ source: https://example784.com
 latitude: -75.6683
 longitude: -93.0638
 altitude: 3579
-completed: yes
+completed?: yes
 tags:
   - shopping
 ---

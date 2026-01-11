@@ -4,7 +4,7 @@ created: 2023-11-06T11:28:29.745439
 updated: 2024-10-08T11:28:29.745439
 source: https://example608.com
 author: Bob Smith
-completed: yes
+completed?: yes
 ---
 
 # Note 43 in drafts

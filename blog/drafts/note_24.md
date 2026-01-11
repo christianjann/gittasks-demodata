@@ -6,7 +6,7 @@ source: https://example987.com
 latitude: -86.1344
 longitude: -81.6986
 altitude: 1787
-completed: yes
+completed?: yes
 tags:
   - note
   - design

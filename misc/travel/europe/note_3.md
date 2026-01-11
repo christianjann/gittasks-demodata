@@ -3,7 +3,7 @@ title: Note 3 in misc - travel - europe
 created: 2024-04-29T11:28:29.790487
 updated: 2024-09-07T11:28:29.790487
 source: https://example338.com
-completed: no
+completed?: no
 tags:
   - hobby
   - template

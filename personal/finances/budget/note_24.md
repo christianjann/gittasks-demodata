@@ -2,7 +2,7 @@
 title: Note 24 in personal - finances - budget
 created: 2023-05-21T11:28:29.606934
 updated: 2024-01-09T11:28:29.606934
-completed: yes
+completed?: yes
 due: 2024-08-17T11:28:29.606934
 tags:
   - draft

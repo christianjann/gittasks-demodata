@@ -5,7 +5,7 @@ updated: 2024-11-08T11:28:29.893355
 latitude: -39.9535
 longitude: 23.8826
 altitude: 3993
-completed: no
+completed?: no
 tags:
   - health
   - goal

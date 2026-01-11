@@ -6,7 +6,7 @@ source: https://example19.com
 latitude: -43.2831
 longitude: -170.3814
 altitude: 1462
-completed: no
+completed?: no
 ---
 
 # Note 20 in learning - courses

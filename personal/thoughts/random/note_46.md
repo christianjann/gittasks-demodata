@@ -3,7 +3,7 @@ title: Note 46 in personal - thoughts - random
 created: 2024-02-22T11:28:29.585165
 updated: 2024-10-13T11:28:29.585165
 source: https://example564.com
-completed: no
+completed?: no
 due: 2025-08-29T11:28:29.585165
 tags:
   - journal

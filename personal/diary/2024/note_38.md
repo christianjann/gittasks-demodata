@@ -5,7 +5,7 @@ updated: 2025-06-27T11:28:29.575490
 latitude: 49.4351
 longitude: 157.6597
 altitude: 4531
-completed: yes
+completed?: yes
 tags:
   - health
 ---

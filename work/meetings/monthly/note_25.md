@@ -4,7 +4,7 @@ created: 2023-09-05T11:28:29.622881
 updated: 2024-08-10T11:28:29.622881
 source: https://example362.com
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - design
   - goal

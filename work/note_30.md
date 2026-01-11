@@ -3,7 +3,7 @@ title: Note 30 in work
 created: 2023-10-25T11:28:29.614678
 updated: 2024-02-25T11:28:29.614678
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2024-04-23T11:28:29.614678
 ---
 

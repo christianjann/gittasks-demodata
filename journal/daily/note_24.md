@@ -3,7 +3,7 @@ title: Note 24 in journal - daily
 created: 2024-01-19T11:28:29.869690
 updated: 2024-09-30T11:28:29.869690
 source: https://example336.com
-completed: yes
+completed?: yes
 due: 2024-12-06T11:28:29.869690
 ---
 

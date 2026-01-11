@@ -2,7 +2,7 @@
 title: Note 31 in drafts - outlines - reports
 created: 2024-09-09T11:28:29.771284
 updated: 2025-01-26T11:28:29.771284
-completed: yes
+completed?: yes
 tags:
   - finance
 ---

@@ -4,7 +4,7 @@ created: 2025-11-23T11:28:29.844042
 updated: 2026-03-19T11:28:29.844042
 source: https://example602.com
 author: Henry Wilson
-completed: no
+completed?: no
 due: 2026-08-21T11:28:29.844042
 tags:
   - note

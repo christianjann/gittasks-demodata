@@ -3,7 +3,7 @@ title: Note 14 in projects - code - python
 created: 2025-07-04T11:28:29.678938
 updated: 2025-07-25T11:28:29.678938
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2026-04-20T11:28:29.678938
 ---
 

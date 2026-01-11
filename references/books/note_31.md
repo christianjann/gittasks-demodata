@@ -5,7 +5,7 @@ updated: 2026-03-16T11:28:29.891005
 latitude: 9.9186
 longitude: -45.6189
 altitude: 2959
-completed: yes
+completed?: yes
 due: 2026-11-01T11:28:29.891005
 tags:
   - diary

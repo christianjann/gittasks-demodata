@@ -4,7 +4,7 @@ created: 2025-06-21T11:28:29.886539
 updated: 2025-07-23T11:28:29.886539
 source: https://example319.com
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2025-12-06T11:28:29.886539
 tags:
   - shopping

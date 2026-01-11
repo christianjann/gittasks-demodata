@@ -2,7 +2,7 @@
 title: Note 2 in projects - code - javascript
 created: 2023-08-15T11:28:29.681686
 updated: 2024-01-10T11:28:29.681686
-completed: no
+completed?: no
 due: 2024-08-31T11:28:29.681686
 tags:
   - misc

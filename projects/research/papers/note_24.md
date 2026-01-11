@@ -4,7 +4,7 @@ created: 2024-07-21T11:28:29.706362
 updated: 2024-11-25T11:28:29.706362
 source: https://example536.com
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - diary
   - design

@@ -3,7 +3,7 @@ title: Note 14 in journal
 created: 2024-06-19T11:28:29.864348
 updated: 2025-03-28T11:28:29.864348
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - hobby
   - thought

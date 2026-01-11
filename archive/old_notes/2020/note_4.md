@@ -3,7 +3,7 @@ title: Note 4 in archive - old_notes - 2020
 created: 2025-06-10T11:28:29.725765
 updated: 2025-07-08T11:28:29.725765
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - reference
   - blog

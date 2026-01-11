@@ -3,7 +3,7 @@ title: Note 25 in learning - books - non_fiction
 created: 2024-10-18T11:28:29.825413
 updated: 2025-06-30T11:28:29.825413
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2025-10-31T11:28:29.825413
 tags:
   - template

@@ -5,7 +5,7 @@ updated: 2026-03-17T11:28:29.619012
 latitude: -0.8618
 longitude: 80.1054
 altitude: 4323
-completed: no
+completed?: no
 tags:
   - design
   - idea

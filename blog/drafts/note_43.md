@@ -3,7 +3,7 @@ title: Note 43 in blog - drafts
 created: 2025-02-23T11:28:29.922838
 updated: 2025-07-22T11:28:29.922838
 source: https://example32.com
-completed: no
+completed?: no
 due: 2026-04-23T11:28:29.922838
 tags:
   - work

@@ -4,7 +4,7 @@ created: 2024-09-06T11:28:29.851404
 updated: 2024-09-12T11:28:29.851404
 source: https://example234.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 ---
 
 # Note 22 in goals

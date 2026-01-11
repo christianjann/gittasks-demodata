@@ -6,7 +6,7 @@ source: https://example394.com
 latitude: -80.7242
 longitude: 16.5123
 altitude: 2301
-completed: yes
+completed?: yes
 due: 2024-10-01T11:28:29.953032
 tags:
   - meeting

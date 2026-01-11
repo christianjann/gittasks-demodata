@@ -2,7 +2,7 @@
 title: Note 21 in journal - weekly
 created: 2025-04-11T11:28:29.872575
 updated: 2025-11-08T11:28:29.872575
-completed: no
+completed?: no
 tags:
   - task
   - health

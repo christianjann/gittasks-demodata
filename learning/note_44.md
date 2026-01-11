@@ -4,7 +4,7 @@ created: 2025-02-09T11:28:29.809665
 updated: 2025-07-01T11:28:29.809665
 source: https://example381.com
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - code
   - diary

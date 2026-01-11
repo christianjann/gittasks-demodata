@@ -3,7 +3,7 @@ title: Note 40 in events - upcoming
 created: 2024-03-19T11:28:29.951493
 updated: 2024-04-29T11:28:29.951493
 source: https://example387.com
-completed: yes
+completed?: yes
 due: 2025-03-29T11:28:29.951493
 ---
 

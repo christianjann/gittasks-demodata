@@ -3,7 +3,7 @@ title: Note 32 in goals - short_term
 created: 2023-03-13T11:28:29.854842
 updated: 2024-01-22T11:28:29.854842
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2024-12-15T11:28:29.854842
 tags:
   - idea

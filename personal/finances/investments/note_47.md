@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: -82.7217
 longitude: -177.4012
 altitude: 1437
-completed: yes
+completed?: yes
 tags:
   - diary
   - shopping

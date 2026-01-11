@@ -2,7 +2,7 @@
 title: Note 29 in learning - books
 created: 2023-03-02T11:28:29.820373
 updated: 2024-02-03T11:28:29.820373
-completed: no
+completed?: no
 due: 2025-01-20T11:28:29.820373
 ---
 

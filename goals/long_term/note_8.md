@@ -2,7 +2,7 @@
 title: Note 8 in goals - long_term
 created: 2024-06-10T11:28:29.857440
 updated: 2025-04-09T11:28:29.857440
-completed: yes
+completed?: yes
 tags:
   - shopping
 ---

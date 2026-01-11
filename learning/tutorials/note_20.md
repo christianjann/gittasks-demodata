@@ -2,7 +2,7 @@
 title: Note 20 in learning - tutorials
 created: 2023-02-15T11:28:29.829279
 updated: 2024-02-01T11:28:29.829279
-completed: yes
+completed?: yes
 due: 2024-03-18T11:28:29.829279
 tags:
   - work

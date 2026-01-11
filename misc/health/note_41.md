@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: 70.5264
 longitude: -172.9771
 altitude: 3320
-completed: yes
+completed?: yes
 tags:
   - urgent
   - diary

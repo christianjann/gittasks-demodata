@@ -3,7 +3,7 @@ title: Note 41 in misc - travel
 created: 2023-05-09T11:28:29.789064
 updated: 2023-11-25T11:28:29.789064
 source: https://example639.com
-completed: yes
+completed?: yes
 tags:
   - finance
 ---

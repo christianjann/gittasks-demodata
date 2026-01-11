@@ -3,7 +3,7 @@ title: Note 38 in archive
 created: 2025-12-17T11:28:29.717598
 updated: 2026-05-16T11:28:29.717598
 source: https://example616.com
-completed: yes
+completed?: yes
 due: 2026-10-23T11:28:29.717598
 tags:
   - blog

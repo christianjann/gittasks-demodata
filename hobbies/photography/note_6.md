@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -10.7623
 longitude: 53.8763
 altitude: 2519
-completed: no
+completed?: no
 ---
 
 # Note 6 in hobbies - photography

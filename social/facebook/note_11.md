@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 7.1526
 longitude: 146.5439
 altitude: 4004
-completed: yes
+completed?: yes
 tags:
   - learning
   - reference

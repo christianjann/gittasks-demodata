@@ -2,7 +2,7 @@
 title: Note 20 in misc - travel
 created: 2025-03-09T11:28:29.787567
 updated: 2025-08-07T11:28:29.787567
-completed: yes
+completed?: yes
 due: 2026-06-07T11:28:29.787567
 tags:
   - research

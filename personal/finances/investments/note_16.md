@@ -4,7 +4,7 @@ created: 2025-01-04T11:28:29.609711
 updated: 2025-01-25T11:28:29.609711
 source: https://example694.com
 author: Diana Prince
-completed: no
+completed?: no
 due: 2026-01-02T11:28:29.609711
 tags:
   - design

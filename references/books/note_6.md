@@ -3,7 +3,7 @@ title: Note 6 in references - books
 created: 2024-07-18T11:28:29.888889
 updated: 2025-02-10T11:28:29.888889
 source: https://example601.com
-completed: no
+completed?: no
 due: 2025-10-28T11:28:29.888889
 tags:
   - code

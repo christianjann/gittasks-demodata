@@ -3,7 +3,7 @@ title: Note 39 in references - podcasts
 created: 2023-05-28T11:28:29.897822
 updated: 2024-01-04T11:28:29.897822
 author: Charlie Brown
-completed: yes
+completed?: yes
 ---
 
 # Note 39 in references - podcasts

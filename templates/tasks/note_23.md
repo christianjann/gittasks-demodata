@@ -3,7 +3,7 @@ title: Note 23 in templates - tasks
 created: 2023-11-14T11:28:29.906094
 updated: 2024-04-24T11:28:29.906094
 source: https://example423.com
-completed: no
+completed?: no
 due: 2024-11-03T11:28:29.906094
 tags:
   - learning

@@ -4,7 +4,7 @@ created: 2024-04-11T11:28:29.947968
 updated: 2024-04-20T11:28:29.947968
 source: https://example23.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2024-12-09T11:28:29.947968
 tags:
   - template

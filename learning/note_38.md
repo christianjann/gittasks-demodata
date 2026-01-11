@@ -3,7 +3,7 @@ title: Note 38 in learning
 created: 2023-07-21T11:28:29.809329
 updated: 2024-01-02T11:28:29.809329
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - meeting
 ---

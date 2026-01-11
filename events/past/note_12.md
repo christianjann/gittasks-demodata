@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -13.5365
 longitude: 116.3696
 altitude: 3606
-completed: yes
+completed?: yes
 tags:
   - health
   - finance

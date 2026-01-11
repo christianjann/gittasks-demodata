@@ -6,7 +6,7 @@ source: https://example377.com
 latitude: -60.7907
 longitude: 110.4346
 altitude: 1840
-completed: no
+completed?: no
 due: 2024-05-07T11:28:29.791357
 tags:
   - task

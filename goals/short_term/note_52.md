@@ -5,7 +5,7 @@ updated: 2026-08-03T11:28:29.856007
 latitude: 81.7268
 longitude: 38.0527
 altitude: 207
-completed: yes
+completed?: yes
 tags:
   - personal
   - blog

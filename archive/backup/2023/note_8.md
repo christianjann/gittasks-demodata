@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 78.772
 longitude: -57.5816
 altitude: 4146
-completed: yes
+completed?: yes
 due: 2026-05-13T11:28:29.739194
 tags:
   - design

@@ -3,7 +3,7 @@ title: Note 47 in shopping - lists
 created: 2025-11-04T11:28:29.964960
 updated: 2026-06-12T11:28:29.964960
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2026-07-16T11:28:29.964960
 tags:
   - hobby

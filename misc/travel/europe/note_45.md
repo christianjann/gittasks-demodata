@@ -3,7 +3,7 @@ title: Note 45 in misc - travel - europe
 created: 2023-10-23T11:28:29.792876
 updated: 2024-09-08T11:28:29.792876
 author: Henry Wilson
-completed: yes
+completed?: yes
 ---
 
 # Note 45 in misc - travel - europe

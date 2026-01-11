@@ -2,7 +2,7 @@
 title: Note 15 in personal - thoughts - inspirations
 created: 2023-03-13T11:28:29.587493
 updated: 2023-11-01T11:28:29.587493
-completed: no
+completed?: no
 ---
 
 # Note 15 in personal - thoughts - inspirations

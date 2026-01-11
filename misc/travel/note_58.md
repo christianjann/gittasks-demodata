@@ -6,7 +6,7 @@ source: https://example1000.com
 latitude: 35.9234
 longitude: 49.3951
 altitude: 242
-completed: no
+completed?: no
 tags:
   - reference
   - recipe

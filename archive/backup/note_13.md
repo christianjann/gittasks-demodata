@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -89.9439
 longitude: 57.2123
 altitude: 1215
-completed: no
+completed?: no
 ---
 
 # Note 13 in archive - backup

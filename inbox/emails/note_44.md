@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -34.8561
 longitude: 88.7429
 altitude: 841
-completed: yes
+completed?: yes
 tags:
   - work
   - urgent

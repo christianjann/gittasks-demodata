@@ -3,7 +3,7 @@ title: Note 9 in projects - code - java
 created: 2025-12-14T11:28:29.684608
 updated: 2026-08-03T11:28:29.684608
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2026-09-29T11:28:29.684608
 tags:
   - finance

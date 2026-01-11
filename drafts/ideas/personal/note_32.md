@@ -4,7 +4,7 @@ created: 2023-11-26T11:28:29.759163
 updated: 2024-01-27T11:28:29.759163
 source: https://example548.com
 author: Charlie Brown
-completed: no
+completed?: no
 due: 2024-08-07T11:28:29.759163
 tags:
   - finance

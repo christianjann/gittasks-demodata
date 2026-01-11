@@ -3,7 +3,7 @@ title: Note 38 in work - projects
 created: 2025-09-12T11:28:29.645136
 updated: 2026-07-30T11:28:29.645136
 source: https://example352.com
-completed: no
+completed?: no
 tags:
   - social
   - diary

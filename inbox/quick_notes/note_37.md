@@ -2,7 +2,7 @@
 title: Note 37 in inbox - quick_notes
 created: 2024-05-04T11:28:29.840970
 updated: 2024-11-16T11:28:29.840970
-completed: no
+completed?: no
 tags:
   - reference
   - learning

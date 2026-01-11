@@ -4,7 +4,7 @@ created: 2023-03-29T11:28:29.799347
 updated: 2023-12-21T11:28:29.799347
 source: https://example170.com
 author: Bob Smith
-completed: no
+completed?: no
 due: 2024-04-04T11:28:29.799347
 ---
 

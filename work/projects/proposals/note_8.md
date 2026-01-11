@@ -2,7 +2,7 @@
 title: Note 8 in work - projects - proposals
 created: 2024-08-16T11:28:29.655467
 updated: 2025-04-24T11:28:29.655467
-completed: yes
+completed?: yes
 tags:
   - template
 ---

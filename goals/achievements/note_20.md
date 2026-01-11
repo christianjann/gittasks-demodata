@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: -85.2394
 longitude: -151.4956
 altitude: 1381
-completed: yes
+completed?: yes
 due: 2027-03-15T11:28:29.862222
 tags:
   - misc

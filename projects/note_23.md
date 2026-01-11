@@ -2,7 +2,7 @@
 title: Note 23 in projects
 created: 2024-05-03T11:28:29.671795
 updated: 2024-10-11T11:28:29.671795
-completed: yes
+completed?: yes
 due: 2025-02-06T11:28:29.671795
 ---
 

@@ -2,7 +2,7 @@
 title: Note 52 in social
 created: 2023-09-09T11:28:29.935565
 updated: 2024-07-13T11:28:29.935565
-completed: no
+completed?: no
 due: 2024-08-16T11:28:29.935565
 tags:
   - travel

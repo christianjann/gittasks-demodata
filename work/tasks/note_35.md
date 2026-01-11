@@ -3,7 +3,7 @@ title: Note 35 in work - tasks
 created: 2024-10-24T11:28:29.628970
 updated: 2025-05-06T11:28:29.628970
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2025-12-29T11:28:29.628970
 tags:
   - journal

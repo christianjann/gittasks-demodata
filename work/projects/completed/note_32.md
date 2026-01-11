@@ -3,7 +3,7 @@ title: Note 32 in work - projects - completed
 created: 2025-10-17T11:28:29.652631
 updated: 2026-09-12T11:28:29.652631
 source: https://example392.com
-completed: yes
+completed?: yes
 due: 2027-03-10T11:28:29.652631
 tags:
   - travel

@@ -3,7 +3,7 @@ title: Note 11 in journal - weekly
 created: 2024-03-19T11:28:29.871942
 updated: 2024-07-25T11:28:29.871942
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2025-05-04T11:28:29.871942
 tags:
   - research

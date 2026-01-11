@@ -3,7 +3,7 @@ title: Note 39 in drafts - outlines
 created: 2025-02-19T11:28:29.761992
 updated: 2025-06-13T11:28:29.761992
 source: https://example657.com
-completed: yes
+completed?: yes
 due: 2025-06-23T11:28:29.761992
 tags:
   - misc

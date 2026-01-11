@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: -3.0971
 longitude: -47.2032
 altitude: 228
-completed: yes
+completed?: yes
 tags:
   - archive
   - thought

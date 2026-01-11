@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: -47.1906
 longitude: 176.1192
 altitude: 1644
-completed: yes
+completed?: yes
 tags:
   - reference
   - design

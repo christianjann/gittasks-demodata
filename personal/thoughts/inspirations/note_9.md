@@ -3,7 +3,7 @@ title: Note 9 in personal - thoughts - inspirations
 created: 2024-03-10T11:28:29.587123
 updated: 2024-06-12T11:28:29.587123
 source: https://example287.com
-completed: yes
+completed?: yes
 due: 2024-11-27T11:28:29.587123
 tags:
   - task

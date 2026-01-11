@@ -3,7 +3,7 @@ title: Note 46 in events - past
 created: 2023-03-16T11:28:29.954909
 updated: 2023-04-27T11:28:29.954909
 source: https://example863.com
-completed: no
+completed?: no
 ---
 
 # Note 46 in events - past

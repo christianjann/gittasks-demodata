@@ -3,7 +3,7 @@ title: Note 26 in events
 created: 2024-01-30T11:28:29.948082
 updated: 2024-12-16T11:28:29.948082
 source: https://example670.com
-completed: no
+completed?: no
 tags:
   - shopping
 ---

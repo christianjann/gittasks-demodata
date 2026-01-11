@@ -6,7 +6,7 @@ source: https://example993.com
 latitude: -71.0323
 longitude: -83.65
 altitude: 1041
-completed: no
+completed?: no
 due: 2026-06-27T11:28:29.896532
 tags:
   - personal

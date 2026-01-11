@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 56.9509
 longitude: -77.5979
 altitude: 2109
-completed: no
+completed?: no
 tags:
   - social
   - draft

@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 12.6173
 longitude: -58.2004
 altitude: 2600
-completed: no
+completed?: no
 ---
 
 # Note 17 in work - hr - training

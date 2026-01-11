@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: -70.3009
 longitude: 105.6717
 altitude: 2535
-completed: yes
+completed?: yes
 ---
 
 # Note 60 in drafts - outlines

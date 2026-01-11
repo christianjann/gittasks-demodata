@@ -2,7 +2,7 @@
 title: Note 42 in work - hr - training
 created: 2025-10-23T11:28:29.669727
 updated: 2026-03-25T11:28:29.669727
-completed: no
+completed?: no
 tags:
   - learning
   - thought

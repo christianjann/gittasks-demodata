@@ -3,7 +3,7 @@ title: Note 17 in drafts
 created: 2023-11-26T11:28:29.743596
 updated: 2024-10-23T11:28:29.743596
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - draft
   - thought

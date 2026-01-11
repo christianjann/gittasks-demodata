@@ -6,7 +6,7 @@ source: https://example494.com
 latitude: 54.7658
 longitude: 67.6544
 altitude: 1528
-completed: no
+completed?: no
 tags:
   - recipe
 ---

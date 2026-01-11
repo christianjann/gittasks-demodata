@@ -6,7 +6,7 @@ source: https://example492.com
 latitude: -71.8526
 longitude: -42.1157
 altitude: 635
-completed: yes
+completed?: yes
 due: 2026-05-22T11:28:29.776695
 tags:
   - code

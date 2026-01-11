@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -36.8152
 longitude: 129.4451
 altitude: 4229
-completed: no
+completed?: no
 tags:
   - event
   - research

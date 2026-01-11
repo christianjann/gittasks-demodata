@@ -3,7 +3,7 @@ title: Note 32 in blog - ideas
 created: 2025-04-21T11:28:29.930151
 updated: 2026-04-16T11:28:29.930151
 source: https://example636.com
-completed: yes
+completed?: yes
 due: 2026-11-24T11:28:29.930151
 tags:
   - work

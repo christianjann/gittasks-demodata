@@ -4,7 +4,7 @@ created: 2024-12-20T11:28:29.665819
 updated: 2025-04-16T11:28:29.665819
 source: https://example776.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - thought
   - finance

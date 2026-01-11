@@ -3,7 +3,7 @@ title: Note 24 in templates - tasks
 created: 2024-07-20T11:28:29.906153
 updated: 2024-12-12T11:28:29.906153
 source: https://example897.com
-completed: no
+completed?: no
 tags:
   - idea
   - meeting

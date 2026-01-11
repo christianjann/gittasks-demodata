@@ -6,7 +6,7 @@ source: https://example100.com
 latitude: -79.6908
 longitude: 3.5852
 altitude: 4121
-completed: yes
+completed?: yes
 tags:
   - hobby
   - journal

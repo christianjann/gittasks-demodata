@@ -5,7 +5,7 @@ updated: 2024-05-15T11:28:29.676831
 latitude: -43.8419
 longitude: -84.9786
 altitude: 1674
-completed: yes
+completed?: yes
 due: 2024-07-26T11:28:29.676831
 tags:
   - task

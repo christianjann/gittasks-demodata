@@ -4,7 +4,7 @@ created: 2025-03-22T11:28:29.604420
 updated: 2025-10-22T11:28:29.604420
 source: https://example568.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 ---
 
 # Note 39 in personal - finances

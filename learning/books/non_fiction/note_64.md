@@ -3,7 +3,7 @@ title: Note 64 in learning - books - non_fiction
 created: 2024-01-24T11:28:29.827824
 updated: 2024-10-28T11:28:29.827824
 source: https://example62.com
-completed: no
+completed?: no
 tags:
   - shopping
   - recipe

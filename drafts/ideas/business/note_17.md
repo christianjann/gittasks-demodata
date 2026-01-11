@@ -3,7 +3,7 @@ title: Note 17 in drafts - ideas - business
 created: 2025-06-06T11:28:29.754699
 updated: 2026-02-03T11:28:29.754699
 author: Grace Lee
-completed: yes
+completed?: yes
 ---
 
 # Note 17 in drafts - ideas - business

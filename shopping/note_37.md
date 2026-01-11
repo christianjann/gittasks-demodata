@@ -2,7 +2,7 @@
 title: Note 37 in shopping
 created: 2023-03-19T11:28:29.961947
 updated: 2023-12-31T11:28:29.961947
-completed: yes
+completed?: yes
 due: 2024-03-19T11:28:29.961947
 tags:
   - event

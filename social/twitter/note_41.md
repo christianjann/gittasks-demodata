@@ -4,7 +4,7 @@ created: 2023-06-23T11:28:29.939191
 updated: 2023-07-02T11:28:29.939191
 source: https://example233.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2024-05-20T11:28:29.939191
 tags:
   - hobby

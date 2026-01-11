@@ -2,7 +2,7 @@
 title: Note 13 in inbox - emails
 created: 2024-08-20T11:28:29.847294
 updated: 2024-11-09T11:28:29.847294
-completed: yes
+completed?: yes
 tags:
   - draft
   - meeting

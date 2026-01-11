@@ -2,7 +2,7 @@
 title: Note 55 in hobbies - reading
 created: 2025-08-15T11:28:29.980196
 updated: 2025-11-08T11:28:29.980196
-completed: no
+completed?: no
 tags:
   - idea
 ---

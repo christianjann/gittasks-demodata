@@ -2,7 +2,7 @@
 title: Note 7 in blog - ideas
 created: 2023-03-04T11:28:29.928351
 updated: 2024-01-10T11:28:29.928351
-completed: no
+completed?: no
 due: 2024-10-26T11:28:29.928351
 tags:
   - note

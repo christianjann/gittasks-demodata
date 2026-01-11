@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: -27.3721
 longitude: -90.0556
 altitude: 1041
-completed: yes
+completed?: yes
 tags:
   - health
   - code

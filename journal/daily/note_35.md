@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 44.8117
 longitude: -85.719
 altitude: 2374
-completed: yes
+completed?: yes
 tags:
   - urgent
   - journal

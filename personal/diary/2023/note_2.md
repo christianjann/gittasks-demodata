@@ -3,7 +3,7 @@ title: Note 2 in personal - diary - 2023
 created: 2023-11-06T11:28:29.569424
 updated: 2024-11-01T11:28:29.569424
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - draft
   - shopping

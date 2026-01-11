@@ -4,7 +4,7 @@ created: 2023-05-18T11:28:29.804401
 updated: 2023-05-31T11:28:29.804401
 source: https://example505.com
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2023-09-17T11:28:29.804401
 tags:
   - social

@@ -3,7 +3,7 @@ title: Note 47 in misc - recipes - dinner
 created: 2023-09-16T11:28:29.785673
 updated: 2024-01-18T11:28:29.785673
 source: https://example417.com
-completed: yes
+completed?: yes
 tags:
   - hobby
 ---

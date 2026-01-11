@@ -3,7 +3,7 @@ title: Note 17 in work - meetings - monthly
 created: 2025-08-29T11:28:29.622396
 updated: 2025-12-17T11:28:29.622396
 source: https://example830.com
-completed: yes
+completed?: yes
 ---
 
 # Note 17 in work - meetings - monthly

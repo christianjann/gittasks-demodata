@@ -3,7 +3,7 @@ title: Note 47 in work - hr - policies
 created: 2023-05-22T11:28:29.666635
 updated: 2023-08-13T11:28:29.666635
 source: https://example429.com
-completed: no
+completed?: no
 tags:
   - blog
   - journal

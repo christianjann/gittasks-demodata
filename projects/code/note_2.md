@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -65.8687
 longitude: 45.9765
 altitude: 1882
-completed: no
+completed?: no
 tags:
   - event
   - learning

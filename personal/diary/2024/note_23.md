@@ -2,7 +2,7 @@
 title: Note 23 in personal - diary - 2024
 created: 2025-11-05T11:28:29.574419
 updated: 2026-06-04T11:28:29.574419
-completed: no
+completed?: no
 due: 2026-09-15T11:28:29.574419
 tags:
   - template

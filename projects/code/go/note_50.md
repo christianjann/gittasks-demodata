@@ -2,7 +2,7 @@
 title: Note 50 in projects - code - go
 created: 2024-11-20T11:28:29.689797
 updated: 2025-07-16T11:28:29.689797
-completed: no
+completed?: no
 tags:
   - thought
   - draft

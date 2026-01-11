@@ -2,7 +2,7 @@
 title: Note 16 in templates
 created: 2025-12-29T11:28:29.899026
 updated: 2026-02-06T11:28:29.899026
-completed: no
+completed?: no
 due: 2026-06-29T11:28:29.899026
 tags:
   - task

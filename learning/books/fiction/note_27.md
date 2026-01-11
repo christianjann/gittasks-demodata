@@ -2,7 +2,7 @@
 title: Note 27 in learning - books - fiction
 created: 2023-04-10T11:28:29.822628
 updated: 2023-08-22T11:28:29.822628
-completed: yes
+completed?: yes
 tags:
   - task
   - draft

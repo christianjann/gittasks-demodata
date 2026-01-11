@@ -2,7 +2,7 @@
 title: Note 27 in drafts - outlines
 created: 2025-03-20T11:28:29.761267
 updated: 2026-01-24T11:28:29.761267
-completed: yes
+completed?: yes
 due: 2027-01-04T11:28:29.761267
 ---
 

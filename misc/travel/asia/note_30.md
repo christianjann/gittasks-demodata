@@ -6,7 +6,7 @@ source: https://example520.com
 latitude: -53.2629
 longitude: 15.0783
 altitude: 4131
-completed: yes
+completed?: yes
 due: 2026-03-29T11:28:29.795318
 tags:
   - urgent

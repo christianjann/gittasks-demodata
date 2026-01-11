@@ -3,7 +3,7 @@ title: Note 50 in social - twitter
 created: 2023-09-30T11:28:29.939897
 updated: 2023-10-25T11:28:29.939897
 source: https://example480.com
-completed: no
+completed?: no
 tags:
   - archive
   - blog

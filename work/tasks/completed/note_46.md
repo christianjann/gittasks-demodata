@@ -3,7 +3,7 @@ title: Note 46 in work - tasks - completed
 created: 2025-01-24T11:28:29.641049
 updated: 2025-03-01T11:28:29.641049
 source: https://example904.com
-completed: no
+completed?: no
 tags:
   - event
   - urgent

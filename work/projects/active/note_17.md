@@ -6,7 +6,7 @@ source: https://example830.com
 latitude: -26.9589
 longitude: -98.843
 altitude: 3425
-completed: yes
+completed?: yes
 tags:
   - travel
   - social

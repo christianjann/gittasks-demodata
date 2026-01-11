@@ -4,7 +4,7 @@ created: 2025-11-08T11:28:29.640448
 updated: 2025-11-19T11:28:29.640448
 source: https://example564.com
 author: Bob Smith
-completed: no
+completed?: no
 due: 2026-08-15T11:28:29.640448
 tags:
   - finance

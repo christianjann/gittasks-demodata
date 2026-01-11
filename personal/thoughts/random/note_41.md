@@ -3,7 +3,7 @@ title: Note 41 in personal - thoughts - random
 created: 2025-01-14T11:28:29.584864
 updated: 2026-01-08T11:28:29.584864
 source: https://example570.com
-completed: no
+completed?: no
 tags:
   - note
 ---

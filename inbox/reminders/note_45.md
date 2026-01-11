@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 29.1295
 longitude: -151.1557
 altitude: 1214
-completed: no
+completed?: no
 ---
 
 # Note 45 in inbox - reminders

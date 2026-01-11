@@ -6,7 +6,7 @@ source: https://example791.com
 latitude: 89.593
 longitude: 10.7168
 altitude: 1433
-completed: yes
+completed?: yes
 ---
 
 # Note 48 in misc - travel

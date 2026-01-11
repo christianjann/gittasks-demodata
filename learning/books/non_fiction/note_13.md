@@ -3,7 +3,7 @@ title: Note 13 in learning - books - non_fiction
 created: 2025-02-04T11:28:29.824752
 updated: 2025-03-23T11:28:29.824752
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2025-05-11T11:28:29.824752
 tags:
   - design

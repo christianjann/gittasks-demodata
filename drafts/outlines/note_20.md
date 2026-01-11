@@ -2,7 +2,7 @@
 title: Note 20 in drafts - outlines
 created: 2024-04-13T11:28:29.760767
 updated: 2025-02-08T11:28:29.760767
-completed: no
+completed?: no
 tags:
   - personal
 ---

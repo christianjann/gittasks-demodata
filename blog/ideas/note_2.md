@@ -3,7 +3,7 @@ title: Note 2 in blog - ideas
 created: 2024-10-23T11:28:29.927912
 updated: 2025-09-15T11:28:29.927912
 source: https://example274.com
-completed: yes
+completed?: yes
 ---
 
 # Note 2 in blog - ideas

@@ -3,7 +3,7 @@ title: Note 69 in work - projects - completed
 created: 2024-10-11T11:28:29.654881
 updated: 2025-03-12T11:28:29.654881
 author: Ivy Chen
-completed: no
+completed?: no
 ---
 
 # Note 69 in work - projects - completed

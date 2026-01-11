@@ -3,7 +3,7 @@ title: Note 53 in personal - thoughts - random
 created: 2024-08-20T11:28:29.585663
 updated: 2025-03-22T11:28:29.585663
 source: https://example339.com
-completed: yes
+completed?: yes
 ---
 
 # Note 53 in personal - thoughts - random

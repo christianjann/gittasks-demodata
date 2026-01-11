@@ -4,7 +4,7 @@ created: 2024-02-13T11:28:29.609042
 updated: 2024-04-16T11:28:29.609042
 source: https://example560.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - social
 ---

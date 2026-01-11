@@ -3,7 +3,7 @@ title: Note 21 in projects - code - javascript
 created: 2024-10-17T11:28:29.682808
 updated: 2025-07-03T11:28:29.682808
 source: https://example310.com
-completed: no
+completed?: no
 tags:
   - idea
   - travel

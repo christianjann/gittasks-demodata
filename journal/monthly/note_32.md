@@ -3,7 +3,7 @@ title: Note 32 in journal - monthly
 created: 2025-10-25T11:28:29.876307
 updated: 2026-05-03T11:28:29.876307
 source: https://example860.com
-completed: no
+completed?: no
 tags:
   - personal
   - design

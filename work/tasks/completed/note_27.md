@@ -3,7 +3,7 @@ title: Note 27 in work - tasks - completed
 created: 2023-09-02T11:28:29.639558
 updated: 2024-06-15T11:28:29.639558
 source: https://example109.com
-completed: yes
+completed?: yes
 due: 2024-10-30T11:28:29.639558
 tags:
   - reference

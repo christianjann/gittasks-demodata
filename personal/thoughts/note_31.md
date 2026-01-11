@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 66.239
 longitude: 39.9629
 altitude: 214
-completed: yes
+completed?: yes
 due: 2025-08-02T11:28:29.581516
 tags:
   - blog

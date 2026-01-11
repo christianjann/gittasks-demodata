@@ -2,7 +2,7 @@
 title: Note 26 in work - projects - proposals
 created: 2025-07-19T11:28:29.656960
 updated: 2026-01-19T11:28:29.656960
-completed: yes
+completed?: yes
 ---
 
 # Note 26 in work - projects - proposals

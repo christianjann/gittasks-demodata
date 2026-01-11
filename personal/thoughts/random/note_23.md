@@ -6,7 +6,7 @@ source: https://example496.com
 latitude: -50.5269
 longitude: -125.2223
 altitude: 4196
-completed: no
+completed?: no
 due: 2025-05-27T11:28:29.583682
 tags:
   - research

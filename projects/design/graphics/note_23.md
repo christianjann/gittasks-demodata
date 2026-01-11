@@ -3,7 +3,7 @@ title: Note 23 in projects - design - graphics
 created: 2025-03-31T11:28:29.698920
 updated: 2025-06-19T11:28:29.698920
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2026-05-18T11:28:29.698920
 tags:
   - hobby

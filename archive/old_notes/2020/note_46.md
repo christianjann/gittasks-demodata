@@ -6,7 +6,7 @@ source: https://example305.com
 latitude: 78.639
 longitude: -5.2712
 altitude: 1517
-completed: yes
+completed?: yes
 tags:
   - template
   - journal

@@ -6,7 +6,7 @@ source: https://example763.com
 latitude: 36.061
 longitude: 135.0223
 altitude: 4168
-completed: no
+completed?: no
 due: 2025-10-06T11:28:29.964724
 tags:
   - urgent

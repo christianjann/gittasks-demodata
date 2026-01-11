@@ -2,7 +2,7 @@
 title: Note 4 in references
 created: 2023-07-18T11:28:29.880824
 updated: 2024-02-13T11:28:29.880824
-completed: yes
+completed?: yes
 due: 2024-07-15T11:28:29.880824
 tags:
   - blog

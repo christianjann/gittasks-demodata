@@ -3,7 +3,7 @@ title: Note 17 in projects - design - ux
 created: 2023-08-17T11:28:29.696339
 updated: 2024-03-07T11:28:29.696339
 source: https://example458.com
-completed: yes
+completed?: yes
 ---
 
 # Note 17 in projects - design - ux

@@ -4,7 +4,7 @@ created: 2023-02-10T11:28:29.635685
 updated: 2023-05-08T11:28:29.635685
 source: https://example839.com
 author: Diana Prince
-completed: no
+completed?: no
 due: 2024-02-14T11:28:29.635685
 tags:
   - hobby

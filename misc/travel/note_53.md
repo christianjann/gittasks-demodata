@@ -4,7 +4,7 @@ created: 2024-12-13T11:28:29.789804
 updated: 2025-01-06T11:28:29.789804
 source: https://example597.com
 author: Diana Prince
-completed: yes
+completed?: yes
 due: 2025-04-25T11:28:29.789804
 tags:
   - learning

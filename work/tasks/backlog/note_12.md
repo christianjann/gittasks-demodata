@@ -2,7 +2,7 @@
 title: Note 12 in work - tasks - backlog
 created: 2023-10-30T11:28:29.633825
 updated: 2023-12-15T11:28:29.633825
-completed: yes
+completed?: yes
 ---
 
 # Note 12 in work - tasks - backlog

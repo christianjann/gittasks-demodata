@@ -6,7 +6,7 @@ source: https://example722.com
 latitude: 58.3524
 longitude: 40.016
 altitude: 3522
-completed: yes
+completed?: yes
 ---
 
 # Note 67 in goals - short_term

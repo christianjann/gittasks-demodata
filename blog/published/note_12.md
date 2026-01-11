@@ -3,7 +3,7 @@ title: Note 12 in blog - published
 created: 2024-08-13T11:28:29.924954
 updated: 2025-06-28T11:28:29.924954
 source: https://example360.com
-completed: yes
+completed?: yes
 due: 2025-07-12T11:28:29.924954
 tags:
   - diary

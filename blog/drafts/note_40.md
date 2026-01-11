@@ -2,7 +2,7 @@
 title: Note 40 in blog - drafts
 created: 2024-02-01T11:28:29.922674
 updated: 2024-02-19T11:28:29.922674
-completed: no
+completed?: no
 due: 2024-09-28T11:28:29.922674
 tags:
   - event

@@ -3,7 +3,7 @@ title: Note 14 in goals - achievements
 created: 2024-12-01T11:28:29.861853
 updated: 2025-08-13T11:28:29.861853
 source: https://example885.com
-completed: no
+completed?: no
 tags:
   - misc
   - journal

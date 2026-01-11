@@ -6,7 +6,7 @@ source: https://example78.com
 latitude: 54.7764
 longitude: 84.3709
 altitude: 2703
-completed: yes
+completed?: yes
 ---
 
 # Note 22 in archive - backup

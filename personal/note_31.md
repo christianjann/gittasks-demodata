@@ -5,7 +5,7 @@ updated: 2024-06-21T11:28:29.563031
 latitude: 72.1166
 longitude: 64.0643
 altitude: 923
-completed: yes
+completed?: yes
 due: 2024-08-19T11:28:29.563031
 tags:
   - blog

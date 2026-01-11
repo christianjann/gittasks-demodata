@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -41.3223
 longitude: -135.3537
 altitude: 3583
-completed: yes
+completed?: yes
 tags:
   - research
   - event

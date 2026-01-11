@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 1.8158
 longitude: 66.6539
 altitude: 923
-completed: yes
+completed?: yes
 due: 2026-04-26T11:28:29.912368
 tags:
   - note

@@ -3,7 +3,7 @@ title: Note 20 in journal
 created: 2024-03-09T11:28:29.864708
 updated: 2024-12-29T11:28:29.864708
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - journal
   - task

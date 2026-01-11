@@ -3,7 +3,7 @@ title: Note 29 in learning - books - non_fiction
 created: 2023-01-30T11:28:29.825683
 updated: 2023-08-26T11:28:29.825683
 author: Eve Adams
-completed: no
+completed?: no
 tags:
   - template
 ---

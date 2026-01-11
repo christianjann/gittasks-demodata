@@ -3,7 +3,7 @@ title: Note 36 in personal - diary
 created: 2025-04-16T11:28:29.568742
 updated: 2025-09-14T11:28:29.568742
 source: https://example963.com
-completed: no
+completed?: no
 tags:
   - urgent
 ---

@@ -6,7 +6,7 @@ source: https://example127.com
 latitude: -5.1433
 longitude: 128.6907
 altitude: 3888
-completed: yes
+completed?: yes
 tags:
   - event
   - recipe

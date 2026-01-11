@@ -6,7 +6,7 @@ source: https://example393.com
 latitude: -2.4973
 longitude: 39.8364
 altitude: 4735
-completed: yes
+completed?: yes
 due: 2025-06-30T11:28:29.855767
 tags:
   - task

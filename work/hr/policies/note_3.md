@@ -6,7 +6,7 @@ source: https://example631.com
 latitude: -50.021
 longitude: 8.1847
 altitude: 4879
-completed: yes
+completed?: yes
 due: 2026-02-17T11:28:29.663701
 ---
 

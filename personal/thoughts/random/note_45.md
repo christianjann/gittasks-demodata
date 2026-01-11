@@ -4,7 +4,7 @@ created: 2023-05-25T11:28:29.585106
 updated: 2023-07-21T11:28:29.585106
 source: https://example529.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - diary
 ---

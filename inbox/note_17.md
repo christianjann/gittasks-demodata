@@ -3,7 +3,7 @@ title: Note 17 in inbox
 created: 2024-01-16T11:28:29.837353
 updated: 2024-12-31T11:28:29.837353
 source: https://example5.com
-completed: no
+completed?: no
 due: 2025-12-21T11:28:29.837353
 ---
 

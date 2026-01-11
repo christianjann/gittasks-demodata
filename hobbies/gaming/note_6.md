@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: 29.1724
 longitude: 127.888
 altitude: 2379
-completed: no
+completed?: no
 ---
 
 # Note 6 in hobbies - gaming

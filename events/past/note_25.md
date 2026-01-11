@@ -4,7 +4,7 @@ created: 2023-09-24T11:28:29.953701
 updated: 2024-03-15T11:28:29.953701
 source: https://example168.com
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2024-04-17T11:28:29.953701
 tags:
   - goal

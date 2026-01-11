@@ -3,7 +3,7 @@ title: Note 21 in misc - health - fitness
 created: 2024-04-24T11:28:29.801373
 updated: 2024-12-07T11:28:29.801373
 source: https://example697.com
-completed: no
+completed?: no
 tags:
   - hobby
   - finance

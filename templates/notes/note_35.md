@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: -0.9644
 longitude: -122.3087
 altitude: 4744
-completed: no
+completed?: no
 tags:
   - urgent
   - travel

@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -45.7596
 longitude: 28.9466
 altitude: 3542
-completed: no
+completed?: no
 due: 2026-11-09T11:28:29.588265
 tags:
   - goal

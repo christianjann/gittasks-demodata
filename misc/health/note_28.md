@@ -4,7 +4,7 @@ created: 2025-02-08T11:28:29.797987
 updated: 2025-11-19T11:28:29.797987
 source: https://example918.com
 author: Bob Smith
-completed: no
+completed?: no
 due: 2026-02-13T11:28:29.797987
 tags:
   - shopping

@@ -2,7 +2,7 @@
 title: Note 3 in personal - finances
 created: 2025-01-08T11:28:29.602342
 updated: 2025-02-27T11:28:29.602342
-completed: no
+completed?: no
 tags:
   - urgent
   - travel

@@ -6,7 +6,7 @@ source: https://example690.com
 latitude: 70.7963
 longitude: 109.8178
 altitude: 3535
-completed: yes
+completed?: yes
 ---
 
 # Note 38 in learning - books

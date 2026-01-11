@@ -3,7 +3,7 @@ title: Note 3 in references - articles
 created: 2024-09-13T11:28:29.885199
 updated: 2025-07-10T11:28:29.885199
 author: Charlie Brown
-completed: no
+completed?: no
 tags:
   - thought
 ---

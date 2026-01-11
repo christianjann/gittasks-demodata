@@ -3,7 +3,7 @@ title: Note 8 in drafts - ideas - personal
 created: 2023-06-23T11:28:29.757856
 updated: 2023-10-17T11:28:29.757856
 author: Grace Lee
-completed: no
+completed?: no
 due: 2023-11-28T11:28:29.757856
 tags:
   - reference

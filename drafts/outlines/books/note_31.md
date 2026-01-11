@@ -2,7 +2,7 @@
 title: Note 31 in drafts - outlines - books
 created: 2025-10-08T11:28:29.765688
 updated: 2026-08-19T11:28:29.765688
-completed: yes
+completed?: yes
 ---
 
 # Note 31 in drafts - outlines - books

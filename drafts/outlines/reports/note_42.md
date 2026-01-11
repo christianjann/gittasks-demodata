@@ -2,7 +2,7 @@
 title: Note 42 in drafts - outlines - reports
 created: 2025-04-04T11:28:29.771890
 updated: 2025-06-09T11:28:29.771890
-completed: yes
+completed?: yes
 due: 2025-11-11T11:28:29.771890
 tags:
   - template

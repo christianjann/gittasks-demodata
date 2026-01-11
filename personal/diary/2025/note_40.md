@@ -4,7 +4,7 @@ created: 2023-06-05T11:28:29.578884
 updated: 2023-12-09T11:28:29.578884
 source: https://example512.com
 author: Diana Prince
-completed: no
+completed?: no
 ---
 
 # Note 40 in personal - diary - 2025

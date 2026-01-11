@@ -4,7 +4,7 @@ created: 2024-06-27T11:28:29.890769
 updated: 2025-04-16T11:28:29.890769
 source: https://example259.com
 author: Diana Prince
-completed: yes
+completed?: yes
 due: 2025-12-30T11:28:29.890769
 tags:
   - journal

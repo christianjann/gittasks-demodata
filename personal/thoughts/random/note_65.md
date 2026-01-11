@@ -6,7 +6,7 @@ source: https://example720.com
 latitude: 20.6364
 longitude: -138.2143
 altitude: 3947
-completed: yes
+completed?: yes
 due: 2026-06-03T11:28:29.586416
 tags:
   - blog

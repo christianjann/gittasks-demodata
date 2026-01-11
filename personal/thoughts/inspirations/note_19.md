@@ -5,7 +5,7 @@ updated: 2024-04-15T11:28:29.587727
 latitude: -32.9788
 longitude: 112.2497
 altitude: 2661
-completed: yes
+completed?: yes
 tags:
   - social
   - journal

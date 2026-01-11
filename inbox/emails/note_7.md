@@ -4,7 +4,7 @@ created: 2025-11-09T11:28:29.846963
 updated: 2026-04-15T11:28:29.846963
 source: https://example231.com
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - event
   - task

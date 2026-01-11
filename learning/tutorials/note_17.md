@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 23.5685
 longitude: 150.7429
 altitude: 2065
-completed: no
+completed?: no
 tags:
   - thought
   - blog

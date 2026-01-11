@@ -2,7 +2,7 @@
 title: Note 10 in learning - tutorials
 created: 2024-02-08T11:28:29.828673
 updated: 2025-01-18T11:28:29.828673
-completed: no
+completed?: no
 due: 2025-10-15T11:28:29.828673
 ---
 

@@ -2,7 +2,7 @@
 title: Note 4 in work - meetings - weekly
 created: 2025-08-16T11:28:29.618578
 updated: 2026-04-05T11:28:29.618578
-completed: yes
+completed?: yes
 tags:
   - event
 ---

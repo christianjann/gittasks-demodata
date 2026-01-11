@@ -3,7 +3,7 @@ title: Note 9 in templates
 created: 2023-03-13T11:28:29.898593
 updated: 2023-11-12T11:28:29.898593
 source: https://example658.com
-completed: yes
+completed?: yes
 ---
 
 # Note 9 in templates

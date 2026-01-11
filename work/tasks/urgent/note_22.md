@@ -2,7 +2,7 @@
 title: Note 22 in work - tasks - urgent
 created: 2025-03-16T11:28:29.631372
 updated: 2025-12-27T11:28:29.631372
-completed: yes
+completed?: yes
 tags:
   - misc
   - shopping

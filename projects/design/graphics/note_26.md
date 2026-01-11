@@ -4,7 +4,7 @@ created: 2024-06-18T11:28:29.699082
 updated: 2024-09-27T11:28:29.699082
 source: https://example250.com
 author: Bob Smith
-completed: no
+completed?: no
 due: 2025-04-19T11:28:29.699082
 tags:
   - personal

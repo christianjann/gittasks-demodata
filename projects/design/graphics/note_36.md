@@ -6,7 +6,7 @@ source: https://example435.com
 latitude: -79.3116
 longitude: 8.0728
 altitude: 3996
-completed: no
+completed?: no
 due: 2024-12-30T11:28:29.699785
 tags:
   - reference

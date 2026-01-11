@@ -2,7 +2,7 @@
 title: Note 11 in journal - daily
 created: 2023-06-30T11:28:29.868873
 updated: 2023-08-09T11:28:29.868873
-completed: yes
+completed?: yes
 due: 2024-01-20T11:28:29.868873
 tags:
   - travel

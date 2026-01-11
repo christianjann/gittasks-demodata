@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: -78.4942
 longitude: 151.315
 altitude: 4551
-completed: no
+completed?: no
 ---
 
 # Note 30 in personal - finances

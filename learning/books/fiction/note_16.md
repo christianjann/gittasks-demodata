@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -19.2462
 longitude: -91.093
 altitude: 2303
-completed: no
+completed?: no
 tags:
   - hobby
   - recipe

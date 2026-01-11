@@ -3,7 +3,7 @@ title: Note 22 in journal - yearly
 created: 2025-02-15T11:28:29.878493
 updated: 2026-01-25T11:28:29.878493
 source: https://example21.com
-completed: no
+completed?: no
 tags:
   - journal
 ---

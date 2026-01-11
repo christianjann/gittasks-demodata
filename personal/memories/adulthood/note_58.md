@@ -6,7 +6,7 @@ source: https://example997.com
 latitude: 75.0965
 longitude: 172.404
 altitude: 2399
-completed: yes
+completed?: yes
 ---
 
 # Note 58 in personal - memories - adulthood

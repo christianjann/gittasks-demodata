@@ -3,7 +3,7 @@ title: Note 4 in projects - design - graphics
 created: 2023-08-25T11:28:29.697873
 updated: 2024-07-09T11:28:29.697873
 source: https://example857.com
-completed: yes
+completed?: yes
 due: 2025-06-20T11:28:29.697873
 tags:
   - event

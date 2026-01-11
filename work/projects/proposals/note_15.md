@@ -5,7 +5,7 @@ updated: 2026-03-28T11:28:29.655970
 latitude: -88.5916
 longitude: 161.4013
 altitude: 2759
-completed: yes
+completed?: yes
 due: 2026-05-06T11:28:29.655970
 tags:
   - learning

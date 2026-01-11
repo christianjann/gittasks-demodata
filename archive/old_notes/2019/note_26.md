@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 71.6092
 longitude: -77.3407
 altitude: 4346
-completed: yes
+completed?: yes
 tags:
   - meeting
   - design

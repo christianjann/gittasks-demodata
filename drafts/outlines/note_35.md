@@ -2,7 +2,7 @@
 title: Note 35 in drafts - outlines
 created: 2025-04-05T11:28:29.761778
 updated: 2025-07-25T11:28:29.761778
-completed: yes
+completed?: yes
 tags:
   - note
   - thought

@@ -2,7 +2,7 @@
 title: Note 41 in personal - diary
 created: 2024-12-26T11:28:29.569092
 updated: 2025-11-13T11:28:29.569092
-completed: yes
+completed?: yes
 due: 2026-08-23T11:28:29.569092
 ---
 

@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: 22.5364
 longitude: 119.8141
 altitude: 4927
-completed: no
+completed?: no
 due: 2025-03-06T11:28:29.937367
 tags:
   - learning

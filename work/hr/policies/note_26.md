@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -84.198
 longitude: -171.8242
 altitude: 3216
-completed: no
+completed?: no
 due: 2026-09-09T11:28:29.665160
 tags:
   - health

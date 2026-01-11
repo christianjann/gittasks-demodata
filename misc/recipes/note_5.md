@@ -5,7 +5,7 @@ updated: 2024-03-20T11:28:29.776246
 latitude: -34.129
 longitude: -89.5202
 altitude: 4083
-completed: yes
+completed?: yes
 tags:
   - hobby
   - event

@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -29.3762
 longitude: 124.804
 altitude: 424
-completed: no
+completed?: no
 ---
 
 # Note 43 in drafts - outlines - reports

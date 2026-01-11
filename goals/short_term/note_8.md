@@ -3,7 +3,7 @@ title: Note 8 in goals - short_term
 created: 2024-11-26T11:28:29.853506
 updated: 2024-12-01T11:28:29.853506
 author: Eve Adams
-completed: no
+completed?: no
 due: 2025-04-11T11:28:29.853506
 tags:
   - template

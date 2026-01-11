@@ -3,7 +3,7 @@ title: Note 11 in personal - finances - investments
 created: 2024-09-21T11:28:29.609414
 updated: 2025-03-24T11:28:29.609414
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2025-12-26T11:28:29.609414
 tags:
   - misc

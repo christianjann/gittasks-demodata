@@ -4,7 +4,7 @@ created: 2024-02-08T11:28:29.916941
 updated: 2024-07-25T11:28:29.916941
 source: https://example541.com
 author: Frank Miller
-completed: no
+completed?: no
 due: 2024-09-06T11:28:29.916941
 tags:
   - draft

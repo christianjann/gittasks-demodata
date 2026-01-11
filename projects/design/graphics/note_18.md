@@ -4,7 +4,7 @@ created: 2025-04-15T11:28:29.698672
 updated: 2026-02-22T11:28:29.698672
 source: https://example657.com
 author: Ivy Chen
-completed: no
+completed?: no
 ---
 
 # Note 18 in projects - design - graphics

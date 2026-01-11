@@ -3,7 +3,7 @@ title: Note 29 in templates - notes
 created: 2025-11-21T11:28:29.903693
 updated: 2026-03-01T11:28:29.903693
 source: https://example900.com
-completed: no
+completed?: no
 due: 2026-06-14T11:28:29.903693
 tags:
   - urgent

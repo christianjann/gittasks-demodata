@@ -6,7 +6,7 @@ source: https://example571.com
 latitude: -18.7595
 longitude: -74.8053
 altitude: 3044
-completed: yes
+completed?: yes
 ---
 
 # Note 3 in social - twitter

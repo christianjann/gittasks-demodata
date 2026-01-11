@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 34.1746
 longitude: -40.7708
 altitude: 1032
-completed: no
+completed?: no
 tags:
   - finance
   - code

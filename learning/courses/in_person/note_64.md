@@ -2,7 +2,7 @@
 title: Note 64 in learning - courses - in_person
 created: 2023-06-11T11:28:29.818479
 updated: 2023-09-01T11:28:29.818479
-completed: no
+completed?: no
 due: 2024-06-03T11:28:29.818479
 ---
 

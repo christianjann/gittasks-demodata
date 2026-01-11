@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -16.1221
 longitude: 110.3023
 altitude: 2928
-completed: no
+completed?: no
 tags:
   - design
   - task

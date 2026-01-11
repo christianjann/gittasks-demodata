@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 18.8511
 longitude: -3.9157
 altitude: 562
-completed: yes
+completed?: yes
 ---
 
 # Note 41 in events

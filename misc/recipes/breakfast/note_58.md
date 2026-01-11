@@ -5,7 +5,7 @@ updated: 2025-05-30T11:28:29.782546
 latitude: 73.066
 longitude: 115.1023
 altitude: 4959
-completed: yes
+completed?: yes
 tags:
   - template
   - recipe

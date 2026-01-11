@@ -3,7 +3,7 @@ title: Note 44 in social - twitter
 created: 2025-09-06T11:28:29.939358
 updated: 2026-04-07T11:28:29.939358
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2026-05-22T11:28:29.939358
 tags:
   - blog

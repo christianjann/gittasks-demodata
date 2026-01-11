@@ -3,7 +3,7 @@ title: Note 23 in drafts - outlines - presentations
 created: 2023-09-20T11:28:29.767417
 updated: 2024-06-10T11:28:29.767417
 author: Alice Johnson
-completed: no
+completed?: no
 ---
 
 # Note 23 in drafts - outlines - presentations

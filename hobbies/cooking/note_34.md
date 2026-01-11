@@ -4,7 +4,7 @@ created: 2023-04-18T11:28:29.983100
 updated: 2023-09-20T11:28:29.983100
 source: https://example440.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - thought
   - personal

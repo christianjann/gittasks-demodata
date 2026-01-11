@@ -3,7 +3,7 @@ title: Note 2 in misc - recipes
 created: 2024-09-08T11:28:29.776093
 updated: 2024-09-20T11:28:29.776093
 source: https://example529.com
-completed: no
+completed?: no
 ---
 
 # Note 2 in misc - recipes

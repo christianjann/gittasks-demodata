@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 5.8732
 longitude: -158.3037
 altitude: 682
-completed: no
+completed?: no
 tags:
   - event
   - learning

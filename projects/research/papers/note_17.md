@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 29.4497
 longitude: 22.3993
 altitude: 2116
-completed: no
+completed?: no
 ---
 
 # Note 17 in projects - research - papers

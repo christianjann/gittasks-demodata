@@ -3,7 +3,7 @@ title: Note 1 in personal - thoughts - inspirations
 created: 2025-09-25T11:28:29.586629
 updated: 2026-06-21T11:28:29.586629
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2026-10-24T11:28:29.586629
 tags:
   - event

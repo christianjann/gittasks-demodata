@@ -3,7 +3,7 @@ title: Note 23 in work - meetings - quarterly
 created: 2024-08-19T11:28:29.625262
 updated: 2024-12-05T11:28:29.625262
 source: https://example585.com
-completed: no
+completed?: no
 tags:
   - diary
   - research

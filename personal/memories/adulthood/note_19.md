@@ -3,7 +3,7 @@ title: Note 19 in personal - memories - adulthood
 created: 2023-05-27T11:28:29.599248
 updated: 2023-06-08T11:28:29.599248
 source: https://example574.com
-completed: no
+completed?: no
 tags:
   - meeting
 ---

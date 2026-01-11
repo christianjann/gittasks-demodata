@@ -6,7 +6,7 @@ source: https://example336.com
 latitude: 24.5687
 longitude: 76.5246
 altitude: 4543
-completed: yes
+completed?: yes
 due: 2024-06-25T11:28:29.736228
 tags:
   - blog

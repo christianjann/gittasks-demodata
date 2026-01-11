@@ -6,7 +6,7 @@ source: https://example529.com
 latitude: 89.9924
 longitude: 137.9494
 altitude: 2595
-completed: no
+completed?: no
 tags:
   - design
 ---

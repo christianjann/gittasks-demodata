@@ -5,7 +5,7 @@ updated: 2026-01-07T11:28:29.591567
 latitude: 85.2584
 longitude: 25.3475
 altitude: 1935
-completed: no
+completed?: no
 tags:
   - shopping
   - travel

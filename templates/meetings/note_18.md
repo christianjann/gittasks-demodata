@@ -6,7 +6,7 @@ source: https://example843.com
 latitude: 82.6767
 longitude: -47.3032
 altitude: 4295
-completed: no
+completed?: no
 tags:
   - journal
   - diary

@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 85.1935
 longitude: 177.4586
 altitude: 3631
-completed: no
+completed?: no
 ---
 
 # Note 15 in work - meetings - weekly

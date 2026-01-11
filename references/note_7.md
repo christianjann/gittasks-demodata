@@ -4,7 +4,7 @@ created: 2023-02-09T11:28:29.881018
 updated: 2023-11-01T11:28:29.881018
 source: https://example600.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2024-08-07T11:28:29.881018
 tags:
   - blog

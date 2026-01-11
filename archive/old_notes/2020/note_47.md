@@ -3,7 +3,7 @@ title: Note 47 in archive - old_notes - 2020
 created: 2024-11-12T11:28:29.728670
 updated: 2025-04-26T11:28:29.728670
 source: https://example930.com
-completed: yes
+completed?: yes
 due: 2025-10-19T11:28:29.728670
 tags:
   - note

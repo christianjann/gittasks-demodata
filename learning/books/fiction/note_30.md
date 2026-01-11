@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 58.582
 longitude: 164.1576
 altitude: 4770
-completed: yes
+completed?: yes
 due: 2025-03-06T11:28:29.822781
 tags:
   - journal

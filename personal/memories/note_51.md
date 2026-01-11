@@ -3,7 +3,7 @@ title: Note 51 in personal - memories
 created: 2023-04-17T11:28:29.593383
 updated: 2023-04-21T11:28:29.593383
 author: Charlie Brown
-completed: no
+completed?: no
 tags:
   - goal
   - draft

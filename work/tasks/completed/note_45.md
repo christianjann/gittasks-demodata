@@ -4,7 +4,7 @@ created: 2023-03-11T11:28:29.640975
 updated: 2023-06-26T11:28:29.640975
 source: https://example580.com
 author: Diana Prince
-completed: yes
+completed?: yes
 due: 2023-08-28T11:28:29.640975
 tags:
   - social

@@ -3,7 +3,7 @@ title: Note 45 in misc - recipes
 created: 2025-06-05T11:28:29.778880
 updated: 2026-03-12T11:28:29.778880
 source: https://example926.com
-completed: yes
+completed?: yes
 tags:
   - code
   - health

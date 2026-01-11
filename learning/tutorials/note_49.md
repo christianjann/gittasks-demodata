@@ -3,7 +3,7 @@ title: Note 49 in learning - tutorials
 created: 2024-08-07T11:28:29.831196
 updated: 2024-08-31T11:28:29.831196
 source: https://example843.com
-completed: no
+completed?: no
 due: 2025-02-04T11:28:29.831196
 ---
 

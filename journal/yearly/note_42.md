@@ -3,7 +3,7 @@ title: Note 42 in journal - yearly
 created: 2024-11-09T11:28:29.879983
 updated: 2025-04-27T11:28:29.879983
 author: Eve Adams
-completed: no
+completed?: no
 due: 2025-06-30T11:28:29.879983
 tags:
   - misc

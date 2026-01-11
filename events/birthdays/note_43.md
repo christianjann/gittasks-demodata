@@ -3,7 +3,7 @@ title: Note 43 in events - birthdays
 created: 2024-01-19T11:28:29.957892
 updated: 2024-05-13T11:28:29.957892
 source: https://example406.com
-completed: no
+completed?: no
 tags:
   - event
   - recipe

@@ -4,7 +4,7 @@ created: 2024-12-02T11:28:29.743094
 updated: 2025-07-04T11:28:29.743094
 source: https://example348.com
 author: Charlie Brown
-completed: no
+completed?: no
 ---
 
 # Note 9 in drafts

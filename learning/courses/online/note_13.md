@@ -4,7 +4,7 @@ created: 2023-06-29T11:28:29.813044
 updated: 2024-02-26T11:28:29.813044
 source: https://example706.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 due: 2024-07-28T11:28:29.813044
 tags:
   - template

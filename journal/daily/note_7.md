@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 51.3618
 longitude: 168.8546
 altitude: 3623
-completed: no
+completed?: no
 tags:
   - code
   - shopping

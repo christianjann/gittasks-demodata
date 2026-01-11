@@ -6,7 +6,7 @@ source: https://example432.com
 latitude: 5.3284
 longitude: 81.21
 altitude: 1363
-completed: yes
+completed?: yes
 tags:
   - archive
   - diary

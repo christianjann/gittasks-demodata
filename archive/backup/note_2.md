@@ -3,7 +3,7 @@ title: Note 2 in archive - backup
 created: 2025-12-09T11:28:29.732909
 updated: 2026-03-05T11:28:29.732909
 source: https://example323.com
-completed: no
+completed?: no
 due: 2026-07-17T11:28:29.732909
 tags:
   - code

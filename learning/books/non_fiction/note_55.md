@@ -3,7 +3,7 @@ title: Note 55 in learning - books - non_fiction
 created: 2023-12-09T11:28:29.827184
 updated: 2024-04-26T11:28:29.827184
 source: https://example114.com
-completed: no
+completed?: no
 due: 2024-06-07T11:28:29.827184
 tags:
   - diary

@@ -6,7 +6,7 @@ source: https://example164.com
 latitude: 13.8494
 longitude: 33.9372
 altitude: 1393
-completed: yes
+completed?: yes
 tags:
   - template
   - design

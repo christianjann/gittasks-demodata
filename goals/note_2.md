@@ -6,7 +6,7 @@ source: https://example38.com
 latitude: -1.6917
 longitude: -1.1304
 altitude: 2178
-completed: yes
+completed?: yes
 tags:
   - task
   - goal

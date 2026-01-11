@@ -2,7 +2,7 @@
 title: Note 4 in goals - long_term
 created: 2025-03-01T11:28:29.857217
 updated: 2025-03-31T11:28:29.857217
-completed: yes
+completed?: yes
 due: 2025-11-23T11:28:29.857217
 tags:
   - learning

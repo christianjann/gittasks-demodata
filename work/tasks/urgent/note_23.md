@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 81.9847
 longitude: 70.0173
 altitude: 386
-completed: no
+completed?: no
 due: 2025-05-07T11:28:29.631423
 ---
 

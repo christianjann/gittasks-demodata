@@ -3,7 +3,7 @@ title: Note 26 in drafts - ideas - tech
 created: 2023-02-19T11:28:29.752591
 updated: 2023-03-19T11:28:29.752591
 source: https://example258.com
-completed: no
+completed?: no
 tags:
   - archive
 ---

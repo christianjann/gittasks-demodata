@@ -6,7 +6,7 @@ source: https://example121.com
 latitude: -76.9547
 longitude: 102.7376
 altitude: 136
-completed: yes
+completed?: yes
 due: 2025-03-20T11:28:29.889518
 tags:
   - work

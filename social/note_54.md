@@ -3,7 +3,7 @@ title: Note 54 in social
 created: 2023-11-20T11:28:29.935684
 updated: 2024-08-13T11:28:29.935684
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2025-07-13T11:28:29.935684
 tags:
   - hobby

@@ -3,7 +3,7 @@ title: Note 29 in goals - short_term
 created: 2024-10-19T11:28:29.854680
 updated: 2025-09-03T11:28:29.854680
 source: https://example299.com
-completed: no
+completed?: no
 tags:
   - work
   - finance

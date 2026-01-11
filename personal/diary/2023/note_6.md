@@ -4,7 +4,7 @@ created: 2024-02-07T11:28:29.569703
 updated: 2024-10-02T11:28:29.569703
 source: https://example884.com
 author: Bob Smith
-completed: no
+completed?: no
 ---
 
 # Note 6 in personal - diary - 2023

@@ -3,7 +3,7 @@ title: Note 19 in references - articles
 created: 2023-09-07T11:28:29.886166
 updated: 2024-05-25T11:28:29.886166
 source: https://example999.com
-completed: no
+completed?: no
 ---
 
 # Note 19 in references - articles

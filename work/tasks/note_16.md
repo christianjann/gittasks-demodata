@@ -2,7 +2,7 @@
 title: Note 16 in work - tasks
 created: 2023-03-11T11:28:29.627521
 updated: 2023-08-14T11:28:29.627521
-completed: yes
+completed?: yes
 tags:
   - journal
 ---

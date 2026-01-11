@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -25.0528
 longitude: 162.2744
 altitude: 1185
-completed: yes
+completed?: yes
 tags:
   - template
   - idea

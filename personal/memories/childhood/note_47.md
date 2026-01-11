@@ -2,7 +2,7 @@
 title: Note 47 in personal - memories - childhood
 created: 2025-03-15T11:28:29.597555
 updated: 2025-04-26T11:28:29.597555
-completed: yes
+completed?: yes
 tags:
   - misc
 ---

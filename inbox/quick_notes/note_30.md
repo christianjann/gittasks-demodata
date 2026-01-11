@@ -3,7 +3,7 @@ title: Note 30 in inbox - quick_notes
 created: 2024-11-15T11:28:29.840592
 updated: 2025-06-20T11:28:29.840592
 source: https://example607.com
-completed: no
+completed?: no
 due: 2025-09-30T11:28:29.840592
 tags:
   - note

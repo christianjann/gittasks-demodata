@@ -2,7 +2,7 @@
 title: Note 2 in misc - health
 created: 2023-05-23T11:28:29.796440
 updated: 2023-10-07T11:28:29.796440
-completed: no
+completed?: no
 tags:
   - journal
   - event

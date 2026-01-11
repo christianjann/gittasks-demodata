@@ -3,7 +3,7 @@ title: Note 54 in personal - thoughts - inspirations
 created: 2023-05-31T11:28:29.590057
 updated: 2023-08-17T11:28:29.590057
 source: https://example346.com
-completed: yes
+completed?: yes
 due: 2023-11-10T11:28:29.590057
 tags:
   - thought

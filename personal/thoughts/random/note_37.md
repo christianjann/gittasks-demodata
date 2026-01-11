@@ -3,7 +3,7 @@ title: Note 37 in personal - thoughts - random
 created: 2025-06-02T11:28:29.584615
 updated: 2026-03-03T11:28:29.584615
 source: https://example225.com
-completed: no
+completed?: no
 tags:
   - misc
   - code

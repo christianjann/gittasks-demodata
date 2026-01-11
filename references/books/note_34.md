@@ -6,7 +6,7 @@ source: https://example938.com
 latitude: -19.1988
 longitude: 98.3648
 altitude: 3246
-completed: no
+completed?: no
 tags:
   - note
   - misc

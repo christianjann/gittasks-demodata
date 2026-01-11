@@ -6,7 +6,7 @@ source: https://example591.com
 latitude: -38.8083
 longitude: -117.4061
 altitude: 3471
-completed: no
+completed?: no
 due: 2025-11-03T11:28:29.963579
 tags:
   - shopping

@@ -3,7 +3,7 @@ title: Note 3 in references - podcasts
 created: 2025-07-06T11:28:29.895003
 updated: 2025-09-02T11:28:29.895003
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - hobby
   - task

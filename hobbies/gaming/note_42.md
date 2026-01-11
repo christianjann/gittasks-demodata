@@ -3,7 +3,7 @@ title: Note 42 in hobbies - gaming
 created: 2024-05-08T11:28:29.976369
 updated: 2025-05-04T11:28:29.976369
 source: https://example558.com
-completed: yes
+completed?: yes
 due: 2025-08-23T11:28:29.976369
 ---
 

@@ -4,7 +4,7 @@ created: 2025-03-02T11:28:29.823911
 updated: 2025-10-02T11:28:29.823911
 source: https://example762.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - task
   - journal

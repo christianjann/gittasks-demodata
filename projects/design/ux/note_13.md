@@ -2,7 +2,7 @@
 title: Note 13 in projects - design - ux
 created: 2024-06-27T11:28:29.696122
 updated: 2025-02-18T11:28:29.696122
-completed: no
+completed?: no
 due: 2025-08-01T11:28:29.696122
 ---
 

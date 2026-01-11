@@ -3,7 +3,7 @@ title: Note 16 in personal - finances - budget
 created: 2024-10-05T11:28:29.606516
 updated: 2025-06-16T11:28:29.606516
 source: https://example152.com
-completed: yes
+completed?: yes
 tags:
   - shopping
   - health

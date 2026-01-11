@@ -5,7 +5,7 @@ updated: 2025-05-11T11:28:29.796258
 latitude: 16.524
 longitude: 29.1324
 altitude: 451
-completed: yes
+completed?: yes
 due: 2025-12-23T11:28:29.796258
 tags:
   - shopping

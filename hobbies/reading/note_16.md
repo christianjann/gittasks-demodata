@@ -3,7 +3,7 @@ title: Note 16 in hobbies - reading
 created: 2024-04-16T11:28:29.977554
 updated: 2024-05-09T11:28:29.977554
 source: https://example895.com
-completed: yes
+completed?: yes
 tags:
   - journal
   - note

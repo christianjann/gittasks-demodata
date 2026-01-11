@@ -6,7 +6,7 @@ source: https://example569.com
 latitude: 24.1679
 longitude: 106.3323
 altitude: 1546
-completed: no
+completed?: no
 tags:
   - meeting
   - goal

@@ -6,7 +6,7 @@ source: https://example335.com
 latitude: -77.276
 longitude: 160.4121
 altitude: 1166
-completed: yes
+completed?: yes
 ---
 
 # Note 26 in projects - code

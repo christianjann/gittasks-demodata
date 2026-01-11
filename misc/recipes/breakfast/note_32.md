@@ -6,7 +6,7 @@ source: https://example292.com
 latitude: 17.7748
 longitude: -107.9975
 altitude: 2506
-completed: yes
+completed?: yes
 ---
 
 # Note 32 in misc - recipes - breakfast

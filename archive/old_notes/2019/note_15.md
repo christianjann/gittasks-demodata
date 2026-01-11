@@ -2,7 +2,7 @@
 title: Note 15 in archive - old_notes - 2019
 created: 2024-05-01T11:28:29.722756
 updated: 2025-03-09T11:28:29.722756
-completed: no
+completed?: no
 due: 2025-10-13T11:28:29.722756
 tags:
   - thought

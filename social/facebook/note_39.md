@@ -6,7 +6,7 @@ source: https://example434.com
 latitude: 82.6808
 longitude: -121.2962
 altitude: 3896
-completed: no
+completed?: no
 due: 2024-04-03T11:28:29.946477
 ---
 

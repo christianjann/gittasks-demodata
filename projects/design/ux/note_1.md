@@ -6,7 +6,7 @@ source: https://example151.com
 latitude: -23.627
 longitude: 40.9545
 altitude: 1085
-completed: no
+completed?: no
 due: 2025-03-02T11:28:29.695427
 tags:
   - event

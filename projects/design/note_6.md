@@ -3,7 +3,7 @@ title: Note 6 in projects - design
 created: 2025-09-18T11:28:29.690747
 updated: 2026-02-25T11:28:29.690747
 source: https://example630.com
-completed: yes
+completed?: yes
 tags:
   - meeting
   - urgent

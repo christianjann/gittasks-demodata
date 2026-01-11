@@ -3,7 +3,7 @@ title: Note 48 in misc
 created: 2024-04-28T11:28:29.775320
 updated: 2024-06-01T11:28:29.775320
 source: https://example652.com
-completed: no
+completed?: no
 tags:
   - recipe
 ---

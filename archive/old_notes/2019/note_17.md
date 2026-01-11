@@ -3,7 +3,7 @@ title: Note 17 in archive - old_notes - 2019
 created: 2024-12-30T11:28:29.722862
 updated: 2025-03-13T11:28:29.722862
 source: https://example133.com
-completed: no
+completed?: no
 due: 2025-12-31T11:28:29.722862
 tags:
   - meeting

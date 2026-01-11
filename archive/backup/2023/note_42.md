@@ -3,7 +3,7 @@ title: Note 42 in archive - backup - 2023
 created: 2025-05-20T11:28:29.741239
 updated: 2025-10-30T11:28:29.741239
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - event
   - misc

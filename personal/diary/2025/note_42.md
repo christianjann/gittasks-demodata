@@ -3,7 +3,7 @@ title: Note 42 in personal - diary - 2025
 created: 2024-08-31T11:28:29.578994
 updated: 2024-12-01T11:28:29.578994
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - draft
   - code

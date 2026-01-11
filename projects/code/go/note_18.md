@@ -6,7 +6,7 @@ source: https://example823.com
 latitude: -77.7043
 longitude: 176.2627
 altitude: 4531
-completed: no
+completed?: no
 tags:
   - event
   - template

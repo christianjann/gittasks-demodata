@@ -2,7 +2,7 @@
 title: Note 5 in misc
 created: 2023-01-15T11:28:29.772915
 updated: 2023-03-13T11:28:29.772915
-completed: yes
+completed?: yes
 due: 2023-10-01T11:28:29.772915
 tags:
   - reference

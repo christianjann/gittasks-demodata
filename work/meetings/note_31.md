@@ -5,7 +5,7 @@ updated: 2025-05-15T11:28:29.617731
 latitude: -56.6082
 longitude: 169.0818
 altitude: 2202
-completed: no
+completed?: no
 due: 2025-05-21T11:28:29.617731
 tags:
   - hobby

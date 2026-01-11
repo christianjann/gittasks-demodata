@@ -4,7 +4,7 @@ created: 2023-01-15T11:28:29.687336
 updated: 2023-10-04T11:28:29.687336
 source: https://example59.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 ---
 
 # Note 12 in projects - code - go

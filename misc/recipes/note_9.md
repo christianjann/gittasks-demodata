@@ -3,7 +3,7 @@ title: Note 9 in misc - recipes
 created: 2024-08-30T11:28:29.776517
 updated: 2024-11-09T11:28:29.776517
 author: Henry Wilson
-completed: no
+completed?: no
 due: 2025-01-03T11:28:29.776517
 tags:
   - thought

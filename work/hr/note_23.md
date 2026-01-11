@@ -6,7 +6,7 @@ source: https://example177.com
 latitude: 26.7637
 longitude: 72.7426
 altitude: 4033
-completed: yes
+completed?: yes
 tags:
   - template
   - idea

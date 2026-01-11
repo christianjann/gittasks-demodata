@@ -2,7 +2,7 @@
 title: Note 14 in templates - meetings
 created: 2024-08-15T11:28:29.908856
 updated: 2025-02-01T11:28:29.908856
-completed: yes
+completed?: yes
 tags:
   - finance
 ---

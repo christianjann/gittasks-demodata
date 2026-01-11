@@ -3,7 +3,7 @@ title: Note 7 in work - projects - proposals
 created: 2023-06-21T11:28:29.655365
 updated: 2024-05-13T11:28:29.655365
 author: Frank Miller
-completed: no
+completed?: no
 due: 2024-06-25T11:28:29.655365
 tags:
   - event

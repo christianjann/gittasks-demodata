@@ -3,7 +3,7 @@ title: Note 42 in learning - books - fiction
 created: 2024-06-21T11:28:29.823464
 updated: 2025-02-11T11:28:29.823464
 source: https://example395.com
-completed: yes
+completed?: yes
 tags:
   - health
   - personal

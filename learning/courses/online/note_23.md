@@ -4,7 +4,7 @@ created: 2025-04-16T11:28:29.813640
 updated: 2025-11-27T11:28:29.813640
 source: https://example725.com
 author: Grace Lee
-completed: no
+completed?: no
 due: 2026-03-22T11:28:29.813640
 tags:
   - personal

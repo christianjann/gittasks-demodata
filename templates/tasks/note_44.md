@@ -3,7 +3,7 @@ title: Note 44 in templates - tasks
 created: 2023-09-01T11:28:29.907301
 updated: 2024-04-21T11:28:29.907301
 source: https://example714.com
-completed: yes
+completed?: yes
 tags:
   - learning
   - design

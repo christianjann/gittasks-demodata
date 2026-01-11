@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: 33.8615
 longitude: 100.2678
 altitude: 2995
-completed: no
+completed?: no
 due: 2025-09-17T11:28:29.840152
 tags:
   - research

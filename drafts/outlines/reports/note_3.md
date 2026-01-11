@@ -3,7 +3,7 @@ title: Note 3 in drafts - outlines - reports
 created: 2023-07-14T11:28:29.769709
 updated: 2024-01-09T11:28:29.769709
 source: https://example517.com
-completed: no
+completed?: no
 due: 2024-02-04T11:28:29.769709
 tags:
   - reference

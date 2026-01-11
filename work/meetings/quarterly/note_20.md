@@ -2,7 +2,7 @@
 title: Note 20 in work - meetings - quarterly
 created: 2024-08-26T11:28:29.625091
 updated: 2025-04-27T11:28:29.625091
-completed: yes
+completed?: yes
 due: 2025-10-14T11:28:29.625091
 tags:
   - urgent

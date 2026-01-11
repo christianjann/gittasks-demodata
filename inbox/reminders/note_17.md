@@ -2,7 +2,7 @@
 title: Note 17 in inbox - reminders
 created: 2024-11-20T11:28:29.843817
 updated: 2025-08-10T11:28:29.843817
-completed: no
+completed?: no
 tags:
   - finance
 ---

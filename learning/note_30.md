@@ -6,7 +6,7 @@ source: https://example231.com
 latitude: -61.1543
 longitude: 143.803
 altitude: 2370
-completed: no
+completed?: no
 due: 2024-10-22T11:28:29.808899
 tags:
   - misc

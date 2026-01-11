@@ -3,7 +3,7 @@ title: Note 44 in blog - published
 created: 2024-10-29T11:28:29.927157
 updated: 2025-09-23T11:28:29.927157
 source: https://example15.com
-completed: no
+completed?: no
 tags:
   - journal
   - code

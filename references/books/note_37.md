@@ -3,7 +3,7 @@ title: Note 37 in references - books
 created: 2024-02-16T11:28:29.891500
 updated: 2024-09-05T11:28:29.891500
 source: https://example70.com
-completed: no
+completed?: no
 due: 2025-06-03T11:28:29.891500
 tags:
   - blog

@@ -3,7 +3,7 @@ title: Note 6 in goals
 created: 2023-02-11T11:28:29.850506
 updated: 2023-05-12T11:28:29.850506
 source: https://example196.com
-completed: no
+completed?: no
 due: 2023-11-18T11:28:29.850506
 tags:
   - design

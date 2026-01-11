@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -87.4262
 longitude: 166.6987
 altitude: 3643
-completed: no
+completed?: no
 tags:
   - health
   - archive

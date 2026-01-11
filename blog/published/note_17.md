@@ -3,7 +3,7 @@ title: Note 17 in blog - published
 created: 2023-09-19T11:28:29.925249
 updated: 2023-12-02T11:28:29.925249
 source: https://example958.com
-completed: no
+completed?: no
 tags:
   - design
   - shopping

@@ -2,7 +2,7 @@
 title: Note 47 in goals
 created: 2023-02-19T11:28:29.852824
 updated: 2023-10-12T11:28:29.852824
-completed: yes
+completed?: yes
 tags:
   - event
   - idea

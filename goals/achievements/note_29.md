@@ -3,7 +3,7 @@ title: Note 29 in goals - achievements
 created: 2024-09-25T11:28:29.862803
 updated: 2025-06-05T11:28:29.862803
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - note
   - meeting

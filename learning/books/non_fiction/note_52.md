@@ -2,7 +2,7 @@
 title: Note 52 in learning - books - non_fiction
 created: 2025-01-10T11:28:29.827014
 updated: 2025-07-15T11:28:29.827014
-completed: yes
+completed?: yes
 due: 2026-01-04T11:28:29.827014
 tags:
   - learning

@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 42.1366
 longitude: 104.7069
 altitude: 255
-completed: yes
+completed?: yes
 tags:
   - task
   - health

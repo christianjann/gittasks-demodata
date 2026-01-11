@@ -3,7 +3,7 @@ title: Note 33 in events - upcoming
 created: 2023-02-24T11:28:29.951071
 updated: 2023-09-29T11:28:29.951071
 source: https://example709.com
-completed: yes
+completed?: yes
 due: 2023-11-20T11:28:29.951071
 tags:
   - social

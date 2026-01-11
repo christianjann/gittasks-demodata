@@ -3,7 +3,7 @@ title: Note 18 in journal - weekly
 created: 2024-02-05T11:28:29.872306
 updated: 2024-08-07T11:28:29.872306
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2025-02-24T11:28:29.872306
 ---
 

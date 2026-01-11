@@ -3,7 +3,7 @@ title: Note 33 in references
 created: 2025-06-21T11:28:29.882874
 updated: 2025-07-20T11:28:29.882874
 source: https://example244.com
-completed: yes
+completed?: yes
 ---
 
 # Note 33 in references

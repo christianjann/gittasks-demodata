@@ -3,7 +3,7 @@ title: Note 53 in social - linkedin
 created: 2023-09-23T11:28:29.943590
 updated: 2023-12-12T11:28:29.943590
 source: https://example452.com
-completed: yes
+completed?: yes
 tags:
   - travel
   - draft

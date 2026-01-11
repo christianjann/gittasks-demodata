@@ -3,7 +3,7 @@ title: Note 8 in journal - weekly
 created: 2024-09-28T11:28:29.871784
 updated: 2025-09-08T11:28:29.871784
 author: Eve Adams
-completed: no
+completed?: no
 due: 2026-05-20T11:28:29.871784
 tags:
   - diary

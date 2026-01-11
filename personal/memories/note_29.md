@@ -4,7 +4,7 @@ created: 2023-10-14T11:28:29.591874
 updated: 2024-02-06T11:28:29.591874
 source: https://example972.com
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - journal
   - recipe

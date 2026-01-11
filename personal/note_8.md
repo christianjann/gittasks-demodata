@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -14.3522
 longitude: 128.4435
 altitude: 4515
-completed: yes
+completed?: yes
 tags:
   - urgent
   - health

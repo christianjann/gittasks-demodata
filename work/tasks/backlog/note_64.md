@@ -6,7 +6,7 @@ source: https://example956.com
 latitude: 17.6114
 longitude: -111.6212
 altitude: 2343
-completed: no
+completed?: no
 tags:
   - goal
   - thought

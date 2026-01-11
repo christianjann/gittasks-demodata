@@ -2,7 +2,7 @@
 title: Note 18 in drafts - outlines - presentations
 created: 2025-01-24T11:28:29.767138
 updated: 2025-11-16T11:28:29.767138
-completed: yes
+completed?: yes
 tags:
   - recipe
   - task

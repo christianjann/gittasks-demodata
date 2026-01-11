@@ -2,7 +2,7 @@
 title: Note 25 in projects - code - javascript
 created: 2023-07-28T11:28:29.683027
 updated: 2023-08-14T11:28:29.683027
-completed: yes
+completed?: yes
 ---
 
 # Note 25 in projects - code - javascript

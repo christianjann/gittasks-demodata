@@ -6,7 +6,7 @@ source: https://example388.com
 latitude: 7.5305
 longitude: -157.2358
 altitude: 376
-completed: yes
+completed?: yes
 ---
 
 # Note 14 in projects - research - data

@@ -2,7 +2,7 @@
 title: Note 27 in social
 created: 2024-05-05T11:28:29.934035
 updated: 2024-05-19T11:28:29.934035
-completed: no
+completed?: no
 due: 2025-03-14T11:28:29.934035
 ---
 

@@ -3,7 +3,7 @@ title: Note 22 in projects - code - python
 created: 2023-08-30T11:28:29.679645
 updated: 2023-10-09T11:28:29.679645
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2024-02-08T11:28:29.679645
 tags:
   - research

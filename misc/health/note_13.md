@@ -3,7 +3,7 @@ title: Note 13 in misc - health
 created: 2025-10-30T11:28:29.797096
 updated: 2026-01-26T11:28:29.797096
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2026-12-04T11:28:29.797096
 tags:
   - note

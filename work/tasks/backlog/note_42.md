@@ -4,7 +4,7 @@ created: 2025-04-11T11:28:29.635629
 updated: 2025-08-29T11:28:29.635629
 source: https://example293.com
 author: Eve Adams
-completed: no
+completed?: no
 due: 2026-01-22T11:28:29.635629
 tags:
   - journal

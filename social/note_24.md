@@ -2,7 +2,7 @@
 title: Note 24 in social
 created: 2025-04-11T11:28:29.933861
 updated: 2026-02-24T11:28:29.933861
-completed: yes
+completed?: yes
 due: 2026-07-06T11:28:29.933861
 tags:
   - meeting

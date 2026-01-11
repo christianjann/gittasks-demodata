@@ -4,7 +4,7 @@ created: 2024-11-17T11:28:29.927271
 updated: 2025-06-23T11:28:29.927271
 source: https://example52.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 ---
 
 # Note 46 in blog - published

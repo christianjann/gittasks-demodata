@@ -4,7 +4,7 @@ created: 2024-05-28T11:28:29.943220
 updated: 2024-09-05T11:28:29.943220
 source: https://example56.com
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2025-04-13T11:28:29.943220
 tags:
   - misc

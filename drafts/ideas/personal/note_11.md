@@ -3,7 +3,7 @@ title: Note 11 in drafts - ideas - personal
 created: 2024-05-09T11:28:29.758021
 updated: 2025-04-21T11:28:29.758021
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2025-10-15T11:28:29.758021
 tags:
   - goal

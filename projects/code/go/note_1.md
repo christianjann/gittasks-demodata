@@ -2,7 +2,7 @@
 title: Note 1 in projects - code - go
 created: 2023-09-26T11:28:29.686759
 updated: 2023-10-28T11:28:29.686759
-completed: no
+completed?: no
 ---
 
 # Note 1 in projects - code - go

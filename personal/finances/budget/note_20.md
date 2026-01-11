@@ -3,7 +3,7 @@ title: Note 20 in personal - finances - budget
 created: 2023-08-30T11:28:29.606731
 updated: 2023-09-20T11:28:29.606731
 source: https://example888.com
-completed: yes
+completed?: yes
 due: 2023-11-04T11:28:29.606731
 ---
 

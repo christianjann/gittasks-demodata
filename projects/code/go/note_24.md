@@ -6,7 +6,7 @@ source: https://example891.com
 latitude: 38.0136
 longitude: -161.9423
 altitude: 56
-completed: yes
+completed?: yes
 tags:
   - health
   - task

@@ -3,7 +3,7 @@ title: Note 33 in personal - finances - budget
 created: 2024-02-29T11:28:29.607439
 updated: 2024-09-12T11:28:29.607439
 source: https://example322.com
-completed: no
+completed?: no
 tags:
   - diary
 ---

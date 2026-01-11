@@ -6,7 +6,7 @@ author: Diana Prince
 latitude: 26.9983
 longitude: 74.906
 altitude: 1853
-completed: no
+completed?: no
 due: 2026-03-09T11:28:29.714794
 tags:
   - travel

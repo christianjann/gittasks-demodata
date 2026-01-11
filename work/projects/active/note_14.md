@@ -6,7 +6,7 @@ source: https://example159.com
 latitude: 23.2124
 longitude: 168.4415
 altitude: 2888
-completed: no
+completed?: no
 ---
 
 # Note 14 in work - projects - active

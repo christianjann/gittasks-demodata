@@ -3,7 +3,7 @@ title: Note 26 in misc - travel - europe
 created: 2023-10-12T11:28:29.791761
 updated: 2024-08-17T11:28:29.791761
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - idea
 ---

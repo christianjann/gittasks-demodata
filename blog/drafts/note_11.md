@@ -6,7 +6,7 @@ source: https://example591.com
 latitude: 52.6348
 longitude: -96.1917
 altitude: 2385
-completed: no
+completed?: no
 tags:
   - misc
 ---

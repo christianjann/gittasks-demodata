@@ -6,7 +6,7 @@ source: https://example707.com
 latitude: -74.8275
 longitude: 31.6104
 altitude: 2925
-completed: no
+completed?: no
 due: 2024-11-24T11:28:29.919784
 ---
 

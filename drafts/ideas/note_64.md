@@ -6,7 +6,7 @@ source: https://example531.com
 latitude: -68.07
 longitude: 49.7727
 altitude: 679
-completed: yes
+completed?: yes
 due: 2026-11-24T11:28:29.750581
 tags:
   - idea

@@ -3,7 +3,7 @@ title: Note 22 in drafts - ideas - personal
 created: 2025-12-20T11:28:29.758601
 updated: 2026-05-29T11:28:29.758601
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2027-04-14T11:28:29.758601
 tags:
   - misc

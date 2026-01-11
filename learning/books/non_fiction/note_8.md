@@ -3,7 +3,7 @@ title: Note 8 in learning - books - non_fiction
 created: 2024-05-17T11:28:29.824480
 updated: 2024-10-30T11:28:29.824480
 source: https://example955.com
-completed: yes
+completed?: yes
 due: 2025-08-30T11:28:29.824480
 ---
 

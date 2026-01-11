@@ -4,7 +4,7 @@ created: 2023-06-21T11:28:29.866755
 updated: 2023-12-15T11:28:29.866755
 source: https://example596.com
 author: Charlie Brown
-completed: no
+completed?: no
 due: 2023-12-22T11:28:29.866755
 ---
 

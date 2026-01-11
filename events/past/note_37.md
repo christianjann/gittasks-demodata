@@ -3,7 +3,7 @@ title: Note 37 in events - past
 created: 2025-12-05T11:28:29.954366
 updated: 2026-03-04T11:28:29.954366
 source: https://example708.com
-completed: no
+completed?: no
 due: 2026-04-14T11:28:29.954366
 ---
 

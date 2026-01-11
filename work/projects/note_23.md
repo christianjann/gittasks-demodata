@@ -3,7 +3,7 @@ title: Note 23 in work - projects
 created: 2023-07-20T11:28:29.643851
 updated: 2023-07-31T11:28:29.643851
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - social
 ---

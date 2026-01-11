@@ -2,7 +2,7 @@
 title: Note 34 in templates
 created: 2025-11-27T11:28:29.900263
 updated: 2026-07-21T11:28:29.900263
-completed: yes
+completed?: yes
 due: 2027-04-10T11:28:29.900263
 tags:
   - event

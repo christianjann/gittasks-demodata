@@ -3,7 +3,7 @@ title: Note 34 in learning - tutorials - video
 created: 2024-09-02T11:28:29.833358
 updated: 2025-05-06T11:28:29.833358
 source: https://example679.com
-completed: yes
+completed?: yes
 ---
 
 # Note 34 in learning - tutorials - video

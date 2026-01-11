@@ -3,7 +3,7 @@ title: Note 15 in work - meetings - quarterly
 created: 2025-10-25T11:28:29.624813
 updated: 2026-02-01T11:28:29.624813
 source: https://example156.com
-completed: no
+completed?: no
 tags:
   - reference
 ---

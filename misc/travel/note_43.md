@@ -4,7 +4,7 @@ created: 2023-03-01T11:28:29.789177
 updated: 2023-06-12T11:28:29.789177
 source: https://example352.com
 author: Charlie Brown
-completed: no
+completed?: no
 ---
 
 # Note 43 in misc - travel

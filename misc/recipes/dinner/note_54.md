@@ -3,7 +3,7 @@ title: Note 54 in misc - recipes - dinner
 created: 2024-06-07T11:28:29.786083
 updated: 2024-07-07T11:28:29.786083
 source: https://example192.com
-completed: yes
+completed?: yes
 tags:
   - meeting
 ---

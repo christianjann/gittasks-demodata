@@ -4,7 +4,7 @@ created: 2024-05-18T11:28:29.591303
 updated: 2024-09-16T11:28:29.591303
 source: https://example30.com
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2025-08-30T11:28:29.591303
 ---
 

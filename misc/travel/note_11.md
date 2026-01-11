@@ -6,7 +6,7 @@ source: https://example814.com
 latitude: -51.9582
 longitude: 175.1428
 altitude: 2072
-completed: no
+completed?: no
 due: 2026-06-14T11:28:29.787037
 ---
 

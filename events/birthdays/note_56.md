@@ -2,7 +2,7 @@
 title: Note 56 in events - birthdays
 created: 2024-03-31T11:28:29.958701
 updated: 2024-10-19T11:28:29.958701
-completed: no
+completed?: no
 due: 2025-01-08T11:28:29.958701
 tags:
   - urgent

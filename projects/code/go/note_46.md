@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 88.1158
 longitude: 66.6893
 altitude: 2040
-completed: yes
+completed?: yes
 ---
 
 # Note 46 in projects - code - go

@@ -3,7 +3,7 @@ title: Note 9 in journal - daily
 created: 2025-10-05T11:28:29.868756
 updated: 2026-10-03T11:28:29.868756
 author: Frank Miller
-completed: yes
+completed?: yes
 tags:
   - social
   - event

@@ -4,7 +4,7 @@ created: 2024-11-26T11:28:29.771121
 updated: 2025-11-25T11:28:29.771121
 source: https://example768.com
 author: Grace Lee
-completed: no
+completed?: no
 due: 2026-05-02T11:28:29.771121
 tags:
   - finance

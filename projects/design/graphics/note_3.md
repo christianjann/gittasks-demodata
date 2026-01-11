@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -82.0017
 longitude: 91.0381
 altitude: 2132
-completed: yes
+completed?: yes
 tags:
   - travel
   - urgent

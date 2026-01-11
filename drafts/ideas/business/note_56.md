@@ -2,7 +2,7 @@
 title: Note 56 in drafts - ideas - business
 created: 2024-03-20T11:28:29.756920
 updated: 2024-09-19T11:28:29.756920
-completed: no
+completed?: no
 tags:
   - reference
   - hobby

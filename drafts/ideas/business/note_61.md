@@ -4,7 +4,7 @@ created: 2023-10-07T11:28:29.757182
 updated: 2024-02-21T11:28:29.757182
 source: https://example706.com
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2024-07-25T11:28:29.757182
 tags:
   - misc

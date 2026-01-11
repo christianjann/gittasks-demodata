@@ -2,7 +2,7 @@
 title: Note 25 in inbox - reminders
 created: 2025-08-21T11:28:29.844259
 updated: 2026-02-13T11:28:29.844259
-completed: yes
+completed?: yes
 due: 2026-09-27T11:28:29.844259
 ---
 

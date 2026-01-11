@@ -6,7 +6,7 @@ source: https://example789.com
 latitude: 65.664
 longitude: -109.939
 altitude: 3829
-completed: yes
+completed?: yes
 tags:
   - thought
   - recipe

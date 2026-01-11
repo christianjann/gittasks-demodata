@@ -2,7 +2,7 @@
 title: Note 15 in inbox - emails
 created: 2024-08-29T11:28:29.847401
 updated: 2025-02-03T11:28:29.847401
-completed: no
+completed?: no
 tags:
   - learning
   - template

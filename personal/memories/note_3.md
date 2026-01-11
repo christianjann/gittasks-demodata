@@ -6,7 +6,7 @@ source: https://example777.com
 latitude: 0.7125
 longitude: 90.2644
 altitude: 3099
-completed: no
+completed?: no
 tags:
   - research
   - shopping

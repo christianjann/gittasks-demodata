@@ -3,7 +3,7 @@ title: Note 43 in hobbies - cooking
 created: 2024-03-01T11:28:29.983631
 updated: 2025-02-21T11:28:29.983631
 author: Henry Wilson
-completed: no
+completed?: no
 tags:
   - learning
   - goal

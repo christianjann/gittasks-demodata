@@ -6,7 +6,7 @@ source: https://example348.com
 latitude: 85.9477
 longitude: -89.1169
 altitude: 3713
-completed: no
+completed?: no
 due: 2024-03-09T11:28:29.668575
 tags:
   - urgent

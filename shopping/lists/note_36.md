@@ -6,7 +6,7 @@ source: https://example913.com
 latitude: 52.2984
 longitude: -25.5936
 altitude: 1215
-completed: no
+completed?: no
 tags:
   - meeting
 ---

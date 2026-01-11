@@ -4,7 +4,7 @@ created: 2025-04-03T11:28:29.707554
 updated: 2026-01-27T11:28:29.707554
 source: https://example462.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - task
 ---

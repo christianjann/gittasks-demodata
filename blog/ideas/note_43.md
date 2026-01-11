@@ -3,7 +3,7 @@ title: Note 43 in blog - ideas
 created: 2024-01-02T11:28:29.931030
 updated: 2024-11-16T11:28:29.931030
 source: https://example918.com
-completed: yes
+completed?: yes
 due: 2025-01-02T11:28:29.931030
 tags:
   - learning

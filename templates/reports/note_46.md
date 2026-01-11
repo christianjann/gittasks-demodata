@@ -5,7 +5,7 @@ updated: 2024-06-03T11:28:29.915336
 latitude: 42.4316
 longitude: -177.5657
 altitude: 1327
-completed: yes
+completed?: yes
 tags:
   - event
   - personal

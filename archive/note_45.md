@@ -3,7 +3,7 @@ title: Note 45 in archive
 created: 2023-11-22T11:28:29.718024
 updated: 2024-11-05T11:28:29.718024
 source: https://example70.com
-completed: yes
+completed?: yes
 tags:
   - goal
   - health

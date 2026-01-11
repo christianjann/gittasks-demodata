@@ -2,7 +2,7 @@
 title: Note 22 in blog - drafts
 created: 2024-07-11T11:28:29.921186
 updated: 2024-10-06T11:28:29.921186
-completed: yes
+completed?: yes
 due: 2025-10-02T11:28:29.921186
 tags:
   - note

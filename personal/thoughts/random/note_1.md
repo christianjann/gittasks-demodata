@@ -2,7 +2,7 @@
 title: Note 1 in personal - thoughts - random
 created: 2025-10-15T11:28:29.582277
 updated: 2026-09-30T11:28:29.582277
-completed: no
+completed?: no
 tags:
   - thought
   - blog

@@ -4,7 +4,7 @@ created: 2023-12-15T11:28:29.973395
 updated: 2024-06-11T11:28:29.973395
 source: https://example887.com
 author: Diana Prince
-completed: yes
+completed?: yes
 due: 2024-07-28T11:28:29.973395
 tags:
   - travel

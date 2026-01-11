@@ -2,7 +2,7 @@
 title: Note 47 in hobbies - cooking
 created: 2025-02-16T11:28:29.983851
 updated: 2025-05-04T11:28:29.983851
-completed: no
+completed?: no
 due: 2025-05-25T11:28:29.983851
 tags:
   - social

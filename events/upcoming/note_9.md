@@ -3,7 +3,7 @@ title: Note 9 in events - upcoming
 created: 2023-07-09T11:28:29.949664
 updated: 2024-06-18T11:28:29.949664
 author: Frank Miller
-completed: yes
+completed?: yes
 tags:
   - event
   - archive

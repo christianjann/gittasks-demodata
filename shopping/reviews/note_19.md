@@ -3,7 +3,7 @@ title: Note 19 in shopping - reviews
 created: 2024-02-08T11:28:29.966348
 updated: 2024-04-02T11:28:29.966348
 source: https://example193.com
-completed: yes
+completed?: yes
 tags:
   - blog
   - health

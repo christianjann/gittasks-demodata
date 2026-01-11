@@ -6,7 +6,7 @@ source: https://example578.com
 latitude: 42.0311
 longitude: -151.6749
 altitude: 3041
-completed: yes
+completed?: yes
 tags:
   - learning
   - recipe

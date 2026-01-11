@@ -3,7 +3,7 @@ title: Note 47 in archive - backup - 2022
 created: 2024-01-19T11:28:29.738591
 updated: 2024-09-03T11:28:29.738591
 source: https://example141.com
-completed: yes
+completed?: yes
 tags:
   - misc
 ---

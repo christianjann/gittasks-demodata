@@ -2,7 +2,7 @@
 title: Note 3 in events - birthdays
 created: 2024-03-22T11:28:29.955529
 updated: 2024-08-25T11:28:29.955529
-completed: yes
+completed?: yes
 tags:
   - shopping
 ---

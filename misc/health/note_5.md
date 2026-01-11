@@ -5,7 +5,7 @@ updated: 2025-03-08T11:28:29.796654
 latitude: 47.0862
 longitude: 150.8543
 altitude: 3388
-completed: yes
+completed?: yes
 due: 2025-12-30T11:28:29.796654
 tags:
   - social

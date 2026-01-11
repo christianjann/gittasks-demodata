@@ -3,7 +3,7 @@ title: Note 54 in shopping - reviews
 created: 2025-08-19T11:28:29.968248
 updated: 2025-09-13T11:28:29.968248
 source: https://example212.com
-completed: no
+completed?: no
 due: 2025-12-01T11:28:29.968248
 tags:
   - work

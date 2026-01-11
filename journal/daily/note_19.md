@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: 54.5373
 longitude: 120.1904
 altitude: 3159
-completed: yes
+completed?: yes
 ---
 
 # Note 19 in journal - daily

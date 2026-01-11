@@ -3,7 +3,7 @@ title: Note 7 in archive
 created: 2023-09-07T11:28:29.715170
 updated: 2024-03-10T11:28:29.715170
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2024-08-07T11:28:29.715170
 tags:
   - event

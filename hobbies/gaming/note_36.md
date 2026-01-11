@@ -2,7 +2,7 @@
 title: Note 36 in hobbies - gaming
 created: 2025-09-26T11:28:29.976050
 updated: 2026-08-29T11:28:29.976050
-completed: yes
+completed?: yes
 tags:
   - meeting
 ---

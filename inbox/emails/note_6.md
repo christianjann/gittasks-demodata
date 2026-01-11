@@ -4,7 +4,7 @@ created: 2023-10-11T11:28:29.846910
 updated: 2023-10-23T11:28:29.846910
 source: https://example453.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - event
   - goal

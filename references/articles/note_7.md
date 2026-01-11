@@ -3,7 +3,7 @@ title: Note 7 in references - articles
 created: 2025-12-26T11:28:29.885535
 updated: 2026-03-20T11:28:29.885535
 author: Diana Prince
-completed: yes
+completed?: yes
 ---
 
 # Note 7 in references - articles

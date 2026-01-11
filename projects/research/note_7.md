@@ -6,7 +6,7 @@ source: https://example236.com
 latitude: 72.3652
 longitude: 178.6275
 altitude: 3043
-completed: yes
+completed?: yes
 due: 2025-12-25T11:28:29.701506
 tags:
   - thought

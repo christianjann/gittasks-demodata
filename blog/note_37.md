@@ -6,7 +6,7 @@ source: https://example996.com
 latitude: 89.3521
 longitude: 59.8301
 altitude: 920
-completed: no
+completed?: no
 tags:
   - social
   - travel

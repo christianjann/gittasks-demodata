@@ -2,7 +2,7 @@
 title: Note 34 in work - tasks - completed
 created: 2024-01-30T11:28:29.640153
 updated: 2024-03-03T11:28:29.640153
-completed: no
+completed?: no
 tags:
   - research
 ---

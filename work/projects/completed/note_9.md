@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -88.9446
 longitude: -122.1989
 altitude: 3211
-completed: yes
+completed?: yes
 tags:
   - meeting
   - recipe

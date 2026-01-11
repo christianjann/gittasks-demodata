@@ -4,7 +4,7 @@ created: 2025-03-02T11:28:29.793098
 updated: 2025-12-10T11:28:29.793098
 source: https://example554.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2026-05-21T11:28:29.793098
 tags:
   - template

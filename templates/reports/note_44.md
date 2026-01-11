@@ -5,7 +5,7 @@ updated: 2025-07-27T11:28:29.915213
 latitude: -77.507
 longitude: -13.6512
 altitude: 4640
-completed: no
+completed?: no
 tags:
   - urgent
   - learning

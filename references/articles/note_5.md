@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: -63.3569
 longitude: 115.3969
 altitude: 968
-completed: no
+completed?: no
 tags:
   - design
   - blog

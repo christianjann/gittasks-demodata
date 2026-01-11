@@ -4,7 +4,7 @@ created: 2025-11-28T11:28:29.727735
 updated: 2026-09-25T11:28:29.727735
 source: https://example208.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - misc
   - event

@@ -3,7 +3,7 @@ title: Note 15 in projects - design - ui
 created: 2024-11-17T11:28:29.693818
 updated: 2025-05-10T11:28:29.693818
 author: Eve Adams
-completed: no
+completed?: no
 tags:
   - hobby
   - finance

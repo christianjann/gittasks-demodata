@@ -3,7 +3,7 @@ title: Note 48 in blog
 created: 2025-11-13T11:28:29.918892
 updated: 2026-09-07T11:28:29.918892
 author: Eve Adams
-completed: yes
+completed?: yes
 tags:
   - research
   - learning

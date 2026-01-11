@@ -4,7 +4,7 @@ created: 2025-02-22T11:28:29.871093
 updated: 2025-03-16T11:28:29.871093
 source: https://example256.com
 author: Grace Lee
-completed: no
+completed?: no
 due: 2026-02-08T11:28:29.871093
 tags:
   - draft

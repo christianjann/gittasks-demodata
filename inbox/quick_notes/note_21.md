@@ -3,7 +3,7 @@ title: Note 21 in inbox - quick_notes
 created: 2025-10-02T11:28:29.840044
 updated: 2026-05-26T11:28:29.840044
 author: Frank Miller
-completed: no
+completed?: no
 due: 2026-12-16T11:28:29.840044
 ---
 

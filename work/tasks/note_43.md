@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: 8.4879
 longitude: -100.3346
 altitude: 1637
-completed: yes
+completed?: yes
 tags:
   - work
   - meeting

@@ -2,7 +2,7 @@
 title: Note 5 in projects - code - java
 created: 2025-09-11T11:28:29.684353
 updated: 2026-04-25T11:28:29.684353
-completed: yes
+completed?: yes
 due: 2027-04-03T11:28:29.684353
 tags:
   - task

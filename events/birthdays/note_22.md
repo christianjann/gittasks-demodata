@@ -4,7 +4,7 @@ created: 2023-05-10T11:28:29.956654
 updated: 2023-12-01T11:28:29.956654
 source: https://example267.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - blog
   - travel

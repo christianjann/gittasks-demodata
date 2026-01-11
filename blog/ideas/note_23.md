@@ -3,7 +3,7 @@ title: Note 23 in blog - ideas
 created: 2025-05-20T11:28:29.929615
 updated: 2026-03-01T11:28:29.929615
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - personal
 ---

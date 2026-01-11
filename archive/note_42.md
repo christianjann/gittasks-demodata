@@ -4,7 +4,7 @@ created: 2025-10-15T11:28:29.717837
 updated: 2026-03-13T11:28:29.717837
 source: https://example620.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2026-06-14T11:28:29.717837
 tags:
   - meeting

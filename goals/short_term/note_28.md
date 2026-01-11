@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 4.4918
 longitude: -63.2274
 altitude: 466
-completed: no
+completed?: no
 tags:
   - shopping
   - hobby

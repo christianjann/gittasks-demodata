@@ -5,7 +5,7 @@ updated: 2025-11-09T11:28:29.601423
 latitude: 89.1465
 longitude: 90.2923
 altitude: 4662
-completed: no
+completed?: no
 tags:
   - design
 ---

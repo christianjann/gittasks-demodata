@@ -3,7 +3,7 @@ title: Note 19 in events - past
 created: 2023-10-16T11:28:29.953308
 updated: 2024-03-08T11:28:29.953308
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - travel
   - design

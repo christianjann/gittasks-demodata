@@ -3,7 +3,7 @@ title: Note 36 in drafts - ideas
 created: 2023-08-02T11:28:29.748837
 updated: 2024-01-26T11:28:29.748837
 source: https://example606.com
-completed: no
+completed?: no
 ---
 
 # Note 36 in drafts - ideas

@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -54.9785
 longitude: -54.8894
 altitude: 2100
-completed: yes
+completed?: yes
 ---
 
 # Note 43 in events - upcoming

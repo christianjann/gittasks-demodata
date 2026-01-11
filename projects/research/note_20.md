@@ -3,7 +3,7 @@ title: Note 20 in projects - research
 created: 2025-03-03T11:28:29.702315
 updated: 2025-09-12T11:28:29.702315
 source: https://example508.com
-completed: no
+completed?: no
 tags:
   - design
   - thought

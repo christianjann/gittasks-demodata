@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: 35.95
 longitude: -61.2623
 altitude: 416
-completed: no
+completed?: no
 tags:
   - template
   - goal

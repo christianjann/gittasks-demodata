@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: -73.3173
 longitude: 146.0898
 altitude: 4939
-completed: no
+completed?: no
 due: 2025-08-20T11:28:29.766452
 tags:
   - urgent

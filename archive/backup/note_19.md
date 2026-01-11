@@ -3,7 +3,7 @@ title: Note 19 in archive - backup
 created: 2023-05-25T11:28:29.733943
 updated: 2023-07-30T11:28:29.733943
 source: https://example45.com
-completed: yes
+completed?: yes
 due: 2023-08-21T11:28:29.733943
 tags:
   - finance

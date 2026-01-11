@@ -6,7 +6,7 @@ source: https://example366.com
 latitude: 65.2009
 longitude: -176.2355
 altitude: 4377
-completed: yes
+completed?: yes
 due: 2026-09-29T11:28:29.571696
 tags:
   - reference

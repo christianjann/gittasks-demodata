@@ -5,7 +5,7 @@ updated: 2026-05-10T11:28:29.842553
 latitude: 17.4429
 longitude: -68.9642
 altitude: 554
-completed: no
+completed?: no
 tags:
   - diary
   - draft

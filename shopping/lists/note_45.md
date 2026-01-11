@@ -3,7 +3,7 @@ title: Note 45 in shopping - lists
 created: 2025-05-30T11:28:29.964852
 updated: 2026-02-11T11:28:29.964852
 author: Grace Lee
-completed: yes
+completed?: yes
 ---
 
 # Note 45 in shopping - lists

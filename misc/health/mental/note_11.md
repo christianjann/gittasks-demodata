@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 8.8237
 longitude: -97.791
 altitude: 761
-completed: no
+completed?: no
 tags:
   - meeting
   - health

@@ -2,7 +2,7 @@
 title: Note 70 in events - birthdays
 created: 2023-06-29T11:28:29.959608
 updated: 2023-11-01T11:28:29.959608
-completed: yes
+completed?: yes
 due: 2024-04-27T11:28:29.959608
 tags:
   - diary

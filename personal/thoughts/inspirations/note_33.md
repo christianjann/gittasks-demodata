@@ -4,7 +4,7 @@ created: 2024-10-18T11:28:29.588715
 updated: 2025-08-23T11:28:29.588715
 source: https://example355.com
 author: Grace Lee
-completed: no
+completed?: no
 due: 2025-12-07T11:28:29.588715
 tags:
   - diary

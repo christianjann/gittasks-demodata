@@ -4,7 +4,7 @@ created: 2023-06-11T11:28:29.801268
 updated: 2023-10-15T11:28:29.801268
 source: https://example287.com
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2024-02-26T11:28:29.801268
 ---
 

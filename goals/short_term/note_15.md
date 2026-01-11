@@ -3,7 +3,7 @@ title: Note 15 in goals - short_term
 created: 2024-10-24T11:28:29.853879
 updated: 2025-04-21T11:28:29.853879
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - social
   - learning

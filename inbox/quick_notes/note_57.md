@@ -6,7 +6,7 @@ source: https://example619.com
 latitude: -23.9126
 longitude: 5.6641
 altitude: 923
-completed: yes
+completed?: yes
 ---
 
 # Note 57 in inbox - quick_notes

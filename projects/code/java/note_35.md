@@ -2,7 +2,7 @@
 title: Note 35 in projects - code - java
 created: 2024-10-17T11:28:29.686133
 updated: 2025-03-29T11:28:29.686133
-completed: no
+completed?: no
 ---
 
 # Note 35 in projects - code - java

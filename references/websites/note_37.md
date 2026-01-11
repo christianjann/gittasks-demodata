@@ -3,7 +3,7 @@ title: Note 37 in references - websites
 created: 2025-06-26T11:28:29.894403
 updated: 2025-08-06T11:28:29.894403
 source: https://example36.com
-completed: yes
+completed?: yes
 due: 2026-04-14T11:28:29.894403
 tags:
   - template

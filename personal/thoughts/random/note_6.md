@@ -4,7 +4,7 @@ created: 2023-04-12T11:28:29.582591
 updated: 2023-04-20T11:28:29.582591
 source: https://example80.com
 author: Eve Adams
-completed: no
+completed?: no
 tags:
   - work
   - journal

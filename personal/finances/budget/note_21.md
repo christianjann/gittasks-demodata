@@ -2,7 +2,7 @@
 title: Note 21 in personal - finances - budget
 created: 2023-12-24T11:28:29.606781
 updated: 2024-11-28T11:28:29.606781
-completed: yes
+completed?: yes
 ---
 
 # Note 21 in personal - finances - budget

@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 40.2642
 longitude: 174.7654
 altitude: 4336
-completed: no
+completed?: no
 due: 2026-11-15T11:28:29.847884
 tags:
   - finance

@@ -2,7 +2,7 @@
 title: Note 12 in work
 created: 2024-03-25T11:28:29.613601
 updated: 2024-04-20T11:28:29.613601
-completed: no
+completed?: no
 tags:
   - template
   - finance

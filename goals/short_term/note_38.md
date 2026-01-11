@@ -4,7 +4,7 @@ created: 2023-07-26T11:28:29.855170
 updated: 2023-11-24T11:28:29.855170
 source: https://example367.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - thought
   - travel

@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -41.7142
 longitude: -32.0904
 altitude: 357
-completed: no
+completed?: no
 tags:
   - hobby
   - finance

@@ -2,7 +2,7 @@
 title: Note 31 in drafts - outlines - presentations
 created: 2024-06-30T11:28:29.767851
 updated: 2024-12-15T11:28:29.767851
-completed: yes
+completed?: yes
 tags:
   - social
   - personal

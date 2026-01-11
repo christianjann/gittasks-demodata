@@ -2,7 +2,7 @@
 title: Note 46 in work - hr - training
 created: 2023-07-10T11:28:29.669960
 updated: 2024-06-16T11:28:29.669960
-completed: no
+completed?: no
 tags:
   - finance
   - code

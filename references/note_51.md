@@ -4,7 +4,7 @@ created: 2023-05-31T11:28:29.884043
 updated: 2023-10-18T11:28:29.884043
 source: https://example51.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - travel
   - design

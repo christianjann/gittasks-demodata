@@ -6,7 +6,7 @@ source: https://example395.com
 latitude: -43.7243
 longitude: -150.8088
 altitude: 286
-completed: yes
+completed?: yes
 due: 2026-06-19T11:28:29.913403
 tags:
   - archive

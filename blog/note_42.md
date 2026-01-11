@@ -3,7 +3,7 @@ title: Note 42 in blog
 created: 2025-08-13T11:28:29.918401
 updated: 2025-09-25T11:28:29.918401
 source: https://example866.com
-completed: yes
+completed?: yes
 due: 2026-04-11T11:28:29.918401
 tags:
   - diary

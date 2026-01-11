@@ -4,7 +4,7 @@ created: 2024-03-06T11:28:29.615220
 updated: 2024-04-08T11:28:29.615220
 source: https://example983.com
 author: Eve Adams
-completed: yes
+completed?: yes
 tags:
   - meeting
 ---

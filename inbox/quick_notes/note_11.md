@@ -2,7 +2,7 @@
 title: Note 11 in inbox - quick_notes
 created: 2024-03-30T11:28:29.839472
 updated: 2024-11-13T11:28:29.839472
-completed: yes
+completed?: yes
 tags:
   - misc
 ---

@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: 60.5158
 longitude: 6.0962
 altitude: 4788
-completed: no
+completed?: no
 due: 2026-03-30T11:28:29.672021
 tags:
   - learning

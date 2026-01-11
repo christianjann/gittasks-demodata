@@ -3,7 +3,7 @@ title: Note 1 in personal - thoughts
 created: 2025-10-12T11:28:29.579379
 updated: 2026-03-23T11:28:29.579379
 source: https://example209.com
-completed: no
+completed?: no
 ---
 
 # Note 1 in personal - thoughts

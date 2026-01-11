@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: -31.6652
 longitude: 60.4034
 altitude: 1587
-completed: no
+completed?: no
 tags:
   - health
   - recipe

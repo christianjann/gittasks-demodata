@@ -4,7 +4,7 @@ created: 2023-08-17T11:28:29.718141
 updated: 2024-03-22T11:28:29.718141
 source: https://example603.com
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - meeting
   - personal

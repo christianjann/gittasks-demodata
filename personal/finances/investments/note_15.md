@@ -6,7 +6,7 @@ source: https://example960.com
 latitude: -45.1513
 longitude: -39.8865
 altitude: 3852
-completed: no
+completed?: no
 due: 2024-02-27T11:28:29.609651
 tags:
   - archive

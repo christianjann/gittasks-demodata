@@ -3,7 +3,7 @@ title: Note 30 in personal - diary
 created: 2025-12-07T11:28:29.568327
 updated: 2026-02-19T11:28:29.568327
 source: https://example991.com
-completed: yes
+completed?: yes
 tags:
   - learning
   - research

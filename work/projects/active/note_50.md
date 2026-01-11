@@ -6,7 +6,7 @@ source: https://example906.com
 latitude: 2.2607
 longitude: 42.6541
 altitude: 3811
-completed: no
+completed?: no
 due: 2024-03-05T11:28:29.650576
 tags:
   - design

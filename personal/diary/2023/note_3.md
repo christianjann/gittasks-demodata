@@ -3,7 +3,7 @@ title: Note 3 in personal - diary - 2023
 created: 2024-03-14T11:28:29.569504
 updated: 2024-09-16T11:28:29.569504
 source: https://example75.com
-completed: no
+completed?: no
 tags:
   - draft
   - note

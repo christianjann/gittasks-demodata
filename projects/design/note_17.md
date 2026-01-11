@@ -2,7 +2,7 @@
 title: Note 17 in projects - design
 created: 2025-05-30T11:28:29.691357
 updated: 2025-12-26T11:28:29.691357
-completed: no
+completed?: no
 tags:
   - work
   - urgent

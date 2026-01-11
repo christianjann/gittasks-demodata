@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 15.9436
 longitude: -152.4734
 altitude: 368
-completed: no
+completed?: no
 due: 2026-07-30T11:28:29.778487
 tags:
   - health

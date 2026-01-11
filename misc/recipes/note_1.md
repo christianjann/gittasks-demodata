@@ -6,7 +6,7 @@ source: https://example988.com
 latitude: -49.2411
 longitude: -81.3332
 altitude: 685
-completed: yes
+completed?: yes
 tags:
   - journal
   - event

@@ -4,7 +4,7 @@ created: 2024-10-12T11:28:29.586691
 updated: 2025-02-19T11:28:29.586691
 source: https://example74.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - event
   - journal

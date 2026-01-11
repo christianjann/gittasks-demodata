@@ -5,7 +5,7 @@ updated: 2023-05-07T11:28:29.880885
 latitude: -54.6832
 longitude: -136.4243
 altitude: 1025
-completed: yes
+completed?: yes
 due: 2023-10-18T11:28:29.880885
 tags:
   - draft

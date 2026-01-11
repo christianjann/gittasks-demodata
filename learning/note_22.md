@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -0.2332
 longitude: 12.7321
 altitude: 2579
-completed: no
+completed?: no
 tags:
   - recipe
   - blog

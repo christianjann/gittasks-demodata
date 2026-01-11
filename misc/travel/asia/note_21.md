@@ -3,7 +3,7 @@ title: Note 21 in misc - travel - asia
 created: 2023-11-29T11:28:29.794803
 updated: 2024-08-31T11:28:29.794803
 source: https://example698.com
-completed: no
+completed?: no
 tags:
   - code
 ---

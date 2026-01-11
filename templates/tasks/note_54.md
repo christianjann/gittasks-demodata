@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 79.0584
 longitude: -102.9749
 altitude: 3230
-completed: yes
+completed?: yes
 tags:
   - meeting
 ---

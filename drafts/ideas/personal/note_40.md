@@ -4,7 +4,7 @@ created: 2024-08-25T11:28:29.759618
 updated: 2025-01-25T11:28:29.759618
 source: https://example143.com
 author: Eve Adams
-completed: yes
+completed?: yes
 tags:
   - blog
   - social

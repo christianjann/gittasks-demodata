@@ -4,7 +4,7 @@ created: 2023-06-21T11:28:29.854897
 updated: 2023-11-20T11:28:29.854897
 source: https://example198.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2024-05-29T11:28:29.854897
 tags:
   - archive

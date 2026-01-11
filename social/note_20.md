@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: 42.6231
 longitude: -97.1254
 altitude: 4399
-completed: no
+completed?: no
 ---
 
 # Note 20 in social

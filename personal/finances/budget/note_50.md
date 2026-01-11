@@ -3,7 +3,7 @@ title: Note 50 in personal - finances - budget
 created: 2024-02-05T11:28:29.608420
 updated: 2024-06-14T11:28:29.608420
 source: https://example335.com
-completed: yes
+completed?: yes
 due: 2024-12-12T11:28:29.608420
 ---
 

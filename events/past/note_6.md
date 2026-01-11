@@ -3,7 +3,7 @@ title: Note 6 in events - past
 created: 2025-02-03T11:28:29.952603
 updated: 2025-05-13T11:28:29.952603
 source: https://example151.com
-completed: no
+completed?: no
 tags:
   - thought
 ---

@@ -2,7 +2,7 @@
 title: Note 28 in drafts - ideas - business
 created: 2024-09-21T11:28:29.755297
 updated: 2025-03-07T11:28:29.755297
-completed: yes
+completed?: yes
 due: 2025-04-09T11:28:29.755297
 tags:
   - goal

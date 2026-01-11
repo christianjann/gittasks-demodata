@@ -6,7 +6,7 @@ source: https://example841.com
 latitude: -48.527
 longitude: 38.5014
 altitude: 517
-completed: yes
+completed?: yes
 tags:
   - diary
   - blog

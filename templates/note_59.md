@@ -2,7 +2,7 @@
 title: Note 59 in templates
 created: 2023-05-11T11:28:29.901815
 updated: 2024-03-23T11:28:29.901815
-completed: no
+completed?: no
 due: 2024-09-30T11:28:29.901815
 tags:
   - social

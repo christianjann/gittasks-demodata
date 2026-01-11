@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 22.0262
 longitude: 1.9916
 altitude: 2116
-completed: no
+completed?: no
 ---
 
 # Note 30 in shopping

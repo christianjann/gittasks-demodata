@@ -4,7 +4,7 @@ created: 2025-08-29T11:28:29.794420
 updated: 2026-05-18T11:28:29.794420
 source: https://example922.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - misc
   - finance

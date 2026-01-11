@@ -3,7 +3,7 @@ title: Note 4 in work - projects - completed
 created: 2023-02-09T11:28:29.650922
 updated: 2023-07-29T11:28:29.650922
 source: https://example66.com
-completed: yes
+completed?: yes
 tags:
   - learning
   - finance

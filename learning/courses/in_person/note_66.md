@@ -3,7 +3,7 @@ title: Note 66 in learning - courses - in_person
 created: 2023-12-25T11:28:29.818581
 updated: 2024-10-05T11:28:29.818581
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2025-03-23T11:28:29.818581
 tags:
   - goal

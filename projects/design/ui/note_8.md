@@ -4,7 +4,7 @@ created: 2023-05-04T11:28:29.693347
 updated: 2023-08-26T11:28:29.693347
 source: https://example783.com
 author: Frank Miller
-completed: yes
+completed?: yes
 ---
 
 # Note 8 in projects - design - ui

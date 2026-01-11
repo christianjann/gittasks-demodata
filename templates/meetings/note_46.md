@@ -4,7 +4,7 @@ created: 2025-08-22T11:28:29.910736
 updated: 2026-04-12T11:28:29.910736
 source: https://example734.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - social
   - event

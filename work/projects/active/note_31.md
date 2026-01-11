@@ -6,7 +6,7 @@ source: https://example476.com
 latitude: 55.9645
 longitude: -117.5234
 altitude: 1368
-completed: yes
+completed?: yes
 tags:
   - urgent
   - research

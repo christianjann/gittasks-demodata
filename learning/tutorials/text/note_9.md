@@ -4,7 +4,7 @@ created: 2023-07-12T11:28:29.834387
 updated: 2023-09-06T11:28:29.834387
 source: https://example397.com
 author: Bob Smith
-completed: yes
+completed?: yes
 ---
 
 # Note 9 in learning - tutorials - text

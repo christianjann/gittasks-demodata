@@ -2,7 +2,7 @@
 title: Note 13 in social - twitter
 created: 2024-11-09T11:28:29.937535
 updated: 2025-03-09T11:28:29.937535
-completed: yes
+completed?: yes
 tags:
   - archive
   - draft

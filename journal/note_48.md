@@ -3,7 +3,7 @@ title: Note 48 in journal
 created: 2023-11-01T11:28:29.867108
 updated: 2024-07-27T11:28:29.867108
 source: https://example743.com
-completed: yes
+completed?: yes
 due: 2024-10-23T11:28:29.867108
 ---
 

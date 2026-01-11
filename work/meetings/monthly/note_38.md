@@ -3,7 +3,7 @@ title: Note 38 in work - meetings - monthly
 created: 2023-08-02T11:28:29.623648
 updated: 2024-05-14T11:28:29.623648
 source: https://example654.com
-completed: no
+completed?: no
 ---
 
 # Note 38 in work - meetings - monthly

@@ -6,7 +6,7 @@ source: https://example525.com
 latitude: -28.4321
 longitude: -116.5297
 altitude: 345
-completed: yes
+completed?: yes
 due: 2024-05-25T11:28:29.892903
 tags:
   - health

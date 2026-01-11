@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: 81.5769
 longitude: -69.7934
 altitude: 3911
-completed: yes
+completed?: yes
 tags:
   - work
   - event

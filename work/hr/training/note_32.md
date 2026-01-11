@@ -2,7 +2,7 @@
 title: Note 32 in work - hr - training
 created: 2025-06-24T11:28:29.668901
 updated: 2025-09-13T11:28:29.668901
-completed: yes
+completed?: yes
 due: 2026-07-07T11:28:29.668901
 tags:
   - thought

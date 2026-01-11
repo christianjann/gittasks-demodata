@@ -5,7 +5,7 @@ updated: 2024-07-03T11:28:29.666055
 latitude: 73.2199
 longitude: 121.1593
 altitude: 2448
-completed: yes
+completed?: yes
 due: 2024-08-15T11:28:29.666055
 tags:
   - goal

@@ -3,7 +3,7 @@ title: Note 57 in work - projects
 created: 2025-01-09T11:28:29.646421
 updated: 2025-07-08T11:28:29.646421
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2025-09-03T11:28:29.646421
 tags:
   - personal

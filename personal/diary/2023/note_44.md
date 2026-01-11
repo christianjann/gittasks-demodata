@@ -6,7 +6,7 @@ source: https://example501.com
 latitude: 13.2953
 longitude: -149.3383
 altitude: 4155
-completed: yes
+completed?: yes
 due: 2024-04-28T11:28:29.572401
 tags:
   - research

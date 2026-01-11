@@ -3,7 +3,7 @@ title: Note 12 in projects - research - articles
 created: 2025-02-04T11:28:29.708294
 updated: 2025-05-05T11:28:29.708294
 source: https://example955.com
-completed: yes
+completed?: yes
 due: 2025-10-02T11:28:29.708294
 tags:
   - reference

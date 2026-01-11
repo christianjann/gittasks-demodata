@@ -3,7 +3,7 @@ title: Note 33 in projects - research - articles
 created: 2024-04-06T11:28:29.709561
 updated: 2025-01-23T11:28:29.709561
 author: Bob Smith
-completed: no
+completed?: no
 due: 2025-12-15T11:28:29.709561
 tags:
   - note

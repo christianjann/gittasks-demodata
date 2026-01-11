@@ -5,7 +5,7 @@ updated: 2024-01-22T11:28:29.934707
 latitude: 77.7053
 longitude: -109.4253
 altitude: 2452
-completed: yes
+completed?: yes
 tags:
   - health
   - task

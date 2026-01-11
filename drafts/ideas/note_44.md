@@ -3,7 +3,7 @@ title: Note 44 in drafts - ideas
 created: 2025-02-11T11:28:29.749271
 updated: 2026-01-10T11:28:29.749271
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2026-04-07T11:28:29.749271
 tags:
   - urgent

@@ -3,7 +3,7 @@ title: Note 37 in goals - achievements
 created: 2023-01-22T11:28:29.863286
 updated: 2023-10-16T11:28:29.863286
 source: https://example331.com
-completed: no
+completed?: no
 tags:
   - archive
   - note

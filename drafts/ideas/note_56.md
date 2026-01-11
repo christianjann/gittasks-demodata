@@ -4,7 +4,7 @@ created: 2023-11-18T11:28:29.750021
 updated: 2024-05-10T11:28:29.750021
 source: https://example626.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - health
   - learning

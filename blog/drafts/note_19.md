@@ -2,7 +2,7 @@
 title: Note 19 in blog - drafts
 created: 2025-07-17T11:28:29.920997
 updated: 2026-06-20T11:28:29.920997
-completed: no
+completed?: no
 tags:
   - health
   - personal

@@ -3,7 +3,7 @@ title: Note 65 in work - tasks - backlog
 created: 2023-02-05T11:28:29.637111
 updated: 2023-10-18T11:28:29.637111
 source: https://example212.com
-completed: yes
+completed?: yes
 tags:
   - note
   - urgent

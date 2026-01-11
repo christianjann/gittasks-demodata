@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 2.7527
 longitude: 119.6108
 altitude: 709
-completed: no
+completed?: no
 due: 2025-08-17T11:28:29.748087
 tags:
   - learning

@@ -5,7 +5,7 @@ updated: 2025-04-17T11:28:29.695587
 latitude: 56.6085
 longitude: -141.1182
 altitude: 2583
-completed: no
+completed?: no
 tags:
   - meeting
   - archive

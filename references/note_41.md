@@ -2,7 +2,7 @@
 title: Note 41 in references
 created: 2024-08-14T11:28:29.883376
 updated: 2025-03-18T11:28:29.883376
-completed: yes
+completed?: yes
 due: 2025-06-25T11:28:29.883376
 tags:
   - idea

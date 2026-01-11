@@ -4,7 +4,7 @@ created: 2023-10-03T11:28:29.740617
 updated: 2023-10-06T11:28:29.740617
 source: https://example694.com
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2023-10-19T11:28:29.740617
 ---
 

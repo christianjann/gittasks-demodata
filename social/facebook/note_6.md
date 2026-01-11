@@ -3,7 +3,7 @@ title: Note 6 in social - facebook
 created: 2024-05-03T11:28:29.944380
 updated: 2024-11-18T11:28:29.944380
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2025-07-23T11:28:29.944380
 tags:
   - hobby

@@ -4,7 +4,7 @@ created: 2024-05-14T11:28:29.695221
 updated: 2025-03-25T11:28:29.695221
 source: https://example745.com
 author: Frank Miller
-completed: no
+completed?: no
 ---
 
 # Note 37 in projects - design - ui

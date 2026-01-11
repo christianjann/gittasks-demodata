@@ -2,7 +2,7 @@
 title: Note 20 in work - hr - policies
 created: 2023-10-05T11:28:29.664795
 updated: 2024-01-25T11:28:29.664795
-completed: yes
+completed?: yes
 ---
 
 # Note 20 in work - hr - policies

@@ -3,7 +3,7 @@ title: Note 6 in journal - yearly
 created: 2023-12-16T11:28:29.877372
 updated: 2024-11-30T11:28:29.877372
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - diary
   - work

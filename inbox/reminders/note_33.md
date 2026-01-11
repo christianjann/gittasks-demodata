@@ -3,7 +3,7 @@ title: Note 33 in inbox - reminders
 created: 2025-11-06T11:28:29.844882
 updated: 2026-02-01T11:28:29.844882
 source: https://example963.com
-completed: no
+completed?: no
 tags:
   - note
   - event

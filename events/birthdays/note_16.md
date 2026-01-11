@@ -6,7 +6,7 @@ source: https://example934.com
 latitude: 22.7104
 longitude: -133.0581
 altitude: 3646
-completed: yes
+completed?: yes
 due: 2024-10-14T11:28:29.956286
 tags:
   - research

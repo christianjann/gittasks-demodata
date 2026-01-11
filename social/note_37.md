@@ -3,7 +3,7 @@ title: Note 37 in social
 created: 2024-11-13T11:28:29.934649
 updated: 2025-06-15T11:28:29.934649
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2025-06-24T11:28:29.934649
 tags:
   - thought

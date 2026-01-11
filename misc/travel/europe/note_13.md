@@ -3,7 +3,7 @@ title: Note 13 in misc - travel - europe
 created: 2024-01-18T11:28:29.791012
 updated: 2024-09-23T11:28:29.791012
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - social
   - draft

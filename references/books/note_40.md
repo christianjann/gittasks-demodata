@@ -6,7 +6,7 @@ source: https://example106.com
 latitude: 16.5818
 longitude: -128.3537
 altitude: 613
-completed: yes
+completed?: yes
 due: 2026-07-10T11:28:29.891693
 tags:
   - template

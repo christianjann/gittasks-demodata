@@ -3,7 +3,7 @@ title: Note 23 in journal
 created: 2023-05-24T11:28:29.864885
 updated: 2023-11-09T11:28:29.864885
 source: https://example607.com
-completed: yes
+completed?: yes
 due: 2023-12-14T11:28:29.864885
 tags:
   - misc

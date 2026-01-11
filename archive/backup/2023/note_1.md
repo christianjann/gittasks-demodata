@@ -3,7 +3,7 @@ title: Note 1 in archive - backup - 2023
 created: 2023-11-15T11:28:29.738783
 updated: 2023-12-28T11:28:29.738783
 author: Diana Prince
-completed: no
+completed?: no
 due: 2024-03-29T11:28:29.738783
 tags:
   - hobby

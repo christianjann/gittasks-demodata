@@ -4,7 +4,7 @@ created: 2024-07-17T11:28:29.646282
 updated: 2024-12-27T11:28:29.646282
 source: https://example273.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - meeting
   - learning

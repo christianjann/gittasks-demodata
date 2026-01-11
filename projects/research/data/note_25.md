@@ -6,7 +6,7 @@ source: https://example416.com
 latitude: 64.1579
 longitude: 27.564
 altitude: 1457
-completed: yes
+completed?: yes
 due: 2024-06-18T11:28:29.713013
 tags:
   - shopping

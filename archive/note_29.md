@@ -6,7 +6,7 @@ source: https://example261.com
 latitude: 42.7582
 longitude: 156.0415
 altitude: 2062
-completed: no
+completed?: no
 tags:
   - hobby
   - personal

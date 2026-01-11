@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 86.6965
 longitude: -50.548
 altitude: 1290
-completed: no
+completed?: no
 tags:
   - design
   - thought

@@ -4,7 +4,7 @@ created: 2025-01-21T11:28:29.562348
 updated: 2026-01-04T11:28:29.562348
 source: https://example859.com
 author: Alice Johnson
-completed: no
+completed?: no
 due: 2026-06-24T11:28:29.562348
 tags:
   - misc

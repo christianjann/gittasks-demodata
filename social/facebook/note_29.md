@@ -6,7 +6,7 @@ source: https://example508.com
 latitude: 61.6629
 longitude: -3.7255
 altitude: 3577
-completed: yes
+completed?: yes
 tags:
   - draft
 ---

@@ -6,7 +6,7 @@ source: https://example45.com
 latitude: 4.0544
 longitude: 36.2331
 altitude: 2548
-completed: no
+completed?: no
 tags:
   - shopping
   - travel

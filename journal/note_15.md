@@ -2,7 +2,7 @@
 title: Note 15 in journal
 created: 2024-05-24T11:28:29.864405
 updated: 2025-02-07T11:28:29.864405
-completed: yes
+completed?: yes
 tags:
   - meeting
 ---

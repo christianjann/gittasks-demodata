@@ -2,7 +2,7 @@
 title: Note 19 in projects - code
 created: 2023-05-12T11:28:29.675134
 updated: 2024-03-26T11:28:29.675134
-completed: yes
+completed?: yes
 tags:
   - design
   - blog

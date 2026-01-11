@@ -3,7 +3,7 @@ title: Note 19 in archive
 created: 2024-10-22T11:28:29.716118
 updated: 2025-08-22T11:28:29.716118
 source: https://example42.com
-completed: yes
+completed?: yes
 tags:
   - reference
   - idea

@@ -2,7 +2,7 @@
 title: Note 54 in misc - recipes - breakfast
 created: 2025-08-19T11:28:29.782270
 updated: 2026-05-21T11:28:29.782270
-completed: no
+completed?: no
 ---
 
 # Note 54 in misc - recipes - breakfast

@@ -6,7 +6,7 @@ source: https://example204.com
 latitude: 0.5828
 longitude: 109.9588
 altitude: 612
-completed: no
+completed?: no
 ---
 
 # Note 27 in references

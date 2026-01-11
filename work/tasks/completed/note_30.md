@@ -3,7 +3,7 @@ title: Note 30 in work - tasks - completed
 created: 2023-01-25T11:28:29.639800
 updated: 2023-05-09T11:28:29.639800
 source: https://example781.com
-completed: no
+completed?: no
 due: 2023-06-23T11:28:29.639800
 tags:
   - health

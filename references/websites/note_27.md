@@ -3,7 +3,7 @@ title: Note 27 in references - websites
 created: 2025-11-28T11:28:29.893860
 updated: 2026-01-01T11:28:29.893860
 source: https://example852.com
-completed: yes
+completed?: yes
 due: 2026-09-17T11:28:29.893860
 tags:
   - hobby

@@ -2,7 +2,7 @@
 title: Note 30 in archive - backup - 2023
 created: 2025-03-21T11:28:29.740563
 updated: 2025-12-02T11:28:29.740563
-completed: no
+completed?: no
 tags:
   - misc
 ---

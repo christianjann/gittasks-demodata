@@ -2,7 +2,7 @@
 title: Note 39 in personal - diary - 2025
 created: 2023-07-12T11:28:29.578826
 updated: 2023-11-26T11:28:29.578826
-completed: yes
+completed?: yes
 due: 2024-10-04T11:28:29.578826
 ---
 

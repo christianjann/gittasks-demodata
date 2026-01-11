@@ -2,7 +2,7 @@
 title: Note 8 in personal - diary
 created: 2024-03-21T11:28:29.566695
 updated: 2025-03-13T11:28:29.566695
-completed: no
+completed?: no
 due: 2025-08-29T11:28:29.566695
 tags:
   - blog

@@ -4,7 +4,7 @@ created: 2024-10-19T11:28:29.929080
 updated: 2025-10-03T11:28:29.929080
 source: https://example172.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2026-05-28T11:28:29.929080
 tags:
   - idea

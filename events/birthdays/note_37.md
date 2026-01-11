@@ -3,7 +3,7 @@ title: Note 37 in events - birthdays
 created: 2023-03-04T11:28:29.957550
 updated: 2023-06-12T11:28:29.957550
 source: https://example154.com
-completed: no
+completed?: no
 ---
 
 # Note 37 in events - birthdays

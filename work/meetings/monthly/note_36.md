@@ -4,7 +4,7 @@ created: 2024-04-16T11:28:29.623529
 updated: 2024-04-22T11:28:29.623529
 source: https://example799.com
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - journal
   - recipe

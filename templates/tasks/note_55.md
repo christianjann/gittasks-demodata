@@ -3,7 +3,7 @@ title: Note 55 in templates - tasks
 created: 2024-01-12T11:28:29.907979
 updated: 2024-08-05T11:28:29.907979
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2024-10-20T11:28:29.907979
 tags:
   - social

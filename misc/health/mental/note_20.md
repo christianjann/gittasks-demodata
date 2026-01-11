@@ -4,7 +4,7 @@ created: 2023-05-17T11:28:29.805066
 updated: 2023-12-28T11:28:29.805066
 source: https://example118.com
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - design
   - idea

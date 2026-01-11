@@ -4,7 +4,7 @@ created: 2024-02-02T11:28:29.948646
 updated: 2024-05-06T11:28:29.948646
 source: https://example56.com
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - idea
 ---

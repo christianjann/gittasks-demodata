@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -35.8011
 longitude: -122.4272
 altitude: 2759
-completed: yes
+completed?: yes
 tags:
   - goal
   - event

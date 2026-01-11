@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: 75.0828
 longitude: 56.3512
 altitude: 3639
-completed: yes
+completed?: yes
 due: 2025-04-25T11:28:29.662917
 tags:
   - health

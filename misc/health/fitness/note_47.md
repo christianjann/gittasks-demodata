@@ -3,7 +3,7 @@ title: Note 47 in misc - health - fitness
 created: 2024-03-13T11:28:29.802742
 updated: 2024-10-31T11:28:29.802742
 source: https://example187.com
-completed: yes
+completed?: yes
 due: 2025-03-07T11:28:29.802742
 tags:
   - thought

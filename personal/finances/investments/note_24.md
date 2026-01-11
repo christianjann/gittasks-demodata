@@ -2,7 +2,7 @@
 title: Note 24 in personal - finances - investments
 created: 2024-07-28T11:28:29.610162
 updated: 2025-03-08T11:28:29.610162
-completed: no
+completed?: no
 tags:
   - archive
   - journal

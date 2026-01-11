@@ -3,7 +3,7 @@ title: Note 46 in personal - memories
 created: 2024-01-18T11:28:29.593050
 updated: 2024-12-16T11:28:29.593050
 source: https://example168.com
-completed: yes
+completed?: yes
 due: 2025-06-25T11:28:29.593050
 tags:
   - archive

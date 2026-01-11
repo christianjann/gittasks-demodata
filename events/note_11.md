@@ -3,7 +3,7 @@ title: Note 11 in events
 created: 2025-03-07T11:28:29.947222
 updated: 2025-11-05T11:28:29.947222
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2026-05-20T11:28:29.947222
 tags:
   - design

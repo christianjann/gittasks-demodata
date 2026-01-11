@@ -2,7 +2,7 @@
 title: Note 68 in drafts - outlines
 created: 2024-02-02T11:28:29.763847
 updated: 2024-02-13T11:28:29.763847
-completed: yes
+completed?: yes
 due: 2024-07-08T11:28:29.763847
 tags:
   - hobby

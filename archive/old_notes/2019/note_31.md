@@ -6,7 +6,7 @@ source: https://example933.com
 latitude: -83.327
 longitude: 62.292
 altitude: 4347
-completed: no
+completed?: no
 tags:
   - draft
   - hobby

@@ -2,7 +2,7 @@
 title: Note 14 in events
 created: 2025-10-23T11:28:29.947380
 updated: 2026-01-18T11:28:29.947380
-completed: yes
+completed?: yes
 tags:
   - goal
   - event

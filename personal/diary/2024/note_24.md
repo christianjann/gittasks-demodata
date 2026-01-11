@@ -6,7 +6,7 @@ source: https://example715.com
 latitude: 28.5817
 longitude: -44.6858
 altitude: 4870
-completed: yes
+completed?: yes
 due: 2026-06-20T11:28:29.574492
 tags:
   - personal

@@ -3,7 +3,7 @@ title: Note 41 in projects - research - articles
 created: 2024-05-14T11:28:29.710021
 updated: 2024-11-30T11:28:29.710021
 source: https://example364.com
-completed: no
+completed?: no
 due: 2025-10-09T11:28:29.710021
 ---
 

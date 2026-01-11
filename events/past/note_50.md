@@ -4,7 +4,7 @@ created: 2024-10-15T11:28:29.955142
 updated: 2025-05-11T11:28:29.955142
 source: https://example748.com
 author: Diana Prince
-completed: no
+completed?: no
 tags:
   - journal
   - urgent

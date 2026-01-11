@@ -3,7 +3,7 @@ title: Note 38 in goals - long_term
 created: 2024-06-25T11:28:29.859170
 updated: 2025-03-09T11:28:29.859170
 source: https://example736.com
-completed: no
+completed?: no
 due: 2025-09-26T11:28:29.859170
 tags:
   - hobby

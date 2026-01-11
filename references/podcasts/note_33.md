@@ -6,7 +6,7 @@ source: https://example995.com
 latitude: 35.2787
 longitude: 3.6094
 altitude: 933
-completed: no
+completed?: no
 due: 2026-01-18T11:28:29.897443
 tags:
   - event

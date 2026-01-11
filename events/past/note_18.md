@@ -4,7 +4,7 @@ created: 2024-02-04T11:28:29.953254
 updated: 2024-10-10T11:28:29.953254
 source: https://example85.com
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - reference
   - diary

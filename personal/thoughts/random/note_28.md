@@ -3,7 +3,7 @@ title: Note 28 in personal - thoughts - random
 created: 2024-06-01T11:28:29.584031
 updated: 2025-01-13T11:28:29.584031
 source: https://example955.com
-completed: yes
+completed?: yes
 due: 2025-09-21T11:28:29.584031
 tags:
   - social

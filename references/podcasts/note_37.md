@@ -3,7 +3,7 @@ title: Note 37 in references - podcasts
 created: 2024-06-20T11:28:29.897709
 updated: 2024-07-10T11:28:29.897709
 source: https://example521.com
-completed: no
+completed?: no
 tags:
   - shopping
 ---

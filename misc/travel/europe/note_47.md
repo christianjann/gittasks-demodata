@@ -3,7 +3,7 @@ title: Note 47 in misc - travel - europe
 created: 2025-03-24T11:28:29.792983
 updated: 2025-06-28T11:28:29.792983
 source: https://example163.com
-completed: no
+completed?: no
 due: 2026-02-18T11:28:29.792983
 tags:
   - misc

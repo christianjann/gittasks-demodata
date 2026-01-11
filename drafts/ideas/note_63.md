@@ -2,7 +2,7 @@
 title: Note 63 in drafts - ideas
 created: 2023-12-30T11:28:29.750506
 updated: 2024-01-17T11:28:29.750506
-completed: yes
+completed?: yes
 due: 2024-06-04T11:28:29.750506
 tags:
   - idea

@@ -2,7 +2,7 @@
 title: Note 34 in journal - monthly
 created: 2023-02-01T11:28:29.876421
 updated: 2023-08-06T11:28:29.876421
-completed: no
+completed?: no
 due: 2023-10-18T11:28:29.876421
 ---
 

@@ -6,7 +6,7 @@ source: https://example957.com
 latitude: -8.5868
 longitude: 123.339
 altitude: 4177
-completed: no
+completed?: no
 due: 2027-03-09T11:28:29.622167
 tags:
   - thought

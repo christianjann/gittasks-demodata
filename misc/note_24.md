@@ -3,7 +3,7 @@ title: Note 24 in misc
 created: 2024-07-09T11:28:29.773949
 updated: 2024-08-01T11:28:29.773949
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2024-11-02T11:28:29.773949
 tags:
   - thought

@@ -3,7 +3,7 @@ title: Note 18 in projects
 created: 2025-09-11T11:28:29.671466
 updated: 2026-02-06T11:28:29.671466
 source: https://example176.com
-completed: no
+completed?: no
 due: 2027-01-29T11:28:29.671466
 tags:
   - thought

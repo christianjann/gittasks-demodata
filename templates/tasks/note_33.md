@@ -4,7 +4,7 @@ created: 2023-11-22T11:28:29.906693
 updated: 2024-02-23T11:28:29.906693
 source: https://example754.com
 author: Bob Smith
-completed: no
+completed?: no
 due: 2024-04-27T11:28:29.906693
 tags:
   - blog

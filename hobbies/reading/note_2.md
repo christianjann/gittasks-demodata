@@ -3,7 +3,7 @@ title: Note 2 in hobbies - reading
 created: 2025-04-10T11:28:29.976765
 updated: 2025-08-14T11:28:29.976765
 author: Frank Miller
-completed: yes
+completed?: yes
 ---
 
 # Note 2 in hobbies - reading

@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 61.9998
 longitude: -64.5611
 altitude: 1035
-completed: no
+completed?: no
 tags:
   - travel
   - hobby

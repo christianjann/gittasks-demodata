@@ -4,7 +4,7 @@ created: 2024-10-21T11:28:29.928471
 updated: 2025-02-08T11:28:29.928471
 source: https://example471.com
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - blog
   - research

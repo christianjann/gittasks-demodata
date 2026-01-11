@@ -4,7 +4,7 @@ created: 2025-11-03T11:28:29.694840
 updated: 2026-09-08T11:28:29.694840
 source: https://example75.com
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - meeting
   - archive

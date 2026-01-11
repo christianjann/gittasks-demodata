@@ -4,7 +4,7 @@ created: 2025-08-08T11:28:29.711535
 updated: 2025-11-11T11:28:29.711535
 source: https://example247.com
 author: Diana Prince
-completed: no
+completed?: no
 due: 2026-04-03T11:28:29.711535
 tags:
   - recipe

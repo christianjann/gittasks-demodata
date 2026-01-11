@@ -2,7 +2,7 @@
 title: Note 64 in personal - memories - adulthood
 created: 2024-04-11T11:28:29.601970
 updated: 2024-12-12T11:28:29.601970
-completed: no
+completed?: no
 due: 2025-10-14T11:28:29.601970
 tags:
   - archive

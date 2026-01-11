@@ -6,7 +6,7 @@ author: Diana Prince
 latitude: -9.4879
 longitude: -95.9715
 altitude: 3979
-completed: yes
+completed?: yes
 due: 2024-12-09T11:28:29.751813
 tags:
   - health

@@ -5,7 +5,7 @@ updated: 2026-03-20T11:28:29.622937
 latitude: 57.5521
 longitude: 86.6888
 altitude: 4979
-completed: no
+completed?: no
 ---
 
 # Note 26 in work - meetings - monthly

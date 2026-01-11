@@ -4,7 +4,7 @@ created: 2025-04-07T11:28:29.748148
 updated: 2025-09-23T11:28:29.748148
 source: https://example65.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - thought
   - blog

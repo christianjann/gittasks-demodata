@@ -3,7 +3,7 @@ title: Note 63 in drafts - outlines
 created: 2024-04-02T11:28:29.763520
 updated: 2024-09-21T11:28:29.763520
 source: https://example493.com
-completed: no
+completed?: no
 tags:
   - reference
   - idea

@@ -4,7 +4,7 @@ created: 2025-12-25T11:28:29.980779
 updated: 2026-08-05T11:28:29.980779
 source: https://example301.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2026-11-02T11:28:29.980779
 tags:
   - learning

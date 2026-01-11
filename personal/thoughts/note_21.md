@@ -6,7 +6,7 @@ source: https://example437.com
 latitude: 58.7956
 longitude: 152.8833
 altitude: 1931
-completed: yes
+completed?: yes
 due: 2027-06-24T11:28:29.580797
 ---
 

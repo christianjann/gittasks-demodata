@@ -6,7 +6,7 @@ source: https://example800.com
 latitude: 41.1944
 longitude: 41.5934
 altitude: 28
-completed: no
+completed?: no
 due: 2024-09-23T11:28:29.867328
 tags:
   - finance

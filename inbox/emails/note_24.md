@@ -3,7 +3,7 @@ title: Note 24 in inbox - emails
 created: 2025-08-29T11:28:29.847947
 updated: 2025-11-17T11:28:29.847947
 source: https://example267.com
-completed: yes
+completed?: yes
 due: 2026-01-20T11:28:29.847947
 tags:
   - goal

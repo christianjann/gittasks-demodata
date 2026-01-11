@@ -2,7 +2,7 @@
 title: Note 19 in work - meetings - monthly
 created: 2024-05-14T11:28:29.622544
 updated: 2024-07-22T11:28:29.622544
-completed: yes
+completed?: yes
 due: 2025-04-07T11:28:29.622544
 tags:
   - thought

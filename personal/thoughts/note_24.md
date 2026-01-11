@@ -3,7 +3,7 @@ title: Note 24 in personal - thoughts
 created: 2024-05-28T11:28:29.581001
 updated: 2024-08-25T11:28:29.581001
 source: https://example554.com
-completed: no
+completed?: no
 due: 2024-10-12T11:28:29.581001
 tags:
   - health

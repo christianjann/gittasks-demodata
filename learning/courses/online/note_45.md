@@ -5,7 +5,7 @@ updated: 2023-12-19T11:28:29.814842
 latitude: 47.2655
 longitude: -144.4142
 altitude: 1318
-completed: yes
+completed?: yes
 tags:
   - reference
   - learning

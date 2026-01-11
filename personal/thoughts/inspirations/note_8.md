@@ -4,7 +4,7 @@ created: 2023-07-30T11:28:29.587068
 updated: 2023-08-14T11:28:29.587068
 source: https://example906.com
 author: Ivy Chen
-completed: no
+completed?: no
 ---
 
 # Note 8 in personal - thoughts - inspirations

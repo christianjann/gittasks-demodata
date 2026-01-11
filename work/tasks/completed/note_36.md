@@ -3,7 +3,7 @@ title: Note 36 in work - tasks - completed
 created: 2023-10-14T11:28:29.640345
 updated: 2024-04-03T11:28:29.640345
 author: Grace Lee
-completed: no
+completed?: no
 due: 2024-11-25T11:28:29.640345
 tags:
   - shopping

@@ -5,7 +5,7 @@ updated: 2026-09-12T11:28:29.887318
 latitude: 36.4099
 longitude: 165.107
 altitude: 1725
-completed: no
+completed?: no
 ---
 
 # Note 39 in references - articles

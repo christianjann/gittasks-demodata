@@ -3,7 +3,7 @@ title: Note 10 in work - meetings - weekly
 created: 2024-07-09T11:28:29.618917
 updated: 2025-05-19T11:28:29.618917
 source: https://example749.com
-completed: no
+completed?: no
 ---
 
 # Note 10 in work - meetings - weekly

@@ -3,7 +3,7 @@ title: Note 3 in shopping - lists
 created: 2025-06-01T11:28:29.962338
 updated: 2026-04-06T11:28:29.962338
 source: https://example944.com
-completed: no
+completed?: no
 tags:
   - archive
 ---

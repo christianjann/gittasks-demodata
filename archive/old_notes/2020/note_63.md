@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 32.6404
 longitude: 169.4659
 altitude: 3371
-completed: yes
+completed?: yes
 tags:
   - idea
   - meeting

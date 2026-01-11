@@ -3,7 +3,7 @@ title: Note 40 in learning - books - non_fiction
 created: 2024-08-17T11:28:29.826315
 updated: 2024-10-17T11:28:29.826315
 author: Grace Lee
-completed: no
+completed?: no
 ---
 
 # Note 40 in learning - books - non_fiction

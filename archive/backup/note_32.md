@@ -3,7 +3,7 @@ title: Note 32 in archive - backup
 created: 2024-06-21T11:28:29.734708
 updated: 2024-12-17T11:28:29.734708
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2025-01-22T11:28:29.734708
 tags:
   - template

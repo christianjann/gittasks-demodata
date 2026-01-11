@@ -2,7 +2,7 @@
 title: Note 11 in goals - achievements
 created: 2024-07-28T11:28:29.861668
 updated: 2024-10-26T11:28:29.861668
-completed: no
+completed?: no
 due: 2025-04-15T11:28:29.861668
 ---
 

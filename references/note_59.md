@@ -4,7 +4,7 @@ created: 2023-03-25T11:28:29.884596
 updated: 2024-01-04T11:28:29.884596
 source: https://example487.com
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - thought
   - code

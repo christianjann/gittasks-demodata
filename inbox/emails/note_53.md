@@ -4,7 +4,7 @@ created: 2024-08-11T11:28:29.849563
 updated: 2024-09-15T11:28:29.849563
 source: https://example163.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2025-08-01T11:28:29.849563
 tags:
   - thought

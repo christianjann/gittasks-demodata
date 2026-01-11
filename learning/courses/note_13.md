@@ -3,7 +3,7 @@ title: Note 13 in learning - courses
 created: 2023-04-26T11:28:29.810667
 updated: 2023-12-07T11:28:29.810667
 source: https://example190.com
-completed: no
+completed?: no
 due: 2024-11-25T11:28:29.810667
 tags:
   - journal

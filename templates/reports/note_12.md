@@ -6,7 +6,7 @@ source: https://example821.com
 latitude: 84.4068
 longitude: -23.042
 altitude: 4300
-completed: no
+completed?: no
 ---
 
 # Note 12 in templates - reports

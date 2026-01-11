@@ -4,7 +4,7 @@ created: 2023-07-20T11:28:29.711346
 updated: 2023-10-01T11:28:29.711346
 source: https://example525.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - event
 ---

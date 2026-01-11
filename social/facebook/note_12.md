@@ -3,7 +3,7 @@ title: Note 12 in social - facebook
 created: 2025-08-05T11:28:29.944882
 updated: 2025-08-22T11:28:29.944882
 source: https://example213.com
-completed: yes
+completed?: yes
 tags:
   - learning
   - shopping

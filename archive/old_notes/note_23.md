@@ -4,7 +4,7 @@ created: 2024-11-30T11:28:29.720570
 updated: 2025-09-24T11:28:29.720570
 source: https://example235.com
 author: Grace Lee
-completed: no
+completed?: no
 ---
 
 # Note 23 in archive - old_notes

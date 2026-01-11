@@ -6,7 +6,7 @@ source: https://example393.com
 latitude: 61.2407
 longitude: 8.487
 altitude: 4522
-completed: yes
+completed?: yes
 due: 2027-03-05T11:28:29.700055
 tags:
   - meeting

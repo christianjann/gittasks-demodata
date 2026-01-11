@@ -3,7 +3,7 @@ title: Note 17 in personal - finances - budget
 created: 2025-04-16T11:28:29.606568
 updated: 2025-05-24T11:28:29.606568
 author: Eve Adams
-completed: no
+completed?: no
 due: 2025-05-28T11:28:29.606568
 tags:
   - event

@@ -2,7 +2,7 @@
 title: Note 51 in projects
 created: 2023-05-17T11:28:29.673631
 updated: 2023-06-21T11:28:29.673631
-completed: yes
+completed?: yes
 tags:
   - urgent
   - template

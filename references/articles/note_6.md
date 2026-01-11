@@ -4,7 +4,7 @@ created: 2025-04-10T11:28:29.885461
 updated: 2026-02-04T11:28:29.885461
 source: https://example46.com
 author: Charlie Brown
-completed: no
+completed?: no
 ---
 
 # Note 6 in references - articles

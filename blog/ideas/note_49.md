@@ -3,7 +3,7 @@ title: Note 49 in blog - ideas
 created: 2024-03-20T11:28:29.931392
 updated: 2024-11-22T11:28:29.931392
 source: https://example581.com
-completed: no
+completed?: no
 due: 2025-09-20T11:28:29.931392
 ---
 

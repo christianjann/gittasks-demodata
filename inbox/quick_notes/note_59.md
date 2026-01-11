@@ -3,7 +3,7 @@ title: Note 59 in inbox - quick_notes
 created: 2023-08-26T11:28:29.842256
 updated: 2024-07-12T11:28:29.842256
 source: https://example231.com
-completed: no
+completed?: no
 due: 2024-10-13T11:28:29.842256
 tags:
   - diary

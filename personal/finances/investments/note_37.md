@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -0.4346
 longitude: 21.4535
 altitude: 4052
-completed: yes
+completed?: yes
 due: 2023-12-30T11:28:29.610877
 tags:
   - diary

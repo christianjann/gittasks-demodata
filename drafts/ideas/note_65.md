@@ -5,7 +5,7 @@ updated: 2025-04-12T11:28:29.750643
 latitude: 82.1235
 longitude: -71.2336
 altitude: 150
-completed: no
+completed?: no
 tags:
   - learning
   - meeting

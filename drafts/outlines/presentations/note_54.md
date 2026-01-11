@@ -2,7 +2,7 @@
 title: Note 54 in drafts - outlines - presentations
 created: 2024-01-29T11:28:29.769184
 updated: 2024-12-26T11:28:29.769184
-completed: yes
+completed?: yes
 tags:
   - finance
   - misc

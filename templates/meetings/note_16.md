@@ -2,7 +2,7 @@
 title: Note 16 in templates - meetings
 created: 2024-08-09T11:28:29.908952
 updated: 2024-11-15T11:28:29.908952
-completed: no
+completed?: no
 tags:
   - event
   - task

@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 6.1771
 longitude: 64.6072
 altitude: 667
-completed: no
+completed?: no
 tags:
   - social
   - meeting

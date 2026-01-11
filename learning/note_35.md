@@ -2,7 +2,7 @@
 title: Note 35 in learning
 created: 2024-11-08T11:28:29.809172
 updated: 2025-03-20T11:28:29.809172
-completed: yes
+completed?: yes
 tags:
   - travel
 ---

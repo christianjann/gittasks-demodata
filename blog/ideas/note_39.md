@@ -6,7 +6,7 @@ source: https://example528.com
 latitude: -57.2964
 longitude: 63.8736
 altitude: 708
-completed: no
+completed?: no
 due: 2025-09-10T11:28:29.930663
 tags:
   - meeting

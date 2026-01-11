@@ -3,7 +3,7 @@ title: Note 21 in personal - memories - childhood
 created: 2023-02-05T11:28:29.595982
 updated: 2023-08-17T11:28:29.595982
 source: https://example102.com
-completed: yes
+completed?: yes
 tags:
   - thought
   - draft

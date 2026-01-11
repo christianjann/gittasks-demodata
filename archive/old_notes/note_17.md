@@ -4,7 +4,7 @@ created: 2024-09-21T11:28:29.720169
 updated: 2024-11-07T11:28:29.720169
 source: https://example583.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - misc
   - design

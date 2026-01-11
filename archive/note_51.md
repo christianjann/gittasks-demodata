@@ -3,7 +3,7 @@ title: Note 51 in archive
 created: 2023-07-01T11:28:29.718471
 updated: 2023-07-27T11:28:29.718471
 source: https://example847.com
-completed: yes
+completed?: yes
 ---
 
 # Note 51 in archive

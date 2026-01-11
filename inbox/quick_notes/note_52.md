@@ -3,7 +3,7 @@ title: Note 52 in inbox - quick_notes
 created: 2024-11-11T11:28:29.841791
 updated: 2025-06-17T11:28:29.841791
 source: https://example217.com
-completed: yes
+completed?: yes
 due: 2026-01-22T11:28:29.841791
 tags:
   - finance

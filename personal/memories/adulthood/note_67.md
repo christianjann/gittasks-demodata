@@ -2,7 +2,7 @@
 title: Note 67 in personal - memories - adulthood
 created: 2024-08-16T11:28:29.602162
 updated: 2025-07-26T11:28:29.602162
-completed: no
+completed?: no
 tags:
   - journal
 ---

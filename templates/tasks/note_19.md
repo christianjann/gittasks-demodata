@@ -6,7 +6,7 @@ source: https://example348.com
 latitude: 5.8276
 longitude: 18.4754
 altitude: 2780
-completed: yes
+completed?: yes
 due: 2025-05-28T11:28:29.905861
 tags:
   - draft

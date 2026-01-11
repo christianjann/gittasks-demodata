@@ -4,7 +4,7 @@ created: 2023-10-10T11:28:29.922897
 updated: 2024-02-05T11:28:29.922897
 source: https://example668.com
 author: Alice Johnson
-completed: no
+completed?: no
 due: 2024-08-24T11:28:29.922897
 tags:
   - journal

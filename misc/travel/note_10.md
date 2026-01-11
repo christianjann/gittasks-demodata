@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 78.5339
 longitude: 107.3796
 altitude: 3498
-completed: no
+completed?: no
 ---
 
 # Note 10 in misc - travel

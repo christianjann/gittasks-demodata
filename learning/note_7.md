@@ -3,7 +3,7 @@ title: Note 7 in learning
 created: 2024-04-01T11:28:29.807651
 updated: 2024-10-05T11:28:29.807651
 source: https://example433.com
-completed: yes
+completed?: yes
 due: 2024-11-07T11:28:29.807651
 tags:
   - hobby

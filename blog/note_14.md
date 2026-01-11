@@ -6,7 +6,7 @@ source: https://example206.com
 latitude: 80.908
 longitude: -95.0781
 altitude: 265
-completed: no
+completed?: no
 due: 2026-02-10T11:28:29.916502
 tags:
   - archive

@@ -3,7 +3,7 @@ title: Note 14 in drafts - outlines - reports
 created: 2023-02-26T11:28:29.770309
 updated: 2024-01-22T11:28:29.770309
 source: https://example148.com
-completed: no
+completed?: no
 tags:
   - template
 ---

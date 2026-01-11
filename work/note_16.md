@@ -3,7 +3,7 @@ title: Note 16 in work
 created: 2025-09-21T11:28:29.613831
 updated: 2026-03-19T11:28:29.613831
 source: https://example78.com
-completed: yes
+completed?: yes
 due: 2027-02-11T11:28:29.613831
 tags:
   - thought

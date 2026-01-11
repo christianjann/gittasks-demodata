@@ -6,7 +6,7 @@ source: https://example86.com
 latitude: -67.5474
 longitude: -139.6276
 altitude: 955
-completed: yes
+completed?: yes
 ---
 
 # Note 29 in goals - long_term

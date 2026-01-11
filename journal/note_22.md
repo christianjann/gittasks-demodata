@@ -6,7 +6,7 @@ source: https://example533.com
 latitude: 3.2839
 longitude: -55.4297
 altitude: 1698
-completed: no
+completed?: no
 due: 2025-04-30T11:28:29.864822
 ---
 

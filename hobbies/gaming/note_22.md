@@ -5,7 +5,7 @@ updated: 2024-01-04T11:28:29.975261
 latitude: 23.2298
 longitude: 17.7381
 altitude: 1601
-completed: no
+completed?: no
 tags:
   - finance
   - shopping

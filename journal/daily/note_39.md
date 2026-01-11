@@ -4,7 +4,7 @@ created: 2024-08-08T11:28:29.870650
 updated: 2025-06-11T11:28:29.870650
 source: https://example716.com
 author: Eve Adams
-completed: yes
+completed?: yes
 ---
 
 # Note 39 in journal - daily

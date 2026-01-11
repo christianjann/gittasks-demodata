@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 42.1019
 longitude: -92.0293
 altitude: 3288
-completed: no
+completed?: no
 due: 2024-02-03T11:28:29.674281
 tags:
   - health

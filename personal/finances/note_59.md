@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 84.5816
 longitude: 11.5864
 altitude: 555
-completed: yes
+completed?: yes
 tags:
   - goal
   - blog

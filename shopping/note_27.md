@@ -3,7 +3,7 @@ title: Note 27 in shopping
 created: 2025-03-04T11:28:29.961288
 updated: 2025-06-05T11:28:29.961288
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - travel
 ---

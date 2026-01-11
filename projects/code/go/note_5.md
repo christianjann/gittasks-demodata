@@ -2,7 +2,7 @@
 title: Note 5 in projects - code - go
 created: 2025-07-25T11:28:29.686972
 updated: 2026-07-22T11:28:29.686972
-completed: yes
+completed?: yes
 due: 2027-06-18T11:28:29.686972
 ---
 

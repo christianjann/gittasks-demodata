@@ -4,7 +4,7 @@ created: 2023-09-23T11:28:29.815900
 updated: 2024-01-12T11:28:29.815900
 source: https://example975.com
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2024-05-12T11:28:29.815900
 tags:
   - thought

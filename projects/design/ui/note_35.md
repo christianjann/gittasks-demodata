@@ -2,7 +2,7 @@
 title: Note 35 in projects - design - ui
 created: 2023-08-09T11:28:29.695114
 updated: 2024-06-03T11:28:29.695114
-completed: no
+completed?: no
 tags:
   - urgent
   - archive

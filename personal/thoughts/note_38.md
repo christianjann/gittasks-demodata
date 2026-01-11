@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 40.3258
 longitude: -38.967
 altitude: 487
-completed: yes
+completed?: yes
 ---
 
 # Note 38 in personal - thoughts

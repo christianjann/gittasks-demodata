@@ -3,7 +3,7 @@ title: Note 36 in references - articles
 created: 2025-03-10T11:28:29.887161
 updated: 2025-11-12T11:28:29.887161
 author: Eve Adams
-completed: no
+completed?: no
 tags:
   - thought
   - social

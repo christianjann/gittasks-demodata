@@ -2,7 +2,7 @@
 title: Note 20 in personal - memories - adulthood
 created: 2025-05-08T11:28:29.599303
 updated: 2026-04-26T11:28:29.599303
-completed: no
+completed?: no
 tags:
   - recipe
   - archive

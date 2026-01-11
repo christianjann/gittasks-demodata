@@ -6,7 +6,7 @@ source: https://example440.com
 latitude: -16.9466
 longitude: -67.7836
 altitude: 3800
-completed: no
+completed?: no
 tags:
   - design
   - blog

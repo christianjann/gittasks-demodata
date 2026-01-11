@@ -3,7 +3,7 @@ title: Note 44 in blog - ideas
 created: 2025-06-16T11:28:29.931110
 updated: 2025-08-01T11:28:29.931110
 author: Grace Lee
-completed: no
+completed?: no
 due: 2025-11-16T11:28:29.931110
 tags:
   - health

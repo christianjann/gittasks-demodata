@@ -2,7 +2,7 @@
 title: Note 27 in blog
 created: 2025-08-23T11:28:29.917363
 updated: 2026-06-02T11:28:29.917363
-completed: no
+completed?: no
 tags:
   - journal
   - learning

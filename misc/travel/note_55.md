@@ -2,7 +2,7 @@
 title: Note 55 in misc - travel
 created: 2023-09-17T11:28:29.789924
 updated: 2023-10-05T11:28:29.789924
-completed: no
+completed?: no
 due: 2024-05-31T11:28:29.789924
 tags:
   - idea

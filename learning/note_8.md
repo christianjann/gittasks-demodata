@@ -4,7 +4,7 @@ created: 2024-03-08T11:28:29.807707
 updated: 2024-09-15T11:28:29.807707
 source: https://example405.com
 author: Bob Smith
-completed: yes
+completed?: yes
 ---
 
 # Note 8 in learning

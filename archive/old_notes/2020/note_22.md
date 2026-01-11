@@ -4,7 +4,7 @@ created: 2024-11-22T11:28:29.726783
 updated: 2025-11-19T11:28:29.726783
 source: https://example988.com
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - task
 ---

@@ -3,7 +3,7 @@ title: Note 31 in projects - code - go
 created: 2023-07-01T11:28:29.688403
 updated: 2024-04-30T11:28:29.688403
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - archive
   - learning

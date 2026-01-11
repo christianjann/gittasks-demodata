@@ -3,7 +3,7 @@ title: Note 15 in events - past
 created: 2024-12-09T11:28:29.953094
 updated: 2025-06-04T11:28:29.953094
 author: Bob Smith
-completed: no
+completed?: no
 due: 2025-12-10T11:28:29.953094
 tags:
   - research

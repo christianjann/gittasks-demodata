@@ -5,7 +5,7 @@ updated: 2026-01-27T11:28:29.829578
 latitude: 44.7577
 longitude: -36.5431
 altitude: 3896
-completed: no
+completed?: no
 tags:
   - shopping
   - work

@@ -3,7 +3,7 @@ title: Note 10 in journal - yearly
 created: 2025-05-11T11:28:29.877631
 updated: 2026-04-26T11:28:29.877631
 source: https://example462.com
-completed: yes
+completed?: yes
 due: 2026-06-01T11:28:29.877631
 tags:
   - shopping

@@ -3,7 +3,7 @@ title: Note 31 in work - tasks
 created: 2024-02-22T11:28:29.628702
 updated: 2025-01-16T11:28:29.628702
 source: https://example490.com
-completed: no
+completed?: no
 tags:
   - task
   - thought

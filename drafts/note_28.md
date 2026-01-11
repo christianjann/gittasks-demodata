@@ -5,7 +5,7 @@ updated: 2023-07-21T11:28:29.744321
 latitude: 66.0544
 longitude: 70.0076
 altitude: 4994
-completed: no
+completed?: no
 due: 2024-04-05T11:28:29.744321
 ---
 

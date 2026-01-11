@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -34.6504
 longitude: -8.7733
 altitude: 4774
-completed: yes
+completed?: yes
 tags:
   - diary
   - goal

@@ -3,7 +3,7 @@ title: Note 36 in hobbies - reading
 created: 2024-12-26T11:28:29.978968
 updated: 2025-10-02T11:28:29.978968
 source: https://example674.com
-completed: yes
+completed?: yes
 tags:
   - personal
 ---

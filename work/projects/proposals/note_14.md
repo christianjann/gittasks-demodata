@@ -2,7 +2,7 @@
 title: Note 14 in work - projects - proposals
 created: 2023-11-16T11:28:29.655892
 updated: 2024-07-12T11:28:29.655892
-completed: no
+completed?: no
 due: 2024-08-26T11:28:29.655892
 tags:
   - draft

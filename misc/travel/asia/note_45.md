@@ -4,7 +4,7 @@ created: 2023-08-30T11:28:29.796205
 updated: 2024-08-25T11:28:29.796205
 source: https://example706.com
 author: Eve Adams
-completed: yes
+completed?: yes
 ---
 
 # Note 45 in misc - travel - asia

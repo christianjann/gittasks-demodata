@@ -3,7 +3,7 @@ title: Note 19 in inbox - emails
 created: 2024-12-19T11:28:29.847667
 updated: 2025-06-16T11:28:29.847667
 author: Eve Adams
-completed: no
+completed?: no
 due: 2026-05-12T11:28:29.847667
 ---
 

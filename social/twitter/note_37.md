@@ -6,7 +6,7 @@ source: https://example94.com
 latitude: -74.3209
 longitude: 11.5654
 altitude: 3805
-completed: yes
+completed?: yes
 due: 2025-01-30T11:28:29.938932
 tags:
   - archive

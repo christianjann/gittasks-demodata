@@ -4,7 +4,7 @@ created: 2023-08-30T11:28:29.722554
 updated: 2023-09-07T11:28:29.722554
 source: https://example236.com
 author: Diana Prince
-completed: no
+completed?: no
 tags:
   - shopping
 ---

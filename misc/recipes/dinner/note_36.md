@@ -3,7 +3,7 @@ title: Note 36 in misc - recipes - dinner
 created: 2025-08-01T11:28:29.785050
 updated: 2026-03-01T11:28:29.785050
 author: Frank Miller
-completed: yes
+completed?: yes
 ---
 
 # Note 36 in misc - recipes - dinner

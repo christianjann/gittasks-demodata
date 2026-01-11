@@ -3,7 +3,7 @@ title: Note 40 in work - tasks - completed
 created: 2025-08-14T11:28:29.640660
 updated: 2026-06-18T11:28:29.640660
 source: https://example989.com
-completed: yes
+completed?: yes
 ---
 
 # Note 40 in work - tasks - completed

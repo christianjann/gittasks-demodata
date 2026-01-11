@@ -3,7 +3,7 @@ title: Note 52 in social - linkedin
 created: 2023-09-11T11:28:29.943524
 updated: 2024-03-01T11:28:29.943524
 source: https://example237.com
-completed: no
+completed?: no
 due: 2024-10-16T11:28:29.943524
 tags:
   - urgent

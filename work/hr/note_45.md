@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -59.0051
 longitude: -84.9018
 altitude: 766
-completed: yes
+completed?: yes
 tags:
   - meeting
   - blog

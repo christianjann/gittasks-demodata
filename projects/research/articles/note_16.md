@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: 24.9554
 longitude: -20.5589
 altitude: 538
-completed: no
+completed?: no
 due: 2026-11-03T11:28:29.708576
 tags:
   - shopping

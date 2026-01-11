@@ -3,7 +3,7 @@ title: Note 29 in personal - thoughts
 created: 2025-06-01T11:28:29.581372
 updated: 2026-02-27T11:28:29.581372
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - urgent
   - meeting

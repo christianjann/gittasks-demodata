@@ -4,7 +4,7 @@ created: 2024-07-14T11:28:29.761330
 updated: 2024-11-17T11:28:29.761330
 source: https://example229.com
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - journal
   - personal

@@ -2,7 +2,7 @@
 title: Note 53 in work - meetings - weekly
 created: 2023-10-07T11:28:29.621425
 updated: 2024-06-07T11:28:29.621425
-completed: yes
+completed?: yes
 ---
 
 # Note 53 in work - meetings - weekly

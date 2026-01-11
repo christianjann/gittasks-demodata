@@ -4,7 +4,7 @@ created: 2023-01-31T11:28:29.645875
 updated: 2023-03-27T11:28:29.645875
 source: https://example924.com
 author: Grace Lee
-completed: no
+completed?: no
 due: 2023-07-07T11:28:29.645875
 tags:
   - meeting

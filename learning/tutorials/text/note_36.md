@@ -5,7 +5,7 @@ updated: 2026-05-09T11:28:29.836186
 latitude: 26.9344
 longitude: 83.2032
 altitude: 1491
-completed: yes
+completed?: yes
 tags:
   - reference
   - research

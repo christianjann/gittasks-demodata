@@ -6,7 +6,7 @@ source: https://example976.com
 latitude: 26.2653
 longitude: 35.0389
 altitude: 616
-completed: no
+completed?: no
 due: 2025-11-25T11:28:29.665226
 tags:
   - work

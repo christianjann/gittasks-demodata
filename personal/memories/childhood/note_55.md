@@ -3,7 +3,7 @@ title: Note 55 in personal - memories - childhood
 created: 2024-10-14T11:28:29.598041
 updated: 2025-01-02T11:28:29.598041
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - goal
 ---

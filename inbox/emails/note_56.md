@@ -3,7 +3,7 @@ title: Note 56 in inbox - emails
 created: 2025-02-21T11:28:29.849732
 updated: 2025-05-27T11:28:29.849732
 source: https://example871.com
-completed: no
+completed?: no
 due: 2026-02-21T11:28:29.849732
 tags:
   - recipe

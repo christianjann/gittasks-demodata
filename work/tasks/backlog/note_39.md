@@ -3,7 +3,7 @@ title: Note 39 in work - tasks - backlog
 created: 2023-02-08T11:28:29.635372
 updated: 2023-09-23T11:28:29.635372
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2024-05-23T11:28:29.635372
 tags:
   - goal

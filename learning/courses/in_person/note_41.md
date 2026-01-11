@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -51.4298
 longitude: 142.5695
 altitude: 4931
-completed: yes
+completed?: yes
 ---
 
 # Note 41 in learning - courses - in_person

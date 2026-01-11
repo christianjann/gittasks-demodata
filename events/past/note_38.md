@@ -3,7 +3,7 @@ title: Note 38 in events - past
 created: 2025-10-19T11:28:29.954418
 updated: 2026-07-26T11:28:29.954418
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - design
   - goal

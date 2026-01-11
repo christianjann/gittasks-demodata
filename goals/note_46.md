@@ -6,7 +6,7 @@ source: https://example608.com
 latitude: -88.2925
 longitude: 164.0294
 altitude: 1100
-completed: yes
+completed?: yes
 due: 2023-12-11T11:28:29.852761
 tags:
   - blog

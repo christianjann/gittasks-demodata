@@ -3,7 +3,7 @@ title: Note 2 in projects - design - graphics
 created: 2023-11-09T11:28:29.697766
 updated: 2023-11-27T11:28:29.697766
 source: https://example596.com
-completed: no
+completed?: no
 tags:
   - idea
 ---

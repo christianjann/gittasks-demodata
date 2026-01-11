@@ -6,7 +6,7 @@ source: https://example576.com
 latitude: 59.456
 longitude: -79.87
 altitude: 4435
-completed: yes
+completed?: yes
 due: 2025-04-23T11:28:29.977867
 tags:
   - research

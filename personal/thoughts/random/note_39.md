@@ -2,7 +2,7 @@
 title: Note 39 in personal - thoughts - random
 created: 2023-10-16T11:28:29.584733
 updated: 2024-02-06T11:28:29.584733
-completed: no
+completed?: no
 due: 2024-02-29T11:28:29.584733
 tags:
   - meeting

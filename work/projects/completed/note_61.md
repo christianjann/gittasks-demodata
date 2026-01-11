@@ -2,7 +2,7 @@
 title: Note 61 in work - projects - completed
 created: 2025-08-11T11:28:29.654347
 updated: 2025-10-08T11:28:29.654347
-completed: yes
+completed?: yes
 tags:
   - blog
   - journal

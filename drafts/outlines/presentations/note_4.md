@@ -3,7 +3,7 @@ title: Note 4 in drafts - outlines - presentations
 created: 2024-05-31T11:28:29.766397
 updated: 2025-04-13T11:28:29.766397
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2025-12-30T11:28:29.766397
 ---
 

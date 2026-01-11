@@ -3,7 +3,7 @@ title: Note 7 in goals - achievements
 created: 2024-12-19T11:28:29.861402
 updated: 2025-05-11T11:28:29.861402
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - template
   - learning

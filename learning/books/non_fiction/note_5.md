@@ -4,7 +4,7 @@ created: 2023-08-17T11:28:29.824298
 updated: 2023-11-23T11:28:29.824298
 source: https://example714.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - idea
   - urgent

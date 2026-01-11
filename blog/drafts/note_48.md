@@ -3,7 +3,7 @@ title: Note 48 in blog - drafts
 created: 2023-11-23T11:28:29.923143
 updated: 2024-04-23T11:28:29.923143
 source: https://example849.com
-completed: yes
+completed?: yes
 tags:
   - journal
   - task

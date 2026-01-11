@@ -4,7 +4,7 @@ created: 2024-04-04T11:28:29.713576
 updated: 2024-09-03T11:28:29.713576
 source: https://example678.com
 author: Diana Prince
-completed: no
+completed?: no
 due: 2025-03-03T11:28:29.713576
 tags:
   - urgent

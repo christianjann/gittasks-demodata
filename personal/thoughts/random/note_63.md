@@ -3,7 +3,7 @@ title: Note 63 in personal - thoughts - random
 created: 2023-07-05T11:28:29.586293
 updated: 2024-06-12T11:28:29.586293
 source: https://example767.com
-completed: no
+completed?: no
 due: 2025-05-05T11:28:29.586293
 tags:
   - journal

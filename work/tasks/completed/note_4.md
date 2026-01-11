@@ -3,7 +3,7 @@ title: Note 4 in work - tasks - completed
 created: 2023-06-15T11:28:29.637598
 updated: 2023-12-20T11:28:29.637598
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - personal
 ---

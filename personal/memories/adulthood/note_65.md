@@ -3,7 +3,7 @@ title: Note 65 in personal - memories - adulthood
 created: 2023-07-31T11:28:29.602036
 updated: 2023-10-18T11:28:29.602036
 source: https://example488.com
-completed: yes
+completed?: yes
 due: 2024-06-26T11:28:29.602036
 tags:
   - task

@@ -4,7 +4,7 @@ created: 2024-02-10T11:28:29.725709
 updated: 2024-06-21T11:28:29.725709
 source: https://example945.com
 author: Alice Johnson
-completed: no
+completed?: no
 due: 2024-08-14T11:28:29.725709
 tags:
   - social

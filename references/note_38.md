@@ -5,7 +5,7 @@ updated: 2025-09-10T11:28:29.883183
 latitude: 13.7243
 longitude: -93.1151
 altitude: 3756
-completed: yes
+completed?: yes
 tags:
   - work
   - meeting

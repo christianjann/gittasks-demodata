@@ -4,7 +4,7 @@ created: 2025-08-03T11:28:29.695748
 updated: 2025-08-07T11:28:29.695748
 source: https://example299.com
 author: Diana Prince
-completed: yes
+completed?: yes
 ---
 
 # Note 6 in projects - design - ux

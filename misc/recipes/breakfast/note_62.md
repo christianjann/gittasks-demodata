@@ -4,7 +4,7 @@ created: 2023-05-16T11:28:29.782814
 updated: 2024-05-02T11:28:29.782814
 source: https://example938.com
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2025-04-02T11:28:29.782814
 tags:
   - template

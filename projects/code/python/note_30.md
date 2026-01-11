@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: -23.1829
 longitude: 144.9971
 altitude: 217
-completed: no
+completed?: no
 tags:
   - health
   - design

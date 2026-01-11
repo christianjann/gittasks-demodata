@@ -3,7 +3,7 @@ title: Note 51 in events - birthdays
 created: 2025-04-25T11:28:29.958345
 updated: 2025-05-08T11:28:29.958345
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - idea
   - diary

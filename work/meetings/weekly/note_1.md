@@ -5,7 +5,7 @@ updated: 2023-05-20T11:28:29.618367
 latitude: 4.032
 longitude: -174.6988
 altitude: 4244
-completed: no
+completed?: no
 due: 2023-06-19T11:28:29.618367
 tags:
   - urgent

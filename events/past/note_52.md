@@ -3,7 +3,7 @@ title: Note 52 in events - past
 created: 2023-03-08T11:28:29.955254
 updated: 2023-09-18T11:28:29.955254
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2024-04-16T11:28:29.955254
 tags:
   - task

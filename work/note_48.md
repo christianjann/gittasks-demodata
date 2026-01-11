@@ -2,7 +2,7 @@
 title: Note 48 in work
 created: 2024-05-17T11:28:29.615763
 updated: 2024-07-07T11:28:29.615763
-completed: no
+completed?: no
 tags:
   - diary
   - archive

@@ -3,7 +3,7 @@ title: Note 64 in goals - short_term
 created: 2024-02-28T11:28:29.856757
 updated: 2024-12-25T11:28:29.856757
 source: https://example342.com
-completed: no
+completed?: no
 tags:
   - work
   - draft

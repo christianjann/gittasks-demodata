@@ -3,7 +3,7 @@ title: Note 64 in misc - recipes - breakfast
 created: 2025-04-24T11:28:29.782933
 updated: 2025-12-31T11:28:29.782933
 source: https://example690.com
-completed: yes
+completed?: yes
 due: 2026-08-08T11:28:29.782933
 tags:
   - blog

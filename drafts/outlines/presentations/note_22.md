@@ -2,7 +2,7 @@
 title: Note 22 in drafts - outlines - presentations
 created: 2024-11-24T11:28:29.767362
 updated: 2025-01-15T11:28:29.767362
-completed: yes
+completed?: yes
 due: 2025-08-17T11:28:29.767362
 tags:
   - code

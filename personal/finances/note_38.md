@@ -2,7 +2,7 @@
 title: Note 38 in personal - finances
 created: 2023-01-24T11:28:29.604363
 updated: 2024-01-11T11:28:29.604363
-completed: yes
+completed?: yes
 due: 2024-12-29T11:28:29.604363
 tags:
   - personal

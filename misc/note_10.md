@@ -3,7 +3,7 @@ title: Note 10 in misc
 created: 2023-02-06T11:28:29.773183
 updated: 2024-01-03T11:28:29.773183
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2024-09-05T11:28:29.773183
 tags:
   - urgent

@@ -6,7 +6,7 @@ author: Diana Prince
 latitude: -56.4099
 longitude: -167.8141
 altitude: 210
-completed: yes
+completed?: yes
 tags:
   - template
   - research

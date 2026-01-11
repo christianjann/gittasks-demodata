@@ -2,7 +2,7 @@
 title: Note 27 in archive - old_notes
 created: 2024-05-07T11:28:29.720792
 updated: 2025-02-28T11:28:29.720792
-completed: yes
+completed?: yes
 due: 2025-03-01T11:28:29.720792
 tags:
   - reference

@@ -3,7 +3,7 @@ title: Note 28 in work - meetings
 created: 2025-05-12T11:28:29.617562
 updated: 2026-01-28T11:28:29.617562
 author: Charlie Brown
-completed: no
+completed?: no
 tags:
   - research
   - blog

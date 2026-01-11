@@ -6,7 +6,7 @@ source: https://example359.com
 latitude: 26.8247
 longitude: -169.3577
 altitude: 3506
-completed: yes
+completed?: yes
 due: 2026-06-02T11:28:29.872954
 tags:
   - research

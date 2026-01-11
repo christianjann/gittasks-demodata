@@ -3,7 +3,7 @@ title: Note 39 in goals
 created: 2025-03-24T11:28:29.852333
 updated: 2025-11-21T11:28:29.852333
 author: Henry Wilson
-completed: no
+completed?: no
 ---
 
 # Note 39 in goals

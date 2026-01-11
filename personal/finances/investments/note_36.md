@@ -4,7 +4,7 @@ created: 2025-09-02T11:28:29.610822
 updated: 2025-10-27T11:28:29.610822
 source: https://example314.com
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2026-02-20T11:28:29.610822
 tags:
   - work

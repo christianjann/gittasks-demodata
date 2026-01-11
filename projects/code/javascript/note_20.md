@@ -6,7 +6,7 @@ source: https://example335.com
 latitude: -63.1546
 longitude: 2.9504
 altitude: 1996
-completed: no
+completed?: no
 tags:
   - diary
   - shopping

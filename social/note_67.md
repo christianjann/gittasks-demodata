@@ -6,7 +6,7 @@ source: https://example533.com
 latitude: 57.5779
 longitude: 114.2493
 altitude: 3349
-completed: yes
+completed?: yes
 ---
 
 # Note 67 in social

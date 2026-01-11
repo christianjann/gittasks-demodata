@@ -3,7 +3,7 @@ title: Note 13 in learning - tutorials - text
 created: 2023-04-27T11:28:29.834802
 updated: 2023-06-11T11:28:29.834802
 source: https://example419.com
-completed: no
+completed?: no
 tags:
   - work
   - event

@@ -3,7 +3,7 @@ title: Note 16 in drafts - outlines - reports
 created: 2025-09-22T11:28:29.770423
 updated: 2026-01-12T11:28:29.770423
 source: https://example128.com
-completed: no
+completed?: no
 due: 2026-08-25T11:28:29.770423
 tags:
   - thought

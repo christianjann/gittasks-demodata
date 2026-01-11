@@ -4,7 +4,7 @@ created: 2023-11-05T11:28:29.979957
 updated: 2024-08-06T11:28:29.979957
 source: https://example760.com
 author: Frank Miller
-completed: yes
+completed?: yes
 tags:
   - note
   - research

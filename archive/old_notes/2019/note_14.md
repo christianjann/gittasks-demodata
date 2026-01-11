@@ -3,7 +3,7 @@ title: Note 14 in archive - old_notes - 2019
 created: 2025-09-02T11:28:29.722706
 updated: 2025-09-11T11:28:29.722706
 author: Henry Wilson
-completed: no
+completed?: no
 tags:
   - hobby
 ---

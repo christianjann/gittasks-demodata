@@ -5,7 +5,7 @@ updated: 2025-03-13T11:28:29.591237
 latitude: -75.912
 longitude: 86.7757
 altitude: 2901
-completed: yes
+completed?: yes
 due: 2026-03-05T11:28:29.591237
 tags:
   - urgent

@@ -4,7 +4,7 @@ created: 2025-06-28T11:28:29.778392
 updated: 2025-09-20T11:28:29.778392
 source: https://example177.com
 author: Diana Prince
-completed: yes
+completed?: yes
 due: 2025-10-19T11:28:29.778392
 tags:
   - task

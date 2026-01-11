@@ -4,7 +4,7 @@ created: 2024-05-23T11:28:29.853071
 updated: 2024-07-05T11:28:29.853071
 source: https://example874.com
 author: Bob Smith
-completed: no
+completed?: no
 ---
 
 # Note 1 in goals - short_term

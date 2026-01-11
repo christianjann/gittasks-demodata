@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 35.4028
 longitude: -103.3088
 altitude: 3643
-completed: yes
+completed?: yes
 tags:
   - event
   - social

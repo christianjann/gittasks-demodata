@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 72.3707
 longitude: -75.0559
 altitude: 536
-completed: yes
+completed?: yes
 due: 2025-08-09T11:28:29.863410
 ---
 

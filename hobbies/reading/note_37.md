@@ -5,7 +5,7 @@ updated: 2025-05-13T11:28:29.979045
 latitude: -60.4275
 longitude: -137.431
 altitude: 484
-completed: yes
+completed?: yes
 tags:
   - diary
   - work

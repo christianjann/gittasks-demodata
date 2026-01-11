@@ -3,7 +3,7 @@ title: Note 20 in blog - drafts
 created: 2025-07-12T11:28:29.921054
 updated: 2026-03-07T11:28:29.921054
 source: https://example410.com
-completed: yes
+completed?: yes
 due: 2026-12-26T11:28:29.921054
 tags:
   - blog

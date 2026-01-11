@@ -5,7 +5,7 @@ updated: 2023-12-01T11:28:29.744402
 latitude: 60.7087
 longitude: 165.1523
 altitude: 401
-completed: no
+completed?: no
 tags:
   - shopping
   - reference

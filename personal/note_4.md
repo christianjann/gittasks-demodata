@@ -5,7 +5,7 @@ updated: 2025-11-20T11:28:29.560671
 latitude: 5.818
 longitude: 54.739
 altitude: 856
-completed: no
+completed?: no
 tags:
   - code
   - social

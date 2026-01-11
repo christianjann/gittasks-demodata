@@ -3,7 +3,7 @@ title: Note 9 in drafts - ideas - business
 created: 2025-06-09T11:28:29.754220
 updated: 2025-11-11T11:28:29.754220
 source: https://example730.com
-completed: no
+completed?: no
 tags:
   - misc
   - learning

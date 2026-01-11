@@ -6,7 +6,7 @@ source: https://example287.com
 latitude: 82.1368
 longitude: 142.4782
 altitude: 2691
-completed: no
+completed?: no
 tags:
   - personal
   - event

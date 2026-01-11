@@ -5,7 +5,7 @@ updated: 2023-09-03T11:28:29.824690
 latitude: 1.5627
 longitude: 63.1148
 altitude: 3886
-completed: yes
+completed?: yes
 tags:
   - note
   - design

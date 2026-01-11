@@ -4,7 +4,7 @@ created: 2024-05-23T11:28:29.870083
 updated: 2024-09-03T11:28:29.870083
 source: https://example260.com
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2025-07-21T11:28:29.870083
 tags:
   - finance

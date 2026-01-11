@@ -6,7 +6,7 @@ source: https://example559.com
 latitude: -51.0274
 longitude: -81.5951
 altitude: 970
-completed: yes
+completed?: yes
 due: 2026-04-15T11:28:29.769064
 tags:
   - personal

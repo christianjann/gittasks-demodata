@@ -3,7 +3,7 @@ title: Note 27 in references - articles
 created: 2025-02-11T11:28:29.886644
 updated: 2025-04-14T11:28:29.886644
 source: https://example911.com
-completed: yes
+completed?: yes
 due: 2025-12-07T11:28:29.886644
 tags:
   - thought

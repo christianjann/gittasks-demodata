@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: -83.1705
 longitude: -14.5569
 altitude: 3486
-completed: yes
+completed?: yes
 tags:
   - draft
   - template

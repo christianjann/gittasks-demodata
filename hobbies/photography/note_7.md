@@ -2,7 +2,7 @@
 title: Note 7 in hobbies - photography
 created: 2025-01-20T11:28:29.971721
 updated: 2025-07-02T11:28:29.971721
-completed: no
+completed?: no
 due: 2026-03-09T11:28:29.971721
 tags:
   - goal

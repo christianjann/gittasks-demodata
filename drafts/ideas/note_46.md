@@ -3,7 +3,7 @@ title: Note 46 in drafts - ideas
 created: 2025-08-17T11:28:29.749377
 updated: 2026-06-25T11:28:29.749377
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - recipe
   - idea

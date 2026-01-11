@@ -3,7 +3,7 @@ title: Note 49 in hobbies - cooking
 created: 2024-07-04T11:28:29.983962
 updated: 2025-02-17T11:28:29.983962
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2025-09-01T11:28:29.983962
 tags:
   - idea

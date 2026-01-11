@@ -3,7 +3,7 @@ title: Note 34 in inbox - quick_notes
 created: 2026-01-02T11:28:29.840814
 updated: 2026-12-22T11:28:29.840814
 source: https://example774.com
-completed: no
+completed?: no
 due: 2027-01-10T11:28:29.840814
 tags:
   - health

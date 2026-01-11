@@ -2,7 +2,7 @@
 title: Note 33 in social - linkedin
 created: 2025-06-22T11:28:29.942375
 updated: 2025-07-21T11:28:29.942375
-completed: yes
+completed?: yes
 due: 2026-06-29T11:28:29.942375
 tags:
   - work

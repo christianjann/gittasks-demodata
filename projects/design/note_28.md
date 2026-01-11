@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: -5.9928
 longitude: 86.7012
 altitude: 2412
-completed: no
+completed?: no
 ---
 
 # Note 28 in projects - design

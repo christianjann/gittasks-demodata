@@ -4,7 +4,7 @@ created: 2025-03-03T11:28:29.783848
 updated: 2025-11-22T11:28:29.783848
 source: https://example496.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - learning
   - draft

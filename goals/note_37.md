@@ -2,7 +2,7 @@
 title: Note 37 in goals
 created: 2025-06-03T11:28:29.852234
 updated: 2025-10-21T11:28:29.852234
-completed: yes
+completed?: yes
 ---
 
 # Note 37 in goals

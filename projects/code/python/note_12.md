@@ -3,7 +3,7 @@ title: Note 12 in projects - code - python
 created: 2025-04-27T11:28:29.678779
 updated: 2025-07-10T11:28:29.678779
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2025-12-01T11:28:29.678779
 tags:
   - urgent

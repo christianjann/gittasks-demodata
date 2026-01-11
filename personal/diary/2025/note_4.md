@@ -2,7 +2,7 @@
 title: Note 4 in personal - diary - 2025
 created: 2024-11-01T11:28:29.576333
 updated: 2025-05-26T11:28:29.576333
-completed: yes
+completed?: yes
 tags:
   - hobby
   - work

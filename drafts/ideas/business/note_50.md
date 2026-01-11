@@ -6,7 +6,7 @@ source: https://example46.com
 latitude: -3.5233
 longitude: 62.7861
 altitude: 321
-completed: yes
+completed?: yes
 due: 2026-11-06T11:28:29.756587
 tags:
   - social

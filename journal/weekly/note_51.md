@@ -3,7 +3,7 @@ title: Note 51 in journal - weekly
 created: 2025-08-19T11:28:29.874232
 updated: 2026-06-01T11:28:29.874232
 source: https://example552.com
-completed: yes
+completed?: yes
 tags:
   - goal
   - personal

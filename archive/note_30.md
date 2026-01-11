@@ -3,7 +3,7 @@ title: Note 30 in archive
 created: 2024-09-19T11:28:29.717055
 updated: 2025-06-07T11:28:29.717055
 author: Diana Prince
-completed: no
+completed?: no
 due: 2026-04-07T11:28:29.717055
 tags:
   - work

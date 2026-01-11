@@ -3,7 +3,7 @@ title: Note 20 in shopping
 created: 2025-07-20T11:28:29.960788
 updated: 2025-11-22T11:28:29.960788
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - thought
   - health

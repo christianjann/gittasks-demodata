@@ -6,7 +6,7 @@ source: https://example978.com
 latitude: -10.7036
 longitude: 158.2276
 altitude: 434
-completed: no
+completed?: no
 tags:
   - finance
   - event

@@ -2,7 +2,7 @@
 title: Note 65 in personal - finances - investments
 created: 2025-12-07T11:28:29.612593
 updated: 2026-10-04T11:28:29.612593
-completed: yes
+completed?: yes
 tags:
   - event
 ---

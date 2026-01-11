@@ -4,7 +4,7 @@ created: 2024-01-28T11:28:29.964496
 updated: 2024-03-08T11:28:29.964496
 source: https://example48.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2025-02-21T11:28:29.964496
 tags:
   - research

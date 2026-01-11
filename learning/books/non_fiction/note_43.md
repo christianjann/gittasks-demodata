@@ -6,7 +6,7 @@ source: https://example201.com
 latitude: 36.4574
 longitude: -96.5615
 altitude: 3404
-completed: no
+completed?: no
 tags:
   - urgent
 ---

@@ -6,7 +6,7 @@ source: https://example952.com
 latitude: -56.7941
 longitude: -32.2228
 altitude: 175
-completed: yes
+completed?: yes
 tags:
   - travel
 ---

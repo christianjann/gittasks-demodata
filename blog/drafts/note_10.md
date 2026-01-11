@@ -4,7 +4,7 @@ created: 2024-01-18T11:28:29.920383
 updated: 2024-03-04T11:28:29.920383
 source: https://example671.com
 author: Frank Miller
-completed: no
+completed?: no
 due: 2024-11-26T11:28:29.920383
 tags:
   - travel

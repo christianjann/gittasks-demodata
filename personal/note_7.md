@@ -2,7 +2,7 @@
 title: Note 7 in personal
 created: 2024-06-11T11:28:29.560963
 updated: 2025-05-20T11:28:29.560963
-completed: no
+completed?: no
 due: 2026-02-20T11:28:29.560963
 tags:
   - design

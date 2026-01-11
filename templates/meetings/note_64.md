@@ -6,7 +6,7 @@ source: https://example337.com
 latitude: 27.1774
 longitude: 111.7106
 altitude: 4273
-completed: no
+completed?: no
 tags:
   - goal
 ---

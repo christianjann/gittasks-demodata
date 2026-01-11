@@ -6,7 +6,7 @@ source: https://example197.com
 latitude: -46.0745
 longitude: 102.4225
 altitude: 3560
-completed: yes
+completed?: yes
 tags:
   - learning
   - reference

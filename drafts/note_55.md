@@ -3,7 +3,7 @@ title: Note 55 in drafts
 created: 2025-11-06T11:28:29.746174
 updated: 2026-09-08T11:28:29.746174
 source: https://example993.com
-completed: yes
+completed?: yes
 tags:
   - reference
   - learning

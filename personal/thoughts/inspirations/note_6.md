@@ -6,7 +6,7 @@ source: https://example166.com
 latitude: 49.2788
 longitude: -48.2931
 altitude: 2984
-completed: no
+completed?: no
 due: 2026-03-04T11:28:29.586938
 tags:
   - archive

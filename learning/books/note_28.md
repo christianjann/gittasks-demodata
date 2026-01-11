@@ -3,7 +3,7 @@ title: Note 28 in learning - books
 created: 2024-07-09T11:28:29.820319
 updated: 2024-09-05T11:28:29.820319
 source: https://example309.com
-completed: no
+completed?: no
 tags:
   - work
   - finance

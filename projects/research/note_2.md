@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -58.1072
 longitude: 90.374
 altitude: 4225
-completed: yes
+completed?: yes
 ---
 
 # Note 2 in projects - research

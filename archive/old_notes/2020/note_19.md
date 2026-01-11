@@ -4,7 +4,7 @@ created: 2023-09-28T11:28:29.726622
 updated: 2024-09-01T11:28:29.726622
 source: https://example357.com
 author: Bob Smith
-completed: no
+completed?: no
 due: 2024-11-01T11:28:29.726622
 tags:
   - research

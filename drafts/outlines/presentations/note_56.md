@@ -6,7 +6,7 @@ source: https://example983.com
 latitude: 34.6183
 longitude: 86.291
 altitude: 2054
-completed: no
+completed?: no
 tags:
   - social
   - diary

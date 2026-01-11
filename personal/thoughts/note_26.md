@@ -5,7 +5,7 @@ updated: 2024-04-18T11:28:29.581155
 latitude: 18.4819
 longitude: 42.4839
 altitude: 322
-completed: no
+completed?: no
 tags:
   - meeting
   - draft

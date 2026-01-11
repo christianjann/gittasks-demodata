@@ -4,7 +4,7 @@ created: 2024-12-03T11:28:29.838969
 updated: 2025-09-10T11:28:29.838969
 source: https://example730.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 ---
 
 # Note 2 in inbox - quick_notes

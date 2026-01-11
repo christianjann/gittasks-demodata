@@ -3,7 +3,7 @@ title: Note 3 in archive - backup - 2022
 created: 2025-07-29T11:28:29.735890
 updated: 2026-03-02T11:28:29.735890
 source: https://example345.com
-completed: no
+completed?: no
 due: 2027-01-18T11:28:29.735890
 tags:
   - goal

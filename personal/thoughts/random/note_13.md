@@ -4,7 +4,7 @@ created: 2023-07-31T11:28:29.583032
 updated: 2024-02-08T11:28:29.583032
 source: https://example104.com
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - idea
   - travel

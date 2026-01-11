@@ -4,7 +4,7 @@ created: 2024-09-17T11:28:29.701012
 updated: 2025-04-20T11:28:29.701012
 source: https://example870.com
 author: Grace Lee
-completed: yes
+completed?: yes
 tags:
   - finance
   - code

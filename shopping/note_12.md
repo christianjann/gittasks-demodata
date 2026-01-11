@@ -3,7 +3,7 @@ title: Note 12 in shopping
 created: 2023-03-28T11:28:29.960274
 updated: 2023-10-26T11:28:29.960274
 source: https://example329.com
-completed: yes
+completed?: yes
 due: 2024-09-01T11:28:29.960274
 tags:
   - design

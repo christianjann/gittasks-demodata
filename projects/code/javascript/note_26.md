@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: -48.2106
 longitude: -156.2127
 altitude: 1838
-completed: yes
+completed?: yes
 tags:
   - diary
   - idea

@@ -6,7 +6,7 @@ source: https://example85.com
 latitude: -27.1383
 longitude: 92.6801
 altitude: 2616
-completed: no
+completed?: no
 tags:
   - recipe
   - code

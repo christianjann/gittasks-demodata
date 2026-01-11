@@ -6,7 +6,7 @@ source: https://example400.com
 latitude: -73.596
 longitude: 77.9637
 altitude: 2628
-completed: yes
+completed?: yes
 due: 2026-12-18T11:28:29.803164
 tags:
   - urgent

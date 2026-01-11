@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: -28.0483
 longitude: -0.1909
 altitude: 2203
-completed: yes
+completed?: yes
 tags:
   - idea
   - social

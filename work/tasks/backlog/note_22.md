@@ -4,7 +4,7 @@ created: 2024-04-28T11:28:29.634366
 updated: 2024-06-13T11:28:29.634366
 source: https://example488.com
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2025-03-08T11:28:29.634366
 tags:
   - reference

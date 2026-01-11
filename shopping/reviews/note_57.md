@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -8.0576
 longitude: 48.8876
 altitude: 2480
-completed: no
+completed?: no
 tags:
   - archive
   - diary

@@ -3,7 +3,7 @@ title: Note 64 in drafts
 created: 2024-10-12T11:28:29.746751
 updated: 2024-12-10T11:28:29.746751
 source: https://example229.com
-completed: no
+completed?: no
 tags:
   - event
   - meeting

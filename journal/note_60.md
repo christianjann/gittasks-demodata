@@ -3,7 +3,7 @@ title: Note 60 in journal
 created: 2024-02-03T11:28:29.868053
 updated: 2024-08-30T11:28:29.868053
 source: https://example10.com
-completed: yes
+completed?: yes
 tags:
   - diary
   - code

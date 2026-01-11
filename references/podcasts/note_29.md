@@ -3,7 +3,7 @@ title: Note 29 in references - podcasts
 created: 2025-02-19T11:28:29.897187
 updated: 2025-03-06T11:28:29.897187
 author: Grace Lee
-completed: yes
+completed?: yes
 tags:
   - goal
   - blog

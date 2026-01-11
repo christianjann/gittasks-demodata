@@ -4,7 +4,7 @@ created: 2023-06-24T11:28:29.847481
 updated: 2024-05-01T11:28:29.847481
 source: https://example396.com
 author: Henry Wilson
-completed: no
+completed?: no
 tags:
   - note
   - template

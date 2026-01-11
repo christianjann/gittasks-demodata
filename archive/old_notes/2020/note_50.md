@@ -6,7 +6,7 @@ source: https://example545.com
 latitude: 88.0855
 longitude: 172.7864
 altitude: 4802
-completed: yes
+completed?: yes
 tags:
   - note
   - journal

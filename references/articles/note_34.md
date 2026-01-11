@@ -3,7 +3,7 @@ title: Note 34 in references - articles
 created: 2024-12-18T11:28:29.887045
 updated: 2025-12-06T11:28:29.887045
 source: https://example608.com
-completed: no
+completed?: no
 due: 2026-10-29T11:28:29.887045
 tags:
   - urgent

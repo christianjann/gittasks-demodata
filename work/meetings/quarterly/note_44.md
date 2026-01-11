@@ -4,7 +4,7 @@ created: 2025-06-12T11:28:29.626590
 updated: 2025-08-17T11:28:29.626590
 source: https://example266.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - journal
   - reference

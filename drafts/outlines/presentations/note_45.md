@@ -3,7 +3,7 @@ title: Note 45 in drafts - outlines - presentations
 created: 2023-07-17T11:28:29.768632
 updated: 2023-12-30T11:28:29.768632
 source: https://example243.com
-completed: no
+completed?: no
 tags:
   - misc
   - hobby

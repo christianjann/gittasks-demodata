@@ -3,7 +3,7 @@ title: Note 10 in learning - courses
 created: 2023-10-04T11:28:29.810502
 updated: 2024-07-04T11:28:29.810502
 source: https://example639.com
-completed: yes
+completed?: yes
 tags:
   - event
 ---

@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -16.5909
 longitude: -106.5042
 altitude: 90
-completed: no
+completed?: no
 due: 2027-01-22T11:28:29.594206
 tags:
   - hobby

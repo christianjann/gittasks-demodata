@@ -2,7 +2,7 @@
 title: Note 40 in work - projects - active
 created: 2023-10-16T11:28:29.649498
 updated: 2024-01-06T11:28:29.649498
-completed: no
+completed?: no
 ---
 
 # Note 40 in work - projects - active

@@ -4,7 +4,7 @@ created: 2023-04-21T11:28:29.660574
 updated: 2023-08-17T11:28:29.660574
 source: https://example958.com
 author: Charlie Brown
-completed: no
+completed?: no
 tags:
   - personal
 ---

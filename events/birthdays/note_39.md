@@ -3,7 +3,7 @@ title: Note 39 in events - birthdays
 created: 2024-10-15T11:28:29.957656
 updated: 2024-11-24T11:28:29.957656
 source: https://example826.com
-completed: no
+completed?: no
 due: 2024-12-16T11:28:29.957656
 tags:
   - event

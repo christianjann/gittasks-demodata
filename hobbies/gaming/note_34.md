@@ -4,7 +4,7 @@ created: 2023-06-07T11:28:29.975944
 updated: 2023-12-19T11:28:29.975944
 source: https://example478.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - design
   - learning

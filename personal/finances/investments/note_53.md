@@ -3,7 +3,7 @@ title: Note 53 in personal - finances - investments
 created: 2025-08-29T11:28:29.611885
 updated: 2026-05-15T11:28:29.611885
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2026-05-19T11:28:29.611885
 tags:
   - code

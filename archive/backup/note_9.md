@@ -2,7 +2,7 @@
 title: Note 9 in archive - backup
 created: 2025-08-31T11:28:29.733321
 updated: 2026-03-21T11:28:29.733321
-completed: yes
+completed?: yes
 due: 2027-01-29T11:28:29.733321
 tags:
   - note

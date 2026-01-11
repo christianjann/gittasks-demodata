@@ -2,7 +2,7 @@
 title: Note 52 in blog - drafts
 created: 2024-07-27T11:28:29.923374
 updated: 2024-12-03T11:28:29.923374
-completed: no
+completed?: no
 due: 2025-03-26T11:28:29.923374
 tags:
   - personal

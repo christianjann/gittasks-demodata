@@ -3,7 +3,7 @@ title: Note 19 in social - linkedin
 created: 2023-12-06T11:28:29.941421
 updated: 2024-05-29T11:28:29.941421
 source: https://example54.com
-completed: no
+completed?: no
 due: 2025-04-22T11:28:29.941421
 tags:
   - event

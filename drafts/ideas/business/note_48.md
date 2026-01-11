@@ -3,7 +3,7 @@ title: Note 48 in drafts - ideas - business
 created: 2023-09-09T11:28:29.756437
 updated: 2024-01-20T11:28:29.756437
 source: https://example437.com
-completed: no
+completed?: no
 tags:
   - hobby
 ---

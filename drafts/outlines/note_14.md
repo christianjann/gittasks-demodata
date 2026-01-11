@@ -6,7 +6,7 @@ source: https://example421.com
 latitude: -41.8251
 longitude: 16.8988
 altitude: 3566
-completed: yes
+completed?: yes
 due: 2024-12-28T11:28:29.760391
 tags:
   - finance

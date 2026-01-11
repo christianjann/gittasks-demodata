@@ -2,7 +2,7 @@
 title: Note 52 in social - twitter
 created: 2024-04-22T11:28:29.940085
 updated: 2024-10-06T11:28:29.940085
-completed: no
+completed?: no
 due: 2025-05-07T11:28:29.940085
 tags:
   - shopping

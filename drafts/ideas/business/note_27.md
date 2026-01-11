@@ -3,7 +3,7 @@ title: Note 27 in drafts - ideas - business
 created: 2024-11-10T11:28:29.755244
 updated: 2025-09-29T11:28:29.755244
 author: Grace Lee
-completed: no
+completed?: no
 tags:
   - work
   - template

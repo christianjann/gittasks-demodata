@@ -2,7 +2,7 @@
 title: Note 19 in projects - research - articles
 created: 2024-05-08T11:28:29.708745
 updated: 2024-12-05T11:28:29.708745
-completed: yes
+completed?: yes
 due: 2025-07-17T11:28:29.708745
 tags:
   - blog

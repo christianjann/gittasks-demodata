@@ -3,7 +3,7 @@ title: Note 36 in archive - old_notes - 2019
 created: 2024-06-19T11:28:29.723959
 updated: 2025-03-04T11:28:29.723959
 source: https://example839.com
-completed: yes
+completed?: yes
 due: 2025-12-26T11:28:29.723959
 tags:
   - blog

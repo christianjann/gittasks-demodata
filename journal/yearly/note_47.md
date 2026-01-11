@@ -3,7 +3,7 @@ title: Note 47 in journal - yearly
 created: 2025-05-08T11:28:29.880305
 updated: 2026-04-11T11:28:29.880305
 source: https://example972.com
-completed: no
+completed?: no
 due: 2027-02-21T11:28:29.880305
 tags:
   - personal

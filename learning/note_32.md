@@ -4,7 +4,7 @@ created: 2023-12-04T11:28:29.809013
 updated: 2024-01-25T11:28:29.809013
 source: https://example75.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2024-05-03T11:28:29.809013
 tags:
   - draft

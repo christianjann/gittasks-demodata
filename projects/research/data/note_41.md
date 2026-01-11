@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -28.617
 longitude: -57.5553
 altitude: 4920
-completed: no
+completed?: no
 due: 2024-07-20T11:28:29.714280
 tags:
   - shopping

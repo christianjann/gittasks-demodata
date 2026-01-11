@@ -3,7 +3,7 @@ title: Note 21 in shopping
 created: 2025-11-25T11:28:29.960842
 updated: 2026-08-03T11:28:29.960842
 author: Bob Smith
-completed: no
+completed?: no
 due: 2027-07-30T11:28:29.960842
 tags:
   - code

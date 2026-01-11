@@ -6,7 +6,7 @@ source: https://example103.com
 latitude: -36.9352
 longitude: -50.4371
 altitude: 430
-completed: no
+completed?: no
 tags:
   - work
   - travel

@@ -4,7 +4,7 @@ created: 2024-08-26T11:28:29.972215
 updated: 2024-11-17T11:28:29.972215
 source: https://example305.com
 author: Bob Smith
-completed: yes
+completed?: yes
 ---
 
 # Note 16 in hobbies - photography

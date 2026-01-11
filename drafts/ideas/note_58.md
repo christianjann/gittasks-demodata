@@ -2,7 +2,7 @@
 title: Note 58 in drafts - ideas
 created: 2023-09-04T11:28:29.750178
 updated: 2023-11-01T11:28:29.750178
-completed: yes
+completed?: yes
 tags:
   - health
 ---

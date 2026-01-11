@@ -6,7 +6,7 @@ source: https://example168.com
 latitude: -49.2129
 longitude: 11.494
 altitude: 1809
-completed: yes
+completed?: yes
 tags:
   - urgent
   - finance

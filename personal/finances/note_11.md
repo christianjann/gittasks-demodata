@@ -3,7 +3,7 @@ title: Note 11 in personal - finances
 created: 2025-02-23T11:28:29.602790
 updated: 2025-05-18T11:28:29.602790
 source: https://example482.com
-completed: yes
+completed?: yes
 tags:
   - finance
   - learning

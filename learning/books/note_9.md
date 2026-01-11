@@ -4,7 +4,7 @@ created: 2025-07-22T11:28:29.819138
 updated: 2025-09-08T11:28:29.819138
 source: https://example631.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 due: 2026-04-30T11:28:29.819138
 tags:
   - diary

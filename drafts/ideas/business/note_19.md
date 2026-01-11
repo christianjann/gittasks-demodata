@@ -4,7 +4,7 @@ created: 2023-11-30T11:28:29.754801
 updated: 2024-01-05T11:28:29.754801
 source: https://example129.com
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - research
   - journal

@@ -3,7 +3,7 @@ title: Note 8 in projects - code - go
 created: 2025-08-02T11:28:29.687122
 updated: 2026-06-01T11:28:29.687122
 author: Charlie Brown
-completed: yes
+completed?: yes
 ---
 
 # Note 8 in projects - code - go

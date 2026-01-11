@@ -3,7 +3,7 @@ title: Note 32 in drafts
 created: 2025-08-11T11:28:29.744729
 updated: 2026-02-17T11:28:29.744729
 source: https://example777.com
-completed: no
+completed?: no
 tags:
   - health
   - misc

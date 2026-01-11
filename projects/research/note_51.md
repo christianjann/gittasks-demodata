@@ -3,7 +3,7 @@ title: Note 51 in projects - research
 created: 2025-10-09T11:28:29.704534
 updated: 2026-09-04T11:28:29.704534
 author: Bob Smith
-completed: no
+completed?: no
 ---
 
 # Note 51 in projects - research

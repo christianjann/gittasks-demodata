@@ -2,7 +2,7 @@
 title: Note 43 in learning - courses - online
 created: 2023-05-08T11:28:29.814735
 updated: 2023-05-11T11:28:29.814735
-completed: no
+completed?: no
 tags:
   - draft
   - archive

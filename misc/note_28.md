@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 88.0318
 longitude: 56.7335
 altitude: 456
-completed: no
+completed?: no
 tags:
   - finance
   - travel

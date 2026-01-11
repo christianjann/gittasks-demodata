@@ -2,7 +2,7 @@
 title: Note 18 in misc
 created: 2025-03-22T11:28:29.773625
 updated: 2025-05-30T11:28:29.773625
-completed: yes
+completed?: yes
 due: 2025-10-01T11:28:29.773625
 tags:
   - hobby

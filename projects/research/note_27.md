@@ -3,7 +3,7 @@ title: Note 27 in projects - research
 created: 2023-06-10T11:28:29.702858
 updated: 2023-08-11T11:28:29.702858
 source: https://example633.com
-completed: yes
+completed?: yes
 due: 2024-05-28T11:28:29.702858
 tags:
   - draft

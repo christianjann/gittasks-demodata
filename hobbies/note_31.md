@@ -5,7 +5,7 @@ updated: 2025-12-06T11:28:29.970203
 latitude: -9.1177
 longitude: -97.5724
 altitude: 2402
-completed: no
+completed?: no
 tags:
   - recipe
   - personal

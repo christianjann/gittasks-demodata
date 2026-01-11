@@ -3,7 +3,7 @@ title: Note 11 in blog
 created: 2024-03-19T11:28:29.916300
 updated: 2024-09-03T11:28:29.916300
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2025-08-02T11:28:29.916300
 tags:
   - hobby

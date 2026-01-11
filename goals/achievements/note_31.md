@@ -2,7 +2,7 @@
 title: Note 31 in goals - achievements
 created: 2025-07-23T11:28:29.862925
 updated: 2026-04-20T11:28:29.862925
-completed: no
+completed?: no
 due: 2026-09-21T11:28:29.862925
 tags:
   - journal

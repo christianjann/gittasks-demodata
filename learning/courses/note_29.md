@@ -3,7 +3,7 @@ title: Note 29 in learning - courses
 created: 2023-05-30T11:28:29.811681
 updated: 2024-04-19T11:28:29.811681
 source: https://example988.com
-completed: no
+completed?: no
 ---
 
 # Note 29 in learning - courses

@@ -4,7 +4,7 @@ created: 2023-12-12T11:28:29.702797
 updated: 2024-03-21T11:28:29.702797
 source: https://example730.com
 author: Diana Prince
-completed: no
+completed?: no
 ---
 
 # Note 26 in projects - research

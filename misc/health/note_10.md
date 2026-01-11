@@ -3,7 +3,7 @@ title: Note 10 in misc - health
 created: 2024-01-01T11:28:29.796935
 updated: 2024-02-04T11:28:29.796935
 source: https://example770.com
-completed: no
+completed?: no
 tags:
   - blog
   - learning

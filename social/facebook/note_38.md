@@ -3,7 +3,7 @@ title: Note 38 in social - facebook
 created: 2023-04-27T11:28:29.946399
 updated: 2023-09-27T11:28:29.946399
 source: https://example299.com
-completed: no
+completed?: no
 tags:
   - research
 ---

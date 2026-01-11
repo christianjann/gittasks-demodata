@@ -3,7 +3,7 @@ title: Note 19 in drafts - ideas - personal
 created: 2024-10-05T11:28:29.758442
 updated: 2025-01-05T11:28:29.758442
 source: https://example633.com
-completed: no
+completed?: no
 due: 2025-11-16T11:28:29.758442
 tags:
   - draft

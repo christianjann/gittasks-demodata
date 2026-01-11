@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: -37.1262
 longitude: -179.695
 altitude: 2862
-completed: no
+completed?: no
 due: 2025-07-08T11:28:29.568178
 tags:
   - urgent

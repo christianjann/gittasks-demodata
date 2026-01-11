@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: 67.4983
 longitude: 170.4525
 altitude: 3384
-completed: yes
+completed?: yes
 ---
 
 # Note 38 in drafts - ideas - tech

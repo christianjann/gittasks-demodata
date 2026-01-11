@@ -4,7 +4,7 @@ created: 2025-10-27T11:28:29.584211
 updated: 2026-03-05T11:28:29.584211
 source: https://example860.com
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2026-05-16T11:28:29.584211
 tags:
   - blog

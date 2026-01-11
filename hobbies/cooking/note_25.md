@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 34.79
 longitude: 97.4236
 altitude: 1507
-completed: yes
+completed?: yes
 tags:
   - event
   - journal

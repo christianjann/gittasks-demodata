@@ -4,7 +4,7 @@ created: 2023-10-23T11:28:29.886872
 updated: 2023-12-29T11:28:29.886872
 source: https://example336.com
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2024-03-30T11:28:29.886872
 tags:
   - research

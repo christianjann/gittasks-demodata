@@ -3,7 +3,7 @@ title: Note 64 in hobbies - reading
 created: 2024-10-22T11:28:29.980841
 updated: 2025-09-20T11:28:29.980841
 author: Frank Miller
-completed: no
+completed?: no
 due: 2026-05-10T11:28:29.980841
 tags:
   - travel

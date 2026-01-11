@@ -2,7 +2,7 @@
 title: Note 13 in journal
 created: 2024-04-12T11:28:29.864292
 updated: 2024-10-04T11:28:29.864292
-completed: no
+completed?: no
 tags:
   - social
   - finance

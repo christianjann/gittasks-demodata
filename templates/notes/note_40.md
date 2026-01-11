@@ -2,7 +2,7 @@
 title: Note 40 in templates - notes
 created: 2025-11-09T11:28:29.904283
 updated: 2026-04-22T11:28:29.904283
-completed: no
+completed?: no
 due: 2026-12-10T11:28:29.904283
 tags:
   - code

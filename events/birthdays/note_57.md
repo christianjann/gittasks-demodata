@@ -5,7 +5,7 @@ updated: 2024-11-11T11:28:29.958761
 latitude: -41.2456
 longitude: 1.3046
 altitude: 4931
-completed: yes
+completed?: yes
 ---
 
 # Note 57 in events - birthdays

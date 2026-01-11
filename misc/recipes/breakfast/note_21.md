@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -61.2394
 longitude: -138.2572
 altitude: 167
-completed: yes
+completed?: yes
 tags:
   - code
   - thought

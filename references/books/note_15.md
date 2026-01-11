@@ -3,7 +3,7 @@ title: Note 15 in references - books
 created: 2024-06-05T11:28:29.889713
 updated: 2024-08-03T11:28:29.889713
 source: https://example650.com
-completed: no
+completed?: no
 tags:
   - task
   - finance

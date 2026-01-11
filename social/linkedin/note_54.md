@@ -4,7 +4,7 @@ created: 2025-10-25T11:28:29.943689
 updated: 2026-07-10T11:28:29.943689
 source: https://example602.com
 author: Eve Adams
-completed: no
+completed?: no
 tags:
   - reference
 ---

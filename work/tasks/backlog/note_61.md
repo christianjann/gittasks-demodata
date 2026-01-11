@@ -4,7 +4,7 @@ created: 2024-08-22T11:28:29.636877
 updated: 2025-05-02T11:28:29.636877
 source: https://example23.com
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2026-04-21T11:28:29.636877
 tags:
   - travel

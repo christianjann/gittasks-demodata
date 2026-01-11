@@ -3,7 +3,7 @@ title: Note 8 in social - twitter
 created: 2024-10-06T11:28:29.937201
 updated: 2024-10-13T11:28:29.937201
 source: https://example684.com
-completed: yes
+completed?: yes
 tags:
   - misc
   - draft

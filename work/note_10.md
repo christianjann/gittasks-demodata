@@ -3,7 +3,7 @@ title: Note 10 in work
 created: 2025-09-30T11:28:29.613476
 updated: 2025-12-28T11:28:29.613476
 source: https://example603.com
-completed: yes
+completed?: yes
 tags:
   - blog
   - research

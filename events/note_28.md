@@ -6,7 +6,7 @@ source: https://example411.com
 latitude: 20.0707
 longitude: -102.3864
 altitude: 1730
-completed: yes
+completed?: yes
 tags:
   - meeting
 ---

@@ -5,7 +5,7 @@ updated: 2026-11-10T11:28:29.616427
 latitude: 84.2838
 longitude: -40.7891
 altitude: 2179
-completed: yes
+completed?: yes
 due: 2027-06-27T11:28:29.616427
 tags:
   - draft

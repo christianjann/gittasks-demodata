@@ -4,7 +4,7 @@ created: 2025-12-31T11:28:29.810555
 updated: 2026-08-22T11:28:29.810555
 source: https://example590.com
 author: Eve Adams
-completed: yes
+completed?: yes
 tags:
   - task
 ---

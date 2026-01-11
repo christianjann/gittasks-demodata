@@ -3,7 +3,7 @@ title: Note 30 in social - facebook
 created: 2023-04-19T11:28:29.945944
 updated: 2023-12-13T11:28:29.945944
 author: Alice Johnson
-completed: no
+completed?: no
 due: 2024-06-24T11:28:29.945944
 tags:
   - personal

@@ -3,7 +3,7 @@ title: Note 33 in personal - diary - 2025
 created: 2024-11-12T11:28:29.578323
 updated: 2025-01-11T11:28:29.578323
 source: https://example617.com
-completed: no
+completed?: no
 due: 2025-04-09T11:28:29.578323
 tags:
   - research

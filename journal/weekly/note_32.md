@@ -4,7 +4,7 @@ created: 2023-03-21T11:28:29.873173
 updated: 2023-05-06T11:28:29.873173
 source: https://example500.com
 author: Frank Miller
-completed: no
+completed?: no
 ---
 
 # Note 32 in journal - weekly

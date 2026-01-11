@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 7.7978
 longitude: -151.1419
 altitude: 824
-completed: yes
+completed?: yes
 tags:
   - urgent
   - blog

@@ -2,7 +2,7 @@
 title: Note 48 in personal - diary - 2023
 created: 2023-03-12T11:28:29.572669
 updated: 2024-02-17T11:28:29.572669
-completed: yes
+completed?: yes
 ---
 
 # Note 48 in personal - diary - 2023

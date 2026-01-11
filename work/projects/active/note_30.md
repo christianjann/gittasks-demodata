@@ -3,7 +3,7 @@ title: Note 30 in work - projects - active
 created: 2023-04-26T11:28:29.648814
 updated: 2023-08-15T11:28:29.648814
 source: https://example196.com
-completed: yes
+completed?: yes
 ---
 
 # Note 30 in work - projects - active

@@ -4,7 +4,7 @@ created: 2025-07-19T11:28:29.692411
 updated: 2025-07-21T11:28:29.692411
 source: https://example718.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 tags:
   - blog
   - urgent

@@ -3,7 +3,7 @@ title: Note 29 in personal - memories - adulthood
 created: 2025-07-07T11:28:29.599852
 updated: 2025-08-28T11:28:29.599852
 source: https://example274.com
-completed: no
+completed?: no
 tags:
   - blog
   - note

@@ -5,7 +5,7 @@ updated: 2026-01-25T11:28:29.781535
 latitude: 38.9471
 longitude: 90.686
 altitude: 2931
-completed: no
+completed?: no
 tags:
   - event
   - research

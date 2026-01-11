@@ -4,7 +4,7 @@ created: 2024-07-13T11:28:29.832627
 updated: 2025-06-15T11:28:29.832627
 source: https://example324.com
 author: Diana Prince
-completed: no
+completed?: no
 due: 2026-05-20T11:28:29.832627
 tags:
   - finance

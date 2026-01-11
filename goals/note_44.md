@@ -2,7 +2,7 @@
 title: Note 44 in goals
 created: 2023-01-31T11:28:29.852650
 updated: 2023-11-23T11:28:29.852650
-completed: yes
+completed?: yes
 due: 2024-10-15T11:28:29.852650
 tags:
   - misc

@@ -3,7 +3,7 @@ title: Note 38 in drafts - ideas - business
 created: 2024-09-21T11:28:29.755898
 updated: 2025-02-09T11:28:29.755898
 source: https://example306.com
-completed: yes
+completed?: yes
 due: 2025-05-12T11:28:29.755898
 tags:
   - hobby

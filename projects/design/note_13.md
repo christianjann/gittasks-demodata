@@ -3,7 +3,7 @@ title: Note 13 in projects - design
 created: 2024-08-10T11:28:29.691131
 updated: 2025-07-30T11:28:29.691131
 source: https://example554.com
-completed: no
+completed?: no
 due: 2025-09-08T11:28:29.691131
 tags:
   - design

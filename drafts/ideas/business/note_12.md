@@ -3,7 +3,7 @@ title: Note 12 in drafts - ideas - business
 created: 2023-05-19T11:28:29.754386
 updated: 2023-05-21T11:28:29.754386
 source: https://example540.com
-completed: yes
+completed?: yes
 ---
 
 # Note 12 in drafts - ideas - business

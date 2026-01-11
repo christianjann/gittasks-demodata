@@ -4,7 +4,7 @@ created: 2023-08-05T11:28:29.563283
 updated: 2023-08-28T11:28:29.563283
 source: https://example671.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - hobby
   - template

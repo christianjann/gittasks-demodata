@@ -2,7 +2,7 @@
 title: Note 46 in work - projects - proposals
 created: 2024-10-19T11:28:29.658314
 updated: 2025-03-28T11:28:29.658314
-completed: yes
+completed?: yes
 due: 2025-12-14T11:28:29.658314
 tags:
   - note

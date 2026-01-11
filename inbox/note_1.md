@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: -21.7138
 longitude: 10.1336
 altitude: 183
-completed: yes
+completed?: yes
 tags:
   - goal
   - urgent

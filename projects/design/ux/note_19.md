@@ -3,7 +3,7 @@ title: Note 19 in projects - design - ux
 created: 2024-07-03T11:28:29.696442
 updated: 2025-05-29T11:28:29.696442
 source: https://example504.com
-completed: yes
+completed?: yes
 ---
 
 # Note 19 in projects - design - ux

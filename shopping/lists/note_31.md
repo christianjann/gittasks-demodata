@@ -3,7 +3,7 @@ title: Note 31 in shopping - lists
 created: 2025-12-30T11:28:29.964042
 updated: 2026-06-26T11:28:29.964042
 source: https://example802.com
-completed: no
+completed?: no
 due: 2026-09-29T11:28:29.964042
 tags:
   - health

@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: -22.8655
 longitude: -87.1252
 altitude: 4706
-completed: no
+completed?: no
 tags:
   - learning
   - personal

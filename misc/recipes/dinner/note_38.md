@@ -3,7 +3,7 @@ title: Note 38 in misc - recipes - dinner
 created: 2025-03-14T11:28:29.785153
 updated: 2025-08-17T11:28:29.785153
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - template
   - personal

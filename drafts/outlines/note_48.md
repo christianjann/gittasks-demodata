@@ -3,7 +3,7 @@ title: Note 48 in drafts - outlines
 created: 2025-11-29T11:28:29.762611
 updated: 2026-09-25T11:28:29.762611
 source: https://example202.com
-completed: yes
+completed?: yes
 tags:
   - misc
   - note

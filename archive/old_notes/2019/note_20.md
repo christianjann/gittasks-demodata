@@ -2,7 +2,7 @@
 title: Note 20 in archive - old_notes - 2019
 created: 2024-03-28T11:28:29.723022
 updated: 2025-01-31T11:28:29.723022
-completed: yes
+completed?: yes
 tags:
   - urgent
   - shopping

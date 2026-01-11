@@ -6,7 +6,7 @@ source: https://example737.com
 latitude: 63.1057
 longitude: -165.0979
 altitude: 2690
-completed: no
+completed?: no
 ---
 
 # Note 16 in work - projects - completed

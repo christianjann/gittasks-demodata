@@ -3,7 +3,7 @@ title: Note 4 in inbox - quick_notes
 created: 2025-12-10T11:28:29.839075
 updated: 2026-03-06T11:28:29.839075
 author: Henry Wilson
-completed: no
+completed?: no
 tags:
   - journal
 ---

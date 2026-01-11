@@ -3,7 +3,7 @@ title: Note 9 in archive - old_notes - 2021
 created: 2024-04-08T11:28:29.730853
 updated: 2025-01-08T11:28:29.730853
 source: https://example524.com
-completed: yes
+completed?: yes
 tags:
   - research
   - event

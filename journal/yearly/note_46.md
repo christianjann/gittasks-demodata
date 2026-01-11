@@ -2,7 +2,7 @@
 title: Note 46 in journal - yearly
 created: 2025-09-02T11:28:29.880235
 updated: 2026-01-01T11:28:29.880235
-completed: no
+completed?: no
 due: 2026-04-11T11:28:29.880235
 tags:
   - personal

@@ -2,7 +2,7 @@
 title: Note 39 in hobbies - reading
 created: 2024-01-24T11:28:29.979179
 updated: 2024-02-11T11:28:29.979179
-completed: no
+completed?: no
 tags:
   - design
 ---

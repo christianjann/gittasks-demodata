@@ -3,7 +3,7 @@ title: Note 42 in projects - research - papers
 created: 2025-04-07T11:28:29.707482
 updated: 2026-02-07T11:28:29.707482
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - archive
 ---

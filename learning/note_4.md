@@ -3,7 +3,7 @@ title: Note 4 in learning
 created: 2025-09-25T11:28:29.807461
 updated: 2025-10-20T11:28:29.807461
 source: https://example85.com
-completed: no
+completed?: no
 tags:
   - idea
   - finance

@@ -6,7 +6,7 @@ source: https://example387.com
 latitude: 84.5048
 longitude: -28.4051
 altitude: 1980
-completed: yes
+completed?: yes
 tags:
   - goal
   - note

@@ -3,7 +3,7 @@ title: Note 15 in goals - achievements
 created: 2023-05-31T11:28:29.861913
 updated: 2023-12-20T11:28:29.861913
 author: Ivy Chen
-completed: no
+completed?: no
 ---
 
 # Note 15 in goals - achievements

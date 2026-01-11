@@ -4,7 +4,7 @@ created: 2024-04-04T11:28:29.833742
 updated: 2024-08-24T11:28:29.833742
 source: https://example119.com
 author: Diana Prince
-completed: yes
+completed?: yes
 due: 2025-01-25T11:28:29.833742
 tags:
   - note

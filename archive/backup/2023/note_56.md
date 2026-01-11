@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 71.4117
 longitude: 95.4785
 altitude: 4557
-completed: no
+completed?: no
 ---
 
 # Note 56 in archive - backup - 2023

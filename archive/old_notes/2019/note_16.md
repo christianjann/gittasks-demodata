@@ -4,7 +4,7 @@ created: 2025-07-06T11:28:29.722810
 updated: 2025-08-22T11:28:29.722810
 source: https://example625.com
 author: Grace Lee
-completed: yes
+completed?: yes
 tags:
   - blog
   - health

@@ -3,7 +3,7 @@ title: Note 23 in projects - research - articles
 created: 2024-10-08T11:28:29.708968
 updated: 2024-10-19T11:28:29.708968
 author: Alice Johnson
-completed: yes
+completed?: yes
 ---
 
 # Note 23 in projects - research - articles

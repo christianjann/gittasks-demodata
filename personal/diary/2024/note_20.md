@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 22.1974
 longitude: 110.94
 altitude: 78
-completed: yes
+completed?: yes
 tags:
   - archive
   - personal

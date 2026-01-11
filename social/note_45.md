@@ -6,7 +6,7 @@ source: https://example980.com
 latitude: 86.962
 longitude: 158.7314
 altitude: 3573
-completed: yes
+completed?: yes
 ---
 
 # Note 45 in social

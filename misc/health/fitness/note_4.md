@@ -5,7 +5,7 @@ updated: 2026-06-11T11:28:29.800456
 latitude: -7.1075
 longitude: 105.1612
 altitude: 3075
-completed: yes
+completed?: yes
 due: 2026-09-30T11:28:29.800456
 tags:
   - health

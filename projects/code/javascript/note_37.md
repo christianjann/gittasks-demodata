@@ -2,7 +2,7 @@
 title: Note 37 in projects - code - javascript
 created: 2023-03-05T11:28:29.683730
 updated: 2023-11-16T11:28:29.683730
-completed: yes
+completed?: yes
 due: 2024-01-25T11:28:29.683730
 ---
 

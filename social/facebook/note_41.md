@@ -3,7 +3,7 @@ title: Note 41 in social - facebook
 created: 2024-10-11T11:28:29.946615
 updated: 2024-11-30T11:28:29.946615
 author: Frank Miller
-completed: no
+completed?: no
 ---
 
 # Note 41 in social - facebook

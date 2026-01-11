@@ -2,7 +2,7 @@
 title: Note 2 in references
 created: 2025-07-29T11:28:29.880707
 updated: 2026-03-29T11:28:29.880707
-completed: no
+completed?: no
 tags:
   - finance
 ---

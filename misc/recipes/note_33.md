@@ -6,7 +6,7 @@ source: https://example606.com
 latitude: -78.4809
 longitude: -119.8609
 altitude: 925
-completed: no
+completed?: no
 due: 2026-09-08T11:28:29.777995
 tags:
   - event

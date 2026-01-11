@@ -6,7 +6,7 @@ source: https://example288.com
 latitude: 66.5044
 longitude: -18.2009
 altitude: 1398
-completed: yes
+completed?: yes
 tags:
   - draft
   - task

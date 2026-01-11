@@ -3,7 +3,7 @@ title: Note 20 in misc - health - fitness
 created: 2025-10-23T11:28:29.801319
 updated: 2026-10-07T11:28:29.801319
 source: https://example42.com
-completed: no
+completed?: no
 due: 2027-07-23T11:28:29.801319
 tags:
   - design

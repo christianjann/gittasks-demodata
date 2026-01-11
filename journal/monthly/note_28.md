@@ -4,7 +4,7 @@ created: 2023-02-02T11:28:29.876088
 updated: 2024-01-21T11:28:29.876088
 source: https://example134.com
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - task
   - hobby

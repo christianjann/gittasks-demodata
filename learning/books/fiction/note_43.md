@@ -5,7 +5,7 @@ updated: 2024-01-07T11:28:29.823547
 latitude: 15.6079
 longitude: 144.1839
 altitude: 1131
-completed: yes
+completed?: yes
 tags:
   - goal
   - event

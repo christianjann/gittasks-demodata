@@ -3,7 +3,7 @@ title: Note 39 in work - hr - training
 created: 2023-02-07T11:28:29.669552
 updated: 2024-01-06T11:28:29.669552
 author: Frank Miller
-completed: no
+completed?: no
 due: 2024-11-16T11:28:29.669552
 ---
 

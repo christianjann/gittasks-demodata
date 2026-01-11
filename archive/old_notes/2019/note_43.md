@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 61.6445
 longitude: -14.9013
 altitude: 2596
-completed: yes
+completed?: yes
 tags:
   - hobby
   - template

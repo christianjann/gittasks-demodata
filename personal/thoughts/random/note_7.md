@@ -4,7 +4,7 @@ created: 2024-05-08T11:28:29.582652
 updated: 2025-03-14T11:28:29.582652
 source: https://example261.com
 author: Frank Miller
-completed: yes
+completed?: yes
 tags:
   - journal
   - note

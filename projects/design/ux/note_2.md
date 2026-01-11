@@ -3,7 +3,7 @@ title: Note 2 in projects - design - ux
 created: 2023-10-16T11:28:29.695538
 updated: 2023-12-26T11:28:29.695538
 source: https://example934.com
-completed: yes
+completed?: yes
 due: 2024-11-25T11:28:29.695538
 ---
 

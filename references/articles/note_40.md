@@ -3,7 +3,7 @@ title: Note 40 in references - articles
 created: 2023-07-15T11:28:29.887371
 updated: 2024-06-15T11:28:29.887371
 source: https://example75.com
-completed: no
+completed?: no
 due: 2025-03-15T11:28:29.887371
 ---
 

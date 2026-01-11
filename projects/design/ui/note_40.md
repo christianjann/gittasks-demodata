@@ -4,7 +4,7 @@ created: 2024-03-12T11:28:29.695369
 updated: 2024-03-19T11:28:29.695369
 source: https://example247.com
 author: Frank Miller
-completed: no
+completed?: no
 due: 2025-02-28T11:28:29.695369
 tags:
   - diary

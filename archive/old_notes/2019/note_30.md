@@ -3,7 +3,7 @@ title: Note 30 in archive - old_notes - 2019
 created: 2024-03-21T11:28:29.723639
 updated: 2024-08-03T11:28:29.723639
 source: https://example451.com
-completed: yes
+completed?: yes
 tags:
   - misc
   - archive

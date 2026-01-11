@@ -6,7 +6,7 @@ source: https://example173.com
 latitude: 58.1567
 longitude: -163.3057
 altitude: 4128
-completed: no
+completed?: no
 tags:
   - archive
   - diary

@@ -2,7 +2,7 @@
 title: Note 5 in misc - recipes - breakfast
 created: 2024-03-19T11:28:29.779306
 updated: 2024-06-18T11:28:29.779306
-completed: yes
+completed?: yes
 due: 2025-02-15T11:28:29.779306
 tags:
   - journal

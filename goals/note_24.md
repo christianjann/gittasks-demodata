@@ -2,7 +2,7 @@
 title: Note 24 in goals
 created: 2025-06-09T11:28:29.851555
 updated: 2025-12-30T11:28:29.851555
-completed: no
+completed?: no
 ---
 
 # Note 24 in goals

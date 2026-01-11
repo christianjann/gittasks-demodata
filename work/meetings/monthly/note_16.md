@@ -2,7 +2,7 @@
 title: Note 16 in work - meetings - monthly
 created: 2024-09-06T11:28:29.622341
 updated: 2025-08-10T11:28:29.622341
-completed: no
+completed?: no
 tags:
   - finance
   - work

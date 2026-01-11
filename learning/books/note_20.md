@@ -2,7 +2,7 @@
 title: Note 20 in learning - books
 created: 2025-04-21T11:28:29.819879
 updated: 2025-12-27T11:28:29.819879
-completed: yes
+completed?: yes
 tags:
   - learning
   - reference

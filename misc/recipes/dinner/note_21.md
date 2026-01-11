@@ -4,7 +4,7 @@ created: 2025-07-09T11:28:29.784212
 updated: 2025-11-16T11:28:29.784212
 source: https://example383.com
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2026-03-29T11:28:29.784212
 tags:
   - note

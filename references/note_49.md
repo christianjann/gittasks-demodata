@@ -3,7 +3,7 @@ title: Note 49 in references
 created: 2025-10-27T11:28:29.883921
 updated: 2026-08-24T11:28:29.883921
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - design
 ---

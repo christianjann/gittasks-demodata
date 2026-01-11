@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: 67.5611
 longitude: 110.7938
 altitude: 4975
-completed: no
+completed?: no
 due: 2024-11-25T11:28:29.776968
 tags:
   - task

@@ -6,7 +6,7 @@ source: https://example629.com
 latitude: 60.4876
 longitude: 23.887
 altitude: 823
-completed: yes
+completed?: yes
 due: 2026-04-29T11:28:29.820041
 tags:
   - thought

@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: -40.614
 longitude: 22.0499
 altitude: 233
-completed: no
+completed?: no
 due: 2025-09-15T11:28:29.900381
 tags:
   - travel

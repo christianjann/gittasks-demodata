@@ -2,7 +2,7 @@
 title: Note 13 in events - past
 created: 2023-12-30T11:28:29.952978
 updated: 2024-06-02T11:28:29.952978
-completed: yes
+completed?: yes
 tags:
   - meeting
   - social

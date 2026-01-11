@@ -3,7 +3,7 @@ title: Note 39 in projects - design
 created: 2024-11-18T11:28:29.692790
 updated: 2025-05-07T11:28:29.692790
 author: Charlie Brown
-completed: no
+completed?: no
 ---
 
 # Note 39 in projects - design

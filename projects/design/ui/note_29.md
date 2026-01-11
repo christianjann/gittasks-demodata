@@ -6,7 +6,7 @@ source: https://example884.com
 latitude: -13.6142
 longitude: 168.4917
 altitude: 840
-completed: yes
+completed?: yes
 tags:
   - template
 ---

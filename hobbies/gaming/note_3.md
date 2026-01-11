@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: -66.7356
 longitude: -14.2516
 altitude: 1282
-completed: yes
+completed?: yes
 tags:
   - design
   - shopping

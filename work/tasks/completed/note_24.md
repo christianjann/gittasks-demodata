@@ -3,7 +3,7 @@ title: Note 24 in work - tasks - completed
 created: 2024-03-13T11:28:29.639314
 updated: 2024-10-17T11:28:29.639314
 author: Grace Lee
-completed: yes
+completed?: yes
 tags:
   - task
   - code

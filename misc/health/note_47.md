@@ -2,7 +2,7 @@
 title: Note 47 in misc - health
 created: 2025-07-18T11:28:29.799131
 updated: 2026-03-20T11:28:29.799131
-completed: yes
+completed?: yes
 due: 2027-02-10T11:28:29.799131
 tags:
   - goal

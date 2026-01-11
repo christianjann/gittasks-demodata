@@ -3,7 +3,7 @@ title: Note 45 in work - meetings - weekly
 created: 2024-10-29T11:28:29.620962
 updated: 2025-08-06T11:28:29.620962
 source: https://example187.com
-completed: no
+completed?: no
 due: 2026-03-10T11:28:29.620962
 tags:
   - learning

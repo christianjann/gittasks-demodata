@@ -3,7 +3,7 @@ title: Note 40 in references
 created: 2024-04-06T11:28:29.883322
 updated: 2024-09-07T11:28:29.883322
 author: Diana Prince
-completed: no
+completed?: no
 tags:
   - goal
 ---

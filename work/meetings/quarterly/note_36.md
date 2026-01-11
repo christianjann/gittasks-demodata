@@ -3,7 +3,7 @@ title: Note 36 in work - meetings - quarterly
 created: 2025-12-24T11:28:29.626009
 updated: 2026-10-07T11:28:29.626009
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2027-01-24T11:28:29.626009
 tags:
   - draft

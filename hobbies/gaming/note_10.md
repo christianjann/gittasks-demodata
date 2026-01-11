@@ -4,7 +4,7 @@ created: 2023-12-06T11:28:29.974625
 updated: 2024-10-06T11:28:29.974625
 source: https://example52.com
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2024-11-23T11:28:29.974625
 ---
 

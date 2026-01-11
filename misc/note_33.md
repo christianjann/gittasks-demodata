@@ -4,7 +4,7 @@ created: 2023-12-01T11:28:29.774486
 updated: 2024-01-06T11:28:29.774486
 source: https://example264.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2024-10-05T11:28:29.774486
 ---
 

@@ -2,7 +2,7 @@
 title: Note 18 in drafts - ideas - tech
 created: 2025-01-09T11:28:29.751926
 updated: 2025-10-17T11:28:29.751926
-completed: yes
+completed?: yes
 due: 2026-01-12T11:28:29.751926
 tags:
   - travel

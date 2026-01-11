@@ -3,7 +3,7 @@ title: Note 22 in drafts
 created: 2025-07-10T11:28:29.743972
 updated: 2026-07-07T11:28:29.743972
 source: https://example442.com
-completed: yes
+completed?: yes
 due: 2027-06-12T11:28:29.743972
 ---
 

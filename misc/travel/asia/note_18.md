@@ -3,7 +3,7 @@ title: Note 18 in misc - travel - asia
 created: 2025-06-21T11:28:29.794546
 updated: 2025-07-28T11:28:29.794546
 source: https://example218.com
-completed: no
+completed?: no
 tags:
   - journal
   - blog

@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 62.7892
 longitude: -61.3782
 altitude: 1288
-completed: yes
+completed?: yes
 tags:
   - task
   - archive

@@ -4,7 +4,7 @@ created: 2025-08-28T11:28:29.753967
 updated: 2026-05-19T11:28:29.753967
 source: https://example64.com
 author: Eve Adams
-completed: no
+completed?: no
 ---
 
 # Note 4 in drafts - ideas - business

@@ -4,7 +4,7 @@ created: 2024-09-11T11:28:29.812814
 updated: 2024-11-26T11:28:29.812814
 source: https://example323.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2025-02-11T11:28:29.812814
 tags:
   - diary

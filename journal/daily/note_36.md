@@ -4,7 +4,7 @@ created: 2024-01-18T11:28:29.870356
 updated: 2024-12-07T11:28:29.870356
 source: https://example216.com
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2025-11-12T11:28:29.870356
 ---
 

@@ -2,7 +2,7 @@
 title: Note 18 in personal - thoughts - inspirations
 created: 2023-01-24T11:28:29.587671
 updated: 2024-01-06T11:28:29.587671
-completed: yes
+completed?: yes
 tags:
   - recipe
   - work

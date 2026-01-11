@@ -4,7 +4,7 @@ created: 2024-08-05T11:28:29.784548
 updated: 2024-09-09T11:28:29.784548
 source: https://example266.com
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - research
   - goal

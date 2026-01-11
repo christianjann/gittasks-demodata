@@ -4,7 +4,7 @@ created: 2025-06-05T11:28:29.965647
 updated: 2026-05-07T11:28:29.965647
 source: https://example569.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - note
   - task

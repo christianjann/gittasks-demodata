@@ -6,7 +6,7 @@ source: https://example964.com
 latitude: -21.7767
 longitude: -113.1338
 altitude: 1065
-completed: no
+completed?: no
 due: 2024-09-14T11:28:29.700388
 tags:
   - health

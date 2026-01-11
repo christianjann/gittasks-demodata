@@ -2,7 +2,7 @@
 title: Note 9 in drafts - ideas - personal
 created: 2023-07-03T11:28:29.757911
 updated: 2024-01-27T11:28:29.757911
-completed: yes
+completed?: yes
 due: 2024-12-23T11:28:29.757911
 ---
 

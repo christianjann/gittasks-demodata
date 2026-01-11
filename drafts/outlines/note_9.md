@@ -3,7 +3,7 @@ title: Note 9 in drafts - outlines
 created: 2025-08-17T11:28:29.760119
 updated: 2025-12-31T11:28:29.760119
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - research
   - reference

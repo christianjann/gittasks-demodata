@@ -3,7 +3,7 @@ title: Note 16 in inbox - quick_notes
 created: 2023-08-08T11:28:29.839764
 updated: 2024-04-28T11:28:29.839764
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - meeting
   - diary

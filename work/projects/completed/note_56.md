@@ -2,7 +2,7 @@
 title: Note 56 in work - projects - completed
 created: 2023-08-20T11:28:29.654043
 updated: 2024-04-11T11:28:29.654043
-completed: yes
+completed?: yes
 tags:
   - design
   - finance

@@ -2,7 +2,7 @@
 title: Note 57 in archive - old_notes - 2019
 created: 2023-07-30T11:28:29.725172
 updated: 2024-02-02T11:28:29.725172
-completed: no
+completed?: no
 tags:
   - recipe
   - social

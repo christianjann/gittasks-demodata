@@ -3,7 +3,7 @@ title: Note 2 in goals - achievements
 created: 2023-11-23T11:28:29.861018
 updated: 2024-04-29T11:28:29.861018
 source: https://example16.com
-completed: yes
+completed?: yes
 due: 2025-04-13T11:28:29.861018
 tags:
   - hobby

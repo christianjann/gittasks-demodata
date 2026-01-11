@@ -3,7 +3,7 @@ title: Note 32 in work
 created: 2024-05-18T11:28:29.614795
 updated: 2024-12-22T11:28:29.614795
 source: https://example476.com
-completed: no
+completed?: no
 tags:
   - research
   - note

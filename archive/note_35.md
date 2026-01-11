@@ -3,7 +3,7 @@ title: Note 35 in archive
 created: 2025-01-14T11:28:29.717320
 updated: 2025-08-11T11:28:29.717320
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - event
   - journal

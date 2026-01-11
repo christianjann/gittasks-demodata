@@ -3,7 +3,7 @@ title: Note 5 in projects - research - papers
 created: 2023-02-10T11:28:29.705127
 updated: 2023-02-17T11:28:29.705127
 source: https://example203.com
-completed: no
+completed?: no
 tags:
   - note
   - urgent

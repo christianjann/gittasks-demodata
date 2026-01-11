@@ -3,7 +3,7 @@ title: Note 34 in social - facebook
 created: 2023-07-29T11:28:29.946173
 updated: 2024-05-07T11:28:29.946173
 author: Henry Wilson
-completed: yes
+completed?: yes
 tags:
   - learning
   - design

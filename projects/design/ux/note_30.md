@@ -4,7 +4,7 @@ created: 2023-04-02T11:28:29.697087
 updated: 2023-11-07T11:28:29.697087
 source: https://example316.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2024-06-29T11:28:29.697087
 tags:
   - idea

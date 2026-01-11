@@ -3,7 +3,7 @@ title: Note 66 in personal - thoughts - random
 created: 2024-04-01T11:28:29.586501
 updated: 2025-03-21T11:28:29.586501
 author: Diana Prince
-completed: yes
+completed?: yes
 tags:
   - event
   - reference

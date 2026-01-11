@@ -5,7 +5,7 @@ updated: 2025-06-10T11:28:29.873774
 latitude: -31.1252
 longitude: 99.8639
 altitude: 4216
-completed: yes
+completed?: yes
 tags:
   - research
   - health

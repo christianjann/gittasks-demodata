@@ -2,7 +2,7 @@
 title: Note 5 in personal - memories - adulthood
 created: 2023-05-04T11:28:29.598402
 updated: 2023-05-08T11:28:29.598402
-completed: no
+completed?: no
 due: 2023-10-30T11:28:29.598402
 tags:
   - task

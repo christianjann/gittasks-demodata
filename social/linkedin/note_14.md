@@ -4,7 +4,7 @@ created: 2023-06-29T11:28:29.941140
 updated: 2023-09-13T11:28:29.941140
 source: https://example750.com
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2024-09-01T11:28:29.941140
 tags:
   - research

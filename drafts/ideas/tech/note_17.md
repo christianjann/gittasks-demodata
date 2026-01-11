@@ -4,7 +4,7 @@ created: 2025-02-28T11:28:29.751873
 updated: 2025-09-07T11:28:29.751873
 source: https://example657.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - reference
   - finance

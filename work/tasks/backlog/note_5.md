@@ -5,7 +5,7 @@ updated: 2025-04-24T11:28:29.633415
 latitude: 69.5749
 longitude: 80.8521
 altitude: 2108
-completed: yes
+completed?: yes
 tags:
   - meeting
   - thought

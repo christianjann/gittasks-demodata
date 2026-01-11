@@ -3,7 +3,7 @@ title: Note 26 in personal - diary
 created: 2024-03-10T11:28:29.568025
 updated: 2024-12-19T11:28:29.568025
 source: https://example741.com
-completed: no
+completed?: no
 due: 2025-06-22T11:28:29.568025
 tags:
   - note

@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: -67.2953
 longitude: -167.8296
 altitude: 1748
-completed: yes
+completed?: yes
 due: 2024-07-11T11:28:29.618795
 tags:
   - goal

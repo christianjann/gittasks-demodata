@@ -3,7 +3,7 @@ title: Note 27 in references - books
 created: 2025-04-24T11:28:29.890696
 updated: 2025-10-30T11:28:29.890696
 source: https://example441.com
-completed: no
+completed?: no
 tags:
   - idea
   - draft

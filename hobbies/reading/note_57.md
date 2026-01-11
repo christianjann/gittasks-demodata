@@ -3,7 +3,7 @@ title: Note 57 in hobbies - reading
 created: 2023-12-28T11:28:29.980311
 updated: 2024-12-27T11:28:29.980311
 source: https://example878.com
-completed: yes
+completed?: yes
 tags:
   - event
 ---

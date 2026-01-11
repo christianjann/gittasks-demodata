@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: -28.618
 longitude: -130.3675
 altitude: 4207
-completed: no
+completed?: no
 ---
 
 # Note 9 in personal - diary - 2023

@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: -46.8932
 longitude: 106.7201
 altitude: 2535
-completed: yes
+completed?: yes
 ---
 
 # Note 52 in templates - meetings

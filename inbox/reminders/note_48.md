@@ -6,7 +6,7 @@ source: https://example357.com
 latitude: -12.7369
 longitude: -148.2082
 altitude: 1077
-completed: yes
+completed?: yes
 tags:
   - draft
   - work

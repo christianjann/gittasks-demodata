@@ -6,7 +6,7 @@ source: https://example930.com
 latitude: -9.26
 longitude: -162.6231
 altitude: 700
-completed: yes
+completed?: yes
 tags:
   - blog
 ---

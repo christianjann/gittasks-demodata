@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: -47.8452
 longitude: 111.9194
 altitude: 1862
-completed: yes
+completed?: yes
 tags:
   - work
   - blog

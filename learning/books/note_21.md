@@ -3,7 +3,7 @@ title: Note 21 in learning - books
 created: 2024-01-19T11:28:29.819934
 updated: 2024-07-26T11:28:29.819934
 source: https://example301.com
-completed: no
+completed?: no
 tags:
   - research
   - event

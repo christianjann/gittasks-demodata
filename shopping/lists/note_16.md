@@ -3,7 +3,7 @@ title: Note 16 in shopping - lists
 created: 2023-05-22T11:28:29.963056
 updated: 2024-03-23T11:28:29.963056
 source: https://example969.com
-completed: yes
+completed?: yes
 tags:
   - event
   - hobby

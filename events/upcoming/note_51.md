@@ -3,7 +3,7 @@ title: Note 51 in events - upcoming
 created: 2025-08-09T11:28:29.952124
 updated: 2026-05-20T11:28:29.952124
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - archive
   - urgent

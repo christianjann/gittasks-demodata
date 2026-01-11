@@ -3,7 +3,7 @@ title: Note 18 in work - meetings
 created: 2023-08-16T11:28:29.616866
 updated: 2024-05-14T11:28:29.616866
 author: Henry Wilson
-completed: no
+completed?: no
 due: 2024-09-05T11:28:29.616866
 tags:
   - reference

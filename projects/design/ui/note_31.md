@@ -4,7 +4,7 @@ created: 2024-07-13T11:28:29.694896
 updated: 2025-02-02T11:28:29.694896
 source: https://example440.com
 author: Bob Smith
-completed: no
+completed?: no
 ---
 
 # Note 31 in projects - design - ui

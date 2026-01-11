@@ -4,7 +4,7 @@ created: 2024-06-06T11:28:29.852706
 updated: 2024-12-25T11:28:29.852706
 source: https://example557.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 tags:
   - thought
 ---

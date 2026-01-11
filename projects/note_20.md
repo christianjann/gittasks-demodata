@@ -2,7 +2,7 @@
 title: Note 20 in projects
 created: 2025-12-02T11:28:29.671616
 updated: 2026-07-23T11:28:29.671616
-completed: no
+completed?: no
 due: 2027-05-16T11:28:29.671616
 tags:
   - urgent

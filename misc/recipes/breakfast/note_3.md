@@ -4,7 +4,7 @@ created: 2025-09-12T11:28:29.779153
 updated: 2025-10-17T11:28:29.779153
 source: https://example267.com
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2026-04-30T11:28:29.779153
 tags:
   - task

@@ -3,7 +3,7 @@ title: Note 28 in personal - memories
 created: 2023-03-24T11:28:29.591816
 updated: 2024-02-09T11:28:29.591816
 source: https://example555.com
-completed: no
+completed?: no
 tags:
   - design
 ---

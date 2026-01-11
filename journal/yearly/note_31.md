@@ -3,7 +3,7 @@ title: Note 31 in journal - yearly
 created: 2023-09-18T11:28:29.879164
 updated: 2023-10-14T11:28:29.879164
 source: https://example647.com
-completed: yes
+completed?: yes
 ---
 
 # Note 31 in journal - yearly

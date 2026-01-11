@@ -3,7 +3,7 @@ title: Note 36 in shopping
 created: 2025-12-03T11:28:29.961889
 updated: 2026-02-15T11:28:29.961889
 source: https://example938.com
-completed: no
+completed?: no
 due: 2026-02-22T11:28:29.961889
 tags:
   - archive

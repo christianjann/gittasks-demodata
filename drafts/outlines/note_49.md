@@ -3,7 +3,7 @@ title: Note 49 in drafts - outlines
 created: 2024-08-26T11:28:29.762669
 updated: 2024-11-29T11:28:29.762669
 source: https://example928.com
-completed: yes
+completed?: yes
 due: 2025-04-22T11:28:29.762669
 tags:
   - urgent

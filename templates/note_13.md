@@ -3,7 +3,7 @@ title: Note 13 in templates
 created: 2024-01-15T11:28:29.898808
 updated: 2024-09-15T11:28:29.898808
 author: Charlie Brown
-completed: no
+completed?: no
 due: 2025-03-20T11:28:29.898808
 tags:
   - finance

@@ -4,7 +4,7 @@ created: 2025-05-10T11:28:29.805386
 updated: 2025-12-14T11:28:29.805386
 source: https://example54.com
 author: Grace Lee
-completed: no
+completed?: no
 due: 2025-12-16T11:28:29.805386
 tags:
   - finance

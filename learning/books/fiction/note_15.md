@@ -5,7 +5,7 @@ updated: 2025-09-22T11:28:29.821976
 latitude: -12.7693
 longitude: -105.9963
 altitude: 4250
-completed: yes
+completed?: yes
 due: 2026-02-09T11:28:29.821976
 tags:
   - event

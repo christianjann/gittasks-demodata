@@ -3,7 +3,7 @@ title: Note 33 in archive - old_notes - 2020
 created: 2024-02-17T11:28:29.727461
 updated: 2024-12-03T11:28:29.727461
 source: https://example514.com
-completed: yes
+completed?: yes
 tags:
   - social
   - diary

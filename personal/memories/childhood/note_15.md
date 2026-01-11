@@ -6,7 +6,7 @@ author: Charlie Brown
 latitude: 38.8144
 longitude: -137.4871
 altitude: 554
-completed: no
+completed?: no
 ---
 
 # Note 15 in personal - memories - childhood

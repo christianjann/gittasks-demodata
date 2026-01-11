@@ -3,7 +3,7 @@ title: Note 44 in work - hr - training
 created: 2025-05-03T11:28:29.669844
 updated: 2025-09-12T11:28:29.669844
 source: https://example190.com
-completed: yes
+completed?: yes
 due: 2026-02-12T11:28:29.669844
 tags:
   - code

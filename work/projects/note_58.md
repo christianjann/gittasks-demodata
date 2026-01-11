@@ -4,7 +4,7 @@ created: 2025-11-14T11:28:29.646502
 updated: 2025-12-04T11:28:29.646502
 source: https://example217.com
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2026-06-22T11:28:29.646502
 tags:
   - research

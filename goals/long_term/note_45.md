@@ -6,7 +6,7 @@ author: Charlie Brown
 latitude: 73.5936
 longitude: 15.1029
 altitude: 4130
-completed: no
+completed?: no
 tags:
   - research
   - thought

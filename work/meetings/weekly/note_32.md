@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 42.0132
 longitude: -108.4731
 altitude: 1712
-completed: no
+completed?: no
 due: 2026-04-24T11:28:29.620188
 tags:
   - design

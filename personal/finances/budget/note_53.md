@@ -3,7 +3,7 @@ title: Note 53 in personal - finances - budget
 created: 2025-06-14T11:28:29.608589
 updated: 2026-05-03T11:28:29.608589
 author: Eve Adams
-completed: yes
+completed?: yes
 due: 2027-03-26T11:28:29.608589
 ---
 

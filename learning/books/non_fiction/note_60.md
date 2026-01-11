@@ -3,7 +3,7 @@ title: Note 60 in learning - books - non_fiction
 created: 2024-02-28T11:28:29.827498
 updated: 2024-04-28T11:28:29.827498
 source: https://example751.com
-completed: yes
+completed?: yes
 tags:
   - health
   - template

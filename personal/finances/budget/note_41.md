@@ -2,7 +2,7 @@
 title: Note 41 in personal - finances - budget
 created: 2023-11-28T11:28:29.607877
 updated: 2024-04-11T11:28:29.607877
-completed: no
+completed?: no
 due: 2024-11-23T11:28:29.607877
 tags:
   - hobby

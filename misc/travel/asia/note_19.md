@@ -3,7 +3,7 @@ title: Note 19 in misc - travel - asia
 created: 2025-12-05T11:28:29.794625
 updated: 2025-12-21T11:28:29.794625
 author: Bob Smith
-completed: yes
+completed?: yes
 ---
 
 # Note 19 in misc - travel - asia

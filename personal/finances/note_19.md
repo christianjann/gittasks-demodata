@@ -3,7 +3,7 @@ title: Note 19 in personal - finances
 created: 2024-09-20T11:28:29.603273
 updated: 2025-08-22T11:28:29.603273
 source: https://example944.com
-completed: yes
+completed?: yes
 due: 2026-05-18T11:28:29.603273
 ---
 

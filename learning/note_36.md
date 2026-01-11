@@ -4,7 +4,7 @@ created: 2025-03-31T11:28:29.809224
 updated: 2025-08-13T11:28:29.809224
 source: https://example725.com
 author: Ivy Chen
-completed: no
+completed?: no
 ---
 
 # Note 36 in learning

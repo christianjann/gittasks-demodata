@@ -4,7 +4,7 @@ created: 2023-08-14T11:28:29.905426
 updated: 2023-10-06T11:28:29.905426
 source: https://example923.com
 author: Bob Smith
-completed: no
+completed?: no
 due: 2024-09-21T11:28:29.905426
 tags:
   - work

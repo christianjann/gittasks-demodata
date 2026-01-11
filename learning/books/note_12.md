@@ -3,7 +3,7 @@ title: Note 12 in learning - books
 created: 2025-01-26T11:28:29.819353
 updated: 2025-09-02T11:28:29.819353
 author: Diana Prince
-completed: no
+completed?: no
 tags:
   - health
   - idea

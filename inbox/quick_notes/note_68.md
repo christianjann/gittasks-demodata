@@ -2,7 +2,7 @@
 title: Note 68 in inbox - quick_notes
 created: 2023-11-06T11:28:29.842799
 updated: 2024-08-07T11:28:29.842799
-completed: yes
+completed?: yes
 due: 2024-11-10T11:28:29.842799
 ---
 

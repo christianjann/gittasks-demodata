@@ -2,7 +2,7 @@
 title: Note 39 in journal - weekly
 created: 2025-04-12T11:28:29.873560
 updated: 2025-10-18T11:28:29.873560
-completed: no
+completed?: no
 due: 2026-08-02T11:28:29.873560
 ---
 

@@ -4,7 +4,7 @@ created: 2024-05-05T11:28:29.976318
 updated: 2025-04-22T11:28:29.976318
 source: https://example776.com
 author: Charlie Brown
-completed: no
+completed?: no
 ---
 
 # Note 41 in hobbies - gaming

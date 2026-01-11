@@ -3,7 +3,7 @@ title: Note 16 in social - twitter
 created: 2024-04-12T11:28:29.937700
 updated: 2024-08-09T11:28:29.937700
 author: Henry Wilson
-completed: no
+completed?: no
 due: 2024-10-28T11:28:29.937700
 tags:
   - shopping

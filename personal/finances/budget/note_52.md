@@ -4,7 +4,7 @@ created: 2023-11-18T11:28:29.608535
 updated: 2024-06-03T11:28:29.608535
 source: https://example903.com
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - learning
   - design

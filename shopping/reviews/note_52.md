@@ -4,7 +4,7 @@ created: 2024-10-16T11:28:29.968137
 updated: 2024-12-04T11:28:29.968137
 source: https://example39.com
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2025-10-07T11:28:29.968137
 tags:
   - diary

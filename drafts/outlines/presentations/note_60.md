@@ -3,7 +3,7 @@ title: Note 60 in drafts - outlines - presentations
 created: 2025-11-07T11:28:29.769542
 updated: 2025-11-08T11:28:29.769542
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - thought
   - learning

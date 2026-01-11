@@ -4,7 +4,7 @@ created: 2023-10-01T11:28:29.672739
 updated: 2024-07-02T11:28:29.672739
 source: https://example699.com
 author: Alice Johnson
-completed: no
+completed?: no
 tags:
   - learning
   - shopping

@@ -6,7 +6,7 @@ source: https://example543.com
 latitude: -52.2319
 longitude: 139.8105
 altitude: 4919
-completed: yes
+completed?: yes
 due: 2025-01-07T11:28:29.891630
 tags:
   - social

@@ -3,7 +3,7 @@ title: Note 30 in work - hr - training
 created: 2023-04-28T11:28:29.668779
 updated: 2023-12-17T11:28:29.668779
 source: https://example701.com
-completed: no
+completed?: no
 tags:
   - learning
   - health

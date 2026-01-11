@@ -4,7 +4,7 @@ created: 2025-11-15T11:28:29.595382
 updated: 2026-09-26T11:28:29.595382
 source: https://example787.com
 author: Bob Smith
-completed: no
+completed?: no
 tags:
   - shopping
   - blog

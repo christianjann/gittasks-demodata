@@ -6,7 +6,7 @@ source: https://example848.com
 latitude: 81.1199
 longitude: -1.5559
 altitude: 2753
-completed: yes
+completed?: yes
 due: 2026-04-27T11:28:29.812494
 tags:
   - finance

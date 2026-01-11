@@ -6,7 +6,7 @@ source: https://example663.com
 latitude: -58.7023
 longitude: -81.3551
 altitude: 789
-completed: yes
+completed?: yes
 due: 2024-12-06T11:28:29.801888
 tags:
   - shopping

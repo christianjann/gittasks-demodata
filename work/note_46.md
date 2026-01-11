@@ -3,7 +3,7 @@ title: Note 46 in work
 created: 2024-01-29T11:28:29.615635
 updated: 2024-11-19T11:28:29.615635
 author: Ivy Chen
-completed: yes
+completed?: yes
 due: 2024-12-26T11:28:29.615635
 tags:
   - event

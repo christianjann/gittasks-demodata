@@ -3,7 +3,7 @@ title: Note 6 in personal - diary - 2025
 created: 2023-06-01T11:28:29.576459
 updated: 2024-03-08T11:28:29.576459
 source: https://example108.com
-completed: no
+completed?: no
 tags:
   - research
   - journal

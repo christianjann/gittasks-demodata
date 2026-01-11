@@ -4,7 +4,7 @@ created: 2025-08-12T11:28:29.683138
 updated: 2026-04-30T11:28:29.683138
 source: https://example256.com
 author: Frank Miller
-completed: no
+completed?: no
 tags:
   - personal
   - thought

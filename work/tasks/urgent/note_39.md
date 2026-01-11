@@ -2,7 +2,7 @@
 title: Note 39 in work - tasks - urgent
 created: 2023-01-21T11:28:29.632357
 updated: 2023-11-21T11:28:29.632357
-completed: yes
+completed?: yes
 tags:
   - goal
 ---

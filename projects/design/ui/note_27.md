@@ -6,7 +6,7 @@ source: https://example869.com
 latitude: 0.4314
 longitude: 167.1555
 altitude: 4011
-completed: yes
+completed?: yes
 due: 2024-12-13T11:28:29.694524
 tags:
   - goal

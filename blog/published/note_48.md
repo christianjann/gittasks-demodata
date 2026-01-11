@@ -4,7 +4,7 @@ created: 2023-10-30T11:28:29.927390
 updated: 2024-01-06T11:28:29.927390
 source: https://example30.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - shopping
   - thought

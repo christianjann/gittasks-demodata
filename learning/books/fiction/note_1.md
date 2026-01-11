@@ -6,7 +6,7 @@ source: https://example284.com
 latitude: -1.4888
 longitude: -18.1095
 altitude: 3430
-completed: no
+completed?: no
 due: 2025-04-13T11:28:29.821189
 tags:
   - archive

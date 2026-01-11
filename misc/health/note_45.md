@@ -4,7 +4,7 @@ created: 2024-11-22T11:28:29.799017
 updated: 2025-05-18T11:28:29.799017
 source: https://example340.com
 author: Frank Miller
-completed: yes
+completed?: yes
 tags:
   - recipe
   - event

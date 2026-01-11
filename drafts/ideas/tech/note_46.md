@@ -4,7 +4,7 @@ created: 2024-06-30T11:28:29.753750
 updated: 2025-05-10T11:28:29.753750
 source: https://example177.com
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - learning
 ---

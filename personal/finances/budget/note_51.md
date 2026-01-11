@@ -4,7 +4,7 @@ created: 2026-01-03T11:28:29.608478
 updated: 2026-03-17T11:28:29.608478
 source: https://example397.com
 author: Ivy Chen
-completed: no
+completed?: no
 tags:
   - travel
   - learning

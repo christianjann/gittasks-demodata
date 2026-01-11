@@ -2,7 +2,7 @@
 title: Note 41 in archive - old_notes
 created: 2024-01-06T11:28:29.721650
 updated: 2024-07-15T11:28:29.721650
-completed: yes
+completed?: yes
 due: 2024-09-05T11:28:29.721650
 ---
 

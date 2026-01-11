@@ -3,7 +3,7 @@ title: Note 21 in journal - daily
 created: 2023-12-27T11:28:29.869516
 updated: 2024-10-16T11:28:29.869516
 source: https://example80.com
-completed: yes
+completed?: yes
 due: 2024-11-04T11:28:29.869516
 ---
 

@@ -3,7 +3,7 @@ title: Note 61 in events - birthdays
 created: 2025-05-30T11:28:29.959009
 updated: 2026-02-06T11:28:29.959009
 source: https://example656.com
-completed: yes
+completed?: yes
 due: 2026-11-01T11:28:29.959009
 tags:
   - code

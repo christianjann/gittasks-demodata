@@ -4,7 +4,7 @@ created: 2023-12-31T11:28:29.749216
 updated: 2024-05-01T11:28:29.749216
 source: https://example54.com
 author: Eve Adams
-completed: no
+completed?: no
 due: 2024-06-16T11:28:29.749216
 tags:
   - urgent

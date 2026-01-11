@@ -4,7 +4,7 @@ created: 2025-02-06T11:28:29.812057
 updated: 2025-09-28T11:28:29.812057
 source: https://example601.com
 author: Diana Prince
-completed: no
+completed?: no
 due: 2026-09-22T11:28:29.812057
 tags:
   - diary

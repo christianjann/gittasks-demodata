@@ -3,7 +3,7 @@ title: Note 8 in learning - tutorials - text
 created: 2023-10-15T11:28:29.834336
 updated: 2024-08-08T11:28:29.834336
 source: https://example299.com
-completed: yes
+completed?: yes
 tags:
   - health
 ---

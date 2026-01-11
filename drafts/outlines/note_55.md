@@ -2,7 +2,7 @@
 title: Note 55 in drafts - outlines
 created: 2023-12-01T11:28:29.763017
 updated: 2024-04-17T11:28:29.763017
-completed: no
+completed?: no
 tags:
   - finance
   - research

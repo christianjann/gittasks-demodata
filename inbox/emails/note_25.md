@@ -4,7 +4,7 @@ created: 2025-01-14T11:28:29.848002
 updated: 2025-05-07T11:28:29.848002
 source: https://example905.com
 author: Diana Prince
-completed: yes
+completed?: yes
 due: 2025-05-23T11:28:29.848002
 tags:
   - diary

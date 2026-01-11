@@ -6,7 +6,7 @@ source: https://example929.com
 latitude: -81.7658
 longitude: -117.8462
 altitude: 1112
-completed: no
+completed?: no
 due: 2025-09-04T11:28:29.940545
 ---
 

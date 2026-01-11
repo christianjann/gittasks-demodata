@@ -4,7 +4,7 @@ created: 2023-02-27T11:28:29.933971
 updated: 2023-12-05T11:28:29.933971
 source: https://example848.com
 author: Bob Smith
-completed: no
+completed?: no
 ---
 
 # Note 26 in social

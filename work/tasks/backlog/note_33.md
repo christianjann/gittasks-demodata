@@ -3,7 +3,7 @@ title: Note 33 in work - tasks - backlog
 created: 2024-12-15T11:28:29.635052
 updated: 2025-07-20T11:28:29.635052
 author: Charlie Brown
-completed: no
+completed?: no
 due: 2026-01-12T11:28:29.635052
 tags:
   - learning

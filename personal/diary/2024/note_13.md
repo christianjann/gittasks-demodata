@@ -2,7 +2,7 @@
 title: Note 13 in personal - diary - 2024
 created: 2023-10-26T11:28:29.573755
 updated: 2024-06-26T11:28:29.573755
-completed: no
+completed?: no
 ---
 
 # Note 13 in personal - diary - 2024

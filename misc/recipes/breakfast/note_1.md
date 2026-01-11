@@ -3,7 +3,7 @@ title: Note 1 in misc - recipes - breakfast
 created: 2025-07-23T11:28:29.779000
 updated: 2025-09-25T11:28:29.779000
 source: https://example72.com
-completed: yes
+completed?: yes
 tags:
   - note
   - goal

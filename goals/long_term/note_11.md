@@ -4,7 +4,7 @@ created: 2025-03-27T11:28:29.857624
 updated: 2025-11-19T11:28:29.857624
 source: https://example993.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - blog
   - note

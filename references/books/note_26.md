@@ -5,7 +5,7 @@ updated: 2025-04-03T11:28:29.890612
 latitude: 49.5886
 longitude: -157.4315
 altitude: 4400
-completed: yes
+completed?: yes
 due: 2025-09-16T11:28:29.890612
 tags:
   - meeting

@@ -3,7 +3,7 @@ title: Note 30 in work - meetings
 created: 2026-01-01T11:28:29.617675
 updated: 2026-03-08T11:28:29.617675
 source: https://example722.com
-completed: yes
+completed?: yes
 due: 2026-05-05T11:28:29.617675
 tags:
   - thought

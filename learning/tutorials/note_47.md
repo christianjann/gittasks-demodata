@@ -2,7 +2,7 @@
 title: Note 47 in learning - tutorials
 created: 2024-10-06T11:28:29.831054
 updated: 2025-06-09T11:28:29.831054
-completed: no
+completed?: no
 tags:
   - note
   - work

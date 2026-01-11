@@ -4,7 +4,7 @@ created: 2024-09-29T11:28:29.832418
 updated: 2025-09-03T11:28:29.832418
 source: https://example866.com
 author: Alice Johnson
-completed: yes
+completed?: yes
 due: 2026-08-11T11:28:29.832418
 tags:
   - code

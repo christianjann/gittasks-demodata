@@ -6,7 +6,7 @@ source: https://example818.com
 latitude: 35.9236
 longitude: -68.7054
 altitude: 551
-completed: no
+completed?: no
 tags:
   - task
   - template

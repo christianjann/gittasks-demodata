@@ -4,7 +4,7 @@ created: 2024-09-15T11:28:29.754909
 updated: 2025-05-08T11:28:29.754909
 source: https://example701.com
 author: Ivy Chen
-completed: yes
+completed?: yes
 due: 2025-05-21T11:28:29.754909
 tags:
   - work

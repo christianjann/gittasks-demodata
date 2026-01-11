@@ -2,7 +2,7 @@
 title: Note 29 in inbox - emails
 created: 2024-05-02T11:28:29.848225
 updated: 2025-02-06T11:28:29.848225
-completed: no
+completed?: no
 tags:
   - finance
   - travel

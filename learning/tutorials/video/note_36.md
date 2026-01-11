@@ -3,7 +3,7 @@ title: Note 36 in learning - tutorials - video
 created: 2024-06-12T11:28:29.833496
 updated: 2025-02-06T11:28:29.833496
 source: https://example232.com
-completed: yes
+completed?: yes
 due: 2025-12-22T11:28:29.833496
 tags:
   - draft

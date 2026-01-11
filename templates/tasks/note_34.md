@@ -4,7 +4,7 @@ created: 2025-05-03T11:28:29.906749
 updated: 2026-04-06T11:28:29.906749
 source: https://example106.com
 author: Henry Wilson
-completed: no
+completed?: no
 tags:
   - research
 ---

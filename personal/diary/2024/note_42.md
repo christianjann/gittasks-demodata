@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 7.7331
 longitude: 139.5064
 altitude: 3011
-completed: no
+completed?: no
 ---
 
 # Note 42 in personal - diary - 2024

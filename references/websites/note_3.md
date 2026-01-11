@@ -3,7 +3,7 @@ title: Note 3 in references - websites
 created: 2024-04-27T11:28:29.892367
 updated: 2025-03-19T11:28:29.892367
 source: https://example240.com
-completed: yes
+completed?: yes
 due: 2026-01-28T11:28:29.892367
 ---
 

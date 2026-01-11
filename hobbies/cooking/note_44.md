@@ -4,7 +4,7 @@ created: 2023-03-05T11:28:29.983685
 updated: 2024-02-24T11:28:29.983685
 source: https://example955.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2024-04-15T11:28:29.983685
 tags:
   - template

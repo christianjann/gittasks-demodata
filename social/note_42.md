@@ -6,7 +6,7 @@ source: https://example281.com
 latitude: -48.2561
 longitude: 141.4996
 altitude: 262
-completed: no
+completed?: no
 due: 2026-08-22T11:28:29.934947
 tags:
   - work

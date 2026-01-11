@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 51.176
 longitude: -57.1141
 altitude: 2402
-completed: yes
+completed?: yes
 due: 2025-11-20T11:28:29.973793
 tags:
   - finance

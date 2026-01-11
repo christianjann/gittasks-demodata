@@ -4,7 +4,7 @@ created: 2025-02-22T11:28:29.651326
 updated: 2025-10-20T11:28:29.651326
 source: https://example413.com
 author: Charlie Brown
-completed: no
+completed?: no
 due: 2026-03-10T11:28:29.651326
 tags:
   - event

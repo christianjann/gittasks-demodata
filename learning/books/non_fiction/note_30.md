@@ -4,7 +4,7 @@ created: 2023-10-10T11:28:29.825737
 updated: 2023-12-30T11:28:29.825737
 source: https://example455.com
 author: Frank Miller
-completed: yes
+completed?: yes
 tags:
   - event
   - finance

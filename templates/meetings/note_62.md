@@ -3,7 +3,7 @@ title: Note 62 in templates - meetings
 created: 2025-11-20T11:28:29.911726
 updated: 2026-05-24T11:28:29.911726
 source: https://example584.com
-completed: yes
+completed?: yes
 due: 2026-09-01T11:28:29.911726
 tags:
   - note

@@ -2,7 +2,7 @@
 title: Note 25 in drafts - ideas - tech
 created: 2025-11-17T11:28:29.752497
 updated: 2026-05-20T11:28:29.752497
-completed: no
+completed?: no
 tags:
   - thought
   - goal

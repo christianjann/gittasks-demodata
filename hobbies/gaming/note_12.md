@@ -3,7 +3,7 @@ title: Note 12 in hobbies - gaming
 created: 2024-03-04T11:28:29.974722
 updated: 2024-03-07T11:28:29.974722
 author: Henry Wilson
-completed: yes
+completed?: yes
 due: 2024-07-09T11:28:29.974722
 tags:
   - task

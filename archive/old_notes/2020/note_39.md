@@ -2,7 +2,7 @@
 title: Note 39 in archive - old_notes - 2020
 created: 2023-06-21T11:28:29.727908
 updated: 2024-04-14T11:28:29.727908
-completed: yes
+completed?: yes
 due: 2024-10-30T11:28:29.727908
 ---
 

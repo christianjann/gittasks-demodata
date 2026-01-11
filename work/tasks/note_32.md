@@ -6,7 +6,7 @@ source: https://example563.com
 latitude: -6.2649
 longitude: -81.7595
 altitude: 2093
-completed: no
+completed?: no
 due: 2025-06-17T11:28:29.628765
 tags:
   - misc

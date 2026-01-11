@@ -3,7 +3,7 @@ title: Note 44 in projects - research - articles
 created: 2025-09-20T11:28:29.710192
 updated: 2026-02-27T11:28:29.710192
 author: Alice Johnson
-completed: no
+completed?: no
 ---
 
 # Note 44 in projects - research - articles

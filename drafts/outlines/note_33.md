@@ -3,7 +3,7 @@ title: Note 33 in drafts - outlines
 created: 2023-11-21T11:28:29.761658
 updated: 2024-11-13T11:28:29.761658
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2025-03-01T11:28:29.761658
 tags:
   - idea

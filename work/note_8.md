@@ -2,7 +2,7 @@
 title: Note 8 in work
 created: 2024-11-09T11:28:29.613315
 updated: 2025-10-24T11:28:29.613315
-completed: yes
+completed?: yes
 tags:
   - finance
 ---

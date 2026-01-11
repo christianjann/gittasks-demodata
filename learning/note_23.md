@@ -3,7 +3,7 @@ title: Note 23 in learning
 created: 2023-08-02T11:28:29.808518
 updated: 2023-10-23T11:28:29.808518
 source: https://example363.com
-completed: yes
+completed?: yes
 tags:
   - template
   - finance

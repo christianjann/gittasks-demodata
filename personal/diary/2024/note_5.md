@@ -3,7 +3,7 @@ title: Note 5 in personal - diary - 2024
 created: 2024-11-28T11:28:29.573255
 updated: 2024-12-18T11:28:29.573255
 author: Frank Miller
-completed: yes
+completed?: yes
 due: 2025-04-16T11:28:29.573255
 tags:
   - meeting

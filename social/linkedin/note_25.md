@@ -4,7 +4,7 @@ created: 2025-06-22T11:28:29.941816
 updated: 2025-11-21T11:28:29.941816
 source: https://example707.com
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - archive
   - health

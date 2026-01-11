@@ -3,7 +3,7 @@ title: Note 4 in work - projects - active
 created: 2025-11-27T11:28:29.647115
 updated: 2026-09-30T11:28:29.647115
 source: https://example504.com
-completed: no
+completed?: no
 tags:
   - diary
   - thought

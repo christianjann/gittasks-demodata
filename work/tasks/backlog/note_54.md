@@ -4,7 +4,7 @@ created: 2024-08-28T11:28:29.636361
 updated: 2025-01-04T11:28:29.636361
 source: https://example584.com
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2025-05-02T11:28:29.636361
 tags:
   - hobby

@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -86.483
 longitude: 116.4117
 altitude: 3469
-completed: yes
+completed?: yes
 tags:
   - draft
   - recipe

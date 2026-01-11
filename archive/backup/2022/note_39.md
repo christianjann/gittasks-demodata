@@ -3,7 +3,7 @@ title: Note 39 in archive - backup - 2022
 created: 2025-03-16T11:28:29.738104
 updated: 2025-09-29T11:28:29.738104
 source: https://example491.com
-completed: yes
+completed?: yes
 due: 2026-07-23T11:28:29.738104
 tags:
   - shopping

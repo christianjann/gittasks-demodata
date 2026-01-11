@@ -6,7 +6,7 @@ source: https://example301.com
 latitude: 17.638
 longitude: 58.1721
 altitude: 2188
-completed: yes
+completed?: yes
 due: 2025-12-16T11:28:29.727546
 ---
 

@@ -3,7 +3,7 @@ title: Note 29 in personal - memories - childhood
 created: 2023-10-27T11:28:29.596421
 updated: 2023-12-28T11:28:29.596421
 author: Grace Lee
-completed: yes
+completed?: yes
 tags:
   - task
   - hobby

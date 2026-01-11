@@ -4,7 +4,7 @@ created: 2023-05-03T11:28:29.739255
 updated: 2023-09-03T11:28:29.739255
 source: https://example378.com
 author: Bob Smith
-completed: yes
+completed?: yes
 due: 2024-03-02T11:28:29.739255
 ---
 

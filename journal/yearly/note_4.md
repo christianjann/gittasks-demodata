@@ -3,7 +3,7 @@ title: Note 4 in journal - yearly
 created: 2025-11-10T11:28:29.877259
 updated: 2026-08-20T11:28:29.877259
 source: https://example474.com
-completed: no
+completed?: no
 due: 2027-05-10T11:28:29.877259
 tags:
   - research

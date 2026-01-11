@@ -6,7 +6,7 @@ source: https://example278.com
 latitude: 35.9505
 longitude: 56.0289
 altitude: 2855
-completed: yes
+completed?: yes
 ---
 
 # Note 19 in work - projects - active

@@ -4,7 +4,7 @@ created: 2024-01-24T11:28:29.886270
 updated: 2024-10-07T11:28:29.886270
 source: https://example916.com
 author: Charlie Brown
-completed: yes
+completed?: yes
 due: 2024-12-14T11:28:29.886270
 tags:
   - meeting

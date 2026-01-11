@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: -84.9336
 longitude: 148.2971
 altitude: 4892
-completed: yes
+completed?: yes
 ---
 
 # Note 10 in drafts - outlines - books

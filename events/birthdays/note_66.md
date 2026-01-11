@@ -4,7 +4,7 @@ created: 2023-12-14T11:28:29.959314
 updated: 2024-08-10T11:28:29.959314
 source: https://example93.com
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2025-03-13T11:28:29.959314
 tags:
   - personal

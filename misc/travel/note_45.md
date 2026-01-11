@@ -2,7 +2,7 @@
 title: Note 45 in misc - travel
 created: 2023-05-09T11:28:29.789288
 updated: 2024-03-10T11:28:29.789288
-completed: yes
+completed?: yes
 tags:
   - diary
   - finance

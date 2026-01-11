@@ -6,7 +6,7 @@ source: https://example230.com
 latitude: 79.8687
 longitude: 94.351
 altitude: 2883
-completed: no
+completed?: no
 due: 2025-08-12T11:28:29.567549
 tags:
   - finance

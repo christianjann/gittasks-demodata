@@ -2,7 +2,7 @@
 title: Note 23 in personal - diary
 created: 2025-01-24T11:28:29.567796
 updated: 2025-11-02T11:28:29.567796
-completed: no
+completed?: no
 tags:
   - hobby
   - personal

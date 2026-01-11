@@ -2,7 +2,7 @@
 title: Note 40 in learning - courses - in_person
 created: 2025-03-17T11:28:29.817111
 updated: 2025-03-19T11:28:29.817111
-completed: yes
+completed?: yes
 due: 2026-01-22T11:28:29.817111
 ---
 

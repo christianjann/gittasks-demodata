@@ -4,7 +4,7 @@ created: 2024-05-03T11:28:29.931515
 updated: 2024-12-01T11:28:29.931515
 source: https://example556.com
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - social
   - task

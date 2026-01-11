@@ -3,7 +3,7 @@ title: Note 4 in learning - books
 created: 2025-01-20T11:28:29.818861
 updated: 2025-08-04T11:28:29.818861
 author: Jack Taylor
-completed: no
+completed?: no
 tags:
   - journal
 ---

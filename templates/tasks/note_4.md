@@ -3,7 +3,7 @@ title: Note 4 in templates - tasks
 created: 2023-04-03T11:28:29.904726
 updated: 2023-05-02T11:28:29.904726
 author: Grace Lee
-completed: yes
+completed?: yes
 due: 2023-09-22T11:28:29.904726
 tags:
   - urgent

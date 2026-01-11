@@ -2,7 +2,7 @@
 title: Note 37 in projects - design - ux
 created: 2025-02-13T11:28:29.697478
 updated: 2025-07-01T11:28:29.697478
-completed: no
+completed?: no
 due: 2026-02-16T11:28:29.697478
 tags:
   - personal

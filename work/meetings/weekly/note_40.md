@@ -6,7 +6,7 @@ source: https://example547.com
 latitude: -36.0405
 longitude: 37.4297
 altitude: 4726
-completed: no
+completed?: no
 ---
 
 # Note 40 in work - meetings - weekly

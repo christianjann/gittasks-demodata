@@ -6,7 +6,7 @@ source: https://example643.com
 latitude: 80.2156
 longitude: -48.1644
 altitude: 2124
-completed: yes
+completed?: yes
 tags:
   - reference
   - work

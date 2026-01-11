@@ -6,7 +6,7 @@ author: Diana Prince
 latitude: -7.3317
 longitude: -167.9207
 altitude: 1265
-completed: no
+completed?: no
 due: 2026-11-29T11:28:29.861724
 tags:
   - hobby

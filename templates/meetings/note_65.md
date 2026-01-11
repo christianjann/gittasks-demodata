@@ -3,7 +3,7 @@ title: Note 65 in templates - meetings
 created: 2023-02-11T11:28:29.912014
 updated: 2023-09-28T11:28:29.912014
 author: Bob Smith
-completed: yes
+completed?: yes
 tags:
   - note
   - archive

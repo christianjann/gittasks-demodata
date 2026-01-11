@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 19.3066
 longitude: -33.9791
 altitude: 4654
-completed: no
+completed?: no
 ---
 
 # Note 33 in misc - travel - europe

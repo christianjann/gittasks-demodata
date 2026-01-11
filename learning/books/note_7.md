@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: -19.8441
 longitude: -167.4267
 altitude: 1992
-completed: no
+completed?: no
 ---
 
 # Note 7 in learning - books

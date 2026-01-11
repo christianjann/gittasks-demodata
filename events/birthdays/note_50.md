@@ -2,7 +2,7 @@
 title: Note 50 in events - birthdays
 created: 2024-12-25T11:28:29.958288
 updated: 2025-04-07T11:28:29.958288
-completed: yes
+completed?: yes
 due: 2025-11-09T11:28:29.958288
 tags:
   - archive

@@ -3,7 +3,7 @@ title: Note 41 in work - meetings - monthly
 created: 2023-08-07T11:28:29.623809
 updated: 2023-10-21T11:28:29.623809
 source: https://example189.com
-completed: no
+completed?: no
 tags:
   - research
   - note

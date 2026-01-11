@@ -6,7 +6,7 @@ source: https://example553.com
 latitude: 9.5869
 longitude: -108.1531
 altitude: 24
-completed: yes
+completed?: yes
 tags:
   - learning
   - draft

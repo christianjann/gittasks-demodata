@@ -3,7 +3,7 @@ title: Note 1 in personal - memories
 created: 2023-12-24T11:28:29.590123
 updated: 2024-03-24T11:28:29.590123
 source: https://example327.com
-completed: no
+completed?: no
 due: 2025-03-02T11:28:29.590123
 tags:
   - social

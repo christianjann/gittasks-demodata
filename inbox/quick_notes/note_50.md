@@ -3,7 +3,7 @@ title: Note 50 in inbox - quick_notes
 created: 2023-08-03T11:28:29.841688
 updated: 2024-05-06T11:28:29.841688
 author: Jack Taylor
-completed: yes
+completed?: yes
 due: 2025-03-31T11:28:29.841688
 ---
 

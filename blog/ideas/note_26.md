@@ -3,7 +3,7 @@ title: Note 26 in blog - ideas
 created: 2023-07-17T11:28:29.929779
 updated: 2024-06-11T11:28:29.929779
 source: https://example795.com
-completed: no
+completed?: no
 due: 2025-03-31T11:28:29.929779
 tags:
   - template

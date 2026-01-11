@@ -3,7 +3,7 @@ title: Note 35 in hobbies
 created: 2025-10-05T11:28:29.970442
 updated: 2026-07-11T11:28:29.970442
 source: https://example473.com
-completed: yes
+completed?: yes
 due: 2026-11-19T11:28:29.970442
 ---
 

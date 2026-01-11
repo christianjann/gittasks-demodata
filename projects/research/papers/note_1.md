@@ -4,7 +4,7 @@ created: 2025-07-29T11:28:29.704874
 updated: 2026-07-24T11:28:29.704874
 source: https://example573.com
 author: Jack Taylor
-completed: yes
+completed?: yes
 tags:
   - recipe
   - learning

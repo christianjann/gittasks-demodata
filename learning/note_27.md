@@ -3,7 +3,7 @@ title: Note 27 in learning
 created: 2023-05-29T11:28:29.808741
 updated: 2024-04-30T11:28:29.808741
 source: https://example476.com
-completed: no
+completed?: no
 due: 2025-01-26T11:28:29.808741
 tags:
   - design

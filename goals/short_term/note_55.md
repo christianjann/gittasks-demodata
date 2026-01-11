@@ -6,7 +6,7 @@ source: https://example924.com
 latitude: -36.0345
 longitude: -178.2964
 altitude: 3014
-completed: yes
+completed?: yes
 due: 2026-02-16T11:28:29.856188
 tags:
   - misc

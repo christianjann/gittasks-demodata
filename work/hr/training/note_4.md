@@ -4,7 +4,7 @@ created: 2023-01-22T11:28:29.667164
 updated: 2023-09-23T11:28:29.667164
 source: https://example233.com
 author: Jack Taylor
-completed: no
+completed?: no
 due: 2024-02-12T11:28:29.667164
 tags:
   - social

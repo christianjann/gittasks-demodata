@@ -2,7 +2,7 @@
 title: Note 50 in misc - health - mental
 created: 2023-06-04T11:28:29.806695
 updated: 2023-07-27T11:28:29.806695
-completed: no
+completed?: no
 due: 2024-04-07T11:28:29.806695
 tags:
   - learning

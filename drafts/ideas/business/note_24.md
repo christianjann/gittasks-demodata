@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: -60.5539
 longitude: -94.1164
 altitude: 2885
-completed: yes
+completed?: yes
 tags:
   - design
   - shopping

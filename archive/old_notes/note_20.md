@@ -3,7 +3,7 @@ title: Note 20 in archive - old_notes
 created: 2023-08-22T11:28:29.720332
 updated: 2023-11-03T11:28:29.720332
 author: Alice Johnson
-completed: yes
+completed?: yes
 tags:
   - learning
   - reference

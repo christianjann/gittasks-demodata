@@ -6,7 +6,7 @@ source: https://example789.com
 latitude: 61.9057
 longitude: -8.3074
 altitude: 1775
-completed: no
+completed?: no
 tags:
   - task
 ---

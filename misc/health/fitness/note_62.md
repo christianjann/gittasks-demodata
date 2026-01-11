@@ -4,7 +4,7 @@ created: 2023-02-09T11:28:29.803576
 updated: 2023-06-16T11:28:29.803576
 source: https://example556.com
 author: Ivy Chen
-completed: no
+completed?: no
 due: 2023-07-16T11:28:29.803576
 tags:
   - learning

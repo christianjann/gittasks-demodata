@@ -3,7 +3,7 @@ title: Note 21 in projects - research - papers
 created: 2025-06-12T11:28:29.706192
 updated: 2026-03-25T11:28:29.706192
 source: https://example660.com
-completed: no
+completed?: no
 due: 2026-06-21T11:28:29.706192
 tags:
   - diary

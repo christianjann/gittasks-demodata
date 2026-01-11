@@ -2,7 +2,7 @@
 title: Note 11 in drafts - outlines - presentations
 created: 2023-03-03T11:28:29.766771
 updated: 2023-07-09T11:28:29.766771
-completed: yes
+completed?: yes
 due: 2024-03-17T11:28:29.766771
 ---
 
