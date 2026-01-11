@@ -4,7 +4,7 @@ created: 2024-06-15T11:28:29.724233
 updated: 2025-03-24T11:28:29.724233
 source: https://example167.com
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2025-11-29T11:28:29.724233
 ---
 

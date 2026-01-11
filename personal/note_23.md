@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: 27.0039
 longitude: 107.6398
 altitude: 3140
-completed: False
+completed: no
 tags:
   - template
   - health

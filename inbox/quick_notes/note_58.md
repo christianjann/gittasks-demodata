@@ -3,7 +3,7 @@ title: Note 58 in inbox - quick_notes
 created: 2023-07-16T11:28:29.842198
 updated: 2024-06-03T11:28:29.842198
 source: https://example161.com
-completed: True
+completed: yes
 due: 2024-08-28T11:28:29.842198
 tags:
   - event

@@ -2,7 +2,7 @@
 title: Note 35 in hobbies - photography
 created: 2025-03-13T11:28:29.973283
 updated: 2025-12-15T11:28:29.973283
-completed: True
+completed: yes
 tags:
   - hobby
   - note

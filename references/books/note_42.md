@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: -39.7924
 longitude: -24.712
 altitude: 986
-completed: False
+completed: no
 due: 2024-11-05T11:28:29.891806
 tags:
   - meeting

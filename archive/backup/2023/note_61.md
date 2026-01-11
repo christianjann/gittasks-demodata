@@ -3,7 +3,7 @@ title: Note 61 in archive - backup - 2023
 created: 2023-01-15T11:28:29.742585
 updated: 2023-09-24T11:28:29.742585
 source: https://example138.com
-completed: False
+completed: no
 tags:
   - template
   - blog

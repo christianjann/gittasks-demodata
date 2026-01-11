@@ -3,7 +3,7 @@ title: Note 30 in drafts - ideas - personal
 created: 2024-05-13T11:28:29.759050
 updated: 2024-10-15T11:28:29.759050
 source: https://example402.com
-completed: False
+completed: no
 due: 2025-07-18T11:28:29.759050
 tags:
   - idea

@@ -4,7 +4,7 @@ created: 2025-09-03T11:28:29.962756
 updated: 2025-09-08T11:28:29.962756
 source: https://example23.com
 author: Charlie Brown
-completed: True
+completed: yes
 ---
 
 # Note 10 in shopping - lists

@@ -4,7 +4,7 @@ created: 2023-05-18T11:28:29.619340
 updated: 2023-11-29T11:28:29.619340
 source: https://example133.com
 author: Diana Prince
-completed: False
+completed: no
 due: 2024-11-16T11:28:29.619340
 tags:
   - template

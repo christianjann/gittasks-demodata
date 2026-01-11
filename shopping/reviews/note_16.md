@@ -4,7 +4,7 @@ created: 2025-07-05T11:28:29.966192
 updated: 2026-03-03T11:28:29.966192
 source: https://example558.com
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - personal
   - code

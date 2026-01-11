@@ -4,7 +4,7 @@ created: 2024-06-10T11:28:29.969134
 updated: 2024-10-25T11:28:29.969134
 source: https://example867.com
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - recipe
 ---

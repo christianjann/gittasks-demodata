@@ -3,7 +3,7 @@ title: Note 17 in projects - design - ui
 created: 2023-02-07T11:28:29.693921
 updated: 2023-04-24T11:28:29.693921
 source: https://example819.com
-completed: False
+completed: no
 due: 2024-02-12T11:28:29.693921
 ---
 

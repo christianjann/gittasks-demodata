@@ -5,7 +5,7 @@ updated: 2025-04-28T11:28:29.739010
 latitude: -20.7578
 longitude: 163.431
 altitude: 3332
-completed: False
+completed: no
 due: 2025-12-20T11:28:29.739010
 tags:
   - finance

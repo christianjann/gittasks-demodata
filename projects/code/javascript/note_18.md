@@ -3,7 +3,7 @@ title: Note 18 in projects - code - javascript
 created: 2025-06-02T11:28:29.682643
 updated: 2026-05-01T11:28:29.682643
 author: Charlie Brown
-completed: False
+completed: no
 due: 2026-06-04T11:28:29.682643
 tags:
   - social

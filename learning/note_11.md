@@ -4,7 +4,7 @@ created: 2023-06-11T11:28:29.807866
 updated: 2023-09-17T11:28:29.807866
 source: https://example897.com
 author: Diana Prince
-completed: False
+completed: no
 due: 2024-01-09T11:28:29.807866
 tags:
   - draft

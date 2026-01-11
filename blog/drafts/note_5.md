@@ -3,7 +3,7 @@ title: Note 5 in blog - drafts
 created: 2025-11-12T11:28:29.920097
 updated: 2026-11-07T11:28:29.920097
 source: https://example560.com
-completed: True
+completed: yes
 due: 2027-04-19T11:28:29.920097
 tags:
   - design

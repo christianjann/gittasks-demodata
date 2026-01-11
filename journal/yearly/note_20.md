@@ -3,7 +3,7 @@ title: Note 20 in journal - yearly
 created: 2025-06-16T11:28:29.878358
 updated: 2025-12-26T11:28:29.878358
 source: https://example675.com
-completed: True
+completed: yes
 due: 2026-06-16T11:28:29.878358
 ---
 

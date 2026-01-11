@@ -2,7 +2,7 @@
 title: Note 23 in personal - thoughts
 created: 2024-01-13T11:28:29.580937
 updated: 2024-10-25T11:28:29.580937
-completed: False
+completed: no
 tags:
   - personal
   - blog

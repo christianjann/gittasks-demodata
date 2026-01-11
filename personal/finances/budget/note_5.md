@@ -3,7 +3,7 @@ title: Note 5 in personal - finances - budget
 created: 2023-05-18T11:28:29.605935
 updated: 2024-01-14T11:28:29.605935
 source: https://example246.com
-completed: True
+completed: yes
 tags:
   - thought
 ---

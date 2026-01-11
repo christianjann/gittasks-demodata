@@ -3,7 +3,7 @@ title: Note 39 in learning - tutorials - text
 created: 2025-01-10T11:28:29.836358
 updated: 2025-03-29T11:28:29.836358
 source: https://example128.com
-completed: True
+completed: yes
 due: 2025-12-15T11:28:29.836358
 tags:
   - health

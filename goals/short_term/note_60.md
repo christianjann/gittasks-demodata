@@ -4,7 +4,7 @@ created: 2024-11-11T11:28:29.856518
 updated: 2024-11-28T11:28:29.856518
 source: https://example46.com
 author: Henry Wilson
-completed: False
+completed: no
 due: 2025-05-17T11:28:29.856518
 tags:
   - work

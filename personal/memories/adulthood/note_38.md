@@ -3,7 +3,7 @@ title: Note 38 in personal - memories - adulthood
 created: 2023-06-20T11:28:29.600382
 updated: 2024-03-07T11:28:29.600382
 author: Alice Johnson
-completed: True
+completed: yes
 due: 2024-04-05T11:28:29.600382
 tags:
   - template

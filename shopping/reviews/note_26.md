@@ -4,7 +4,7 @@ created: 2025-03-25T11:28:29.966724
 updated: 2025-09-17T11:28:29.966724
 source: https://example493.com
 author: Alice Johnson
-completed: False
+completed: no
 ---
 
 # Note 26 in shopping - reviews

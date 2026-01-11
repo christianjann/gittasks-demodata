@@ -6,7 +6,7 @@ author: Diana Prince
 latitude: 20.6849
 longitude: -125.303
 altitude: 2153
-completed: False
+completed: no
 tags:
   - shopping
 ---

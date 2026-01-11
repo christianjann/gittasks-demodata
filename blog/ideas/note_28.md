@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 1.223
 longitude: -71.7693
 altitude: 3400
-completed: True
+completed: yes
 due: 2026-11-07T11:28:29.929900
 tags:
   - travel

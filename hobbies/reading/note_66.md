@@ -3,7 +3,7 @@ title: Note 66 in hobbies - reading
 created: 2025-10-21T11:28:29.980954
 updated: 2026-02-08T11:28:29.980954
 author: Charlie Brown
-completed: False
+completed: no
 due: 2026-11-21T11:28:29.980954
 tags:
   - template

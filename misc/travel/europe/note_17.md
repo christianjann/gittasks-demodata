@@ -5,7 +5,7 @@ updated: 2025-04-02T11:28:29.791242
 latitude: -9.4279
 longitude: -120.0268
 altitude: 4333
-completed: False
+completed: no
 due: 2025-05-13T11:28:29.791242
 tags:
   - code

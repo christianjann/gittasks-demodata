@@ -4,7 +4,7 @@ created: 2023-11-29T11:28:29.576151
 updated: 2024-03-04T11:28:29.576151
 source: https://example993.com
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - finance
   - idea

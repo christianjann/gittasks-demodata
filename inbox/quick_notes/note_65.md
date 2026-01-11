@@ -2,7 +2,7 @@
 title: Note 65 in inbox - quick_notes
 created: 2023-12-04T11:28:29.842617
 updated: 2024-05-25T11:28:29.842617
-completed: True
+completed: yes
 tags:
   - task
   - blog

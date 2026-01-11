@@ -2,7 +2,7 @@
 title: Note 38 in archive - old_notes - 2021
 created: 2025-06-19T11:28:29.732581
 updated: 2025-09-11T11:28:29.732581
-completed: True
+completed: yes
 due: 2025-11-10T11:28:29.732581
 tags:
   - code

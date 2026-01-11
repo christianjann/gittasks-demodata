@@ -3,7 +3,7 @@ title: Note 9 in personal - diary - 2025
 created: 2025-08-01T11:28:29.576651
 updated: 2026-03-08T11:28:29.576651
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - work
 ---

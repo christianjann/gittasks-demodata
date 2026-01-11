@@ -2,7 +2,7 @@
 title: Note 19 in projects - code - javascript
 created: 2025-07-11T11:28:29.682697
 updated: 2026-02-23T11:28:29.682697
-completed: True
+completed: yes
 due: 2026-05-14T11:28:29.682697
 tags:
   - recipe

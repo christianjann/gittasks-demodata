@@ -3,7 +3,7 @@ title: Note 40 in work - tasks - backlog
 created: 2026-01-04T11:28:29.635484
 updated: 2026-07-20T11:28:29.635484
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - recipe
   - thought

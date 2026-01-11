@@ -6,7 +6,7 @@ source: https://example289.com
 latitude: 80.7756
 longitude: 24.3376
 altitude: 3780
-completed: True
+completed: yes
 tags:
   - research
   - diary

@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -32.4927
 longitude: -139.3752
 altitude: 3729
-completed: True
+completed: yes
 tags:
   - goal
   - meeting

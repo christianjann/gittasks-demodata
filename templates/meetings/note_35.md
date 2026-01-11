@@ -3,7 +3,7 @@ title: Note 35 in templates - meetings
 created: 2023-06-01T11:28:29.910048
 updated: 2023-07-20T11:28:29.910048
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2024-01-17T11:28:29.910048
 tags:
   - idea

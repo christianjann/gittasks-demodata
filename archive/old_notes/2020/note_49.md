@@ -3,7 +3,7 @@ title: Note 49 in archive - old_notes - 2020
 created: 2023-04-25T11:28:29.728802
 updated: 2024-04-21T11:28:29.728802
 source: https://example818.com
-completed: False
+completed: no
 due: 2024-09-21T11:28:29.728802
 tags:
   - reference

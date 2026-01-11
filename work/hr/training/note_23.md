@@ -3,7 +3,7 @@ title: Note 23 in work - hr - training
 created: 2023-04-25T11:28:29.668281
 updated: 2023-06-12T11:28:29.668281
 source: https://example290.com
-completed: True
+completed: yes
 due: 2023-09-28T11:28:29.668281
 tags:
   - shopping

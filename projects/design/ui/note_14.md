@@ -4,7 +4,7 @@ created: 2023-01-30T11:28:29.693753
 updated: 2023-10-23T11:28:29.693753
 source: https://example189.com
 author: Henry Wilson
-completed: False
+completed: no
 due: 2024-03-25T11:28:29.693753
 tags:
   - event

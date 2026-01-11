@@ -4,7 +4,7 @@ created: 2024-03-07T11:28:29.765483
 updated: 2024-08-28T11:28:29.765483
 source: https://example10.com
 author: Jack Taylor
-completed: True
+completed: yes
 ---
 
 # Note 27 in drafts - outlines - books

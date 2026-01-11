@@ -3,7 +3,7 @@ title: Note 51 in misc - travel - europe
 created: 2023-06-01T11:28:29.793204
 updated: 2023-12-21T11:28:29.793204
 source: https://example117.com
-completed: False
+completed: no
 due: 2024-07-16T11:28:29.793204
 tags:
   - archive

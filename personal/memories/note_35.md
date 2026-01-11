@@ -3,7 +3,7 @@ title: Note 35 in personal - memories
 created: 2023-01-19T11:28:29.592335
 updated: 2023-05-14T11:28:29.592335
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - travel
   - recipe

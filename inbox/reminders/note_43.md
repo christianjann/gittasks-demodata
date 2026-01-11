@@ -3,7 +3,7 @@ title: Note 43 in inbox - reminders
 created: 2023-05-23T11:28:29.845505
 updated: 2024-05-02T11:28:29.845505
 author: Bob Smith
-completed: True
+completed: yes
 tags:
   - archive
   - meeting

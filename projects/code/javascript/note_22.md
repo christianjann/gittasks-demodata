@@ -4,7 +4,7 @@ created: 2023-08-18T11:28:29.682860
 updated: 2024-01-18T11:28:29.682860
 source: https://example267.com
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - idea
 ---

@@ -3,7 +3,7 @@ title: Note 14 in drafts - ideas - personal
 created: 2025-10-25T11:28:29.758183
 updated: 2026-05-16T11:28:29.758183
 author: Ivy Chen
-completed: True
+completed: yes
 ---
 
 # Note 14 in drafts - ideas - personal

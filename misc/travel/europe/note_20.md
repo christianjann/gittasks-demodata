@@ -3,7 +3,7 @@ title: Note 20 in misc - travel - europe
 created: 2023-07-02T11:28:29.791419
 updated: 2023-08-29T11:28:29.791419
 author: Jack Taylor
-completed: False
+completed: no
 due: 2024-06-08T11:28:29.791419
 tags:
   - idea

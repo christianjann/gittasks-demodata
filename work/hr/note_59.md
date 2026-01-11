@@ -6,7 +6,7 @@ source: https://example512.com
 latitude: -42.6124
 longitude: -150.599
 altitude: 541
-completed: True
+completed: yes
 due: 2025-12-17T11:28:29.663281
 tags:
   - template

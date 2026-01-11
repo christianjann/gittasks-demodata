@@ -5,7 +5,7 @@ updated: 2024-11-30T11:28:29.919849
 latitude: 80.983
 longitude: -57.316
 altitude: 832
-completed: True
+completed: yes
 tags:
   - shopping
   - work

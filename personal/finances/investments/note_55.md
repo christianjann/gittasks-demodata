@@ -4,7 +4,7 @@ created: 2024-11-02T11:28:29.612010
 updated: 2025-09-02T11:28:29.612010
 source: https://example219.com
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2026-08-31T11:28:29.612010
 tags:
   - reference

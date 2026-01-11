@@ -3,7 +3,7 @@ title: Note 57 in blog - ideas
 created: 2024-06-22T11:28:29.931992
 updated: 2024-06-29T11:28:29.931992
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - journal
   - template

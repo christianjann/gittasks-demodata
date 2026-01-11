@@ -3,7 +3,7 @@ title: Note 33 in work - projects - active
 created: 2024-12-24T11:28:29.649017
 updated: 2025-09-10T11:28:29.649017
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - diary
   - travel

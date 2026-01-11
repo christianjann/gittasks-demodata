@@ -4,7 +4,7 @@ created: 2025-06-02T11:28:29.602966
 updated: 2026-02-09T11:28:29.602966
 source: https://example722.com
 author: Diana Prince
-completed: True
+completed: yes
 ---
 
 # Note 14 in personal - finances

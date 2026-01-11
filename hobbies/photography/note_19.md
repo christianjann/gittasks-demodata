@@ -3,7 +3,7 @@ title: Note 19 in hobbies - photography
 created: 2025-03-15T11:28:29.972412
 updated: 2026-03-09T11:28:29.972412
 source: https://example289.com
-completed: False
+completed: no
 due: 2026-10-29T11:28:29.972412
 ---
 

@@ -2,7 +2,7 @@
 title: Note 18 in blog - drafts
 created: 2024-12-24T11:28:29.920924
 updated: 2025-03-02T11:28:29.920924
-completed: False
+completed: no
 due: 2026-01-27T11:28:29.920924
 ---
 

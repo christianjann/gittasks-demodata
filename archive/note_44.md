@@ -3,7 +3,7 @@ title: Note 44 in archive
 created: 2024-04-13T11:28:29.717962
 updated: 2025-02-01T11:28:29.717962
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2025-05-27T11:28:29.717962
 tags:
   - event

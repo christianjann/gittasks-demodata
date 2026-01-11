@@ -2,7 +2,7 @@
 title: Note 5 in personal - diary
 created: 2023-03-07T11:28:29.566505
 updated: 2023-10-19T11:28:29.566505
-completed: True
+completed: yes
 ---
 
 # Note 5 in personal - diary

@@ -5,7 +5,7 @@ updated: 2023-07-18T11:28:29.885071
 latitude: 79.0304
 longitude: -81.4555
 altitude: 2656
-completed: True
+completed: yes
 tags:
   - misc
 ---

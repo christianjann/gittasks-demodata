@@ -3,7 +3,7 @@ title: Note 14 in personal - finances - budget
 created: 2025-10-11T11:28:29.606408
 updated: 2026-06-05T11:28:29.606408
 source: https://example197.com
-completed: True
+completed: yes
 tags:
   - diary
   - travel

@@ -4,7 +4,7 @@ created: 2025-05-06T11:28:29.873897
 updated: 2026-02-01T11:28:29.873897
 source: https://example390.com
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - goal
   - learning

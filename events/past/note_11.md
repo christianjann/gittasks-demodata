@@ -4,7 +4,7 @@ created: 2026-01-05T11:28:29.952866
 updated: 2026-11-08T11:28:29.952866
 source: https://example505.com
 author: Grace Lee
-completed: False
+completed: no
 ---
 
 # Note 11 in events - past

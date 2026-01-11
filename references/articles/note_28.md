@@ -3,7 +3,7 @@ title: Note 28 in references - articles
 created: 2025-04-23T11:28:29.886699
 updated: 2025-07-05T11:28:29.886699
 author: Henry Wilson
-completed: False
+completed: no
 due: 2025-08-06T11:28:29.886699
 tags:
   - work

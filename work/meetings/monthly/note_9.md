@@ -3,7 +3,7 @@ title: Note 9 in work - meetings - monthly
 created: 2023-01-28T11:28:29.621954
 updated: 2023-03-20T11:28:29.621954
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - hobby
   - goal

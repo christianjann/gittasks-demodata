@@ -3,7 +3,7 @@ title: Note 15 in projects - research - articles
 created: 2025-12-20T11:28:29.708504
 updated: 2026-11-18T11:28:29.708504
 source: https://example552.com
-completed: False
+completed: no
 tags:
   - hobby
   - travel

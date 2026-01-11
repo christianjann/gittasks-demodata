@@ -3,7 +3,7 @@ title: Note 6 in references
 created: 2024-12-09T11:28:29.880953
 updated: 2025-08-17T11:28:29.880953
 source: https://example651.com
-completed: False
+completed: no
 due: 2026-02-23T11:28:29.880953
 tags:
   - code

@@ -3,7 +3,7 @@ title: Note 22 in misc - travel - europe
 created: 2024-03-05T11:28:29.791543
 updated: 2024-04-08T11:28:29.791543
 source: https://example750.com
-completed: False
+completed: no
 due: 2025-03-28T11:28:29.791543
 tags:
   - travel

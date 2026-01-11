@@ -6,7 +6,7 @@ source: https://example809.com
 latitude: 5.0214
 longitude: 172.389
 altitude: 2450
-completed: False
+completed: no
 due: 2024-05-28T11:28:29.953913
 tags:
   - code

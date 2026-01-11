@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: 56.338
 longitude: -38.3254
 altitude: 1060
-completed: True
+completed: yes
 tags:
   - idea
 ---

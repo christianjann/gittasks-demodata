@@ -4,7 +4,7 @@ created: 2024-03-20T11:28:29.912702
 updated: 2025-03-15T11:28:29.912702
 source: https://example672.com
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - blog
   - shopping

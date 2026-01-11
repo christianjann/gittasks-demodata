@@ -3,7 +3,7 @@ title: Note 7 in drafts - ideas - business
 created: 2025-11-11T11:28:29.754117
 updated: 2026-03-01T11:28:29.754117
 source: https://example305.com
-completed: True
+completed: yes
 tags:
   - archive
   - recipe

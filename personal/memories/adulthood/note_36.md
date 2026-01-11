@@ -4,7 +4,7 @@ created: 2024-02-16T11:28:29.600257
 updated: 2024-08-19T11:28:29.600257
 source: https://example890.com
 author: Alice Johnson
-completed: False
+completed: no
 due: 2025-03-03T11:28:29.600257
 ---
 

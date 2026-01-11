@@ -4,7 +4,7 @@ created: 2023-11-04T11:28:29.835057
 updated: 2024-06-11T11:28:29.835057
 source: https://example315.com
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2025-04-12T11:28:29.835057
 tags:
   - task

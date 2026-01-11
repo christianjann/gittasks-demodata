@@ -5,7 +5,7 @@ updated: 2025-03-19T11:28:29.895801
 latitude: 51.3924
 longitude: -119.5104
 altitude: 1942
-completed: True
+completed: yes
 tags:
   - meeting
   - goal

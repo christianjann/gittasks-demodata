@@ -2,7 +2,7 @@
 title: Note 40 in personal - diary - 2023
 created: 2023-01-21T11:28:29.572139
 updated: 2023-12-31T11:28:29.572139
-completed: True
+completed: yes
 due: 2024-10-31T11:28:29.572139
 tags:
   - travel

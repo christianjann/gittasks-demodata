@@ -6,7 +6,7 @@ source: https://example647.com
 latitude: -27.2905
 longitude: -0.4781
 altitude: 4955
-completed: False
+completed: no
 tags:
   - note
   - diary

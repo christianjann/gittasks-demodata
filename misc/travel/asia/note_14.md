@@ -3,7 +3,7 @@ title: Note 14 in misc - travel - asia
 created: 2024-04-26T11:28:29.794267
 updated: 2025-03-16T11:28:29.794267
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - note
 ---

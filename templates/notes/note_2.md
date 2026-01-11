@@ -6,7 +6,7 @@ source: https://example952.com
 latitude: 6.2785
 longitude: -130.729
 altitude: 1948
-completed: False
+completed: no
 due: 2027-02-10T11:28:29.901966
 tags:
   - travel

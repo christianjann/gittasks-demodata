@@ -3,7 +3,7 @@ title: Note 41 in work - hr
 created: 2025-02-14T11:28:29.661502
 updated: 2025-04-08T11:28:29.661502
 source: https://example559.com
-completed: False
+completed: no
 ---
 
 # Note 41 in work - hr

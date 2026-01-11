@@ -4,7 +4,7 @@ created: 2024-03-14T11:28:29.822899
 updated: 2024-04-24T11:28:29.822899
 source: https://example56.com
 author: Frank Miller
-completed: True
+completed: yes
 due: 2024-05-29T11:28:29.822899
 tags:
   - social

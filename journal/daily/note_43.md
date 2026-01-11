@@ -3,7 +3,7 @@ title: Note 43 in journal - daily
 created: 2025-10-29T11:28:29.870885
 updated: 2026-01-29T11:28:29.870885
 source: https://example908.com
-completed: False
+completed: no
 tags:
   - diary
 ---

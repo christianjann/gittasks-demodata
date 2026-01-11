@@ -2,7 +2,7 @@
 title: Note 45 in hobbies - gaming
 created: 2023-06-11T11:28:29.976548
 updated: 2023-07-04T11:28:29.976548
-completed: True
+completed: yes
 due: 2023-12-29T11:28:29.976548
 tags:
   - idea

@@ -2,7 +2,7 @@
 title: Note 5 in shopping
 created: 2025-10-04T11:28:29.959900
 updated: 2025-10-18T11:28:29.959900
-completed: True
+completed: yes
 tags:
   - meeting
 ---

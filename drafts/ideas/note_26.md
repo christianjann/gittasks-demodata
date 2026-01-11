@@ -3,7 +3,7 @@ title: Note 26 in drafts - ideas
 created: 2024-09-26T11:28:29.748254
 updated: 2025-06-25T11:28:29.748254
 source: https://example272.com
-completed: True
+completed: yes
 tags:
   - code
 ---

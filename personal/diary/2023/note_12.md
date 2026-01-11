@@ -3,7 +3,7 @@ title: Note 12 in personal - diary - 2023
 created: 2024-09-22T11:28:29.570078
 updated: 2025-07-21T11:28:29.570078
 author: Eve Adams
-completed: False
+completed: no
 due: 2026-05-14T11:28:29.570078
 tags:
   - goal

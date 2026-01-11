@@ -6,7 +6,7 @@ source: https://example259.com
 latitude: -67.5087
 longitude: 97.8257
 altitude: 3584
-completed: False
+completed: no
 tags:
   - personal
   - goal

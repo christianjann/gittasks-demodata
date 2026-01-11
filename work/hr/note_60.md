@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: -11.3103
 longitude: 28.4312
 altitude: 245
-completed: True
+completed: yes
 tags:
   - health
   - personal

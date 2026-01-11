@@ -2,7 +2,7 @@
 title: Note 29 in projects - design
 created: 2023-04-29T11:28:29.692189
 updated: 2024-03-26T11:28:29.692189
-completed: True
+completed: yes
 tags:
   - diary
   - code

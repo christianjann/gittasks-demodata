@@ -4,7 +4,7 @@ created: 2023-06-05T11:28:29.638266
 updated: 2024-04-14T11:28:29.638266
 source: https://example524.com
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2024-10-19T11:28:29.638266
 tags:
   - archive

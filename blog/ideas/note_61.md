@@ -3,7 +3,7 @@ title: Note 61 in blog - ideas
 created: 2024-09-27T11:28:29.932223
 updated: 2025-01-30T11:28:29.932223
 author: Grace Lee
-completed: False
+completed: no
 due: 2025-04-02T11:28:29.932223
 tags:
   - meeting

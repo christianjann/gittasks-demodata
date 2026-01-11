@@ -2,7 +2,7 @@
 title: Note 61 in hobbies - cooking
 created: 2025-08-07T11:28:29.984654
 updated: 2025-11-02T11:28:29.984654
-completed: False
+completed: no
 tags:
   - idea
   - misc

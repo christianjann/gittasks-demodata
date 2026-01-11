@@ -3,7 +3,7 @@ title: Note 20 in goals - long_term
 created: 2024-02-19T11:28:29.858108
 updated: 2024-12-31T11:28:29.858108
 author: Diana Prince
-completed: True
+completed: yes
 due: 2025-12-27T11:28:29.858108
 ---
 

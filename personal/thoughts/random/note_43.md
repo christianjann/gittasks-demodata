@@ -6,7 +6,7 @@ source: https://example142.com
 latitude: -33.1879
 longitude: -120.0023
 altitude: 665
-completed: False
+completed: no
 tags:
   - journal
   - learning

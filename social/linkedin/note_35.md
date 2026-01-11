@@ -3,7 +3,7 @@ title: Note 35 in social - linkedin
 created: 2024-05-01T11:28:29.942540
 updated: 2024-05-14T11:28:29.942540
 author: Diana Prince
-completed: True
+completed: yes
 tags:
   - shopping
 ---

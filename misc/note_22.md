@@ -3,7 +3,7 @@ title: Note 22 in misc
 created: 2023-05-27T11:28:29.773841
 updated: 2024-04-18T11:28:29.773841
 author: Eve Adams
-completed: False
+completed: no
 due: 2024-07-21T11:28:29.773841
 tags:
   - travel

@@ -6,7 +6,7 @@ source: https://example138.com
 latitude: 19.2383
 longitude: 167.6288
 altitude: 3010
-completed: False
+completed: no
 due: 2025-07-08T11:28:29.913833
 tags:
   - shopping

@@ -4,7 +4,7 @@ created: 2025-12-12T11:28:29.616250
 updated: 2026-07-09T11:28:29.616250
 source: https://example711.com
 author: Eve Adams
-completed: True
+completed: yes
 ---
 
 # Note 8 in work - meetings

@@ -3,7 +3,7 @@ title: Note 63 in learning - books - non_fiction
 created: 2023-06-26T11:28:29.827720
 updated: 2024-06-12T11:28:29.827720
 source: https://example105.com
-completed: False
+completed: no
 tags:
   - draft
   - meeting

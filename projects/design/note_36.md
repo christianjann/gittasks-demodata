@@ -3,7 +3,7 @@ title: Note 36 in projects - design
 created: 2024-08-15T11:28:29.692635
 updated: 2024-09-14T11:28:29.692635
 source: https://example185.com
-completed: True
+completed: yes
 tags:
   - personal
   - research

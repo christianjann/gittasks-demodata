@@ -2,7 +2,7 @@
 title: Note 40 in misc - recipes - breakfast
 created: 2024-05-28T11:28:29.781472
 updated: 2025-01-22T11:28:29.781472
-completed: False
+completed: no
 due: 2025-06-06T11:28:29.781472
 tags:
   - archive

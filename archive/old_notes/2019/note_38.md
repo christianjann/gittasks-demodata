@@ -3,7 +3,7 @@ title: Note 38 in archive - old_notes - 2019
 created: 2024-08-01T11:28:29.724071
 updated: 2024-12-17T11:28:29.724071
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2025-10-03T11:28:29.724071
 tags:
   - journal

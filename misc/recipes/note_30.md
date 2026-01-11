@@ -3,7 +3,7 @@ title: Note 30 in misc - recipes
 created: 2023-06-21T11:28:29.777742
 updated: 2024-06-07T11:28:29.777742
 author: Jack Taylor
-completed: False
+completed: no
 ---
 
 # Note 30 in misc - recipes

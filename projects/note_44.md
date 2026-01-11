@@ -3,7 +3,7 @@ title: Note 44 in projects
 created: 2025-02-11T11:28:29.673115
 updated: 2025-03-24T11:28:29.673115
 source: https://example600.com
-completed: True
+completed: yes
 due: 2026-01-21T11:28:29.673115
 ---
 

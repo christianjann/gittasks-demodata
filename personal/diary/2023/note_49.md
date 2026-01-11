@@ -2,7 +2,7 @@
 title: Note 49 in personal - diary - 2023
 created: 2023-06-16T11:28:29.572726
 updated: 2024-02-23T11:28:29.572726
-completed: True
+completed: yes
 tags:
   - urgent
 ---

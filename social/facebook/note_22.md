@@ -4,7 +4,7 @@ created: 2024-09-04T11:28:29.945471
 updated: 2025-08-01T11:28:29.945471
 source: https://example494.com
 author: Bob Smith
-completed: False
+completed: no
 ---
 
 # Note 22 in social - facebook

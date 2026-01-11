@@ -3,7 +3,7 @@ title: Note 51 in work - tasks - backlog
 created: 2023-11-25T11:28:29.636164
 updated: 2024-05-29T11:28:29.636164
 source: https://example593.com
-completed: True
+completed: yes
 tags:
   - code
   - research

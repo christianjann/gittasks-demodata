@@ -3,7 +3,7 @@ title: Note 14 in projects
 created: 2024-02-29T11:28:29.671213
 updated: 2024-06-17T11:28:29.671213
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - reference
   - design

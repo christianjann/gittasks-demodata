@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: 82.8628
 longitude: -10.9483
 altitude: 2482
-completed: True
+completed: yes
 tags:
   - task
   - thought

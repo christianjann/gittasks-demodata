@@ -3,7 +3,7 @@ title: Note 66 in goals - long_term
 created: 2025-05-31T11:28:29.860798
 updated: 2026-05-23T11:28:29.860798
 author: Grace Lee
-completed: False
+completed: no
 due: 2026-12-13T11:28:29.860798
 tags:
   - personal

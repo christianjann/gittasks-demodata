@@ -3,7 +3,7 @@ title: Note 44 in journal - yearly
 created: 2024-03-18T11:28:29.880107
 updated: 2024-07-11T11:28:29.880107
 source: https://example938.com
-completed: True
+completed: yes
 due: 2024-10-11T11:28:29.880107
 tags:
   - archive

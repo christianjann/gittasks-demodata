@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: 22.8039
 longitude: -17.6005
 altitude: 3109
-completed: True
+completed: yes
 tags:
   - meeting
   - draft

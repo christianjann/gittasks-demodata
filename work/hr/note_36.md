@@ -4,7 +4,7 @@ created: 2025-08-25T11:28:29.661107
 updated: 2025-11-17T11:28:29.661107
 source: https://example379.com
 author: Ivy Chen
-completed: False
+completed: no
 due: 2025-12-12T11:28:29.661107
 tags:
   - blog

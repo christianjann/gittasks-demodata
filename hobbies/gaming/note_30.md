@@ -2,7 +2,7 @@
 title: Note 30 in hobbies - gaming
 created: 2025-01-19T11:28:29.975722
 updated: 2026-01-13T11:28:29.975722
-completed: False
+completed: no
 due: 2026-11-09T11:28:29.975722
 tags:
   - blog

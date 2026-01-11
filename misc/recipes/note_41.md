@@ -6,7 +6,7 @@ source: https://example485.com
 latitude: 84.7031
 longitude: 64.8996
 altitude: 4397
-completed: False
+completed: no
 tags:
   - research
 ---

@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: 59.3816
 longitude: 43.7346
 altitude: 4297
-completed: False
+completed: no
 ---
 
 # Note 39 in events - upcoming

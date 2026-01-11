@@ -5,7 +5,7 @@ updated: 2023-12-03T11:28:29.686808
 latitude: 38.8399
 longitude: 10.9812
 altitude: 1062
-completed: True
+completed: yes
 tags:
   - meeting
   - hobby

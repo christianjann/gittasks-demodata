@@ -3,7 +3,7 @@ title: Note 28 in personal - memories - childhood
 created: 2025-06-09T11:28:29.596364
 updated: 2025-11-02T11:28:29.596364
 source: https://example205.com
-completed: False
+completed: no
 due: 2026-05-07T11:28:29.596364
 tags:
   - research

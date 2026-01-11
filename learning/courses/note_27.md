@@ -3,7 +3,7 @@ title: Note 27 in learning - courses
 created: 2025-06-10T11:28:29.811570
 updated: 2025-09-22T11:28:29.811570
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - design
   - thought

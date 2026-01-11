@@ -3,7 +3,7 @@ title: Note 2 in work - projects - active
 created: 2024-10-22T11:28:29.646994
 updated: 2025-06-15T11:28:29.646994
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - archive
 ---

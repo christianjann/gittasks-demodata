@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: 74.3396
 longitude: 147.3149
 altitude: 3883
-completed: False
+completed: no
 tags:
   - design
 ---

@@ -2,7 +2,7 @@
 title: Note 45 in drafts - ideas - business
 created: 2025-05-12T11:28:29.756272
 updated: 2025-12-21T11:28:29.756272
-completed: False
+completed: no
 due: 2026-11-29T11:28:29.756272
 ---
 

@@ -3,7 +3,7 @@ title: Note 22 in projects - code
 created: 2023-07-21T11:28:29.675364
 updated: 2024-05-19T11:28:29.675364
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - note
   - meeting

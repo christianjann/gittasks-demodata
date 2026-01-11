@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 58.4221
 longitude: 132.4681
 altitude: 3423
-completed: True
+completed: yes
 tags:
   - meeting
   - urgent

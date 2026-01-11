@@ -3,7 +3,7 @@ title: Note 55 in archive - old_notes - 2019
 created: 2023-10-31T11:28:29.725063
 updated: 2024-07-24T11:28:29.725063
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - research
   - shopping

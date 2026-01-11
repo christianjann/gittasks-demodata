@@ -4,7 +4,7 @@ created: 2023-02-22T11:28:29.677266
 updated: 2023-05-27T11:28:29.677266
 source: https://example613.com
 author: Grace Lee
-completed: False
+completed: no
 tags:
   - idea
   - health

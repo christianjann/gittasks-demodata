@@ -4,7 +4,7 @@ created: 2025-03-28T11:28:29.577178
 updated: 2026-02-24T11:28:29.577178
 source: https://example909.com
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - blog
   - misc

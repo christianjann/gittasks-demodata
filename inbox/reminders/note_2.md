@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -50.9922
 longitude: -15.958
 altitude: 2884
-completed: False
+completed: no
 tags:
   - social
   - note

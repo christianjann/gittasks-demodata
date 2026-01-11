@@ -6,7 +6,7 @@ source: https://example865.com
 latitude: 53.348
 longitude: -60.906
 altitude: 4568
-completed: True
+completed: yes
 ---
 
 # Note 18 in inbox - emails

@@ -6,7 +6,7 @@ source: https://example421.com
 latitude: 71.4198
 longitude: 107.2284
 altitude: 1701
-completed: False
+completed: no
 due: 2026-02-05T11:28:29.722165
 tags:
   - event

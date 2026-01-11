@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: 25.2475
 longitude: -128.5951
 altitude: 4240
-completed: True
+completed: yes
 ---
 
 # Note 47 in misc - travel

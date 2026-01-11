@@ -5,7 +5,7 @@ updated: 2025-03-09T11:28:29.945278
 latitude: -1.2124
 longitude: 146.4474
 altitude: 1736
-completed: False
+completed: no
 tags:
   - event
   - thought

@@ -6,7 +6,7 @@ source: https://example29.com
 latitude: -49.1482
 longitude: 140.0571
 altitude: 2407
-completed: False
+completed: no
 tags:
   - work
   - meeting

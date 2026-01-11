@@ -4,7 +4,7 @@ created: 2025-09-13T11:28:29.970991
 updated: 2026-05-06T11:28:29.970991
 source: https://example409.com
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - code
   - journal

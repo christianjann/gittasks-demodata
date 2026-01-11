@@ -3,7 +3,7 @@ title: Note 25 in personal - diary - 2023
 created: 2024-10-12T11:28:29.571064
 updated: 2024-12-12T11:28:29.571064
 source: https://example364.com
-completed: False
+completed: no
 due: 2025-02-01T11:28:29.571064
 tags:
   - reference

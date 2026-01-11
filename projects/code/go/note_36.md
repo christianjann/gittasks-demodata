@@ -3,7 +3,7 @@ title: Note 36 in projects - code - go
 created: 2023-08-16T11:28:29.688970
 updated: 2023-10-26T11:28:29.688970
 source: https://example715.com
-completed: False
+completed: no
 due: 2024-07-25T11:28:29.688970
 tags:
   - note

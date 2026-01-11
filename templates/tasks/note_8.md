@@ -3,7 +3,7 @@ title: Note 8 in templates - tasks
 created: 2023-05-17T11:28:29.904950
 updated: 2023-08-20T11:28:29.904950
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - diary
   - archive

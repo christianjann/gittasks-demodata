@@ -2,7 +2,7 @@
 title: Note 37 in work - projects - proposals
 created: 2023-08-03T11:28:29.657777
 updated: 2024-06-16T11:28:29.657777
-completed: False
+completed: no
 tags:
   - hobby
 ---

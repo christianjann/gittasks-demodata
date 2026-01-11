@@ -3,7 +3,7 @@ title: Note 18 in templates - tasks
 created: 2024-09-03T11:28:29.905805
 updated: 2025-05-09T11:28:29.905805
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - event
 ---

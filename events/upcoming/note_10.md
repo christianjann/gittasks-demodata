@@ -3,7 +3,7 @@ title: Note 10 in events - upcoming
 created: 2024-08-23T11:28:29.949718
 updated: 2024-11-21T11:28:29.949718
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - personal
 ---

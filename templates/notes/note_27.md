@@ -2,7 +2,7 @@
 title: Note 27 in templates - notes
 created: 2025-03-15T11:28:29.903588
 updated: 2025-04-25T11:28:29.903588
-completed: True
+completed: yes
 due: 2026-04-16T11:28:29.903588
 ---
 

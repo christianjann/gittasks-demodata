@@ -4,7 +4,7 @@ created: 2025-01-03T11:28:29.849952
 updated: 2025-06-16T11:28:29.849952
 source: https://example619.com
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2026-03-24T11:28:29.849952
 tags:
   - learning

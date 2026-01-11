@@ -4,7 +4,7 @@ created: 2025-11-15T11:28:29.630013
 updated: 2026-01-12T11:28:29.630013
 source: https://example967.com
 author: Ivy Chen
-completed: True
+completed: yes
 ---
 
 # Note 1 in work - tasks - urgent

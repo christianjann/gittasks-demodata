@@ -3,7 +3,7 @@ title: Note 2 in journal - monthly
 created: 2025-09-13T11:28:29.874514
 updated: 2025-11-02T11:28:29.874514
 source: https://example524.com
-completed: True
+completed: yes
 tags:
   - learning
 ---

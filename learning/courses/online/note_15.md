@@ -3,7 +3,7 @@ title: Note 15 in learning - courses - online
 created: 2023-06-29T11:28:29.813152
 updated: 2024-02-02T11:28:29.813152
 source: https://example431.com
-completed: True
+completed: yes
 due: 2024-12-19T11:28:29.813152
 ---
 

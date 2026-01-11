@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -46.3642
 longitude: 49.0259
 altitude: 2683
-completed: False
+completed: no
 ---
 
 # Note 5 in personal - thoughts

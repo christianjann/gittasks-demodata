@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 4.11
 longitude: 174.2439
 altitude: 1397
-completed: False
+completed: no
 tags:
   - idea
   - reference

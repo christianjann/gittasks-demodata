@@ -3,7 +3,7 @@ title: Note 43 in hobbies
 created: 2023-01-19T11:28:29.970936
 updated: 2023-05-04T11:28:29.970936
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - thought
   - note

@@ -3,7 +3,7 @@ title: Note 23 in misc - travel - europe
 created: 2025-12-31T11:28:29.791600
 updated: 2026-04-01T11:28:29.791600
 source: https://example303.com
-completed: True
+completed: yes
 due: 2026-08-16T11:28:29.791600
 ---
 

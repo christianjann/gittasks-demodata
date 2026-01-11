@@ -2,7 +2,7 @@
 title: Note 31 in work - meetings - monthly
 created: 2023-02-26T11:28:29.623222
 updated: 2023-10-25T11:28:29.623222
-completed: False
+completed: no
 due: 2023-12-29T11:28:29.623222
 ---
 

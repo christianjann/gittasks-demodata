@@ -2,7 +2,7 @@
 title: Note 7 in drafts - outlines - presentations
 created: 2025-11-13T11:28:29.766562
 updated: 2026-05-01T11:28:29.766562
-completed: False
+completed: no
 tags:
   - archive
 ---

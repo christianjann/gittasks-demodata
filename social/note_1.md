@@ -5,7 +5,7 @@ updated: 2024-10-16T11:28:29.932398
 latitude: 35.1891
 longitude: -45.3582
 altitude: 1414
-completed: False
+completed: no
 due: 2025-09-16T11:28:29.932398
 tags:
   - journal

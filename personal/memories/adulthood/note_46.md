@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 24.0711
 longitude: 30.5346
 altitude: 435
-completed: True
+completed: yes
 due: 2025-05-08T11:28:29.600855
 tags:
   - social

@@ -3,7 +3,7 @@ title: Note 32 in projects - code
 created: 2023-02-09T11:28:29.676042
 updated: 2023-06-25T11:28:29.676042
 source: https://example460.com
-completed: False
+completed: no
 due: 2023-10-26T11:28:29.676042
 tags:
   - idea

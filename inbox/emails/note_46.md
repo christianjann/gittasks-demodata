@@ -4,7 +4,7 @@ created: 2024-03-11T11:28:29.849181
 updated: 2024-12-14T11:28:29.849181
 source: https://example931.com
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2025-08-02T11:28:29.849181
 ---
 

@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -6.1483
 longitude: -96.3342
 altitude: 2427
-completed: False
+completed: no
 due: 2025-02-16T11:28:29.772795
 tags:
   - draft

@@ -6,7 +6,7 @@ source: https://example247.com
 latitude: 75.452
 longitude: -81.2542
 altitude: 4022
-completed: False
+completed: no
 due: 2024-03-12T11:28:29.893638
 ---
 

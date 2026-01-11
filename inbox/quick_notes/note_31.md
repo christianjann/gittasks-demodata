@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: -82.9717
 longitude: 27.2974
 altitude: 3318
-completed: False
+completed: no
 tags:
   - journal
   - travel

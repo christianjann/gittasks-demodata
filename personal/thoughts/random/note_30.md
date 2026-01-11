@@ -3,7 +3,7 @@ title: Note 30 in personal - thoughts - random
 created: 2025-06-27T11:28:29.584153
 updated: 2025-11-03T11:28:29.584153
 source: https://example477.com
-completed: True
+completed: yes
 ---
 
 # Note 30 in personal - thoughts - random

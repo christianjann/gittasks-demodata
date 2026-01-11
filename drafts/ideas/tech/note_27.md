@@ -4,7 +4,7 @@ created: 2024-09-12T11:28:29.752659
 updated: 2025-08-19T11:28:29.752659
 source: https://example594.com
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - shopping
 ---

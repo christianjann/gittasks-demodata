@@ -6,7 +6,7 @@ source: https://example955.com
 latitude: 29.225
 longitude: 174.656
 altitude: 2413
-completed: True
+completed: yes
 tags:
   - task
   - personal

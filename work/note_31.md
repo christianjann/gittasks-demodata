@@ -3,7 +3,7 @@ title: Note 31 in work
 created: 2023-07-13T11:28:29.614735
 updated: 2023-10-04T11:28:29.614735
 source: https://example140.com
-completed: True
+completed: yes
 tags:
   - archive
   - hobby

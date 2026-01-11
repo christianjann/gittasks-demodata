@@ -3,7 +3,7 @@ title: Note 62 in learning - courses - in_person
 created: 2024-03-18T11:28:29.818367
 updated: 2025-03-11T11:28:29.818367
 source: https://example268.com
-completed: True
+completed: yes
 ---
 
 # Note 62 in learning - courses - in_person

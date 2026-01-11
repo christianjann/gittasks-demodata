@@ -2,7 +2,7 @@
 title: Note 14 in hobbies
 created: 2023-03-18T11:28:29.969187
 updated: 2023-11-14T11:28:29.969187
-completed: True
+completed: yes
 tags:
   - design
 ---

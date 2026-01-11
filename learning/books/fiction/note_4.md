@@ -6,7 +6,7 @@ source: https://example258.com
 latitude: 19.4746
 longitude: 26.3024
 altitude: 1118
-completed: False
+completed: no
 due: 2025-08-02T11:28:29.821371
 tags:
   - reference

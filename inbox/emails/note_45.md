@@ -4,7 +4,7 @@ created: 2024-11-06T11:28:29.849125
 updated: 2025-10-08T11:28:29.849125
 source: https://example662.com
 author: Frank Miller
-completed: True
+completed: yes
 due: 2026-01-31T11:28:29.849125
 tags:
   - task

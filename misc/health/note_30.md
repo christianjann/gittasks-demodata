@@ -2,7 +2,7 @@
 title: Note 30 in misc - health
 created: 2024-05-29T11:28:29.798105
 updated: 2024-08-20T11:28:29.798105
-completed: False
+completed: no
 due: 2024-10-27T11:28:29.798105
 tags:
   - template

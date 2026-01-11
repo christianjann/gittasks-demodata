@@ -6,7 +6,7 @@ source: https://example509.com
 latitude: 32.894
 longitude: -6.3445
 altitude: 4258
-completed: True
+completed: yes
 ---
 
 # Note 1 in personal

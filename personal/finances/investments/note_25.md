@@ -3,7 +3,7 @@ title: Note 25 in personal - finances - investments
 created: 2024-07-24T11:28:29.610216
 updated: 2025-03-18T11:28:29.610216
 author: Charlie Brown
-completed: False
+completed: no
 due: 2025-09-05T11:28:29.610216
 tags:
   - thought

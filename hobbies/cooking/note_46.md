@@ -3,7 +3,7 @@ title: Note 46 in hobbies - cooking
 created: 2025-11-30T11:28:29.983795
 updated: 2026-06-01T11:28:29.983795
 source: https://example200.com
-completed: True
+completed: yes
 due: 2026-07-28T11:28:29.983795
 tags:
   - blog

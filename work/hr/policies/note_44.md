@@ -6,7 +6,7 @@ source: https://example642.com
 latitude: 85.9015
 longitude: 55.3115
 altitude: 1762
-completed: False
+completed: no
 ---
 
 # Note 44 in work - hr - policies

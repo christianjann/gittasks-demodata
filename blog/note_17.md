@@ -3,7 +3,7 @@ title: Note 17 in blog
 created: 2025-05-25T11:28:29.916774
 updated: 2025-12-16T11:28:29.916774
 author: Bob Smith
-completed: True
+completed: yes
 due: 2026-07-26T11:28:29.916774
 tags:
   - thought

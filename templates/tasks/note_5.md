@@ -4,7 +4,7 @@ created: 2024-01-13T11:28:29.904781
 updated: 2024-12-13T11:28:29.904781
 source: https://example610.com
 author: Diana Prince
-completed: True
+completed: yes
 due: 2025-09-10T11:28:29.904781
 tags:
   - idea

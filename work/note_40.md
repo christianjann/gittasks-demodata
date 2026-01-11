@@ -4,7 +4,7 @@ created: 2024-04-15T11:28:29.615281
 updated: 2024-04-23T11:28:29.615281
 source: https://example957.com
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - personal
   - health

@@ -4,7 +4,7 @@ created: 2025-11-18T11:28:29.765532
 updated: 2026-10-06T11:28:29.765532
 source: https://example545.com
 author: Bob Smith
-completed: True
+completed: yes
 due: 2027-09-02T11:28:29.765532
 tags:
   - thought

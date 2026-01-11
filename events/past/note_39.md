@@ -4,7 +4,7 @@ created: 2024-06-21T11:28:29.954500
 updated: 2024-09-01T11:28:29.954500
 source: https://example282.com
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - recipe
   - diary

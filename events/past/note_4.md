@@ -3,7 +3,7 @@ title: Note 4 in events - past
 created: 2023-04-19T11:28:29.952473
 updated: 2023-05-14T11:28:29.952473
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2024-01-05T11:28:29.952473
 tags:
   - thought

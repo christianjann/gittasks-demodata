@@ -4,7 +4,7 @@ created: 2024-03-21T11:28:29.737624
 updated: 2024-11-03T11:28:29.737624
 source: https://example974.com
 author: Bob Smith
-completed: False
+completed: no
 due: 2025-06-29T11:28:29.737624
 tags:
   - travel

@@ -3,7 +3,7 @@ title: Note 7 in learning - tutorials - text
 created: 2023-02-05T11:28:29.834283
 updated: 2023-10-23T11:28:29.834283
 source: https://example951.com
-completed: False
+completed: no
 tags:
   - idea
   - research

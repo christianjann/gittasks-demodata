@@ -3,7 +3,7 @@ title: Note 11 in journal
 created: 2024-04-06T11:28:29.864174
 updated: 2024-09-06T11:28:29.864174
 source: https://example838.com
-completed: True
+completed: yes
 due: 2024-11-05T11:28:29.864174
 tags:
   - work

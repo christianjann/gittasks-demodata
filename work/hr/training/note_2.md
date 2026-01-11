@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: 35.2653
 longitude: 148.8069
 altitude: 4948
-completed: False
+completed: no
 tags:
   - meeting
   - work

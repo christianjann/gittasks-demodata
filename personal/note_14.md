@@ -4,7 +4,7 @@ created: 2023-09-07T11:28:29.561558
 updated: 2024-06-27T11:28:29.561558
 source: https://example484.com
 author: Bob Smith
-completed: False
+completed: no
 due: 2025-04-19T11:28:29.561558
 tags:
   - shopping

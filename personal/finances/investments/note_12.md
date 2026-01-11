@@ -4,7 +4,7 @@ created: 2024-06-09T11:28:29.609474
 updated: 2025-04-24T11:28:29.609474
 source: https://example316.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - learning
   - meeting

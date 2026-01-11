@@ -4,7 +4,7 @@ created: 2023-06-20T11:28:29.662136
 updated: 2024-04-30T11:28:29.662136
 source: https://example651.com
 author: Grace Lee
-completed: False
+completed: no
 ---
 
 # Note 47 in work - hr

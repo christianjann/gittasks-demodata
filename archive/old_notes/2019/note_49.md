@@ -2,7 +2,7 @@
 title: Note 49 in archive - old_notes - 2019
 created: 2024-09-17T11:28:29.724723
 updated: 2025-08-25T11:28:29.724723
-completed: True
+completed: yes
 tags:
   - idea
   - code

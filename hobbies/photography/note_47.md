@@ -3,7 +3,7 @@ title: Note 47 in hobbies - photography
 created: 2025-01-11T11:28:29.973959
 updated: 2025-09-04T11:28:29.973959
 source: https://example748.com
-completed: False
+completed: no
 ---
 
 # Note 47 in hobbies - photography

@@ -2,7 +2,7 @@
 title: Note 22 in projects
 created: 2025-05-14T11:28:29.671734
 updated: 2025-10-21T11:28:29.671734
-completed: True
+completed: yes
 tags:
   - reference
   - learning

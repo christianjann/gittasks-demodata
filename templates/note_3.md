@@ -2,7 +2,7 @@
 title: Note 3 in templates
 created: 2025-04-14T11:28:29.898207
 updated: 2025-05-26T11:28:29.898207
-completed: True
+completed: yes
 due: 2026-03-17T11:28:29.898207
 tags:
   - journal

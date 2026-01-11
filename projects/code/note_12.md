@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 67.5012
 longitude: 46.4366
 altitude: 1772
-completed: False
+completed: no
 ---
 
 # Note 12 in projects - code

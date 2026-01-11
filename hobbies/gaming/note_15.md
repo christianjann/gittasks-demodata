@@ -3,7 +3,7 @@ title: Note 15 in hobbies - gaming
 created: 2024-08-03T11:28:29.974886
 updated: 2025-08-02T11:28:29.974886
 source: https://example533.com
-completed: False
+completed: no
 due: 2026-03-22T11:28:29.974886
 tags:
   - social

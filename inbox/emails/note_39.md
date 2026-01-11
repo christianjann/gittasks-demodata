@@ -4,7 +4,7 @@ created: 2023-11-13T11:28:29.848780
 updated: 2023-11-30T11:28:29.848780
 source: https://example243.com
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - task
   - thought

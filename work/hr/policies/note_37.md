@@ -4,7 +4,7 @@ created: 2023-01-22T11:28:29.665876
 updated: 2024-01-09T11:28:29.665876
 source: https://example880.com
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2024-03-07T11:28:29.665876
 ---
 

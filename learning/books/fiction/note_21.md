@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 20.8734
 longitude: -57.7463
 altitude: 611
-completed: False
+completed: no
 tags:
   - draft
   - reference

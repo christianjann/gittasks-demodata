@@ -3,7 +3,7 @@ title: Note 14 in drafts
 created: 2024-11-13T11:28:29.743388
 updated: 2025-02-08T11:28:29.743388
 source: https://example330.com
-completed: True
+completed: yes
 due: 2026-01-25T11:28:29.743388
 tags:
   - misc

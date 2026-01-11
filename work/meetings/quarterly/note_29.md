@@ -2,7 +2,7 @@
 title: Note 29 in work - meetings - quarterly
 created: 2024-03-27T11:28:29.625630
 updated: 2024-11-23T11:28:29.625630
-completed: False
+completed: no
 due: 2025-09-10T11:28:29.625630
 ---
 

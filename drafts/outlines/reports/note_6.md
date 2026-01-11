@@ -2,7 +2,7 @@
 title: Note 6 in drafts - outlines - reports
 created: 2024-12-19T11:28:29.769863
 updated: 2025-05-11T11:28:29.769863
-completed: True
+completed: yes
 ---
 
 # Note 6 in drafts - outlines - reports

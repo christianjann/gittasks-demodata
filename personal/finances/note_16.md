@@ -6,7 +6,7 @@ author: Charlie Brown
 latitude: -23.1998
 longitude: -101.5954
 altitude: 2845
-completed: True
+completed: yes
 tags:
   - recipe
 ---

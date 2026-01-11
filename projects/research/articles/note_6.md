@@ -2,7 +2,7 @@
 title: Note 6 in projects - research - articles
 created: 2025-06-08T11:28:29.707956
 updated: 2026-02-25T11:28:29.707956
-completed: True
+completed: yes
 tags:
   - diary
   - research

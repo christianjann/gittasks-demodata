@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -56.7212
 longitude: 155.9246
 altitude: 3605
-completed: False
+completed: no
 tags:
   - goal
   - archive

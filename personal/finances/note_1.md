@@ -3,7 +3,7 @@ title: Note 1 in personal - finances
 created: 2023-11-24T11:28:29.602238
 updated: 2024-08-19T11:28:29.602238
 author: Bob Smith
-completed: True
+completed: yes
 tags:
   - event
 ---

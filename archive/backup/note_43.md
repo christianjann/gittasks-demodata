@@ -4,7 +4,7 @@ created: 2023-05-12T11:28:29.735387
 updated: 2023-09-16T11:28:29.735387
 source: https://example441.com
 author: Diana Prince
-completed: True
+completed: yes
 tags:
   - learning
 ---

@@ -6,7 +6,7 @@ source: https://example708.com
 latitude: -1.3676
 longitude: 151.791
 altitude: 1121
-completed: True
+completed: yes
 tags:
   - blog
 ---

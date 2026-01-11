@@ -6,7 +6,7 @@ source: https://example325.com
 latitude: -28.0707
 longitude: -13.6029
 altitude: 1390
-completed: True
+completed: yes
 tags:
   - design
   - draft

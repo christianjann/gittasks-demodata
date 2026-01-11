@@ -2,7 +2,7 @@
 title: Note 33 in social - twitter
 created: 2023-03-24T11:28:29.938705
 updated: 2023-06-14T11:28:29.938705
-completed: False
+completed: no
 due: 2023-07-25T11:28:29.938705
 tags:
   - health

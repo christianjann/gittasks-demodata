@@ -4,7 +4,7 @@ created: 2025-09-03T11:28:29.735571
 updated: 2026-01-15T11:28:29.735571
 source: https://example480.com
 author: Bob Smith
-completed: False
+completed: no
 ---
 
 # Note 46 in archive - backup

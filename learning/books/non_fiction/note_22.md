@@ -2,7 +2,7 @@
 title: Note 22 in learning - books - non_fiction
 created: 2023-06-05T11:28:29.825243
 updated: 2024-05-16T11:28:29.825243
-completed: True
+completed: yes
 due: 2024-09-28T11:28:29.825243
 tags:
   - code

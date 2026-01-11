@@ -2,7 +2,7 @@
 title: Note 31 in drafts - ideas - tech
 created: 2024-06-10T11:28:29.752875
 updated: 2024-08-08T11:28:29.752875
-completed: False
+completed: no
 tags:
   - learning
   - goal

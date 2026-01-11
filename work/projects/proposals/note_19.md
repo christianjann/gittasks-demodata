@@ -3,7 +3,7 @@ title: Note 19 in work - projects - proposals
 created: 2024-12-30T11:28:29.656339
 updated: 2025-08-01T11:28:29.656339
 source: https://example424.com
-completed: False
+completed: no
 due: 2026-06-08T11:28:29.656339
 tags:
   - health

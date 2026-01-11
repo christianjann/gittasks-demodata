@@ -3,7 +3,7 @@ title: Note 23 in work
 created: 2025-04-18T11:28:29.614238
 updated: 2025-10-18T11:28:29.614238
 source: https://example3.com
-completed: False
+completed: no
 due: 2025-11-27T11:28:29.614238
 tags:
   - shopping

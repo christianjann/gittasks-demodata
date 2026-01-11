@@ -3,7 +3,7 @@ title: Note 28 in personal - diary - 2024
 created: 2023-10-05T11:28:29.574755
 updated: 2024-09-20T11:28:29.574755
 source: https://example702.com
-completed: False
+completed: no
 due: 2024-11-12T11:28:29.574755
 tags:
   - reference

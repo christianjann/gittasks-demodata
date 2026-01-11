@@ -2,7 +2,7 @@
 title: Note 48 in work - hr - training
 created: 2023-02-07T11:28:29.670087
 updated: 2023-06-17T11:28:29.670087
-completed: False
+completed: no
 due: 2023-11-16T11:28:29.670087
 tags:
   - task

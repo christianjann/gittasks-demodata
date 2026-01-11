@@ -3,7 +3,7 @@ title: Note 32 in personal - memories - childhood
 created: 2025-01-20T11:28:29.596643
 updated: 2025-10-05T11:28:29.596643
 source: https://example607.com
-completed: False
+completed: no
 tags:
   - social
   - urgent

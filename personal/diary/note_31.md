@@ -3,7 +3,7 @@ title: Note 31 in personal - diary
 created: 2024-02-12T11:28:29.568393
 updated: 2024-07-07T11:28:29.568393
 author: Frank Miller
-completed: True
+completed: yes
 due: 2025-04-18T11:28:29.568393
 tags:
   - blog

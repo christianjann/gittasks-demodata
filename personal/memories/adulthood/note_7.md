@@ -2,7 +2,7 @@
 title: Note 7 in personal - memories - adulthood
 created: 2024-04-06T11:28:29.598526
 updated: 2024-05-16T11:28:29.598526
-completed: False
+completed: no
 tags:
   - note
 ---

@@ -3,7 +3,7 @@ title: Note 37 in personal - memories - childhood
 created: 2025-03-14T11:28:29.596942
 updated: 2025-10-14T11:28:29.596942
 source: https://example789.com
-completed: False
+completed: no
 tags:
   - meeting
   - draft

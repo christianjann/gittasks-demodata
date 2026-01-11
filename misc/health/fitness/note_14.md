@@ -2,7 +2,7 @@
 title: Note 14 in misc - health - fitness
 created: 2025-03-04T11:28:29.801009
 updated: 2025-03-23T11:28:29.801009
-completed: True
+completed: yes
 tags:
   - personal
   - goal

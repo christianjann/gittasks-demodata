@@ -2,7 +2,7 @@
 title: Note 46 in archive - backup - 2023
 created: 2024-01-07T11:28:29.741499
 updated: 2024-07-15T11:28:29.741499
-completed: False
+completed: no
 due: 2024-09-30T11:28:29.741499
 tags:
   - blog

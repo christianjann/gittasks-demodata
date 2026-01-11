@@ -4,7 +4,7 @@ created: 2024-10-09T11:28:29.684187
 updated: 2025-09-22T11:28:29.684187
 source: https://example138.com
 author: Jack Taylor
-completed: False
+completed: no
 due: 2025-12-12T11:28:29.684187
 tags:
   - work

@@ -4,7 +4,7 @@ created: 2025-07-25T11:28:29.630840
 updated: 2025-10-25T11:28:29.630840
 source: https://example282.com
 author: Bob Smith
-completed: True
+completed: yes
 ---
 
 # Note 13 in work - tasks - urgent

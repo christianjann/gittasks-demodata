@@ -3,7 +3,7 @@ title: Note 2 in archive - backup - 2023
 created: 2024-03-11T11:28:29.738847
 updated: 2024-04-20T11:28:29.738847
 source: https://example928.com
-completed: False
+completed: no
 due: 2024-05-05T11:28:29.738847
 ---
 

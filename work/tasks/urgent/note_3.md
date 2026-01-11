@@ -3,7 +3,7 @@ title: Note 3 in work - tasks - urgent
 created: 2023-10-22T11:28:29.630160
 updated: 2023-11-17T11:28:29.630160
 source: https://example452.com
-completed: False
+completed: no
 tags:
   - recipe
 ---

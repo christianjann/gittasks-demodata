@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: -9.8383
 longitude: -42.3152
 altitude: 4095
-completed: False
+completed: no
 tags:
   - shopping
   - travel

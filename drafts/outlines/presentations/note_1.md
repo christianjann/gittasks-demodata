@@ -5,7 +5,7 @@ updated: 2024-03-22T11:28:29.766224
 latitude: 89.0448
 longitude: 35.7514
 altitude: 4384
-completed: True
+completed: yes
 tags:
   - idea
   - meeting

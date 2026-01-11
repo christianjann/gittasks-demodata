@@ -2,7 +2,7 @@
 title: Note 48 in learning - tutorials
 created: 2024-09-30T11:28:29.831117
 updated: 2025-03-14T11:28:29.831117
-completed: False
+completed: no
 tags:
   - goal
 ---

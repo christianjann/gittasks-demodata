@@ -4,7 +4,7 @@ created: 2025-12-18T11:28:29.613540
 updated: 2026-05-03T11:28:29.613540
 source: https://example585.com
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2026-12-29T11:28:29.613540
 tags:
   - template

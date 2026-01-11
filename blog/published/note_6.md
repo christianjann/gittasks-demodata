@@ -3,7 +3,7 @@ title: Note 6 in blog - published
 created: 2024-03-06T11:28:29.924470
 updated: 2024-03-11T11:28:29.924470
 source: https://example56.com
-completed: True
+completed: yes
 tags:
   - research
   - diary

@@ -2,7 +2,7 @@
 title: Note 36 in work - tasks - urgent
 created: 2025-10-14T11:28:29.632194
 updated: 2026-02-10T11:28:29.632194
-completed: True
+completed: yes
 tags:
   - misc
   - research

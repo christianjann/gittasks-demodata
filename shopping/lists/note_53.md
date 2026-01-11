@@ -3,7 +3,7 @@ title: Note 53 in shopping - lists
 created: 2023-05-24T11:28:29.965307
 updated: 2024-04-29T11:28:29.965307
 author: Eve Adams
-completed: True
+completed: yes
 due: 2025-03-23T11:28:29.965307
 tags:
   - personal

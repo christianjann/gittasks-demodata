@@ -5,7 +5,7 @@ updated: 2023-11-04T11:28:29.866350
 latitude: -5.0482
 longitude: 98.3404
 altitude: 2376
-completed: False
+completed: no
 tags:
   - personal
   - work

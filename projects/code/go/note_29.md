@@ -4,7 +4,7 @@ created: 2025-05-19T11:28:29.688290
 updated: 2025-12-07T11:28:29.688290
 source: https://example624.com
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - recipe
   - social

@@ -3,7 +3,7 @@ title: Note 39 in templates - notes
 created: 2025-10-31T11:28:29.904234
 updated: 2026-10-12T11:28:29.904234
 source: https://example572.com
-completed: False
+completed: no
 ---
 
 # Note 39 in templates - notes

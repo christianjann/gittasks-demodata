@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -22.4463
 longitude: 62.132
 altitude: 1037
-completed: True
+completed: yes
 ---
 
 # Note 5 in hobbies - cooking

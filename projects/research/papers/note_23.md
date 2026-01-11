@@ -4,7 +4,7 @@ created: 2024-12-26T11:28:29.706308
 updated: 2025-09-03T11:28:29.706308
 source: https://example349.com
 author: Bob Smith
-completed: True
+completed: yes
 tags:
   - draft
   - task

@@ -3,7 +3,7 @@ title: Note 43 in projects - research - data
 created: 2025-06-24T11:28:29.714459
 updated: 2025-07-27T11:28:29.714459
 source: https://example204.com
-completed: False
+completed: no
 due: 2026-05-12T11:28:29.714459
 ---
 

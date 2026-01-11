@@ -3,7 +3,7 @@ title: Note 38 in personal - thoughts - random
 created: 2024-04-13T11:28:29.584674
 updated: 2024-12-02T11:28:29.584674
 source: https://example541.com
-completed: True
+completed: yes
 tags:
   - hobby
   - work

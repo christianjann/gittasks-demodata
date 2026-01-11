@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 69.6085
 longitude: 175.9992
 altitude: 2285
-completed: False
+completed: no
 due: 2023-11-26T11:28:29.631919
 tags:
   - shopping

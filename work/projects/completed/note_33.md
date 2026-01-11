@@ -6,7 +6,7 @@ source: https://example843.com
 latitude: 43.0543
 longitude: 153.4993
 altitude: 623
-completed: False
+completed: no
 tags:
   - learning
 ---

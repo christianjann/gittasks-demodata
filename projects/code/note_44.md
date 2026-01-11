@@ -2,7 +2,7 @@
 title: Note 44 in projects - code
 created: 2025-11-09T11:28:29.676725
 updated: 2026-07-11T11:28:29.676725
-completed: False
+completed: no
 due: 2027-05-24T11:28:29.676725
 tags:
   - note

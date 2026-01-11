@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -62.2998
 longitude: -153.1712
 altitude: 3629
-completed: True
+completed: yes
 tags:
   - note
   - hobby

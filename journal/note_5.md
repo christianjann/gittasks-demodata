@@ -3,7 +3,7 @@ title: Note 5 in journal
 created: 2023-10-12T11:28:29.863826
 updated: 2024-05-17T11:28:29.863826
 source: https://example361.com
-completed: True
+completed: yes
 tags:
   - archive
   - misc

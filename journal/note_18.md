@@ -4,7 +4,7 @@ created: 2025-04-09T11:28:29.864579
 updated: 2025-05-17T11:28:29.864579
 source: https://example151.com
 author: Diana Prince
-completed: True
+completed: yes
 due: 2025-09-09T11:28:29.864579
 tags:
   - code

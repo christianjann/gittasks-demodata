@@ -3,7 +3,7 @@ title: Note 24 in hobbies - photography
 created: 2025-10-18T11:28:29.972691
 updated: 2026-02-03T11:28:29.972691
 source: https://example165.com
-completed: False
+completed: no
 due: 2026-04-25T11:28:29.972691
 tags:
   - thought

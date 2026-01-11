@@ -3,7 +3,7 @@ title: Note 43 in personal - finances - budget
 created: 2024-04-22T11:28:29.608024
 updated: 2024-12-24T11:28:29.608024
 source: https://example276.com
-completed: True
+completed: yes
 tags:
   - journal
   - draft

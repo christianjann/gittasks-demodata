@@ -3,7 +3,7 @@ title: Note 34 in drafts - ideas
 created: 2023-05-08T11:28:29.748728
 updated: 2023-06-16T11:28:29.748728
 author: Alice Johnson
-completed: False
+completed: no
 due: 2024-05-05T11:28:29.748728
 tags:
   - social

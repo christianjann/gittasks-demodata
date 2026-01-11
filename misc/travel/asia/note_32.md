@@ -2,7 +2,7 @@
 title: Note 32 in misc - travel - asia
 created: 2025-06-27T11:28:29.795428
 updated: 2025-10-31T11:28:29.795428
-completed: False
+completed: no
 due: 2026-04-05T11:28:29.795428
 tags:
   - work

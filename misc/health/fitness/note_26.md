@@ -3,7 +3,7 @@ title: Note 26 in misc - health - fitness
 created: 2023-07-10T11:28:29.801632
 updated: 2024-02-23T11:28:29.801632
 source: https://example726.com
-completed: False
+completed: no
 tags:
   - template
   - meeting

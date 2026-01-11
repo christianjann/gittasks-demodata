@@ -4,7 +4,7 @@ created: 2024-04-07T11:28:29.605823
 updated: 2024-06-01T11:28:29.605823
 source: https://example192.com
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2024-08-08T11:28:29.605823
 tags:
   - event

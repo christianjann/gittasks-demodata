@@ -4,7 +4,7 @@ created: 2023-10-07T11:28:29.882452
 updated: 2024-05-06T11:28:29.882452
 source: https://example903.com
 author: Grace Lee
-completed: False
+completed: no
 ---
 
 # Note 28 in references

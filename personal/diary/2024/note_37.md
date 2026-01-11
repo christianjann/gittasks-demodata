@@ -6,7 +6,7 @@ source: https://example348.com
 latitude: 50.6799
 longitude: -146.0344
 altitude: 4941
-completed: False
+completed: no
 tags:
   - template
   - code

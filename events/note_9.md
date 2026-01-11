@@ -4,7 +4,7 @@ created: 2025-07-21T11:28:29.947114
 updated: 2026-02-03T11:28:29.947114
 source: https://example510.com
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - personal
   - learning

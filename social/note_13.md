@@ -2,7 +2,7 @@
 title: Note 13 in social
 created: 2023-08-16T11:28:29.933159
 updated: 2024-07-20T11:28:29.933159
-completed: False
+completed: no
 tags:
   - journal
   - event

@@ -3,7 +3,7 @@ title: Note 32 in shopping
 created: 2023-04-07T11:28:29.961639
 updated: 2024-01-09T11:28:29.961639
 author: Ivy Chen
-completed: False
+completed: no
 due: 2024-11-01T11:28:29.961639
 ---
 

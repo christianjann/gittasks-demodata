@@ -2,7 +2,7 @@
 title: Note 16 in learning - tutorials - video
 created: 2024-07-24T11:28:29.832325
 updated: 2024-09-28T11:28:29.832325
-completed: False
+completed: no
 ---
 
 # Note 16 in learning - tutorials - video

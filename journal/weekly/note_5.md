@@ -4,7 +4,7 @@ created: 2024-07-22T11:28:29.871613
 updated: 2025-03-23T11:28:29.871613
 source: https://example888.com
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2025-08-14T11:28:29.871613
 ---
 

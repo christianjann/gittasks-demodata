@@ -4,7 +4,7 @@ created: 2023-02-25T11:28:29.887956
 updated: 2023-08-16T11:28:29.887956
 source: https://example252.com
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - travel
   - social

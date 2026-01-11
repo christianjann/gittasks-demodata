@@ -3,7 +3,7 @@ title: Note 5 in misc - health - fitness
 created: 2023-08-06T11:28:29.800519
 updated: 2024-04-27T11:28:29.800519
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - recipe
   - social

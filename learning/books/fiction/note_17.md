@@ -3,7 +3,7 @@ title: Note 17 in learning - books - fiction
 created: 2023-02-02T11:28:29.822093
 updated: 2023-09-06T11:28:29.822093
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - draft
   - urgent

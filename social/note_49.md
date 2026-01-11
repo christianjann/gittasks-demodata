@@ -6,7 +6,7 @@ source: https://example256.com
 latitude: 4.4724
 longitude: 10.1608
 altitude: 2785
-completed: False
+completed: no
 ---
 
 # Note 49 in social

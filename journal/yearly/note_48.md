@@ -2,7 +2,7 @@
 title: Note 48 in journal - yearly
 created: 2023-04-16T11:28:29.880369
 updated: 2024-03-27T11:28:29.880369
-completed: False
+completed: no
 tags:
   - research
 ---

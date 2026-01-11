@@ -3,7 +3,7 @@ title: Note 11 in learning - tutorials - video
 created: 2023-08-06T11:28:29.832057
 updated: 2024-07-28T11:28:29.832057
 author: Charlie Brown
-completed: False
+completed: no
 ---
 
 # Note 11 in learning - tutorials - video

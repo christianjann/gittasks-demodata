@@ -2,7 +2,7 @@
 title: Note 16 in goals
 created: 2024-05-10T11:28:29.851058
 updated: 2024-11-12T11:28:29.851058
-completed: True
+completed: yes
 due: 2025-06-29T11:28:29.851058
 tags:
   - urgent

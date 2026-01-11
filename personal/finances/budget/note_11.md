@@ -4,7 +4,7 @@ created: 2024-09-16T11:28:29.606252
 updated: 2025-01-23T11:28:29.606252
 source: https://example739.com
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - design
   - idea

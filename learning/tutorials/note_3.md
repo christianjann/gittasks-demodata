@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -75.0996
 longitude: -40.1436
 altitude: 1254
-completed: False
+completed: no
 tags:
   - health
   - design

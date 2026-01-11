@@ -6,7 +6,7 @@ source: https://example146.com
 latitude: -83.8388
 longitude: -178.2774
 altitude: 4657
-completed: False
+completed: no
 due: 2027-02-09T11:28:29.626526
 tags:
   - social

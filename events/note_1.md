@@ -3,7 +3,7 @@ title: Note 1 in events
 created: 2025-07-25T11:28:29.946667
 updated: 2026-02-27T11:28:29.946667
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2026-09-08T11:28:29.946667
 tags:
   - travel

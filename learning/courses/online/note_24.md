@@ -4,7 +4,7 @@ created: 2025-03-24T11:28:29.813694
 updated: 2026-02-14T11:28:29.813694
 source: https://example939.com
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - design
   - learning

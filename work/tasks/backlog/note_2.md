@@ -3,7 +3,7 @@ title: Note 2 in work - tasks - backlog
 created: 2025-01-03T11:28:29.633256
 updated: 2025-11-29T11:28:29.633256
 source: https://example694.com
-completed: False
+completed: no
 due: 2026-04-02T11:28:29.633256
 tags:
   - shopping

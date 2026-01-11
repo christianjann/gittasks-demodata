@@ -6,7 +6,7 @@ source: https://example803.com
 latitude: 37.1787
 longitude: -168.612
 altitude: 3431
-completed: True
+completed: yes
 tags:
   - finance
 ---

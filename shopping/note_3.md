@@ -2,7 +2,7 @@
 title: Note 3 in shopping
 created: 2025-03-27T11:28:29.959788
 updated: 2025-12-19T11:28:29.959788
-completed: False
+completed: no
 due: 2026-02-11T11:28:29.959788
 tags:
   - draft

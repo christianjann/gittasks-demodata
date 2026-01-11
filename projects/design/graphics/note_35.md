@@ -6,7 +6,7 @@ source: https://example520.com
 latitude: -41.5105
 longitude: -33.6506
 altitude: 221
-completed: False
+completed: no
 tags:
   - template
   - social

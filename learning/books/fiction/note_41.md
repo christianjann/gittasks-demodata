@@ -2,7 +2,7 @@
 title: Note 41 in learning - books - fiction
 created: 2023-08-31T11:28:29.823411
 updated: 2023-09-17T11:28:29.823411
-completed: True
+completed: yes
 ---
 
 # Note 41 in learning - books - fiction

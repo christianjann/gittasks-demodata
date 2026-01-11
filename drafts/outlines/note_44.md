@@ -4,7 +4,7 @@ created: 2025-05-19T11:28:29.762320
 updated: 2025-11-10T11:28:29.762320
 source: https://example800.com
 author: Diana Prince
-completed: False
+completed: no
 due: 2026-04-20T11:28:29.762320
 tags:
   - archive

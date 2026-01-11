@@ -3,7 +3,7 @@ title: Note 34 in work - hr
 created: 2024-10-21T11:28:29.660971
 updated: 2025-02-10T11:28:29.660971
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2026-01-18T11:28:29.660971
 ---
 

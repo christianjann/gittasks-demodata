@@ -6,7 +6,7 @@ source: https://example189.com
 latitude: -86.3123
 longitude: 169.5186
 altitude: 3561
-completed: False
+completed: no
 tags:
   - hobby
   - travel

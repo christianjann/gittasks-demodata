@@ -2,7 +2,7 @@
 title: Note 45 in personal - thoughts - inspirations
 created: 2025-07-25T11:28:29.589520
 updated: 2026-05-10T11:28:29.589520
-completed: False
+completed: no
 due: 2026-12-12T11:28:29.589520
 ---
 

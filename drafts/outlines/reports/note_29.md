@@ -2,7 +2,7 @@
 title: Note 29 in drafts - outlines - reports
 created: 2025-04-18T11:28:29.771178
 updated: 2025-10-26T11:28:29.771178
-completed: False
+completed: no
 tags:
   - journal
   - social

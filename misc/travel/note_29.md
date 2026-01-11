@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 87.1947
 longitude: 117.9131
 altitude: 122
-completed: True
+completed: yes
 due: 2025-03-29T11:28:29.788059
 tags:
   - shopping

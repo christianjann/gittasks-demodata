@@ -3,7 +3,7 @@ title: Note 34 in misc - health - fitness
 created: 2025-09-27T11:28:29.802062
 updated: 2026-03-18T11:28:29.802062
 source: https://example16.com
-completed: True
+completed: yes
 tags:
   - goal
   - diary

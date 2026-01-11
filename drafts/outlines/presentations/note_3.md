@@ -2,7 +2,7 @@
 title: Note 3 in drafts - outlines - presentations
 created: 2026-01-05T11:28:29.766343
 updated: 2026-02-15T11:28:29.766343
-completed: False
+completed: no
 due: 2027-01-04T11:28:29.766343
 tags:
   - journal

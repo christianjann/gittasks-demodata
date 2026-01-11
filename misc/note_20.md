@@ -2,7 +2,7 @@
 title: Note 20 in misc
 created: 2024-04-21T11:28:29.773732
 updated: 2024-11-22T11:28:29.773732
-completed: False
+completed: no
 tags:
   - note
   - diary

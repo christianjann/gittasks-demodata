@@ -6,7 +6,7 @@ source: https://example288.com
 latitude: 77.2728
 longitude: -39.8326
 altitude: 4186
-completed: True
+completed: yes
 tags:
   - event
 ---

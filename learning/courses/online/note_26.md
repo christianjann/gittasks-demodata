@@ -4,7 +4,7 @@ created: 2025-10-14T11:28:29.813803
 updated: 2026-06-17T11:28:29.813803
 source: https://example576.com
 author: Henry Wilson
-completed: False
+completed: no
 ---
 
 # Note 26 in learning - courses - online

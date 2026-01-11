@@ -3,7 +3,7 @@ title: Note 7 in drafts - outlines
 created: 2023-01-22T11:28:29.760016
 updated: 2023-05-02T11:28:29.760016
 source: https://example192.com
-completed: False
+completed: no
 due: 2023-06-30T11:28:29.760016
 ---
 

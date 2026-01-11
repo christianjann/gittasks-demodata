@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 2.9867
 longitude: 142.1352
 altitude: 2222
-completed: True
+completed: yes
 tags:
   - design
   - code

@@ -2,7 +2,7 @@
 title: Note 6 in projects - research - papers
 created: 2023-08-16T11:28:29.705203
 updated: 2023-12-14T11:28:29.705203
-completed: False
+completed: no
 tags:
   - travel
   - design

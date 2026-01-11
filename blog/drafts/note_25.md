@@ -4,7 +4,7 @@ created: 2025-09-01T11:28:29.921513
 updated: 2026-01-19T11:28:29.921513
 source: https://example251.com
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2026-08-02T11:28:29.921513
 tags:
   - shopping

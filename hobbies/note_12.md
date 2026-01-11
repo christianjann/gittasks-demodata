@@ -4,7 +4,7 @@ created: 2024-10-22T11:28:29.969078
 updated: 2025-06-07T11:28:29.969078
 source: https://example283.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - meeting
 ---

@@ -3,7 +3,7 @@ title: Note 38 in misc - travel
 created: 2024-04-09T11:28:29.788894
 updated: 2024-08-11T11:28:29.788894
 source: https://example654.com
-completed: False
+completed: no
 tags:
   - idea
   - meeting

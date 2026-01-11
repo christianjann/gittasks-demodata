@@ -3,7 +3,7 @@ title: Note 46 in shopping - reviews
 created: 2024-05-08T11:28:29.967815
 updated: 2024-08-26T11:28:29.967815
 author: Grace Lee
-completed: True
+completed: yes
 ---
 
 # Note 46 in shopping - reviews

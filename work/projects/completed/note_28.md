@@ -4,7 +4,7 @@ created: 2025-11-16T11:28:29.652354
 updated: 2026-03-08T11:28:29.652354
 source: https://example716.com
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2026-07-11T11:28:29.652354
 tags:
   - design

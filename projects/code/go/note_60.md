@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -60.7321
 longitude: 175.6998
 altitude: 620
-completed: False
+completed: no
 tags:
   - health
 ---

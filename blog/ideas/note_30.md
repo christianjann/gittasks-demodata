@@ -2,7 +2,7 @@
 title: Note 30 in blog - ideas
 created: 2023-04-04T11:28:29.930034
 updated: 2023-06-22T11:28:29.930034
-completed: True
+completed: yes
 tags:
   - idea
 ---

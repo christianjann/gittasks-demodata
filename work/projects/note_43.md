@@ -2,7 +2,7 @@
 title: Note 43 in work - projects
 created: 2023-07-12T11:28:29.645464
 updated: 2023-11-01T11:28:29.645464
-completed: False
+completed: no
 tags:
   - urgent
   - thought

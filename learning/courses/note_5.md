@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 57.685
 longitude: 117.2172
 altitude: 1293
-completed: True
+completed: yes
 tags:
   - travel
   - shopping

@@ -2,7 +2,7 @@
 title: Note 48 in learning - books - fiction
 created: 2024-05-28T11:28:29.823851
 updated: 2024-12-21T11:28:29.823851
-completed: True
+completed: yes
 due: 2025-03-30T11:28:29.823851
 tags:
   - thought

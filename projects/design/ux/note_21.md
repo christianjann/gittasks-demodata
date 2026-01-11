@@ -3,7 +3,7 @@ title: Note 21 in projects - design - ux
 created: 2023-10-25T11:28:29.696592
 updated: 2024-05-17T11:28:29.696592
 source: https://example42.com
-completed: False
+completed: no
 due: 2025-03-13T11:28:29.696592
 tags:
   - personal

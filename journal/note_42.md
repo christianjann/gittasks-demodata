@@ -4,7 +4,7 @@ created: 2024-04-30T11:28:29.866687
 updated: 2024-05-10T11:28:29.866687
 source: https://example934.com
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2024-05-31T11:28:29.866687
 tags:
   - finance

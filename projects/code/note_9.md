@@ -2,7 +2,7 @@
 title: Note 9 in projects - code
 created: 2024-07-16T11:28:29.674509
 updated: 2025-01-21T11:28:29.674509
-completed: False
+completed: no
 tags:
   - event
   - note

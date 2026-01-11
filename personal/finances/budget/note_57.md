@@ -4,7 +4,7 @@ created: 2024-11-10T11:28:29.608815
 updated: 2025-11-01T11:28:29.608815
 source: https://example930.com
 author: Charlie Brown
-completed: True
+completed: yes
 ---
 
 # Note 57 in personal - finances - budget

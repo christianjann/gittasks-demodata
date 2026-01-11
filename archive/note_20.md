@@ -2,7 +2,7 @@
 title: Note 20 in archive
 created: 2024-06-04T11:28:29.716174
 updated: 2024-09-28T11:28:29.716174
-completed: True
+completed: yes
 tags:
   - code
   - recipe

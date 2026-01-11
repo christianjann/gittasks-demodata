@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 1.0325
 longitude: 64.5693
 altitude: 1924
-completed: True
+completed: yes
 tags:
   - draft
   - shopping

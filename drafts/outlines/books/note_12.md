@@ -3,7 +3,7 @@ title: Note 12 in drafts - outlines - books
 created: 2024-05-13T11:28:29.764652
 updated: 2024-09-14T11:28:29.764652
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - note
   - design

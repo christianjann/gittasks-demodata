@@ -6,7 +6,7 @@ source: https://example248.com
 latitude: -82.7686
 longitude: 94.7664
 altitude: 3135
-completed: False
+completed: no
 ---
 
 # Note 48 in personal - memories - childhood

@@ -2,7 +2,7 @@
 title: Note 31 in misc - travel - europe
 created: 2023-09-22T11:28:29.792099
 updated: 2023-12-31T11:28:29.792099
-completed: False
+completed: no
 ---
 
 # Note 31 in misc - travel - europe

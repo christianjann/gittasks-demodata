@@ -3,7 +3,7 @@ title: Note 32 in shopping - lists
 created: 2025-10-19T11:28:29.964098
 updated: 2026-07-15T11:28:29.964098
 source: https://example504.com
-completed: False
+completed: no
 due: 2026-12-06T11:28:29.964098
 tags:
   - idea

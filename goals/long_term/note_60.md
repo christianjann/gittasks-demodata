@@ -2,7 +2,7 @@
 title: Note 60 in goals - long_term
 created: 2024-09-20T11:28:29.860464
 updated: 2024-10-25T11:28:29.860464
-completed: True
+completed: yes
 due: 2025-02-27T11:28:29.860464
 tags:
   - idea

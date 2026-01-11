@@ -3,7 +3,7 @@ title: Note 22 in work - meetings - weekly
 created: 2023-08-29T11:28:29.619598
 updated: 2024-01-16T11:28:29.619598
 source: https://example137.com
-completed: True
+completed: yes
 due: 2024-03-27T11:28:29.619598
 tags:
   - archive

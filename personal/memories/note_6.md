@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -79.3857
 longitude: -15.7386
 altitude: 3999
-completed: True
+completed: yes
 due: 2026-02-17T11:28:29.590423
 tags:
   - travel

@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -0.1446
 longitude: 38.5268
 altitude: 3841
-completed: False
+completed: no
 tags:
   - recipe
   - template

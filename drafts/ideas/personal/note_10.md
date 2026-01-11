@@ -6,7 +6,7 @@ source: https://example828.com
 latitude: -34.3162
 longitude: 20.1773
 altitude: 3564
-completed: False
+completed: no
 due: 2026-08-16T11:28:29.757961
 tags:
   - learning

@@ -3,7 +3,7 @@ title: Note 33 in learning - courses - in_person
 created: 2025-10-28T11:28:29.816731
 updated: 2026-03-08T11:28:29.816731
 source: https://example929.com
-completed: True
+completed: yes
 tags:
   - hobby
   - shopping

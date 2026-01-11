@@ -2,7 +2,7 @@
 title: Note 21 in shopping - reviews
 created: 2024-06-13T11:28:29.966461
 updated: 2024-09-28T11:28:29.966461
-completed: True
+completed: yes
 tags:
   - task
 ---

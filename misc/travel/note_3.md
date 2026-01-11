@@ -3,7 +3,7 @@ title: Note 3 in misc - travel
 created: 2025-09-07T11:28:29.786568
 updated: 2025-10-27T11:28:29.786568
 source: https://example941.com
-completed: True
+completed: yes
 due: 2026-10-20T11:28:29.786568
 tags:
   - thought

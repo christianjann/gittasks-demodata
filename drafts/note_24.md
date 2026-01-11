@@ -4,7 +4,7 @@ created: 2024-07-28T11:28:29.744083
 updated: 2024-10-31T11:28:29.744083
 source: https://example466.com
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - blog
   - learning

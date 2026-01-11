@@ -5,7 +5,7 @@ updated: 2026-05-26T11:28:29.800389
 latitude: -36.6973
 longitude: -179.1211
 altitude: 2274
-completed: True
+completed: yes
 due: 2026-09-04T11:28:29.800389
 tags:
   - recipe

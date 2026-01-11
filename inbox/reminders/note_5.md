@@ -3,7 +3,7 @@ title: Note 5 in inbox - reminders
 created: 2023-12-28T11:28:29.843076
 updated: 2024-05-10T11:28:29.843076
 source: https://example167.com
-completed: False
+completed: no
 due: 2024-07-27T11:28:29.843076
 tags:
   - diary

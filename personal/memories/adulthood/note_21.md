@@ -3,7 +3,7 @@ title: Note 21 in personal - memories - adulthood
 created: 2023-08-23T11:28:29.599359
 updated: 2024-02-01T11:28:29.599359
 source: https://example473.com
-completed: True
+completed: yes
 due: 2024-12-18T11:28:29.599359
 ---
 

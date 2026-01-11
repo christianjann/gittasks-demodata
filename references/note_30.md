@@ -4,7 +4,7 @@ created: 2025-06-04T11:28:29.882629
 updated: 2025-07-30T11:28:29.882629
 source: https://example462.com
 author: Diana Prince
-completed: False
+completed: no
 due: 2026-01-18T11:28:29.882629
 tags:
   - event

@@ -6,7 +6,7 @@ source: https://example67.com
 latitude: -38.2985
 longitude: -139.0978
 altitude: 2976
-completed: False
+completed: no
 tags:
   - task
   - event

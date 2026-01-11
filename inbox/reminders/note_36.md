@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: -43.5905
 longitude: -80.8092
 altitude: 3992
-completed: False
+completed: no
 tags:
   - draft
   - finance

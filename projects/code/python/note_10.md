@@ -2,7 +2,7 @@
 title: Note 10 in projects - code - python
 created: 2023-09-13T11:28:29.678672
 updated: 2024-05-25T11:28:29.678672
-completed: True
+completed: yes
 tags:
   - archive
 ---

@@ -3,7 +3,7 @@ title: Note 51 in goals - long_term
 created: 2025-08-20T11:28:29.859940
 updated: 2025-12-07T11:28:29.859940
 author: Frank Miller
-completed: False
+completed: no
 due: 2026-04-03T11:28:29.859940
 tags:
   - finance

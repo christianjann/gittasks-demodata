@@ -4,7 +4,7 @@ created: 2023-09-01T11:28:29.572984
 updated: 2023-09-15T11:28:29.572984
 source: https://example14.com
 author: Charlie Brown
-completed: False
+completed: no
 due: 2024-06-11T11:28:29.572984
 tags:
   - travel

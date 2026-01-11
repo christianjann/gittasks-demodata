@@ -3,7 +3,7 @@ title: Note 25 in journal - monthly
 created: 2024-06-30T11:28:29.875918
 updated: 2024-08-23T11:28:29.875918
 source: https://example749.com
-completed: True
+completed: yes
 tags:
   - diary
   - meeting

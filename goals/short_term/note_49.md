@@ -5,7 +5,7 @@ updated: 2023-11-22T11:28:29.855828
 latitude: 83.8523
 longitude: 2.6793
 altitude: 3054
-completed: True
+completed: yes
 due: 2024-08-29T11:28:29.855828
 tags:
   - health

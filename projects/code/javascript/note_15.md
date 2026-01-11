@@ -6,7 +6,7 @@ source: https://example534.com
 latitude: -18.1453
 longitude: 90.8073
 altitude: 905
-completed: True
+completed: yes
 tags:
   - blog
 ---

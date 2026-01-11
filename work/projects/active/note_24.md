@@ -6,7 +6,7 @@ source: https://example340.com
 latitude: -32.2947
 longitude: -87.0051
 altitude: 4696
-completed: True
+completed: yes
 tags:
   - note
 ---

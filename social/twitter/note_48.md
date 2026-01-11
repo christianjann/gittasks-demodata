@@ -3,7 +3,7 @@ title: Note 48 in social - twitter
 created: 2024-03-14T11:28:29.939713
 updated: 2024-04-25T11:28:29.939713
 source: https://example50.com
-completed: True
+completed: yes
 due: 2025-04-24T11:28:29.939713
 tags:
   - task

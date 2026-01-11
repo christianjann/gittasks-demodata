@@ -6,7 +6,7 @@ source: https://example819.com
 latitude: 18.5882
 longitude: 128.8631
 altitude: 3251
-completed: True
+completed: yes
 tags:
   - shopping
   - research

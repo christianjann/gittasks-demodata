@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 44.8394
 longitude: -76.8995
 altitude: 603
-completed: True
+completed: yes
 tags:
   - thought
   - design

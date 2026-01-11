@@ -2,7 +2,7 @@
 title: Note 19 in learning - courses
 created: 2025-09-20T11:28:29.811000
 updated: 2025-10-03T11:28:29.811000
-completed: True
+completed: yes
 tags:
   - meeting
 ---

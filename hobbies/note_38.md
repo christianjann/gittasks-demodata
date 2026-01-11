@@ -6,7 +6,7 @@ source: https://example145.com
 latitude: -77.3332
 longitude: -149.3604
 altitude: 363
-completed: False
+completed: no
 ---
 
 # Note 38 in hobbies

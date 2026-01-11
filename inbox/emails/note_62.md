@@ -4,7 +4,7 @@ created: 2023-07-22T11:28:29.850068
 updated: 2024-03-06T11:28:29.850068
 source: https://example463.com
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2025-02-18T11:28:29.850068
 tags:
   - work

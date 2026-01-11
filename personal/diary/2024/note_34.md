@@ -6,7 +6,7 @@ source: https://example3.com
 latitude: -52.247
 longitude: -66.4939
 altitude: 4527
-completed: False
+completed: no
 ---
 
 # Note 34 in personal - diary - 2024

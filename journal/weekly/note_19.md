@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -75.9086
 longitude: 54.8039
 altitude: 3129
-completed: False
+completed: no
 tags:
   - meeting
 ---

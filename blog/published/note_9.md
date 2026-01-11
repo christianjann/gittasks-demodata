@@ -3,7 +3,7 @@ title: Note 9 in blog - published
 created: 2024-05-17T11:28:29.924762
 updated: 2024-08-30T11:28:29.924762
 source: https://example902.com
-completed: True
+completed: yes
 tags:
   - health
   - meeting

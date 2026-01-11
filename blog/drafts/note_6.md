@@ -6,7 +6,7 @@ source: https://example104.com
 latitude: -80.3041
 longitude: 174.1151
 altitude: 4800
-completed: False
+completed: no
 due: 2026-11-11T11:28:29.920152
 tags:
   - event

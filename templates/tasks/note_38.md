@@ -6,7 +6,7 @@ source: https://example297.com
 latitude: -28.9895
 longitude: 93.1422
 altitude: 4060
-completed: True
+completed: yes
 tags:
   - social
   - work

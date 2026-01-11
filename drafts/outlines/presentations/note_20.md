@@ -5,7 +5,7 @@ updated: 2023-11-15T11:28:29.767248
 latitude: -64.5255
 longitude: 16.8618
 altitude: 3677
-completed: True
+completed: yes
 ---
 
 # Note 20 in drafts - outlines - presentations

@@ -5,7 +5,7 @@ updated: 2026-04-04T11:28:29.694036
 latitude: -67.9045
 longitude: -9.8398
 altitude: 2528
-completed: False
+completed: no
 tags:
   - shopping
   - code

@@ -3,7 +3,7 @@ title: Note 28 in archive - backup
 created: 2024-04-28T11:28:29.734471
 updated: 2025-02-01T11:28:29.734471
 source: https://example994.com
-completed: False
+completed: no
 ---
 
 # Note 28 in archive - backup

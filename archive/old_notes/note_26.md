@@ -6,7 +6,7 @@ source: https://example24.com
 latitude: -32.7739
 longitude: -139.2547
 altitude: 2819
-completed: False
+completed: no
 due: 2026-02-06T11:28:29.720731
 tags:
   - diary

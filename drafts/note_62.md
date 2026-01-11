@@ -3,7 +3,7 @@ title: Note 62 in drafts
 created: 2023-11-24T11:28:29.746631
 updated: 2024-04-11T11:28:29.746631
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - note
   - social

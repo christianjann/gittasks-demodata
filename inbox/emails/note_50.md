@@ -3,7 +3,7 @@ title: Note 50 in inbox - emails
 created: 2025-04-19T11:28:29.849400
 updated: 2025-09-01T11:28:29.849400
 source: https://example141.com
-completed: False
+completed: no
 due: 2026-05-21T11:28:29.849400
 tags:
   - diary

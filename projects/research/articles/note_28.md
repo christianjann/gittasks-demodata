@@ -3,7 +3,7 @@ title: Note 28 in projects - research - articles
 created: 2023-11-23T11:28:29.709246
 updated: 2024-01-15T11:28:29.709246
 author: Alice Johnson
-completed: True
+completed: yes
 due: 2024-04-16T11:28:29.709246
 tags:
   - research

@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -30.3657
 longitude: -76.3433
 altitude: 3075
-completed: False
+completed: no
 tags:
   - diary
 ---

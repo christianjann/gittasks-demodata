@@ -6,7 +6,7 @@ source: https://example655.com
 latitude: 2.8374
 longitude: 40.2029
 altitude: 2580
-completed: True
+completed: yes
 tags:
   - note
   - learning

@@ -2,7 +2,7 @@
 title: Note 53 in hobbies - reading
 created: 2025-02-01T11:28:29.980076
 updated: 2025-02-17T11:28:29.980076
-completed: True
+completed: yes
 due: 2025-10-29T11:28:29.980076
 tags:
   - diary

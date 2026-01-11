@@ -3,7 +3,7 @@ title: Note 27 in journal - monthly
 created: 2025-08-19T11:28:29.876032
 updated: 2026-06-05T11:28:29.876032
 source: https://example190.com
-completed: False
+completed: no
 due: 2026-06-25T11:28:29.876032
 tags:
   - idea

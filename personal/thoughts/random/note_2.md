@@ -2,7 +2,7 @@
 title: Note 2 in personal - thoughts - random
 created: 2023-10-19T11:28:29.582339
 updated: 2024-04-24T11:28:29.582339
-completed: False
+completed: no
 tags:
   - learning
   - travel

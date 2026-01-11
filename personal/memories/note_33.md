@@ -6,7 +6,7 @@ source: https://example24.com
 latitude: 69.387
 longitude: 168.4408
 altitude: 1963
-completed: True
+completed: yes
 tags:
   - archive
   - goal

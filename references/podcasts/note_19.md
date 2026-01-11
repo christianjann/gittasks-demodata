@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 45.5134
 longitude: -73.198
 altitude: 665
-completed: True
+completed: yes
 tags:
   - misc
   - social

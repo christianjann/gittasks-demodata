@@ -5,7 +5,7 @@ updated: 2024-01-13T11:28:29.603158
 latitude: -55.133
 longitude: -152.0763
 altitude: 1289
-completed: True
+completed: yes
 due: 2024-06-09T11:28:29.603158
 tags:
   - travel

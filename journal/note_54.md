@@ -4,7 +4,7 @@ created: 2023-05-17T11:28:29.867607
 updated: 2023-11-10T11:28:29.867607
 source: https://example154.com
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - travel
   - urgent

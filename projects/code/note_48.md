@@ -4,7 +4,7 @@ created: 2024-01-28T11:28:29.676946
 updated: 2024-11-21T11:28:29.676946
 source: https://example360.com
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - misc
   - health

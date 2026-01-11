@@ -3,7 +3,7 @@ title: Note 20 in work - projects - proposals
 created: 2023-05-11T11:28:29.656458
 updated: 2023-05-31T11:28:29.656458
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - goal
   - urgent

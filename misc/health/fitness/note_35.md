@@ -3,7 +3,7 @@ title: Note 35 in misc - health - fitness
 created: 2025-07-02T11:28:29.802114
 updated: 2025-12-01T11:28:29.802114
 source: https://example557.com
-completed: False
+completed: no
 due: 2026-09-15T11:28:29.802114
 tags:
   - reference

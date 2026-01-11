@@ -4,7 +4,7 @@ created: 2024-06-11T11:28:29.956087
 updated: 2025-03-21T11:28:29.956087
 source: https://example513.com
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - draft
   - code

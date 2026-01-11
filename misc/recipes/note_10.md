@@ -3,7 +3,7 @@ title: Note 10 in misc - recipes
 created: 2024-08-27T11:28:29.776589
 updated: 2025-07-15T11:28:29.776589
 source: https://example768.com
-completed: False
+completed: no
 tags:
   - template
   - task

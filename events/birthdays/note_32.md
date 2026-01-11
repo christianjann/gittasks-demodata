@@ -3,7 +3,7 @@ title: Note 32 in events - birthdays
 created: 2025-05-28T11:28:29.957217
 updated: 2025-09-10T11:28:29.957217
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - research
   - meeting

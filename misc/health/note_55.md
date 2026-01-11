@@ -6,7 +6,7 @@ source: https://example865.com
 latitude: -10.7258
 longitude: 33.5332
 altitude: 2868
-completed: True
+completed: yes
 tags:
   - personal
   - archive

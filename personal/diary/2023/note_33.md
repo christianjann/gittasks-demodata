@@ -4,7 +4,7 @@ created: 2023-09-08T11:28:29.571625
 updated: 2023-10-26T11:28:29.571625
 source: https://example745.com
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2024-02-01T11:28:29.571625
 tags:
   - meeting

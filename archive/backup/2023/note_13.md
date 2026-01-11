@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 34.3956
 longitude: 157.4558
 altitude: 4501
-completed: True
+completed: yes
 due: 2024-06-30T11:28:29.739515
 tags:
   - meeting

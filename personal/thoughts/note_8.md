@@ -3,7 +3,7 @@ title: Note 8 in personal - thoughts
 created: 2023-10-26T11:28:29.579875
 updated: 2024-04-20T11:28:29.579875
 source: https://example734.com
-completed: False
+completed: no
 tags:
   - meeting
 ---

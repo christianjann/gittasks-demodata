@@ -4,7 +4,7 @@ created: 2026-01-09T11:28:29.895937
 updated: 2026-07-18T11:28:29.895937
 source: https://example324.com
 author: Eve Adams
-completed: False
+completed: no
 due: 2027-06-15T11:28:29.895937
 tags:
   - recipe

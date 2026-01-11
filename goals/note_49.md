@@ -3,7 +3,7 @@ title: Note 49 in goals
 created: 2024-09-08T11:28:29.852938
 updated: 2024-10-04T11:28:29.852938
 source: https://example214.com
-completed: False
+completed: no
 tags:
   - goal
   - thought

@@ -3,7 +3,7 @@ title: Note 34 in archive - backup
 created: 2025-09-18T11:28:29.734817
 updated: 2025-12-23T11:28:29.734817
 author: Grace Lee
-completed: False
+completed: no
 due: 2026-10-21T11:28:29.734817
 tags:
   - hobby

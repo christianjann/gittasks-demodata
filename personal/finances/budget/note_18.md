@@ -3,7 +3,7 @@ title: Note 18 in personal - finances - budget
 created: 2025-09-21T11:28:29.606622
 updated: 2026-01-05T11:28:29.606622
 source: https://example954.com
-completed: False
+completed: no
 due: 2026-03-10T11:28:29.606622
 ---
 

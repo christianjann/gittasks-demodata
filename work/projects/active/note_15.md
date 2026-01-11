@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -75.2207
 longitude: 179.4128
 altitude: 4711
-completed: False
+completed: no
 tags:
   - recipe
   - shopping

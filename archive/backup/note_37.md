@@ -5,7 +5,7 @@ updated: 2025-01-17T11:28:29.734992
 latitude: 64.1173
 longitude: -41.1274
 altitude: 2923
-completed: True
+completed: yes
 due: 2025-05-11T11:28:29.734992
 tags:
   - template

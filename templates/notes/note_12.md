@@ -3,7 +3,7 @@ title: Note 12 in templates - notes
 created: 2025-04-24T11:28:29.902654
 updated: 2025-06-12T11:28:29.902654
 source: https://example723.com
-completed: True
+completed: yes
 due: 2025-10-23T11:28:29.902654
 tags:
   - meeting

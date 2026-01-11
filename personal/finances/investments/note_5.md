@@ -4,7 +4,7 @@ created: 2023-11-11T11:28:29.609094
 updated: 2024-06-24T11:28:29.609094
 source: https://example915.com
 author: Henry Wilson
-completed: False
+completed: no
 due: 2024-07-29T11:28:29.609094
 ---
 

@@ -3,7 +3,7 @@ title: Note 6 in drafts - ideas - tech
 created: 2025-05-25T11:28:29.751222
 updated: 2025-10-12T11:28:29.751222
 source: https://example686.com
-completed: True
+completed: yes
 tags:
   - meeting
 ---

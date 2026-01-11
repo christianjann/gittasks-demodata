@@ -4,7 +4,7 @@ created: 2025-08-23T11:28:29.692496
 updated: 2025-10-10T11:28:29.692496
 source: https://example803.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2025-12-03T11:28:29.692496
 tags:
   - blog

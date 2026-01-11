@@ -3,7 +3,7 @@ title: Note 45 in hobbies - reading
 created: 2024-11-25T11:28:29.979590
 updated: 2025-10-27T11:28:29.979590
 author: Henry Wilson
-completed: False
+completed: no
 due: 2026-08-23T11:28:29.979590
 ---
 

@@ -2,7 +2,7 @@
 title: Note 11 in work - meetings - quarterly
 created: 2024-12-19T11:28:29.624586
 updated: 2025-03-21T11:28:29.624586
-completed: False
+completed: no
 due: 2025-04-20T11:28:29.624586
 tags:
   - note

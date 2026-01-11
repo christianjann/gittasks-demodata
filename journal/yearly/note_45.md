@@ -2,7 +2,7 @@
 title: Note 45 in journal - yearly
 created: 2024-11-15T11:28:29.880170
 updated: 2025-07-19T11:28:29.880170
-completed: False
+completed: no
 due: 2026-02-22T11:28:29.880170
 tags:
   - social

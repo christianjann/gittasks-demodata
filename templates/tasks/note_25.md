@@ -4,7 +4,7 @@ created: 2024-11-14T11:28:29.906206
 updated: 2025-08-28T11:28:29.906206
 source: https://example436.com
 author: Bob Smith
-completed: True
+completed: yes
 ---
 
 # Note 25 in templates - tasks

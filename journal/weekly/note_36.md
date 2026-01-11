@@ -6,7 +6,7 @@ source: https://example45.com
 latitude: 65.7469
 longitude: 178.7577
 altitude: 1220
-completed: True
+completed: yes
 tags:
   - idea
   - finance

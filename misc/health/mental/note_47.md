@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 28.7327
 longitude: 16.0188
 altitude: 3849
-completed: True
+completed: yes
 ---
 
 # Note 47 in misc - health - mental

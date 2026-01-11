@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 33.5676
 longitude: -60.0497
 altitude: 1865
-completed: False
+completed: no
 due: 2024-08-14T11:28:29.907181
 tags:
   - thought

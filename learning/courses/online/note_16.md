@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 53.636
 longitude: 90.2229
 altitude: 2284
-completed: True
+completed: yes
 tags:
   - hobby
   - meeting

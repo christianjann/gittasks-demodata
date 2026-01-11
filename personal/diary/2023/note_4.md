@@ -4,7 +4,7 @@ created: 2023-11-14T11:28:29.569572
 updated: 2024-02-04T11:28:29.569572
 source: https://example479.com
 author: Jack Taylor
-completed: False
+completed: no
 ---
 
 # Note 4 in personal - diary - 2023

@@ -2,7 +2,7 @@
 title: Note 40 in blog - published
 created: 2024-04-04T11:28:29.926858
 updated: 2025-02-22T11:28:29.926858
-completed: True
+completed: yes
 due: 2026-02-13T11:28:29.926858
 ---
 

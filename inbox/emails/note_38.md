@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: 82.8083
 longitude: 179.4618
 altitude: 3997
-completed: False
+completed: no
 due: 2025-01-18T11:28:29.848719
 tags:
   - urgent

@@ -3,7 +3,7 @@ title: Note 43 in work - tasks - completed
 created: 2023-06-19T11:28:29.640854
 updated: 2024-01-16T11:28:29.640854
 source: https://example78.com
-completed: True
+completed: yes
 due: 2024-12-26T11:28:29.640854
 ---
 

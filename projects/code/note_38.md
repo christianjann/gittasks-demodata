@@ -6,7 +6,7 @@ source: https://example707.com
 latitude: -70.8165
 longitude: -89.0944
 altitude: 1037
-completed: True
+completed: yes
 tags:
   - task
 ---

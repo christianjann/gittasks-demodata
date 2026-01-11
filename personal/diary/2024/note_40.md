@@ -4,7 +4,7 @@ created: 2023-05-14T11:28:29.575616
 updated: 2024-02-16T11:28:29.575616
 source: https://example351.com
 author: Alice Johnson
-completed: False
+completed: no
 due: 2024-09-03T11:28:29.575616
 tags:
   - work

@@ -2,7 +2,7 @@
 title: Note 61 in archive - old_notes - 2019
 created: 2024-12-10T11:28:29.725536
 updated: 2025-11-19T11:28:29.725536
-completed: False
+completed: no
 due: 2026-05-14T11:28:29.725536
 tags:
   - design

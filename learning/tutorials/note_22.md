@@ -4,7 +4,7 @@ created: 2023-03-25T11:28:29.829445
 updated: 2024-01-09T11:28:29.829445
 source: https://example472.com
 author: Jack Taylor
-completed: False
+completed: no
 due: 2024-07-01T11:28:29.829445
 tags:
   - thought

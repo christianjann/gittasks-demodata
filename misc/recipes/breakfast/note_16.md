@@ -3,7 +3,7 @@ title: Note 16 in misc - recipes - breakfast
 created: 2023-03-28T11:28:29.780036
 updated: 2023-10-19T11:28:29.780036
 source: https://example926.com
-completed: True
+completed: yes
 due: 2024-05-14T11:28:29.780036
 tags:
   - work

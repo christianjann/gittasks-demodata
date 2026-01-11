@@ -6,7 +6,7 @@ source: https://example605.com
 latitude: 61.0437
 longitude: 62.4382
 altitude: 898
-completed: True
+completed: yes
 due: 2026-02-12T11:28:29.768236
 ---
 

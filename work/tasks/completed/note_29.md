@@ -6,7 +6,7 @@ source: https://example884.com
 latitude: 46.0252
 longitude: 102.431
 altitude: 4466
-completed: False
+completed: no
 tags:
   - draft
   - research

@@ -4,7 +4,7 @@ created: 2025-04-06T11:28:29.790300
 updated: 2026-01-12T11:28:29.790300
 source: https://example683.com
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - research
   - note

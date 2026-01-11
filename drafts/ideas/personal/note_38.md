@@ -6,7 +6,7 @@ source: https://example390.com
 latitude: -37.1443
 longitude: 71.7971
 altitude: 3226
-completed: True
+completed: yes
 tags:
   - thought
   - health

@@ -3,7 +3,7 @@ title: Note 22 in work - projects
 created: 2025-07-25T11:28:29.643738
 updated: 2025-10-21T11:28:29.643738
 source: https://example419.com
-completed: False
+completed: no
 due: 2025-12-11T11:28:29.643738
 tags:
   - template

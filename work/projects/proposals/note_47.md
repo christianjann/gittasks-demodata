@@ -3,7 +3,7 @@ title: Note 47 in work - projects - proposals
 created: 2023-05-11T11:28:29.658373
 updated: 2023-06-12T11:28:29.658373
 source: https://example269.com
-completed: False
+completed: no
 tags:
   - hobby
   - meeting

@@ -3,7 +3,7 @@ title: Note 69 in hobbies - reading
 created: 2025-06-24T11:28:29.981128
 updated: 2026-01-21T11:28:29.981128
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - task
   - code

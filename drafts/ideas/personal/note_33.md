@@ -4,7 +4,7 @@ created: 2024-04-13T11:28:29.759218
 updated: 2024-12-16T11:28:29.759218
 source: https://example217.com
 author: Eve Adams
-completed: True
+completed: yes
 due: 2025-05-09T11:28:29.759218
 tags:
   - travel

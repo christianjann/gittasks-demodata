@@ -6,7 +6,7 @@ source: https://example630.com
 latitude: -46.3775
 longitude: -9.0037
 altitude: 3602
-completed: True
+completed: yes
 tags:
   - note
 ---

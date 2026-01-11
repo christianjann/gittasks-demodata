@@ -2,7 +2,7 @@
 title: Note 4 in work - meetings - monthly
 created: 2025-04-29T11:28:29.621674
 updated: 2025-07-19T11:28:29.621674
-completed: False
+completed: no
 due: 2025-12-12T11:28:29.621674
 tags:
   - event

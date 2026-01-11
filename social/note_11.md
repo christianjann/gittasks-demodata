@@ -6,7 +6,7 @@ source: https://example369.com
 latitude: 62.3891
 longitude: -138.5734
 altitude: 497
-completed: True
+completed: yes
 tags:
   - reference
   - travel

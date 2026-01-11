@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: -86.9639
 longitude: 23.4756
 altitude: 3415
-completed: False
+completed: no
 due: 2025-01-03T11:28:29.980367
 tags:
   - archive

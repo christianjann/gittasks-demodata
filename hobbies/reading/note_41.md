@@ -3,7 +3,7 @@ title: Note 41 in hobbies - reading
 created: 2024-04-17T11:28:29.979330
 updated: 2024-07-19T11:28:29.979330
 source: https://example350.com
-completed: True
+completed: yes
 tags:
   - travel
   - goal

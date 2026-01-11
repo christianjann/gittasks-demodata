@@ -6,7 +6,7 @@ source: https://example930.com
 latitude: -13.6192
 longitude: -46.2806
 altitude: 2529
-completed: False
+completed: no
 due: 2024-03-14T11:28:29.819260
 tags:
   - template

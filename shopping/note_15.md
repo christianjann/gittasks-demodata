@@ -4,7 +4,7 @@ created: 2023-12-27T11:28:29.960489
 updated: 2024-05-01T11:28:29.960489
 source: https://example549.com
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - health
 ---

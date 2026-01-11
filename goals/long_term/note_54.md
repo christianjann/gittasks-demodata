@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -7.9917
 longitude: -9.7914
 altitude: 4999
-completed: False
+completed: no
 due: 2025-09-04T11:28:29.860104
 tags:
   - learning

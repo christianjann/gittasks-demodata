@@ -3,7 +3,7 @@ title: Note 5 in blog - ideas
 created: 2025-02-14T11:28:29.928156
 updated: 2025-08-05T11:28:29.928156
 source: https://example180.com
-completed: False
+completed: no
 ---
 
 # Note 5 in blog - ideas

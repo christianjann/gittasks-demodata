@@ -3,7 +3,7 @@ title: Note 23 in blog
 created: 2024-01-15T11:28:29.917130
 updated: 2024-03-23T11:28:29.917130
 source: https://example579.com
-completed: True
+completed: yes
 due: 2024-12-21T11:28:29.917130
 tags:
   - shopping

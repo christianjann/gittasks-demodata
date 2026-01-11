@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 62.0611
 longitude: 13.6146
 altitude: 3066
-completed: False
+completed: no
 due: 2025-08-08T11:28:29.889600
 tags:
   - template

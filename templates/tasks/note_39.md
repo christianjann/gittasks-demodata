@@ -3,7 +3,7 @@ title: Note 39 in templates - tasks
 created: 2025-04-02T11:28:29.907021
 updated: 2025-04-02T11:28:29.907021
 source: https://example658.com
-completed: True
+completed: yes
 tags:
   - design
   - misc

@@ -2,7 +2,7 @@
 title: Note 42 in drafts - outlines
 created: 2023-08-23T11:28:29.762191
 updated: 2024-05-24T11:28:29.762191
-completed: False
+completed: no
 due: 2025-04-04T11:28:29.762191
 tags:
   - shopping

@@ -2,7 +2,7 @@
 title: Note 54 in templates
 created: 2025-09-08T11:28:29.901539
 updated: 2026-09-08T11:28:29.901539
-completed: False
+completed: no
 due: 2027-03-10T11:28:29.901539
 tags:
   - draft

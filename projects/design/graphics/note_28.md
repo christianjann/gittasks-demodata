@@ -3,7 +3,7 @@ title: Note 28 in projects - design - graphics
 created: 2025-02-06T11:28:29.699243
 updated: 2025-11-24T11:28:29.699243
 source: https://example48.com
-completed: True
+completed: yes
 tags:
   - work
 ---

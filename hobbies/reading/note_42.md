@@ -2,7 +2,7 @@
 title: Note 42 in hobbies - reading
 created: 2023-08-20T11:28:29.979385
 updated: 2023-10-30T11:28:29.979385
-completed: True
+completed: yes
 due: 2024-07-10T11:28:29.979385
 tags:
   - recipe

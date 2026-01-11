@@ -3,7 +3,7 @@ title: Note 29 in social - twitter
 created: 2025-07-05T11:28:29.938466
 updated: 2026-04-04T11:28:29.938466
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - code
   - archive

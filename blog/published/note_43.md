@@ -6,7 +6,7 @@ source: https://example720.com
 latitude: -35.3961
 longitude: -176.5673
 altitude: 3060
-completed: True
+completed: yes
 due: 2026-04-17T11:28:29.927091
 tags:
   - diary

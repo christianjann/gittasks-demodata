@@ -6,7 +6,7 @@ source: https://example410.com
 latitude: -81.7069
 longitude: 120.2031
 altitude: 2800
-completed: False
+completed: no
 due: 2024-06-06T11:28:29.709729
 tags:
   - reference

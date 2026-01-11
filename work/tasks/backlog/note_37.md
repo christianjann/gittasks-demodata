@@ -4,7 +4,7 @@ created: 2025-12-24T11:28:29.635268
 updated: 2026-02-08T11:28:29.635268
 source: https://example593.com
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - hobby
   - finance

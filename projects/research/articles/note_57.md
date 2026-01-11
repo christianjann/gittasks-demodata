@@ -4,7 +4,7 @@ created: 2025-04-06T11:28:29.711002
 updated: 2025-10-13T11:28:29.711002
 source: https://example547.com
 author: Bob Smith
-completed: False
+completed: no
 ---
 
 # Note 57 in projects - research - articles

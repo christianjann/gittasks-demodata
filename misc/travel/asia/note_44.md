@@ -3,7 +3,7 @@ title: Note 44 in misc - travel - asia
 created: 2025-08-23T11:28:29.796148
 updated: 2026-06-02T11:28:29.796148
 source: https://example419.com
-completed: True
+completed: yes
 due: 2026-12-05T11:28:29.796148
 tags:
   - thought

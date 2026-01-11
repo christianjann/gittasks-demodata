@@ -4,7 +4,7 @@ created: 2023-06-15T11:28:29.729472
 updated: 2024-03-07T11:28:29.729472
 source: https://example357.com
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - task
   - meeting

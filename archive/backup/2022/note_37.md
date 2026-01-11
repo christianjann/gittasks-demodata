@@ -3,7 +3,7 @@ title: Note 37 in archive - backup - 2022
 created: 2025-10-11T11:28:29.737998
 updated: 2025-10-15T11:28:29.737998
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - reference
   - journal

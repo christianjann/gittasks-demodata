@@ -3,7 +3,7 @@ title: Note 2 in archive - old_notes - 2021
 created: 2025-08-27T11:28:29.730229
 updated: 2025-09-28T11:28:29.730229
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - personal
   - research

@@ -3,7 +3,7 @@ title: Note 58 in archive - old_notes - 2020
 created: 2025-08-18T11:28:29.729375
 updated: 2025-09-28T11:28:29.729375
 source: https://example60.com
-completed: True
+completed: yes
 tags:
   - finance
 ---

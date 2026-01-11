@@ -4,7 +4,7 @@ created: 2025-12-22T11:28:29.942263
 updated: 2026-06-11T11:28:29.942263
 source: https://example917.com
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - code
   - note

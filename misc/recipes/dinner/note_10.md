@@ -3,7 +3,7 @@ title: Note 10 in misc - recipes - dinner
 created: 2024-07-28T11:28:29.783604
 updated: 2025-04-29T11:28:29.783604
 author: Grace Lee
-completed: False
+completed: no
 due: 2025-09-08T11:28:29.783604
 ---
 

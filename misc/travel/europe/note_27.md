@@ -3,7 +3,7 @@ title: Note 27 in misc - travel - europe
 created: 2023-11-15T11:28:29.791812
 updated: 2024-03-05T11:28:29.791812
 source: https://example944.com
-completed: True
+completed: yes
 due: 2025-01-21T11:28:29.791812
 tags:
   - idea

@@ -3,7 +3,7 @@ title: Note 54 in drafts - outlines - reports
 created: 2025-04-27T11:28:29.772624
 updated: 2025-08-07T11:28:29.772624
 source: https://example77.com
-completed: False
+completed: no
 tags:
   - design
   - finance

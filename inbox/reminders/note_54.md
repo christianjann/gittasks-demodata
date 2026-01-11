@@ -4,7 +4,7 @@ created: 2025-10-31T11:28:29.846257
 updated: 2025-12-13T11:28:29.846257
 source: https://example899.com
 author: Frank Miller
-completed: False
+completed: no
 due: 2026-07-09T11:28:29.846257
 tags:
   - urgent

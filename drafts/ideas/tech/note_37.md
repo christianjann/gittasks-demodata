@@ -3,7 +3,7 @@ title: Note 37 in drafts - ideas - tech
 created: 2025-12-21T11:28:29.753210
 updated: 2026-06-25T11:28:29.753210
 source: https://example802.com
-completed: True
+completed: yes
 tags:
   - shopping
   - travel

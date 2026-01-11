@@ -6,7 +6,7 @@ source: https://example956.com
 latitude: -59.7906
 longitude: -33.9915
 altitude: 2313
-completed: False
+completed: no
 due: 2027-02-23T11:28:29.571984
 tags:
   - misc

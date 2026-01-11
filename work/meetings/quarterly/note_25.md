@@ -3,7 +3,7 @@ title: Note 25 in work - meetings - quarterly
 created: 2025-11-08T11:28:29.625399
 updated: 2026-08-30T11:28:29.625399
 author: Charlie Brown
-completed: True
+completed: yes
 ---
 
 # Note 25 in work - meetings - quarterly

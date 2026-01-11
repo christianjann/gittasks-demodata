@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 30.2665
 longitude: -63.2078
 altitude: 1439
-completed: True
+completed: yes
 tags:
   - idea
   - shopping

@@ -2,7 +2,7 @@
 title: Note 53 in projects
 created: 2023-09-17T11:28:29.673810
 updated: 2023-12-10T11:28:29.673810
-completed: False
+completed: no
 ---
 
 # Note 53 in projects

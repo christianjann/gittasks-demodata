@@ -3,7 +3,7 @@ title: Note 61 in social
 created: 2025-07-05T11:28:29.936110
 updated: 2025-11-07T11:28:29.936110
 source: https://example157.com
-completed: False
+completed: no
 due: 2025-12-25T11:28:29.936110
 tags:
   - work

@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 59.5191
 longitude: -171.4858
 altitude: 1851
-completed: True
+completed: yes
 tags:
   - shopping
   - archive

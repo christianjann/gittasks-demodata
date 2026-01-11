@@ -2,7 +2,7 @@
 title: Note 23 in hobbies - reading
 created: 2024-09-23T11:28:29.978041
 updated: 2025-08-31T11:28:29.978041
-completed: True
+completed: yes
 tags:
   - idea
   - task

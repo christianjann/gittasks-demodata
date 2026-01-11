@@ -6,7 +6,7 @@ source: https://example920.com
 latitude: 11.9161
 longitude: 90.1014
 altitude: 2284
-completed: False
+completed: no
 tags:
   - finance
   - template

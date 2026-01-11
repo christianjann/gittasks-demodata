@@ -6,7 +6,7 @@ source: https://example472.com
 latitude: 33.6484
 longitude: 23.5347
 altitude: 1200
-completed: False
+completed: no
 due: 2026-01-30T11:28:29.710938
 tags:
   - work

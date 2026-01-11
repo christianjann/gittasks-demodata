@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -27.077
 longitude: -42.202
 altitude: 1594
-completed: False
+completed: no
 tags:
   - learning
   - health

@@ -4,7 +4,7 @@ created: 2023-10-31T11:28:29.764754
 updated: 2024-10-21T11:28:29.764754
 source: https://example927.com
 author: Eve Adams
-completed: True
+completed: yes
 due: 2025-01-14T11:28:29.764754
 tags:
   - health

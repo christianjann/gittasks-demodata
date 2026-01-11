@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 77.2677
 longitude: -149.8121
 altitude: 421
-completed: True
+completed: yes
 tags:
   - archive
   - finance

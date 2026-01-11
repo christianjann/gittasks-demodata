@@ -3,7 +3,7 @@ title: Note 40 in social - twitter
 created: 2024-10-25T11:28:29.939136
 updated: 2025-05-05T11:28:29.939136
 source: https://example191.com
-completed: False
+completed: no
 tags:
   - template
   - design

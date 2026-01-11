@@ -4,7 +4,7 @@ created: 2023-08-12T11:28:29.806472
 updated: 2024-03-17T11:28:29.806472
 source: https://example547.com
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - design
   - diary

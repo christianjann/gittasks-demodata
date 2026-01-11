@@ -3,7 +3,7 @@ title: Note 26 in hobbies - cooking
 created: 2024-04-22T11:28:29.982631
 updated: 2024-12-25T11:28:29.982631
 source: https://example72.com
-completed: False
+completed: no
 tags:
   - draft
   - event

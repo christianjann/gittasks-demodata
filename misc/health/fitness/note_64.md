@@ -4,7 +4,7 @@ created: 2024-10-17T11:28:29.803694
 updated: 2025-09-09T11:28:29.803694
 source: https://example743.com
 author: Diana Prince
-completed: True
+completed: yes
 tags:
   - social
   - finance

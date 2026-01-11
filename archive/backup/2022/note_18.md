@@ -3,7 +3,7 @@ title: Note 18 in archive - backup - 2022
 created: 2023-02-24T11:28:29.736855
 updated: 2023-03-16T11:28:29.736855
 source: https://example72.com
-completed: True
+completed: yes
 due: 2024-01-17T11:28:29.736855
 tags:
   - health

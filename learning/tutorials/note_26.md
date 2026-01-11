@@ -2,7 +2,7 @@
 title: Note 26 in learning - tutorials
 created: 2024-09-22T11:28:29.829718
 updated: 2025-06-17T11:28:29.829718
-completed: False
+completed: no
 tags:
   - diary
 ---

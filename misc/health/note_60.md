@@ -4,7 +4,7 @@ created: 2024-06-19T11:28:29.799880
 updated: 2024-08-09T11:28:29.799880
 source: https://example587.com
 author: Grace Lee
-completed: False
+completed: no
 due: 2024-08-16T11:28:29.799880
 tags:
   - archive

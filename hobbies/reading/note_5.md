@@ -2,7 +2,7 @@
 title: Note 5 in hobbies - reading
 created: 2024-11-26T11:28:29.976929
 updated: 2024-11-26T11:28:29.976929
-completed: False
+completed: no
 tags:
   - template
   - misc

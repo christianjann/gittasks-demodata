@@ -3,7 +3,7 @@ title: Note 58 in projects - design - graphics
 created: 2024-05-16T11:28:29.701070
 updated: 2024-09-23T11:28:29.701070
 source: https://example792.com
-completed: False
+completed: no
 due: 2025-09-15T11:28:29.701070
 ---
 

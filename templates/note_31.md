@@ -4,7 +4,7 @@ created: 2025-01-12T11:28:29.900085
 updated: 2025-10-04T11:28:29.900085
 source: https://example919.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2025-12-27T11:28:29.900085
 tags:
   - template

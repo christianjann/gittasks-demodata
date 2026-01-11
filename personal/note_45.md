@@ -3,7 +3,7 @@ title: Note 45 in personal
 created: 2025-07-12T11:28:29.564290
 updated: 2026-07-10T11:28:29.564290
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - archive
   - hobby

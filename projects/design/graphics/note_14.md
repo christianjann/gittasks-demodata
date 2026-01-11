@@ -4,7 +4,7 @@ created: 2024-12-12T11:28:29.698399
 updated: 2025-06-20T11:28:29.698399
 source: https://example889.com
 author: Bob Smith
-completed: False
+completed: no
 due: 2026-01-09T11:28:29.698399
 tags:
   - event

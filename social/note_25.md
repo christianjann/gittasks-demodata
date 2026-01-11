@@ -3,7 +3,7 @@ title: Note 25 in social
 created: 2024-02-19T11:28:29.933915
 updated: 2024-05-06T11:28:29.933915
 source: https://example112.com
-completed: True
+completed: yes
 due: 2024-07-06T11:28:29.933915
 tags:
   - research

@@ -2,7 +2,7 @@
 title: Note 41 in archive - old_notes - 2021
 created: 2025-02-10T11:28:29.732792
 updated: 2025-05-30T11:28:29.732792
-completed: True
+completed: yes
 tags:
   - shopping
 ---

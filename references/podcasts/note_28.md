@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: 36.6058
 longitude: -25.2887
 altitude: 4375
-completed: True
+completed: yes
 due: 2025-10-31T11:28:29.897113
 tags:
   - health

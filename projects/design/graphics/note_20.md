@@ -3,7 +3,7 @@ title: Note 20 in projects - design - graphics
 created: 2025-05-08T11:28:29.698776
 updated: 2026-04-30T11:28:29.698776
 source: https://example157.com
-completed: True
+completed: yes
 ---
 
 # Note 20 in projects - design - graphics

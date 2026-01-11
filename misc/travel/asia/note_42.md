@@ -3,7 +3,7 @@ title: Note 42 in misc - travel - asia
 created: 2025-07-01T11:28:29.796030
 updated: 2025-12-02T11:28:29.796030
 author: Diana Prince
-completed: False
+completed: no
 due: 2026-02-02T11:28:29.796030
 tags:
   - goal

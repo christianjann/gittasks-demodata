@@ -4,7 +4,7 @@ created: 2024-11-20T11:28:29.644631
 updated: 2025-01-02T11:28:29.644631
 source: https://example222.com
 author: Bob Smith
-completed: True
+completed: yes
 tags:
   - health
   - note

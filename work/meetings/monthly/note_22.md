@@ -6,7 +6,7 @@ source: https://example170.com
 latitude: -74.5823
 longitude: -37.0438
 altitude: 269
-completed: True
+completed: yes
 ---
 
 # Note 22 in work - meetings - monthly

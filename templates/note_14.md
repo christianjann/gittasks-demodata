@@ -3,7 +3,7 @@ title: Note 14 in templates
 created: 2023-04-14T11:28:29.898911
 updated: 2024-02-07T11:28:29.898911
 source: https://example634.com
-completed: True
+completed: yes
 due: 2024-04-05T11:28:29.898911
 ---
 

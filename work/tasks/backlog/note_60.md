@@ -3,7 +3,7 @@ title: Note 60 in work - tasks - backlog
 created: 2024-12-30T11:28:29.636812
 updated: 2025-03-06T11:28:29.636812
 source: https://example881.com
-completed: False
+completed: no
 due: 2025-10-19T11:28:29.636812
 tags:
   - note

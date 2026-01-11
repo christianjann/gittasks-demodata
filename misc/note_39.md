@@ -3,7 +3,7 @@ title: Note 39 in misc
 created: 2025-04-20T11:28:29.774820
 updated: 2025-07-21T11:28:29.774820
 author: Diana Prince
-completed: True
+completed: yes
 ---
 
 # Note 39 in misc

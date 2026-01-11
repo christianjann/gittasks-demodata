@@ -6,7 +6,7 @@ source: https://example561.com
 latitude: -65.308
 longitude: -54.9379
 altitude: 4739
-completed: False
+completed: no
 tags:
   - goal
 ---

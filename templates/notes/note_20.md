@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 23.5077
 longitude: 5.5865
 altitude: 43
-completed: True
+completed: yes
 due: 2025-11-16T11:28:29.903152
 tags:
   - travel

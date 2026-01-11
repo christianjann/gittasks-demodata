@@ -3,7 +3,7 @@ title: Note 21 in drafts - ideas - personal
 created: 2023-10-24T11:28:29.758550
 updated: 2024-10-14T11:28:29.758550
 author: Ivy Chen
-completed: False
+completed: no
 due: 2025-03-19T11:28:29.758550
 ---
 

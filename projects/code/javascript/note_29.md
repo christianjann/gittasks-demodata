@@ -3,7 +3,7 @@ title: Note 29 in projects - code - javascript
 created: 2023-07-24T11:28:29.683250
 updated: 2024-05-26T11:28:29.683250
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - event
   - design

@@ -2,7 +2,7 @@
 title: Note 15 in archive - old_notes - 2020
 created: 2025-02-25T11:28:29.726366
 updated: 2025-04-23T11:28:29.726366
-completed: False
+completed: no
 tags:
   - goal
   - event

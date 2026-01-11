@@ -3,7 +3,7 @@ title: Note 49 in archive
 created: 2025-03-04T11:28:29.718257
 updated: 2025-12-31T11:28:29.718257
 author: Bob Smith
-completed: True
+completed: yes
 due: 2026-03-18T11:28:29.718257
 ---
 

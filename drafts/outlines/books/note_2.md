@@ -4,7 +4,7 @@ created: 2024-01-02T11:28:29.764131
 updated: 2024-01-28T11:28:29.764131
 source: https://example337.com
 author: Eve Adams
-completed: True
+completed: yes
 due: 2024-10-16T11:28:29.764131
 tags:
   - personal

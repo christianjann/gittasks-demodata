@@ -5,7 +5,7 @@ updated: 2025-03-27T11:28:29.662459
 latitude: 41.3378
 longitude: -38.6406
 altitude: 2752
-completed: False
+completed: no
 tags:
   - archive
   - health

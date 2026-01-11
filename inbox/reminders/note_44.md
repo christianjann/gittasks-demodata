@@ -3,7 +3,7 @@ title: Note 44 in inbox - reminders
 created: 2025-01-30T11:28:29.845600
 updated: 2025-06-22T11:28:29.845600
 author: Ivy Chen
-completed: False
+completed: no
 due: 2026-02-11T11:28:29.845600
 ---
 

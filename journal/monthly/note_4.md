@@ -6,7 +6,7 @@ source: https://example15.com
 latitude: -79.8994
 longitude: 16.9355
 altitude: 289
-completed: True
+completed: yes
 due: 2025-05-21T11:28:29.874615
 tags:
   - urgent

@@ -3,7 +3,7 @@ title: Note 4 in shopping
 created: 2024-09-03T11:28:29.959843
 updated: 2025-07-11T11:28:29.959843
 source: https://example659.com
-completed: True
+completed: yes
 tags:
   - work
   - thought

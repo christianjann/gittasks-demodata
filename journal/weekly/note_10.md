@@ -3,7 +3,7 @@ title: Note 10 in journal - weekly
 created: 2025-01-01T11:28:29.871887
 updated: 2025-12-17T11:28:29.871887
 author: Henry Wilson
-completed: False
+completed: no
 due: 2026-06-03T11:28:29.871887
 tags:
   - goal

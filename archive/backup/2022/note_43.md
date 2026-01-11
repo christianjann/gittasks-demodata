@@ -2,7 +2,7 @@
 title: Note 43 in archive - backup - 2022
 created: 2023-08-18T11:28:29.738322
 updated: 2023-11-11T11:28:29.738322
-completed: True
+completed: yes
 ---
 
 # Note 43 in archive - backup - 2022

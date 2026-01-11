@@ -4,7 +4,7 @@ created: 2024-06-25T11:28:29.786297
 updated: 2024-07-29T11:28:29.786297
 source: https://example459.com
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - event
   - design

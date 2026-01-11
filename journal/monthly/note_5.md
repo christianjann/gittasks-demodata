@@ -3,7 +3,7 @@ title: Note 5 in journal - monthly
 created: 2024-06-06T11:28:29.874675
 updated: 2025-05-20T11:28:29.874675
 source: https://example859.com
-completed: True
+completed: yes
 due: 2025-09-10T11:28:29.874675
 tags:
   - code

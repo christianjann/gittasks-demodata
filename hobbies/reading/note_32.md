@@ -3,7 +3,7 @@ title: Note 32 in hobbies - reading
 created: 2025-12-17T11:28:29.978743
 updated: 2026-09-16T11:28:29.978743
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - work
   - design

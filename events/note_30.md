@@ -2,7 +2,7 @@
 title: Note 30 in events
 created: 2025-09-21T11:28:29.948312
 updated: 2026-06-23T11:28:29.948312
-completed: True
+completed: yes
 due: 2026-07-18T11:28:29.948312
 tags:
   - idea

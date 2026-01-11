@@ -6,7 +6,7 @@ source: https://example170.com
 latitude: -12.3867
 longitude: 133.6859
 altitude: 3540
-completed: True
+completed: yes
 due: 2025-02-25T11:28:29.859046
 tags:
   - draft

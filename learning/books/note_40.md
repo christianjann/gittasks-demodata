@@ -3,7 +3,7 @@ title: Note 40 in learning - books
 created: 2023-03-05T11:28:29.821013
 updated: 2023-12-02T11:28:29.821013
 source: https://example830.com
-completed: True
+completed: yes
 due: 2024-05-19T11:28:29.821013
 tags:
   - social

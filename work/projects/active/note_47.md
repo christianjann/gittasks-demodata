@@ -3,7 +3,7 @@ title: Note 47 in work - projects - active
 created: 2025-02-17T11:28:29.650345
 updated: 2025-09-08T11:28:29.650345
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - work
 ---

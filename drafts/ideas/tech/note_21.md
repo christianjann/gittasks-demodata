@@ -6,7 +6,7 @@ source: https://example757.com
 latitude: 54.8656
 longitude: -173.1607
 altitude: 4608
-completed: False
+completed: no
 due: 2026-05-23T11:28:29.752113
 tags:
   - template

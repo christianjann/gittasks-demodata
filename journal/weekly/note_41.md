@@ -3,7 +3,7 @@ title: Note 41 in journal - weekly
 created: 2024-07-31T11:28:29.873666
 updated: 2024-11-03T11:28:29.873666
 source: https://example917.com
-completed: True
+completed: yes
 due: 2025-01-20T11:28:29.873666
 tags:
   - travel

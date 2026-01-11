@@ -2,7 +2,7 @@
 title: Note 16 in misc - travel - asia
 created: 2025-08-09T11:28:29.794367
 updated: 2025-09-18T11:28:29.794367
-completed: False
+completed: no
 due: 2026-03-01T11:28:29.794367
 tags:
   - idea

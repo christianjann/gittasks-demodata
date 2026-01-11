@@ -4,7 +4,7 @@ created: 2025-01-16T11:28:29.884806
 updated: 2025-04-12T11:28:29.884806
 source: https://example93.com
 author: Diana Prince
-completed: True
+completed: yes
 due: 2025-05-06T11:28:29.884806
 tags:
   - research

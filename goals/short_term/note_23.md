@@ -3,7 +3,7 @@ title: Note 23 in goals - short_term
 created: 2025-08-19T11:28:29.854295
 updated: 2026-04-03T11:28:29.854295
 source: https://example26.com
-completed: False
+completed: no
 due: 2026-08-15T11:28:29.854295
 tags:
   - diary

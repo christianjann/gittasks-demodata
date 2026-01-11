@@ -3,7 +3,7 @@ title: Note 59 in templates - meetings
 created: 2024-05-19T11:28:29.911561
 updated: 2024-12-30T11:28:29.911561
 author: Grace Lee
-completed: False
+completed: no
 ---
 
 # Note 59 in templates - meetings

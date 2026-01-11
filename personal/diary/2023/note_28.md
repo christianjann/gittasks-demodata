@@ -4,7 +4,7 @@ created: 2023-10-08T11:28:29.571270
 updated: 2023-12-23T11:28:29.571270
 source: https://example424.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - urgent
   - finance

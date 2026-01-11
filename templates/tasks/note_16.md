@@ -4,7 +4,7 @@ created: 2025-09-18T11:28:29.905370
 updated: 2025-11-30T11:28:29.905370
 source: https://example556.com
 author: Grace Lee
-completed: False
+completed: no
 due: 2026-01-05T11:28:29.905370
 tags:
   - misc

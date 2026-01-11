@@ -6,7 +6,7 @@ author: Diana Prince
 latitude: 47.319
 longitude: -67.5002
 altitude: 4652
-completed: False
+completed: no
 due: 2026-12-12T11:28:29.870768
 tags:
   - urgent

@@ -2,7 +2,7 @@
 title: Note 22 in work - hr - policies
 created: 2025-02-02T11:28:29.664906
 updated: 2025-12-21T11:28:29.664906
-completed: True
+completed: yes
 due: 2026-02-07T11:28:29.664906
 ---
 

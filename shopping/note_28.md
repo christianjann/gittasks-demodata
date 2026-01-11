@@ -4,7 +4,7 @@ created: 2025-06-28T11:28:29.961363
 updated: 2026-03-02T11:28:29.961363
 source: https://example959.com
 author: Diana Prince
-completed: True
+completed: yes
 tags:
   - travel
   - urgent

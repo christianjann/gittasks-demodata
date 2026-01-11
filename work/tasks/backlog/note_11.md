@@ -6,7 +6,7 @@ source: https://example850.com
 latitude: -78.9445
 longitude: 49.6087
 altitude: 3916
-completed: False
+completed: no
 tags:
   - task
   - draft

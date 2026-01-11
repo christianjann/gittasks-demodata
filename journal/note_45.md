@@ -4,7 +4,7 @@ created: 2024-03-24T11:28:29.866903
 updated: 2024-06-22T11:28:29.866903
 source: https://example613.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - reference
 ---

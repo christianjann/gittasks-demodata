@@ -3,7 +3,7 @@ title: Note 23 in journal - weekly
 created: 2023-06-21T11:28:29.872691
 updated: 2023-11-05T11:28:29.872691
 source: https://example770.com
-completed: True
+completed: yes
 tags:
   - social
   - idea

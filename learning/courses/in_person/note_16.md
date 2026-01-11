@@ -3,7 +3,7 @@ title: Note 16 in learning - courses - in_person
 created: 2023-07-01T11:28:29.815790
 updated: 2023-11-13T11:28:29.815790
 source: https://example491.com
-completed: False
+completed: no
 tags:
   - work
   - personal

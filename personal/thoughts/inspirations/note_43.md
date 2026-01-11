@@ -5,7 +5,7 @@ updated: 2024-03-12T11:28:29.589381
 latitude: -49.669
 longitude: 70.0908
 altitude: 2983
-completed: True
+completed: yes
 tags:
   - journal
   - health

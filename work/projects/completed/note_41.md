@@ -3,7 +3,7 @@ title: Note 41 in work - projects - completed
 created: 2025-02-21T11:28:29.653135
 updated: 2025-11-23T11:28:29.653135
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - thought
   - journal

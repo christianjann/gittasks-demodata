@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: -44.9266
 longitude: 136.9036
 altitude: 4252
-completed: False
+completed: no
 due: 2024-04-21T11:28:29.886754
 ---
 

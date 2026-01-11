@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -62.6087
 longitude: 91.8623
 altitude: 1987
-completed: False
+completed: no
 tags:
   - diary
   - event

@@ -3,7 +3,7 @@ title: Note 40 in drafts - outlines - books
 created: 2023-01-24T11:28:29.766168
 updated: 2023-08-11T11:28:29.766168
 source: https://example19.com
-completed: False
+completed: no
 due: 2024-04-07T11:28:29.766168
 tags:
   - journal

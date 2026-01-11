@@ -2,7 +2,7 @@
 title: Note 13 in templates - meetings
 created: 2024-03-04T11:28:29.908806
 updated: 2024-09-07T11:28:29.908806
-completed: True
+completed: yes
 ---
 
 # Note 13 in templates - meetings

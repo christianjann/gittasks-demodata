@@ -3,7 +3,7 @@ title: Note 19 in misc - health - mental
 created: 2024-08-16T11:28:29.805010
 updated: 2025-04-19T11:28:29.805010
 source: https://example704.com
-completed: True
+completed: yes
 tags:
   - thought
   - hobby

@@ -2,7 +2,7 @@
 title: Note 50 in learning - books - non_fiction
 created: 2024-09-30T11:28:29.826899
 updated: 2025-01-30T11:28:29.826899
-completed: True
+completed: yes
 tags:
   - meeting
   - draft

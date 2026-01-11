@@ -4,7 +4,7 @@ created: 2024-02-18T11:28:29.820498
 updated: 2024-08-07T11:28:29.820498
 source: https://example31.com
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - archive
   - reference

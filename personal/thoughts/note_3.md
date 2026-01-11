@@ -3,7 +3,7 @@ title: Note 3 in personal - thoughts
 created: 2024-11-19T11:28:29.579531
 updated: 2024-11-20T11:28:29.579531
 source: https://example672.com
-completed: False
+completed: no
 due: 2025-01-06T11:28:29.579531
 tags:
   - social

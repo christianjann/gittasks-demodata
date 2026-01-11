@@ -6,7 +6,7 @@ source: https://example596.com
 latitude: -74.5975
 longitude: -110.3217
 altitude: 3663
-completed: True
+completed: yes
 tags:
   - code
   - blog

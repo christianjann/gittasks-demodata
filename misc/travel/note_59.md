@@ -3,7 +3,7 @@ title: Note 59 in misc - travel
 created: 2025-08-17T11:28:29.790175
 updated: 2026-07-01T11:28:29.790175
 source: https://example461.com
-completed: True
+completed: yes
 tags:
   - blog
   - thought

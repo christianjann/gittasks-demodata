@@ -3,7 +3,7 @@ title: Note 1 in projects - design
 created: 2024-03-02T11:28:29.690458
 updated: 2024-12-10T11:28:29.690458
 source: https://example910.com
-completed: False
+completed: no
 ---
 
 # Note 1 in projects - design

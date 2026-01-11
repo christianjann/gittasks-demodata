@@ -5,7 +5,7 @@ updated: 2024-10-01T11:28:29.767628
 latitude: 26.1405
 longitude: 6.4683
 altitude: 3756
-completed: True
+completed: yes
 tags:
   - diary
   - blog

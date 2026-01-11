@@ -3,7 +3,7 @@ title: Note 7 in learning - courses - in_person
 created: 2025-07-26T11:28:29.815287
 updated: 2026-01-05T11:28:29.815287
 source: https://example358.com
-completed: False
+completed: no
 tags:
   - research
   - travel

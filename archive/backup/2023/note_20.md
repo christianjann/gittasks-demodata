@@ -5,7 +5,7 @@ updated: 2025-02-17T11:28:29.739929
 latitude: -35.4344
 longitude: -71.7252
 altitude: 694
-completed: True
+completed: yes
 due: 2025-07-18T11:28:29.739929
 tags:
   - design

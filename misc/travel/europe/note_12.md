@@ -4,7 +4,7 @@ created: 2024-06-17T11:28:29.790956
 updated: 2025-04-03T11:28:29.790956
 source: https://example63.com
 author: Bob Smith
-completed: True
+completed: yes
 due: 2026-02-28T11:28:29.790956
 tags:
   - social

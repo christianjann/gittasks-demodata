@@ -4,7 +4,7 @@ created: 2024-12-24T11:28:29.664199
 updated: 2025-08-09T11:28:29.664199
 source: https://example470.com
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - finance
   - work

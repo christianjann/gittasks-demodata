@@ -6,7 +6,7 @@ source: https://example325.com
 latitude: -89.4319
 longitude: 81.2507
 altitude: 4337
-completed: True
+completed: yes
 tags:
   - blog
   - social

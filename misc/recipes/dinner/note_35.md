@@ -4,7 +4,7 @@ created: 2025-04-28T11:28:29.785000
 updated: 2026-01-16T11:28:29.785000
 source: https://example977.com
 author: Bob Smith
-completed: True
+completed: yes
 ---
 
 # Note 35 in misc - recipes - dinner

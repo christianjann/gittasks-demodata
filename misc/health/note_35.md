@@ -3,7 +3,7 @@ title: Note 35 in misc - health
 created: 2023-03-24T11:28:29.798372
 updated: 2023-12-21T11:28:29.798372
 source: https://example532.com
-completed: True
+completed: yes
 due: 2024-01-24T11:28:29.798372
 tags:
   - misc

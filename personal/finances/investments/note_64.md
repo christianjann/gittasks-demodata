@@ -2,7 +2,7 @@
 title: Note 64 in personal - finances - investments
 created: 2025-04-27T11:28:29.612537
 updated: 2025-05-20T11:28:29.612537
-completed: True
+completed: yes
 tags:
   - template
   - health

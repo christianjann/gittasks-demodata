@@ -3,7 +3,7 @@ title: Note 31 in hobbies - gaming
 created: 2025-09-12T11:28:29.975776
 updated: 2026-09-09T11:28:29.975776
 source: https://example639.com
-completed: True
+completed: yes
 tags:
   - travel
   - shopping

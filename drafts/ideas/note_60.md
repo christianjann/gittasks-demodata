@@ -2,7 +2,7 @@
 title: Note 60 in drafts - ideas
 created: 2025-06-08T11:28:29.750297
 updated: 2026-01-16T11:28:29.750297
-completed: True
+completed: yes
 due: 2026-08-15T11:28:29.750297
 tags:
   - archive

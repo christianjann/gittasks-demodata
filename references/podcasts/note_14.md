@@ -2,7 +2,7 @@
 title: Note 14 in references - podcasts
 created: 2025-02-15T11:28:29.896032
 updated: 2025-04-08T11:28:29.896032
-completed: True
+completed: yes
 tags:
   - thought
   - urgent

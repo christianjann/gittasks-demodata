@@ -4,7 +4,7 @@ created: 2025-09-04T11:28:29.903857
 updated: 2025-09-30T11:28:29.903857
 source: https://example609.com
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2025-10-18T11:28:29.903857
 tags:
   - meeting

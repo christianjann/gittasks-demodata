@@ -2,7 +2,7 @@
 title: Note 42 in personal - thoughts - inspirations
 created: 2025-06-01T11:28:29.589322
 updated: 2026-04-07T11:28:29.589322
-completed: False
+completed: no
 due: 2026-06-19T11:28:29.589322
 tags:
   - draft

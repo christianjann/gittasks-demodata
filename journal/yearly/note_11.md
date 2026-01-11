@@ -6,7 +6,7 @@ source: https://example992.com
 latitude: 35.4033
 longitude: 83.9245
 altitude: 4195
-completed: False
+completed: no
 due: 2025-12-03T11:28:29.877702
 tags:
   - diary

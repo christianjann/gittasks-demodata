@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: 36.197
 longitude: 136.8534
 altitude: 1246
-completed: True
+completed: yes
 due: 2024-11-09T11:28:29.682306
 ---
 

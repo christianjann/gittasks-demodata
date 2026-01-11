@@ -3,7 +3,7 @@ title: Note 27 in misc - travel - asia
 created: 2025-11-09T11:28:29.795148
 updated: 2026-08-11T11:28:29.795148
 author: Henry Wilson
-completed: True
+completed: yes
 ---
 
 # Note 27 in misc - travel - asia

@@ -6,7 +6,7 @@ source: https://example654.com
 latitude: -60.1074
 longitude: -93.1009
 altitude: 2810
-completed: False
+completed: no
 tags:
   - hobby
   - meeting

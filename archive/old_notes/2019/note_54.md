@@ -4,7 +4,7 @@ created: 2023-02-15T11:28:29.724978
 updated: 2023-09-30T11:28:29.724978
 source: https://example945.com
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - misc
   - design

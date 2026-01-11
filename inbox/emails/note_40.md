@@ -2,7 +2,7 @@
 title: Note 40 in inbox - emails
 created: 2024-09-02T11:28:29.848834
 updated: 2025-01-28T11:28:29.848834
-completed: True
+completed: yes
 due: 2025-07-03T11:28:29.848834
 tags:
   - thought

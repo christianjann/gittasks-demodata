@@ -2,7 +2,7 @@
 title: Note 39 in goals - long_term
 created: 2024-10-27T11:28:29.859225
 updated: 2025-09-12T11:28:29.859225
-completed: False
+completed: no
 due: 2026-06-11T11:28:29.859225
 tags:
   - work

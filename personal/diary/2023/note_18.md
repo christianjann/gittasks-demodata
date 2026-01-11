@@ -4,7 +4,7 @@ created: 2025-11-21T11:28:29.570521
 updated: 2026-08-28T11:28:29.570521
 source: https://example422.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - code
   - urgent

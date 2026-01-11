@@ -3,7 +3,7 @@ title: Note 4 in drafts - ideas
 created: 2024-11-10T11:28:29.746978
 updated: 2025-04-21T11:28:29.746978
 source: https://example822.com
-completed: False
+completed: no
 due: 2025-08-12T11:28:29.746978
 tags:
   - task

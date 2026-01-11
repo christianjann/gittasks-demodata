@@ -3,7 +3,7 @@ title: Note 6 in misc
 created: 2025-03-05T11:28:29.772969
 updated: 2025-06-22T11:28:29.772969
 source: https://example865.com
-completed: True
+completed: yes
 due: 2025-11-05T11:28:29.772969
 tags:
   - archive

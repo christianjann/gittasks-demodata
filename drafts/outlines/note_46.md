@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 14.5271
 longitude: -175.4866
 altitude: 515
-completed: True
+completed: yes
 tags:
   - personal
   - thought

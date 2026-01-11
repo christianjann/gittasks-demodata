@@ -3,7 +3,7 @@ title: Note 16 in inbox
 created: 2025-03-05T11:28:29.837304
 updated: 2025-12-08T11:28:29.837304
 source: https://example387.com
-completed: False
+completed: no
 ---
 
 # Note 16 in inbox

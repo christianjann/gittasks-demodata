@@ -5,7 +5,7 @@ updated: 2025-06-27T11:28:29.914753
 latitude: 44.8074
 longitude: -54.9389
 altitude: 4306
-completed: True
+completed: yes
 tags:
   - hobby
   - misc

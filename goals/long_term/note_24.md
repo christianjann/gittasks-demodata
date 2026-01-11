@@ -3,7 +3,7 @@ title: Note 24 in goals - long_term
 created: 2024-07-04T11:28:29.858330
 updated: 2025-02-08T11:28:29.858330
 author: Alice Johnson
-completed: False
+completed: no
 ---
 
 # Note 24 in goals - long_term

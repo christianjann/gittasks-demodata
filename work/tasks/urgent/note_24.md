@@ -5,7 +5,7 @@ updated: 2024-06-25T11:28:29.631514
 latitude: 18.4042
 longitude: -52.7743
 altitude: 2263
-completed: False
+completed: no
 tags:
   - urgent
   - draft

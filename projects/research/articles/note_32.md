@@ -3,7 +3,7 @@ title: Note 32 in projects - research - articles
 created: 2024-04-23T11:28:29.709496
 updated: 2024-07-28T11:28:29.709496
 author: Bob Smith
-completed: False
+completed: no
 ---
 
 # Note 32 in projects - research - articles

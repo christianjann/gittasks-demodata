@@ -3,7 +3,7 @@ title: Note 18 in work - meetings - monthly
 created: 2024-07-04T11:28:29.622473
 updated: 2024-07-29T11:28:29.622473
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - template
   - shopping

@@ -3,7 +3,7 @@ title: Note 37 in blog - published
 created: 2023-09-20T11:28:29.926652
 updated: 2023-09-22T11:28:29.926652
 source: https://example711.com
-completed: False
+completed: no
 tags:
   - journal
   - reference

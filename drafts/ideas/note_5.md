@@ -3,7 +3,7 @@ title: Note 5 in drafts - ideas
 created: 2024-05-19T11:28:29.747036
 updated: 2024-08-15T11:28:29.747036
 source: https://example505.com
-completed: False
+completed: no
 due: 2024-10-06T11:28:29.747036
 tags:
   - idea

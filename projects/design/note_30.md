@@ -2,7 +2,7 @@
 title: Note 30 in projects - design
 created: 2024-05-22T11:28:29.692245
 updated: 2025-01-10T11:28:29.692245
-completed: False
+completed: no
 tags:
   - archive
   - code

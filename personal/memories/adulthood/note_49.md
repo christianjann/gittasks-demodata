@@ -3,7 +3,7 @@ title: Note 49 in personal - memories - adulthood
 created: 2024-03-14T11:28:29.601049
 updated: 2025-02-13T11:28:29.601049
 source: https://example546.com
-completed: False
+completed: no
 due: 2025-10-04T11:28:29.601049
 tags:
   - research

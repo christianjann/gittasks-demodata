@@ -3,7 +3,7 @@ title: Note 4 in archive
 created: 2023-11-12T11:28:29.714955
 updated: 2024-09-11T11:28:29.714955
 author: Diana Prince
-completed: False
+completed: no
 due: 2025-01-31T11:28:29.714955
 ---
 

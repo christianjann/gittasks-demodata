@@ -3,7 +3,7 @@ title: Note 64 in personal - thoughts - random
 created: 2023-12-23T11:28:29.586358
 updated: 2024-09-21T11:28:29.586358
 author: Eve Adams
-completed: False
+completed: no
 ---
 
 # Note 64 in personal - thoughts - random

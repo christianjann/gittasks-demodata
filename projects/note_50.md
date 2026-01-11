@@ -6,7 +6,7 @@ source: https://example313.com
 latitude: 48.0686
 longitude: -119.4147
 altitude: 3813
-completed: False
+completed: no
 tags:
   - shopping
   - recipe

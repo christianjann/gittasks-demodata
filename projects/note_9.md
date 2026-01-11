@@ -2,7 +2,7 @@
 title: Note 9 in projects
 created: 2023-05-12T11:28:29.670897
 updated: 2024-01-22T11:28:29.670897
-completed: False
+completed: no
 due: 2024-09-20T11:28:29.670897
 tags:
   - finance

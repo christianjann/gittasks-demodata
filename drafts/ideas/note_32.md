@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: -46.8122
 longitude: 134.0973
 altitude: 3417
-completed: True
+completed: yes
 tags:
   - hobby
 ---

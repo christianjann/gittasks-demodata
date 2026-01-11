@@ -3,7 +3,7 @@ title: Note 16 in drafts
 created: 2023-04-27T11:28:29.743542
 updated: 2024-01-28T11:28:29.743542
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - diary
   - idea

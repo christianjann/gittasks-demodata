@@ -3,7 +3,7 @@ title: Note 51 in work - hr - training
 created: 2023-03-10T11:28:29.670248
 updated: 2023-08-30T11:28:29.670248
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - task
   - personal

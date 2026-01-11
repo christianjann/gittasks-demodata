@@ -2,7 +2,7 @@
 title: Note 20 in drafts - ideas - business
 created: 2023-09-13T11:28:29.754856
 updated: 2023-12-15T11:28:29.754856
-completed: True
+completed: yes
 due: 2024-05-19T11:28:29.754856
 tags:
   - goal

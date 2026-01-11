@@ -3,7 +3,7 @@ title: Note 30 in work - meetings - weekly
 created: 2024-12-11T11:28:29.620063
 updated: 2025-02-04T11:28:29.620063
 source: https://example123.com
-completed: False
+completed: no
 tags:
   - meeting
   - template

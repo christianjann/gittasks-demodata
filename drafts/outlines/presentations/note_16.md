@@ -4,7 +4,7 @@ created: 2023-03-30T11:28:29.767026
 updated: 2023-11-13T11:28:29.767026
 source: https://example114.com
 author: Henry Wilson
-completed: True
+completed: yes
 ---
 
 # Note 16 in drafts - outlines - presentations

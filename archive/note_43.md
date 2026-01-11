@@ -4,7 +4,7 @@ created: 2023-08-22T11:28:29.717898
 updated: 2023-11-16T11:28:29.717898
 source: https://example524.com
 author: Frank Miller
-completed: False
+completed: no
 due: 2024-06-29T11:28:29.717898
 tags:
   - meeting

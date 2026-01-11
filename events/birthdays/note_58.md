@@ -6,7 +6,7 @@ source: https://example231.com
 latitude: -41.4903
 longitude: 126.5309
 altitude: 821
-completed: False
+completed: no
 due: 2025-07-29T11:28:29.958819
 tags:
   - blog

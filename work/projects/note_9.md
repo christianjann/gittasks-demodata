@@ -3,7 +3,7 @@ title: Note 9 in work - projects
 created: 2025-01-28T11:28:29.642603
 updated: 2025-07-07T11:28:29.642603
 source: https://example740.com
-completed: True
+completed: yes
 tags:
   - blog
   - hobby

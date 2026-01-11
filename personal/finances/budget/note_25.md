@@ -6,7 +6,7 @@ source: https://example159.com
 latitude: 81.9852
 longitude: 1.8356
 altitude: 3229
-completed: False
+completed: no
 due: 2026-08-17T11:28:29.606988
 tags:
   - personal

@@ -3,7 +3,7 @@ title: Note 37 in drafts - ideas - personal
 created: 2024-03-16T11:28:29.759450
 updated: 2024-05-20T11:28:29.759450
 source: https://example458.com
-completed: True
+completed: yes
 due: 2024-10-18T11:28:29.759450
 ---
 

@@ -4,7 +4,7 @@ created: 2025-01-18T11:28:29.929724
 updated: 2025-09-30T11:28:29.929724
 source: https://example414.com
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - research
   - diary

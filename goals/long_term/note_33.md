@@ -6,7 +6,7 @@ source: https://example713.com
 latitude: -0.8629
 longitude: -21.0987
 altitude: 538
-completed: False
+completed: no
 due: 2024-02-02T11:28:29.858871
 tags:
   - finance

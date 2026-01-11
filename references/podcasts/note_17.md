@@ -4,7 +4,7 @@ created: 2025-09-06T11:28:29.896269
 updated: 2025-11-30T11:28:29.896269
 source: https://example314.com
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - research
   - work

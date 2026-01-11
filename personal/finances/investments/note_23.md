@@ -4,7 +4,7 @@ created: 2024-05-15T11:28:29.610110
 updated: 2025-05-10T11:28:29.610110
 source: https://example196.com
 author: Grace Lee
-completed: False
+completed: no
 due: 2026-02-09T11:28:29.610110
 ---
 

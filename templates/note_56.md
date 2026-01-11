@@ -3,7 +3,7 @@ title: Note 56 in templates
 created: 2025-10-04T11:28:29.901646
 updated: 2026-07-06T11:28:29.901646
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - diary
   - social

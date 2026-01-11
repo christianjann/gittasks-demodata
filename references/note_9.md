@@ -4,7 +4,7 @@ created: 2023-06-24T11:28:29.881146
 updated: 2023-08-06T11:28:29.881146
 source: https://example233.com
 author: Charlie Brown
-completed: False
+completed: no
 due: 2023-12-01T11:28:29.881146
 tags:
   - misc

@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -19.5087
 longitude: -37.1448
 altitude: 3840
-completed: True
+completed: yes
 tags:
   - goal
   - travel

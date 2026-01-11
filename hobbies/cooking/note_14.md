@@ -3,7 +3,7 @@ title: Note 14 in hobbies - cooking
 created: 2023-03-19T11:28:29.981947
 updated: 2023-07-21T11:28:29.981947
 source: https://example158.com
-completed: True
+completed: yes
 due: 2024-03-19T11:28:29.981947
 tags:
   - travel

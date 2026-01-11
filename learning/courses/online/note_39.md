@@ -3,7 +3,7 @@ title: Note 39 in learning - courses - online
 created: 2023-08-22T11:28:29.814520
 updated: 2024-06-15T11:28:29.814520
 source: https://example165.com
-completed: True
+completed: yes
 ---
 
 # Note 39 in learning - courses - online

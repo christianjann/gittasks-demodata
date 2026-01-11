@@ -2,7 +2,7 @@
 title: Note 30 in drafts
 created: 2024-05-07T11:28:29.744517
 updated: 2025-04-22T11:28:29.744517
-completed: False
+completed: no
 due: 2026-02-20T11:28:29.744517
 tags:
   - recipe

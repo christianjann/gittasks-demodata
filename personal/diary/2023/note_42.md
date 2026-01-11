@@ -3,7 +3,7 @@ title: Note 42 in personal - diary - 2023
 created: 2023-08-07T11:28:29.572271
 updated: 2024-02-13T11:28:29.572271
 source: https://example740.com
-completed: False
+completed: no
 due: 2024-03-20T11:28:29.572271
 ---
 

@@ -3,7 +3,7 @@ title: Note 45 in blog - ideas
 created: 2023-07-04T11:28:29.931167
 updated: 2024-01-15T11:28:29.931167
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - social
   - meeting

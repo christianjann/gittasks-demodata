@@ -2,7 +2,7 @@
 title: Note 16 in misc - travel - europe
 created: 2023-10-29T11:28:29.791189
 updated: 2023-11-22T11:28:29.791189
-completed: False
+completed: no
 due: 2024-03-15T11:28:29.791189
 tags:
   - archive

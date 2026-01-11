@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: -5.2167
 longitude: 149.6338
 altitude: 254
-completed: True
+completed: yes
 due: 2026-07-28T11:28:29.618855
 tags:
   - shopping

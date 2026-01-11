@@ -3,7 +3,7 @@ title: Note 12 in work - projects
 created: 2023-09-13T11:28:29.642788
 updated: 2024-03-03T11:28:29.642788
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - blog
   - shopping

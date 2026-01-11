@@ -3,7 +3,7 @@ title: Note 2 in hobbies - cooking
 created: 2023-06-19T11:28:29.981238
 updated: 2023-11-11T11:28:29.981238
 source: https://example571.com
-completed: False
+completed: no
 due: 2024-05-01T11:28:29.981238
 tags:
   - journal

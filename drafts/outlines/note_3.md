@@ -4,7 +4,7 @@ created: 2024-11-14T11:28:29.759802
 updated: 2025-09-21T11:28:29.759802
 source: https://example677.com
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - note
   - finance

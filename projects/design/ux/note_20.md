@@ -5,7 +5,7 @@ updated: 2024-11-26T11:28:29.696532
 latitude: 11.4428
 longitude: 7.4344
 altitude: 2756
-completed: False
+completed: no
 due: 2025-07-04T11:28:29.696532
 tags:
   - urgent

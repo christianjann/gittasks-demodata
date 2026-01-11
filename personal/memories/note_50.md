@@ -3,7 +3,7 @@ title: Note 50 in personal - memories
 created: 2023-07-15T11:28:29.593318
 updated: 2024-01-11T11:28:29.593318
 author: Alice Johnson
-completed: False
+completed: no
 due: 2024-11-22T11:28:29.593318
 tags:
   - code

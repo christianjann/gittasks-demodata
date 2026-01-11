@@ -5,7 +5,7 @@ updated: 2026-07-26T11:28:29.874942
 latitude: 74.6315
 longitude: 107.8476
 altitude: 713
-completed: True
+completed: yes
 tags:
   - social
 ---

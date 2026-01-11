@@ -2,7 +2,7 @@
 title: Note 3 in archive - old_notes
 created: 2025-08-20T11:28:29.719296
 updated: 2026-08-06T11:28:29.719296
-completed: False
+completed: no
 due: 2027-07-11T11:28:29.719296
 tags:
   - shopping

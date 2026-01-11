@@ -4,7 +4,7 @@ created: 2025-03-04T11:28:29.856993
 updated: 2025-04-15T11:28:29.856993
 source: https://example614.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - draft
   - template

@@ -3,7 +3,7 @@ title: Note 27 in goals
 created: 2024-06-25T11:28:29.851716
 updated: 2024-08-29T11:28:29.851716
 source: https://example583.com
-completed: False
+completed: no
 due: 2025-01-07T11:28:29.851716
 ---
 

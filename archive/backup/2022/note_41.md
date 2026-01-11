@@ -3,7 +3,7 @@ title: Note 41 in archive - backup - 2022
 created: 2025-07-28T11:28:29.738211
 updated: 2026-05-25T11:28:29.738211
 source: https://example762.com
-completed: False
+completed: no
 due: 2027-01-17T11:28:29.738211
 tags:
   - thought

@@ -5,7 +5,7 @@ updated: 2025-06-20T11:28:29.689515
 latitude: -67.5378
 longitude: 13.3886
 altitude: 822
-completed: True
+completed: yes
 due: 2025-07-31T11:28:29.689515
 tags:
   - work

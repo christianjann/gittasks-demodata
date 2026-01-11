@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 65.1032
 longitude: -130.5528
 altitude: 1852
-completed: True
+completed: yes
 tags:
   - event
   - hobby

@@ -6,7 +6,7 @@ source: https://example793.com
 latitude: 67.7015
 longitude: -155.2131
 altitude: 4211
-completed: True
+completed: yes
 tags:
   - event
   - travel

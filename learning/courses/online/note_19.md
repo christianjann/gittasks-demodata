@@ -4,7 +4,7 @@ created: 2024-02-26T11:28:29.813377
 updated: 2024-12-16T11:28:29.813377
 source: https://example357.com
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - urgent
   - recipe

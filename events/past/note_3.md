@@ -2,7 +2,7 @@
 title: Note 3 in events - past
 created: 2026-01-09T11:28:29.952394
 updated: 2026-02-11T11:28:29.952394
-completed: False
+completed: no
 due: 2026-04-24T11:28:29.952394
 ---
 

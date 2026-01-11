@@ -2,7 +2,7 @@
 title: Note 17 in drafts - ideas - personal
 created: 2024-05-06T11:28:29.758339
 updated: 2025-04-29T11:28:29.758339
-completed: True
+completed: yes
 ---
 
 # Note 17 in drafts - ideas - personal

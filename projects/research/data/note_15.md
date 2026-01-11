@@ -4,7 +4,7 @@ created: 2025-05-30T11:28:29.712153
 updated: 2025-08-26T11:28:29.712153
 source: https://example235.com
 author: Grace Lee
-completed: False
+completed: no
 tags:
   - draft
   - diary

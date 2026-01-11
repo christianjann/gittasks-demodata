@@ -6,7 +6,7 @@ source: https://example192.com
 latitude: -0.2501
 longitude: 21.4103
 altitude: 246
-completed: False
+completed: no
 tags:
   - archive
   - health

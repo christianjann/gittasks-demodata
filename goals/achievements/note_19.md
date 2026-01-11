@@ -3,7 +3,7 @@ title: Note 19 in goals - achievements
 created: 2024-04-23T11:28:29.862163
 updated: 2024-06-29T11:28:29.862163
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - urgent
   - meeting

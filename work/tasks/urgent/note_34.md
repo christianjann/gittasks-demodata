@@ -4,7 +4,7 @@ created: 2023-04-22T11:28:29.632089
 updated: 2023-07-30T11:28:29.632089
 source: https://example848.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - urgent
   - hobby

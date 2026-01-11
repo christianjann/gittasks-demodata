@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -3.6362
 longitude: 60.6824
 altitude: 2746
-completed: False
+completed: no
 ---
 
 # Note 39 in drafts - ideas - tech

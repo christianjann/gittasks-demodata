@@ -3,7 +3,7 @@ title: Note 36 in misc - health - fitness
 created: 2024-07-09T11:28:29.802169
 updated: 2024-10-18T11:28:29.802169
 source: https://example407.com
-completed: True
+completed: yes
 tags:
   - goal
   - health

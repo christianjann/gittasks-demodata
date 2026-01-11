@@ -3,7 +3,7 @@ title: Note 60 in hobbies - cooking
 created: 2023-06-15T11:28:29.984597
 updated: 2024-02-20T11:28:29.984597
 source: https://example92.com
-completed: False
+completed: no
 due: 2025-01-08T11:28:29.984597
 tags:
   - health

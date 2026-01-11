@@ -4,7 +4,7 @@ created: 2025-02-14T11:28:29.883261
 updated: 2026-01-07T11:28:29.883261
 source: https://example762.com
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2026-05-20T11:28:29.883261
 tags:
   - personal

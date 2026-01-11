@@ -4,7 +4,7 @@ created: 2024-06-20T11:28:29.826717
 updated: 2025-01-22T11:28:29.826717
 source: https://example783.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - learning
   - journal

@@ -3,7 +3,7 @@ title: Note 55 in learning - courses - in_person
 created: 2024-07-16T11:28:29.817974
 updated: 2025-02-22T11:28:29.817974
 source: https://example61.com
-completed: True
+completed: yes
 tags:
   - personal
   - research

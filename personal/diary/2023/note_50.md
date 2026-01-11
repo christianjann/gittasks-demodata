@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: 72.4374
 longitude: -9.6259
 altitude: 2251
-completed: False
+completed: no
 due: 2025-07-01T11:28:29.572786
 tags:
   - meeting

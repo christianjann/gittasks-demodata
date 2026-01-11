@@ -6,7 +6,7 @@ source: https://example567.com
 latitude: -11.8699
 longitude: -15.9739
 altitude: 1258
-completed: False
+completed: no
 due: 2024-08-29T11:28:29.815957
 tags:
   - template

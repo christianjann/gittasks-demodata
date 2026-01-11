@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 0.3409
 longitude: 122.7608
 altitude: 4058
-completed: True
+completed: yes
 due: 2025-01-30T11:28:29.900903
 tags:
   - archive

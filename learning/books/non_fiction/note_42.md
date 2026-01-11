@@ -2,7 +2,7 @@
 title: Note 42 in learning - books - non_fiction
 created: 2025-06-09T11:28:29.826424
 updated: 2025-11-11T11:28:29.826424
-completed: False
+completed: no
 tags:
   - blog
   - health

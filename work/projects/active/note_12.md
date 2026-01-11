@@ -4,7 +4,7 @@ created: 2024-03-21T11:28:29.647631
 updated: 2024-12-27T11:28:29.647631
 source: https://example515.com
 author: Bob Smith
-completed: True
+completed: yes
 due: 2025-03-08T11:28:29.647631
 tags:
   - research

@@ -6,7 +6,7 @@ source: https://example193.com
 latitude: -11.2587
 longitude: 155.1693
 altitude: 560
-completed: True
+completed: yes
 tags:
   - blog
   - design

@@ -2,7 +2,7 @@
 title: Note 36 in work - projects - completed
 created: 2025-11-21T11:28:29.652852
 updated: 2026-02-28T11:28:29.652852
-completed: True
+completed: yes
 due: 2026-06-10T11:28:29.652852
 tags:
   - reference

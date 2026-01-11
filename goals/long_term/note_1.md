@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: 34.5293
 longitude: 48.9698
 altitude: 194
-completed: True
+completed: yes
 tags:
   - meeting
   - reference

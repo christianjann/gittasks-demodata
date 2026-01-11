@@ -3,7 +3,7 @@ title: Note 34 in projects - research - data
 created: 2023-01-21T11:28:29.713676
 updated: 2023-10-31T11:28:29.713676
 source: https://example387.com
-completed: False
+completed: no
 ---
 
 # Note 34 in projects - research - data

@@ -2,7 +2,7 @@
 title: Note 5 in learning - courses - online
 created: 2023-09-27T11:28:29.812610
 updated: 2024-02-21T11:28:29.812610
-completed: False
+completed: no
 tags:
   - meeting
 ---

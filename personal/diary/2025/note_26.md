@@ -5,7 +5,7 @@ updated: 2024-08-27T11:28:29.577869
 latitude: -3.5694
 longitude: -72.4426
 altitude: 1141
-completed: True
+completed: yes
 ---
 
 # Note 26 in personal - diary - 2025

@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 6.5996
 longitude: -2.109
 altitude: 3056
-completed: False
+completed: no
 tags:
   - finance
 ---

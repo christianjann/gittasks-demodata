@@ -6,7 +6,7 @@ source: https://example787.com
 latitude: -50.5321
 longitude: -40.9613
 altitude: 4623
-completed: True
+completed: yes
 tags:
   - hobby
   - urgent

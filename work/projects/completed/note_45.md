@@ -6,7 +6,7 @@ source: https://example967.com
 latitude: 59.6429
 longitude: 73.3837
 altitude: 1396
-completed: True
+completed: yes
 due: 2025-08-09T11:28:29.653362
 ---
 

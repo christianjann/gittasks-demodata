@@ -4,7 +4,7 @@ created: 2023-08-05T11:28:29.862418
 updated: 2024-07-09T11:28:29.862418
 source: https://example277.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - thought
   - journal

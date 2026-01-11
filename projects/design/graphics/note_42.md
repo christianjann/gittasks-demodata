@@ -3,7 +3,7 @@ title: Note 42 in projects - design - graphics
 created: 2025-07-15T11:28:29.700117
 updated: 2025-12-20T11:28:29.700117
 source: https://example569.com
-completed: True
+completed: yes
 tags:
   - learning
 ---

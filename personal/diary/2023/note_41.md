@@ -4,7 +4,7 @@ created: 2024-05-20T11:28:29.572202
 updated: 2025-03-11T11:28:29.572202
 source: https://example946.com
 author: Grace Lee
-completed: False
+completed: no
 due: 2025-08-08T11:28:29.572202
 tags:
   - health

@@ -2,7 +2,7 @@
 title: Note 1 in learning - courses
 created: 2025-07-22T11:28:29.810004
 updated: 2026-03-20T11:28:29.810004
-completed: True
+completed: yes
 due: 2027-01-29T11:28:29.810004
 ---
 

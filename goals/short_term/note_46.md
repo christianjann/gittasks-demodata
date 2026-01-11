@@ -2,7 +2,7 @@
 title: Note 46 in goals - short_term
 created: 2023-04-26T11:28:29.855653
 updated: 2023-08-13T11:28:29.855653
-completed: False
+completed: no
 due: 2024-04-25T11:28:29.855653
 tags:
   - work

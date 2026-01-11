@@ -3,7 +3,7 @@ title: Note 7 in references - books
 created: 2024-05-01T11:28:29.888992
 updated: 2024-07-26T11:28:29.888992
 source: https://example592.com
-completed: True
+completed: yes
 due: 2025-07-02T11:28:29.888992
 ---
 

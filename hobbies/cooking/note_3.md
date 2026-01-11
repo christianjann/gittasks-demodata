@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -54.9281
 longitude: 128.9365
 altitude: 3367
-completed: True
+completed: yes
 due: 2025-02-21T11:28:29.981293
 tags:
   - social

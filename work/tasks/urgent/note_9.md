@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 53.1815
 longitude: 131.6344
 altitude: 3487
-completed: False
+completed: no
 due: 2026-08-18T11:28:29.630554
 tags:
   - personal

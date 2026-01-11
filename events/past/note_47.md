@@ -3,7 +3,7 @@ title: Note 47 in events - past
 created: 2023-05-29T11:28:29.954960
 updated: 2024-05-03T11:28:29.954960
 source: https://example435.com
-completed: True
+completed: yes
 due: 2025-04-30T11:28:29.954960
 tags:
   - goal

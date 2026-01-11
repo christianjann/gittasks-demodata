@@ -3,7 +3,7 @@ title: Note 18 in blog - ideas
 created: 2023-02-10T11:28:29.929264
 updated: 2023-04-22T11:28:29.929264
 source: https://example849.com
-completed: True
+completed: yes
 ---
 
 # Note 18 in blog - ideas

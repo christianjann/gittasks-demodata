@@ -6,7 +6,7 @@ author: Charlie Brown
 latitude: 24.0864
 longitude: -151.8742
 altitude: 4242
-completed: False
+completed: no
 tags:
   - goal
   - personal

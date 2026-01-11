@@ -3,7 +3,7 @@ title: Note 61 in journal
 created: 2025-06-12T11:28:29.868131
 updated: 2026-05-06T11:28:29.868131
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - health
 ---

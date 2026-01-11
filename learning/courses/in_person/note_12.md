@@ -5,7 +5,7 @@ updated: 2026-07-19T11:28:29.815565
 latitude: -29.7244
 longitude: -167.0235
 altitude: 3979
-completed: False
+completed: no
 tags:
   - shopping
   - learning

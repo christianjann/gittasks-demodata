@@ -3,7 +3,7 @@ title: Note 43 in misc - recipes
 created: 2024-12-16T11:28:29.778753
 updated: 2025-01-20T11:28:29.778753
 source: https://example65.com
-completed: True
+completed: yes
 tags:
   - hobby
 ---

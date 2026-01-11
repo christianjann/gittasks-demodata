@@ -3,7 +3,7 @@ title: Note 4 in events
 created: 2023-09-17T11:28:29.946833
 updated: 2023-10-02T11:28:29.946833
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - shopping
   - travel

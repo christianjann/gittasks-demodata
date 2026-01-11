@@ -3,7 +3,7 @@ title: Note 56 in misc - recipes - dinner
 created: 2023-09-19T11:28:29.786190
 updated: 2024-05-18T11:28:29.786190
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - event
 ---

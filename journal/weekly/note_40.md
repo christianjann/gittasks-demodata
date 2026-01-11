@@ -3,7 +3,7 @@ title: Note 40 in journal - weekly
 created: 2024-08-20T11:28:29.873611
 updated: 2025-06-23T11:28:29.873611
 source: https://example86.com
-completed: True
+completed: yes
 due: 2025-08-14T11:28:29.873611
 tags:
   - template

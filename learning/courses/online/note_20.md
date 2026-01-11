@@ -4,7 +4,7 @@ created: 2025-05-30T11:28:29.813430
 updated: 2025-08-17T11:28:29.813430
 source: https://example95.com
 author: Diana Prince
-completed: False
+completed: no
 due: 2026-03-26T11:28:29.813430
 tags:
   - personal

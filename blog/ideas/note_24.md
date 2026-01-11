@@ -2,7 +2,7 @@
 title: Note 24 in blog - ideas
 created: 2025-03-10T11:28:29.929669
 updated: 2026-01-31T11:28:29.929669
-completed: False
+completed: no
 tags:
   - health
   - thought

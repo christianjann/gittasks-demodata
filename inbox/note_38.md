@@ -3,7 +3,7 @@ title: Note 38 in inbox
 created: 2025-11-14T11:28:29.838736
 updated: 2026-07-03T11:28:29.838736
 source: https://example221.com
-completed: True
+completed: yes
 due: 2027-06-07T11:28:29.838736
 tags:
   - personal

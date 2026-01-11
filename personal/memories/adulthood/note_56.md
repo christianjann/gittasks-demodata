@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 49.2966
 longitude: -35.7487
 altitude: 4944
-completed: True
+completed: yes
 tags:
   - shopping
   - travel

@@ -4,7 +4,7 @@ created: 2024-10-31T11:28:29.835831
 updated: 2025-07-04T11:28:29.835831
 source: https://example408.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2025-10-08T11:28:29.835831
 tags:
   - design

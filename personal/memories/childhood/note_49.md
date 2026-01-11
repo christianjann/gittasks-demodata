@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: 86.066
 longitude: 120.5004
 altitude: 3419
-completed: False
+completed: no
 tags:
   - shopping
   - template

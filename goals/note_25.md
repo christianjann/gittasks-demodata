@@ -6,7 +6,7 @@ source: https://example612.com
 latitude: 25.2532
 longitude: 59.033
 altitude: 3570
-completed: True
+completed: yes
 ---
 
 # Note 25 in goals

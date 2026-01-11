@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -57.6102
 longitude: 175.7808
 altitude: 1565
-completed: True
+completed: yes
 ---
 
 # Note 60 in social

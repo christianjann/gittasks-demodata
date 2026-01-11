@@ -3,7 +3,7 @@ title: Note 26 in hobbies - photography
 created: 2023-06-19T11:28:29.972803
 updated: 2023-12-04T11:28:29.972803
 author: Bob Smith
-completed: True
+completed: yes
 ---
 
 # Note 26 in hobbies - photography

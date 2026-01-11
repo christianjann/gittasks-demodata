@@ -3,7 +3,7 @@ title: Note 8 in hobbies - reading
 created: 2024-05-09T11:28:29.977104
 updated: 2024-06-19T11:28:29.977104
 source: https://example437.com
-completed: False
+completed: no
 due: 2025-02-24T11:28:29.977104
 tags:
   - design

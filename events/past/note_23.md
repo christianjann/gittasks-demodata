@@ -5,7 +5,7 @@ updated: 2024-01-27T11:28:29.953583
 latitude: -78.2344
 longitude: 98.3189
 altitude: 1884
-completed: False
+completed: no
 ---
 
 # Note 23 in events - past

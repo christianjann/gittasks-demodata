@@ -2,7 +2,7 @@
 title: Note 17 in blog - drafts
 created: 2024-07-24T11:28:29.920845
 updated: 2025-06-30T11:28:29.920845
-completed: True
+completed: yes
 tags:
   - learning
 ---

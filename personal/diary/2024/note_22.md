@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: -72.2396
 longitude: 40.7296
 altitude: 3093
-completed: True
+completed: yes
 tags:
   - learning
   - social

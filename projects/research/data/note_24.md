@@ -2,7 +2,7 @@
 title: Note 24 in projects - research - data
 created: 2023-06-25T11:28:29.712954
 updated: 2024-05-28T11:28:29.712954
-completed: True
+completed: yes
 tags:
   - draft
 ---

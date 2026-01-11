@@ -4,7 +4,7 @@ created: 2023-12-03T11:28:29.974064
 updated: 2024-10-04T11:28:29.974064
 source: https://example132.com
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2025-05-29T11:28:29.974064
 tags:
   - goal

@@ -3,7 +3,7 @@ title: Note 33 in learning - books - fiction
 created: 2025-10-23T11:28:29.822958
 updated: 2026-03-08T11:28:29.822958
 source: https://example349.com
-completed: True
+completed: yes
 tags:
   - draft
 ---

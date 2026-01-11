@@ -3,7 +3,7 @@ title: Note 34 in shopping
 created: 2024-02-02T11:28:29.961774
 updated: 2025-01-21T11:28:29.961774
 source: https://example638.com
-completed: True
+completed: yes
 tags:
   - code
 ---

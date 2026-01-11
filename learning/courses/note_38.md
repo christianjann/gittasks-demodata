@@ -4,7 +4,7 @@ created: 2025-08-08T11:28:29.812165
 updated: 2026-01-03T11:28:29.812165
 source: https://example631.com
 author: Jack Taylor
-completed: False
+completed: no
 due: 2026-10-29T11:28:29.812165
 ---
 

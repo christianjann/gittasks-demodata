@@ -4,7 +4,7 @@ created: 2025-12-10T11:28:29.594142
 updated: 2026-04-09T11:28:29.594142
 source: https://example406.com
 author: Frank Miller
-completed: True
+completed: yes
 due: 2026-04-30T11:28:29.594142
 tags:
   - learning

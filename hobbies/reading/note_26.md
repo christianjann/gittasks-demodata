@@ -4,7 +4,7 @@ created: 2025-08-05T11:28:29.978323
 updated: 2025-11-17T11:28:29.978323
 source: https://example173.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - goal
   - design

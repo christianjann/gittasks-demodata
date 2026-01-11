@@ -3,7 +3,7 @@ title: Note 41 in work
 created: 2025-02-10T11:28:29.615341
 updated: 2025-10-09T11:28:29.615341
 author: Frank Miller
-completed: False
+completed: no
 due: 2026-10-07T11:28:29.615341
 tags:
   - template

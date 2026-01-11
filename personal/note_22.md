@@ -3,7 +3,7 @@ title: Note 22 in personal
 created: 2025-10-06T11:28:29.562189
 updated: 2025-11-02T11:28:29.562189
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - blog
 ---

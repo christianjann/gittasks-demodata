@@ -4,7 +4,7 @@ created: 2025-11-23T11:28:29.696067
 updated: 2026-05-31T11:28:29.696067
 source: https://example547.com
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - event
   - blog

@@ -3,7 +3,7 @@ title: Note 11 in shopping
 created: 2024-11-29T11:28:29.960219
 updated: 2025-10-08T11:28:29.960219
 source: https://example511.com
-completed: True
+completed: yes
 due: 2026-06-16T11:28:29.960219
 tags:
   - finance

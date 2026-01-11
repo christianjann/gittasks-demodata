@@ -6,7 +6,7 @@ source: https://example615.com
 latitude: 72.8436
 longitude: 108.9192
 altitude: 3095
-completed: True
+completed: yes
 tags:
   - hobby
   - thought

@@ -3,7 +3,7 @@ title: Note 22 in drafts - ideas
 created: 2025-04-04T11:28:29.748034
 updated: 2026-01-11T11:28:29.748034
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - idea
   - misc

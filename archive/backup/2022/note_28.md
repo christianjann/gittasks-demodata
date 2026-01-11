@@ -3,7 +3,7 @@ title: Note 28 in archive - backup - 2022
 created: 2024-07-03T11:28:29.737410
 updated: 2024-07-15T11:28:29.737410
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2025-05-28T11:28:29.737410
 tags:
   - social

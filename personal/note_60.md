@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 60.8119
 longitude: 154.1389
 altitude: 1365
-completed: False
+completed: no
 tags:
   - finance
   - shopping

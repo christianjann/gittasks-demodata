@@ -4,7 +4,7 @@ created: 2023-05-10T11:28:29.665397
 updated: 2023-10-17T11:28:29.665397
 source: https://example344.com
 author: Eve Adams
-completed: False
+completed: no
 due: 2024-05-05T11:28:29.665397
 tags:
   - reference

@@ -6,7 +6,7 @@ source: https://example584.com
 latitude: -5.8757
 longitude: 109.1278
 altitude: 3190
-completed: True
+completed: yes
 due: 2026-05-07T11:28:29.721125
 tags:
   - task

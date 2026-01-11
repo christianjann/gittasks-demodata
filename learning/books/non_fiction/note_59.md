@@ -3,7 +3,7 @@ title: Note 59 in learning - books - non_fiction
 created: 2025-02-04T11:28:29.827413
 updated: 2025-05-23T11:28:29.827413
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - draft
   - goal

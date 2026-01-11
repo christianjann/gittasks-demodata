@@ -3,7 +3,7 @@ title: Note 22 in learning - courses
 created: 2025-09-30T11:28:29.811220
 updated: 2026-08-14T11:28:29.811220
 source: https://example221.com
-completed: True
+completed: yes
 tags:
   - goal
   - diary

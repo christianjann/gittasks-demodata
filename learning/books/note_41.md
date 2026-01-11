@@ -6,7 +6,7 @@ source: https://example32.com
 latitude: 50.2491
 longitude: 92.5142
 altitude: 3517
-completed: False
+completed: no
 tags:
   - work
 ---

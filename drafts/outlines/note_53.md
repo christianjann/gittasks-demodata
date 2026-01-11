@@ -2,7 +2,7 @@
 title: Note 53 in drafts - outlines
 created: 2025-03-18T11:28:29.762898
 updated: 2025-04-28T11:28:29.762898
-completed: False
+completed: no
 due: 2026-02-26T11:28:29.762898
 tags:
   - archive

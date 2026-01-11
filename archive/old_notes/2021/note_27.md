@@ -2,7 +2,7 @@
 title: Note 27 in archive - old_notes - 2021
 created: 2025-02-24T11:28:29.731930
 updated: 2025-03-01T11:28:29.731930
-completed: False
+completed: no
 tags:
   - urgent
   - note

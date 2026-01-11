@@ -3,7 +3,7 @@ title: Note 1 in misc - travel - europe
 created: 2025-10-07T11:28:29.790362
 updated: 2026-02-19T11:28:29.790362
 source: https://example651.com
-completed: False
+completed: no
 tags:
   - event
   - urgent

@@ -3,7 +3,7 @@ title: Note 36 in goals - achievements
 created: 2024-06-17T11:28:29.863230
 updated: 2025-01-27T11:28:29.863230
 author: Bob Smith
-completed: False
+completed: no
 due: 2025-08-15T11:28:29.863230
 ---
 

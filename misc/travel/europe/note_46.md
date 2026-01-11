@@ -3,7 +3,7 @@ title: Note 46 in misc - travel - europe
 created: 2025-01-07T11:28:29.792924
 updated: 2025-04-09T11:28:29.792924
 author: Grace Lee
-completed: False
+completed: no
 due: 2025-09-21T11:28:29.792924
 tags:
   - research

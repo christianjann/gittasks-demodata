@@ -3,7 +3,7 @@ title: Note 12 in projects - code - java
 created: 2024-10-27T11:28:29.684763
 updated: 2025-08-16T11:28:29.684763
 source: https://example526.com
-completed: True
+completed: yes
 due: 2025-12-08T11:28:29.684763
 ---
 

@@ -3,7 +3,7 @@ title: Note 34 in learning - courses - in_person
 created: 2024-03-05T11:28:29.816783
 updated: 2025-02-01T11:28:29.816783
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - idea
   - archive

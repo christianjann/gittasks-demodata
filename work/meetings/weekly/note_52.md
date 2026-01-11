@@ -5,7 +5,7 @@ updated: 2026-06-23T11:28:29.621365
 latitude: 30.5552
 longitude: 88.1064
 altitude: 3173
-completed: False
+completed: no
 due: 2026-11-10T11:28:29.621365
 tags:
   - meeting

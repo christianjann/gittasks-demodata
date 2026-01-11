@@ -2,7 +2,7 @@
 title: Note 45 in work - tasks - backlog
 created: 2023-02-20T11:28:29.635799
 updated: 2023-06-26T11:28:29.635799
-completed: True
+completed: yes
 due: 2023-08-11T11:28:29.635799
 tags:
   - design

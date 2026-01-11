@@ -4,7 +4,7 @@ created: 2023-05-22T11:28:29.796989
 updated: 2024-02-01T11:28:29.796989
 source: https://example765.com
 author: Jack Taylor
-completed: True
+completed: yes
 ---
 
 # Note 11 in misc - health

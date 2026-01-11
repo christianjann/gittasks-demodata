@@ -6,7 +6,7 @@ source: https://example859.com
 latitude: -47.4111
 longitude: 58.6648
 altitude: 1421
-completed: False
+completed: no
 due: 2024-06-12T11:28:29.749790
 tags:
   - health

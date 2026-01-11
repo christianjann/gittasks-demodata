@@ -3,7 +3,7 @@ title: Note 26 in hobbies - gaming
 created: 2023-02-23T11:28:29.975498
 updated: 2023-04-11T11:28:29.975498
 source: https://example653.com
-completed: True
+completed: yes
 tags:
   - idea
   - meeting

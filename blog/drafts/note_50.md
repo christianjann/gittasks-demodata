@@ -3,7 +3,7 @@ title: Note 50 in blog - drafts
 created: 2024-12-15T11:28:29.923253
 updated: 2025-02-22T11:28:29.923253
 author: Bob Smith
-completed: True
+completed: yes
 due: 2025-04-26T11:28:29.923253
 tags:
   - blog

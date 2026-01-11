@@ -2,7 +2,7 @@
 title: Note 36 in journal
 created: 2023-10-10T11:28:29.866177
 updated: 2024-01-29T11:28:29.866177
-completed: False
+completed: no
 due: 2024-08-11T11:28:29.866177
 tags:
   - code

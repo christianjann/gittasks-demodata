@@ -6,7 +6,7 @@ source: https://example566.com
 latitude: -71.1936
 longitude: -108.804
 altitude: 1863
-completed: False
+completed: no
 tags:
   - idea
 ---

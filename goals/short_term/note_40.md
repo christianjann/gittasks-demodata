@@ -6,7 +6,7 @@ source: https://example616.com
 latitude: 37.4592
 longitude: -100.0172
 altitude: 2792
-completed: False
+completed: no
 tags:
   - event
   - note

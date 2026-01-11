@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: -61.7452
 longitude: 149.4322
 altitude: 1419
-completed: False
+completed: no
 ---
 
 # Note 3 in goals

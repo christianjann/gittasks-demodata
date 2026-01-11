@@ -3,7 +3,7 @@ title: Note 60 in personal - memories - adulthood
 created: 2025-11-12T11:28:29.601729
 updated: 2026-06-21T11:28:29.601729
 author: Bob Smith
-completed: False
+completed: no
 due: 2027-03-23T11:28:29.601729
 tags:
   - shopping

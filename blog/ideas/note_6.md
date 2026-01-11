@@ -3,7 +3,7 @@ title: Note 6 in blog - ideas
 created: 2025-07-28T11:28:29.928231
 updated: 2025-10-13T11:28:29.928231
 source: https://example65.com
-completed: True
+completed: yes
 due: 2025-10-28T11:28:29.928231
 tags:
   - personal

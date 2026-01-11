@@ -2,7 +2,7 @@
 title: Note 38 in projects - design - ux
 created: 2023-01-28T11:28:29.697549
 updated: 2023-09-11T11:28:29.697549
-completed: True
+completed: yes
 tags:
   - idea
 ---

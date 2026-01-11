@@ -4,7 +4,7 @@ created: 2024-06-03T11:28:29.764912
 updated: 2024-06-24T11:28:29.764912
 source: https://example722.com
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - finance
   - work

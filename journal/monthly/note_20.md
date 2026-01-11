@@ -2,7 +2,7 @@
 title: Note 20 in journal - monthly
 created: 2024-05-12T11:28:29.875632
 updated: 2025-03-28T11:28:29.875632
-completed: True
+completed: yes
 tags:
   - template
   - idea

@@ -4,7 +4,7 @@ created: 2025-07-31T11:28:29.562597
 updated: 2025-08-02T11:28:29.562597
 source: https://example316.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - event
   - recipe

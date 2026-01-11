@@ -2,7 +2,7 @@
 title: Note 35 in archive - old_notes - 2021
 created: 2024-04-19T11:28:29.732384
 updated: 2024-07-28T11:28:29.732384
-completed: False
+completed: no
 due: 2025-03-16T11:28:29.732384
 tags:
   - personal

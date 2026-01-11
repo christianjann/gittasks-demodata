@@ -2,7 +2,7 @@
 title: Note 57 in personal - finances - investments
 created: 2024-06-22T11:28:29.612122
 updated: 2025-01-19T11:28:29.612122
-completed: True
+completed: yes
 due: 2025-06-02T11:28:29.612122
 tags:
   - journal

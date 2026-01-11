@@ -3,7 +3,7 @@ title: Note 14 in work - meetings - monthly
 created: 2025-06-22T11:28:29.622229
 updated: 2026-01-24T11:28:29.622229
 author: Diana Prince
-completed: True
+completed: yes
 tags:
   - learning
   - task

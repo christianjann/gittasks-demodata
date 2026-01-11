@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 72.9328
 longitude: 25.9282
 altitude: 2306
-completed: False
+completed: no
 tags:
   - journal
 ---

@@ -3,7 +3,7 @@ title: Note 60 in drafts
 created: 2024-07-09T11:28:29.746503
 updated: 2025-06-09T11:28:29.746503
 source: https://example453.com
-completed: True
+completed: yes
 due: 2026-03-27T11:28:29.746503
 ---
 

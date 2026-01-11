@@ -3,7 +3,7 @@ title: Note 18 in social
 created: 2025-01-08T11:28:29.933511
 updated: 2025-02-24T11:28:29.933511
 source: https://example872.com
-completed: True
+completed: yes
 tags:
   - social
   - research

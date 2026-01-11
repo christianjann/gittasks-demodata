@@ -2,7 +2,7 @@
 title: Note 29 in misc - recipes - dinner
 created: 2025-05-24T11:28:29.784657
 updated: 2025-10-24T11:28:29.784657
-completed: True
+completed: yes
 due: 2026-09-01T11:28:29.784657
 tags:
   - draft

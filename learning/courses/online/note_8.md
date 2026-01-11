@@ -2,7 +2,7 @@
 title: Note 8 in learning - courses - online
 created: 2025-08-19T11:28:29.812762
 updated: 2026-08-18T11:28:29.812762
-completed: True
+completed: yes
 tags:
   - note
   - shopping

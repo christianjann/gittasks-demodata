@@ -6,7 +6,7 @@ source: https://example152.com
 latitude: -13.5026
 longitude: -120.6144
 altitude: 3918
-completed: True
+completed: yes
 tags:
   - learning
   - shopping

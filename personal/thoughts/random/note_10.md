@@ -3,7 +3,7 @@ title: Note 10 in personal - thoughts - random
 created: 2024-12-03T11:28:29.582845
 updated: 2024-12-19T11:28:29.582845
 source: https://example712.com
-completed: True
+completed: yes
 due: 2025-09-08T11:28:29.582845
 tags:
   - note

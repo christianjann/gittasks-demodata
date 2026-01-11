@@ -6,7 +6,7 @@ source: https://example85.com
 latitude: 19.717
 longitude: 158.9811
 altitude: 2718
-completed: True
+completed: yes
 tags:
   - journal
   - urgent

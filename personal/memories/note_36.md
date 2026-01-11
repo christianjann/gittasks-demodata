@@ -3,7 +3,7 @@ title: Note 36 in personal - memories
 created: 2023-09-11T11:28:29.592396
 updated: 2024-05-02T11:28:29.592396
 source: https://example840.com
-completed: False
+completed: no
 tags:
   - shopping
 ---

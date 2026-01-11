@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 6.5433
 longitude: 93.4562
 altitude: 4287
-completed: False
+completed: no
 tags:
   - recipe
   - learning

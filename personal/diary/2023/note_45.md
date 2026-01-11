@@ -2,7 +2,7 @@
 title: Note 45 in personal - diary - 2023
 created: 2024-10-01T11:28:29.572485
 updated: 2025-05-13T11:28:29.572485
-completed: True
+completed: yes
 tags:
   - thought
   - reference

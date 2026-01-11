@@ -3,7 +3,7 @@ title: Note 27 in inbox - quick_notes
 created: 2024-08-19T11:28:29.840360
 updated: 2024-12-19T11:28:29.840360
 source: https://example255.com
-completed: False
+completed: no
 due: 2025-11-19T11:28:29.840360
 tags:
   - travel

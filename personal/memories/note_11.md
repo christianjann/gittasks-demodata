@@ -6,7 +6,7 @@ source: https://example115.com
 latitude: -2.8585
 longitude: 44.7573
 altitude: 1586
-completed: True
+completed: yes
 due: 2025-08-18T11:28:29.590741
 tags:
   - shopping

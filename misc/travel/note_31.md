@@ -4,7 +4,7 @@ created: 2024-02-14T11:28:29.788175
 updated: 2025-02-01T11:28:29.788175
 source: https://example433.com
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - diary
 ---

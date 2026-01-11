@@ -4,7 +4,7 @@ created: 2025-12-29T11:28:29.818638
 updated: 2026-02-02T11:28:29.818638
 source: https://example785.com
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - research
   - work

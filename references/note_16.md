@@ -5,7 +5,7 @@ updated: 2025-09-02T11:28:29.881639
 latitude: 41.9493
 longitude: 39.0622
 altitude: 457
-completed: True
+completed: yes
 tags:
   - event
   - urgent

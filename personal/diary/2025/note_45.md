@@ -3,7 +3,7 @@ title: Note 45 in personal - diary - 2025
 created: 2023-12-01T11:28:29.579200
 updated: 2024-07-02T11:28:29.579200
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - archive
   - draft

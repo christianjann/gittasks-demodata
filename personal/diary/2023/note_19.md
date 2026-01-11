@@ -2,7 +2,7 @@
 title: Note 19 in personal - diary - 2023
 created: 2024-02-22T11:28:29.570641
 updated: 2024-05-15T11:28:29.570641
-completed: False
+completed: no
 tags:
   - template
 ---

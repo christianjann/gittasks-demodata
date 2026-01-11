@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -5.8433
 longitude: -17.9801
 altitude: 3016
-completed: False
+completed: no
 tags:
   - travel
   - recipe

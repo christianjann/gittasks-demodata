@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 26.5615
 longitude: -117.2033
 altitude: 4444
-completed: False
+completed: no
 tags:
   - design
 ---

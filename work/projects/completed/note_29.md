@@ -3,7 +3,7 @@ title: Note 29 in work - projects - completed
 created: 2023-03-11T11:28:29.652414
 updated: 2024-01-02T11:28:29.652414
 source: https://example241.com
-completed: True
+completed: yes
 due: 2024-11-01T11:28:29.652414
 tags:
   - personal

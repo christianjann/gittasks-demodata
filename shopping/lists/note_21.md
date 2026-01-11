@@ -3,7 +3,7 @@ title: Note 21 in shopping - lists
 created: 2025-12-30T11:28:29.963324
 updated: 2026-12-01T11:28:29.963324
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - shopping
   - recipe

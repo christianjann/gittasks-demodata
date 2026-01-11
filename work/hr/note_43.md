@@ -3,7 +3,7 @@ title: Note 43 in work - hr
 created: 2025-11-18T11:28:29.661757
 updated: 2026-11-11T11:28:29.661757
 source: https://example99.com
-completed: True
+completed: yes
 tags:
   - social
 ---

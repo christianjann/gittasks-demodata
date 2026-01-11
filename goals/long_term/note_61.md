@@ -3,7 +3,7 @@ title: Note 61 in goals - long_term
 created: 2025-06-11T11:28:29.860521
 updated: 2025-08-19T11:28:29.860521
 source: https://example227.com
-completed: True
+completed: yes
 due: 2025-10-09T11:28:29.860521
 tags:
   - finance

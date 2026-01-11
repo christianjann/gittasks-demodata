@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -28.7932
 longitude: 37.2986
 altitude: 1918
-completed: False
+completed: no
 ---
 
 # Note 41 in work - hr - training

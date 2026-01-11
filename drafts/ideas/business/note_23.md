@@ -4,7 +4,7 @@ created: 2025-04-27T11:28:29.755022
 updated: 2025-05-15T11:28:29.755022
 source: https://example731.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - note
 ---

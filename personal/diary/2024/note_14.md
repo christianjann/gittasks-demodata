@@ -4,7 +4,7 @@ created: 2023-11-22T11:28:29.573814
 updated: 2024-02-21T11:28:29.573814
 source: https://example651.com
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - misc
 ---

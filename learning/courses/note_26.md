@@ -3,7 +3,7 @@ title: Note 26 in learning - courses
 created: 2023-04-18T11:28:29.811516
 updated: 2023-10-03T11:28:29.811516
 source: https://example585.com
-completed: False
+completed: no
 tags:
   - personal
 ---

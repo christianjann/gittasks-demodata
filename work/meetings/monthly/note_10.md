@@ -3,7 +3,7 @@ title: Note 10 in work - meetings - monthly
 created: 2025-07-06T11:28:29.622008
 updated: 2026-06-10T11:28:29.622008
 source: https://example449.com
-completed: False
+completed: no
 tags:
   - thought
   - research

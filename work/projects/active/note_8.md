@@ -4,7 +4,7 @@ created: 2025-09-09T11:28:29.647366
 updated: 2026-08-21T11:28:29.647366
 source: https://example506.com
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - design
 ---

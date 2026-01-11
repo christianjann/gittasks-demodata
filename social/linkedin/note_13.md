@@ -3,7 +3,7 @@ title: Note 13 in social - linkedin
 created: 2024-08-08T11:28:29.941082
 updated: 2025-05-11T11:28:29.941082
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - diary
   - archive

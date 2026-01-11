@@ -6,7 +6,7 @@ source: https://example394.com
 latitude: -57.285
 longitude: -58.1494
 altitude: 2569
-completed: False
+completed: no
 tags:
   - personal
   - thought

@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -39.2445
 longitude: 128.3492
 altitude: 2150
-completed: True
+completed: yes
 due: 2024-06-29T11:28:29.918535
 tags:
   - work

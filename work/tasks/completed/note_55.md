@@ -4,7 +4,7 @@ created: 2025-02-03T11:28:29.641634
 updated: 2025-09-29T11:28:29.641634
 source: https://example521.com
 author: Bob Smith
-completed: True
+completed: yes
 ---
 
 # Note 55 in work - tasks - completed

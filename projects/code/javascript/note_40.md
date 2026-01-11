@@ -6,7 +6,7 @@ source: https://example338.com
 latitude: 55.7687
 longitude: 55.6732
 altitude: 1261
-completed: True
+completed: yes
 due: 2025-11-22T11:28:29.683896
 tags:
   - social

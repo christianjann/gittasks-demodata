@@ -4,7 +4,7 @@ created: 2023-04-28T11:28:29.907356
 updated: 2024-02-07T11:28:29.907356
 source: https://example7.com
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - meeting
   - learning

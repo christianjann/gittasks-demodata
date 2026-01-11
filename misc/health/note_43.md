@@ -4,7 +4,7 @@ created: 2024-02-18T11:28:29.798899
 updated: 2024-05-07T11:28:29.798899
 source: https://example768.com
 author: Charlie Brown
-completed: False
+completed: no
 due: 2024-11-20T11:28:29.798899
 tags:
   - task

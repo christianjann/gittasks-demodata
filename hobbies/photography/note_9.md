@@ -6,7 +6,7 @@ source: https://example960.com
 latitude: 28.4448
 longitude: -168.0361
 altitude: 3224
-completed: False
+completed: no
 due: 2027-03-27T11:28:29.971835
 ---
 

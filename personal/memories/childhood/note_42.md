@@ -3,7 +3,7 @@ title: Note 42 in personal - memories - childhood
 created: 2024-06-24T11:28:29.597250
 updated: 2025-04-20T11:28:29.597250
 author: Diana Prince
-completed: True
+completed: yes
 due: 2025-11-27T11:28:29.597250
 ---
 

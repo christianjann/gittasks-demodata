@@ -2,7 +2,7 @@
 title: Note 25 in work - hr
 created: 2024-09-09T11:28:29.660295
 updated: 2025-07-17T11:28:29.660295
-completed: True
+completed: yes
 tags:
   - reference
   - goal

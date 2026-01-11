@@ -2,7 +2,7 @@
 title: Note 38 in blog - published
 created: 2023-06-28T11:28:29.926709
 updated: 2024-06-18T11:28:29.926709
-completed: False
+completed: no
 ---
 
 # Note 38 in blog - published

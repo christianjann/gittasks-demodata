@@ -3,7 +3,7 @@ title: Note 16 in projects - design - ux
 created: 2024-02-11T11:28:29.696286
 updated: 2024-06-04T11:28:29.696286
 source: https://example4.com
-completed: False
+completed: no
 tags:
   - urgent
   - diary

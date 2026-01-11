@@ -3,7 +3,7 @@ title: Note 21 in personal - finances
 created: 2024-03-05T11:28:29.603378
 updated: 2024-03-09T11:28:29.603378
 source: https://example934.com
-completed: False
+completed: no
 tags:
   - urgent
   - goal

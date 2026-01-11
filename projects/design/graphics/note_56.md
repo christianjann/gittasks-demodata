@@ -2,7 +2,7 @@
 title: Note 56 in projects - design - graphics
 created: 2024-11-05T11:28:29.700955
 updated: 2025-09-30T11:28:29.700955
-completed: True
+completed: yes
 due: 2026-07-18T11:28:29.700955
 tags:
   - work

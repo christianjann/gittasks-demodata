@@ -2,7 +2,7 @@
 title: Note 51 in social - twitter
 created: 2025-06-10T11:28:29.939979
 updated: 2025-12-17T11:28:29.939979
-completed: False
+completed: no
 due: 2026-08-12T11:28:29.939979
 tags:
   - goal

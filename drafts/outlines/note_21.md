@@ -6,7 +6,7 @@ source: https://example605.com
 latitude: 1.0161
 longitude: 22.7201
 altitude: 875
-completed: True
+completed: yes
 tags:
   - idea
   - reference

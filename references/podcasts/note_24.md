@@ -3,7 +3,7 @@ title: Note 24 in references - podcasts
 created: 2025-06-13T11:28:29.896818
 updated: 2025-11-24T11:28:29.896818
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2026-05-14T11:28:29.896818
 tags:
   - urgent

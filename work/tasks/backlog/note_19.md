@@ -6,7 +6,7 @@ source: https://example854.com
 latitude: 26.3162
 longitude: 20.9647
 altitude: 1830
-completed: True
+completed: yes
 ---
 
 # Note 19 in work - tasks - backlog

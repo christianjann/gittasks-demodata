@@ -2,7 +2,7 @@
 title: Note 35 in references - books
 created: 2023-11-11T11:28:29.891334
 updated: 2024-10-13T11:28:29.891334
-completed: True
+completed: yes
 tags:
   - shopping
   - travel

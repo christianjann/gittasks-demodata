@@ -3,7 +3,7 @@ title: Note 47 in drafts - outlines
 created: 2024-12-15T11:28:29.762553
 updated: 2025-04-26T11:28:29.762553
 author: Grace Lee
-completed: False
+completed: no
 due: 2025-10-13T11:28:29.762553
 tags:
   - event

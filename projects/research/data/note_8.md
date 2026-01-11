@@ -3,7 +3,7 @@ title: Note 8 in projects - research - data
 created: 2024-01-24T11:28:29.711657
 updated: 2024-10-15T11:28:29.711657
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - event
   - travel

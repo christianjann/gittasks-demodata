@@ -2,7 +2,7 @@
 title: Note 10 in work - tasks - completed
 created: 2024-02-16T11:28:29.637980
 updated: 2024-08-11T11:28:29.637980
-completed: False
+completed: no
 due: 2025-06-28T11:28:29.637980
 tags:
   - shopping

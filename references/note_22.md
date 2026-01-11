@@ -4,7 +4,7 @@ created: 2025-07-05T11:28:29.882033
 updated: 2026-06-19T11:28:29.882033
 source: https://example278.com
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - learning
   - task

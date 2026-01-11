@@ -3,7 +3,7 @@ title: Note 16 in archive - old_notes
 created: 2024-12-31T11:28:29.720116
 updated: 2025-12-07T11:28:29.720116
 source: https://example369.com
-completed: False
+completed: no
 due: 2026-10-05T11:28:29.720116
 tags:
   - recipe

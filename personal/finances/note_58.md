@@ -4,7 +4,7 @@ created: 2023-08-20T11:28:29.605527
 updated: 2024-08-13T11:28:29.605527
 source: https://example81.com
 author: Diana Prince
-completed: True
+completed: yes
 due: 2025-01-16T11:28:29.605527
 ---
 

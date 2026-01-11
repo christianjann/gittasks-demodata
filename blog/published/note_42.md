@@ -4,7 +4,7 @@ created: 2023-07-25T11:28:29.927008
 updated: 2024-07-24T11:28:29.927008
 source: https://example888.com
 author: Jack Taylor
-completed: False
+completed: no
 due: 2025-05-22T11:28:29.927008
 tags:
   - urgent

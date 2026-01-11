@@ -3,7 +3,7 @@ title: Note 45 in drafts - ideas
 created: 2024-06-25T11:28:29.749325
 updated: 2024-09-18T11:28:29.749325
 source: https://example854.com
-completed: False
+completed: no
 tags:
   - shopping
   - social

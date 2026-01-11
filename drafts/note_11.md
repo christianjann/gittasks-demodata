@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: -51.7933
 longitude: 98.3333
 altitude: 2764
-completed: True
+completed: yes
 due: 2026-07-29T11:28:29.743204
 tags:
   - hobby

@@ -2,7 +2,7 @@
 title: Note 22 in blog - published
 created: 2025-04-15T11:28:29.925694
 updated: 2025-10-23T11:28:29.925694
-completed: True
+completed: yes
 due: 2026-08-15T11:28:29.925694
 tags:
   - event

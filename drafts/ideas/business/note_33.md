@@ -2,7 +2,7 @@
 title: Note 33 in drafts - ideas - business
 created: 2025-10-16T11:28:29.755630
 updated: 2026-07-13T11:28:29.755630
-completed: False
+completed: no
 due: 2026-09-29T11:28:29.755630
 ---
 

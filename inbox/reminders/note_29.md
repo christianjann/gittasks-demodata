@@ -2,7 +2,7 @@
 title: Note 29 in inbox - reminders
 created: 2024-03-25T11:28:29.844556
 updated: 2024-07-14T11:28:29.844556
-completed: False
+completed: no
 tags:
   - social
   - design

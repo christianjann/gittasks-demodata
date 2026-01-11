@@ -2,7 +2,7 @@
 title: Note 10 in journal - daily
 created: 2024-10-25T11:28:29.868814
 updated: 2025-08-06T11:28:29.868814
-completed: True
+completed: yes
 due: 2026-03-06T11:28:29.868814
 tags:
   - finance

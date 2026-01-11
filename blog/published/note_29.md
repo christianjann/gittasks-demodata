@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -28.6764
 longitude: -49.8607
 altitude: 2120
-completed: True
+completed: yes
 tags:
   - health
   - recipe

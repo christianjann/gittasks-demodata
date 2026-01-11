@@ -4,7 +4,7 @@ created: 2024-08-23T11:28:29.983268
 updated: 2025-03-31T11:28:29.983268
 source: https://example68.com
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - design
 ---

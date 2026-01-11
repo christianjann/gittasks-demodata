@@ -4,7 +4,7 @@ created: 2023-04-01T11:28:29.572076
 updated: 2023-09-23T11:28:29.572076
 source: https://example801.com
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - diary
 ---

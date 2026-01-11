@@ -3,7 +3,7 @@ title: Note 44 in drafts - ideas - business
 created: 2023-09-25T11:28:29.756217
 updated: 2023-10-08T11:28:29.756217
 source: https://example102.com
-completed: False
+completed: no
 tags:
   - journal
   - draft

@@ -3,7 +3,7 @@ title: Note 30 in drafts - outlines - reports
 created: 2023-09-20T11:28:29.771232
 updated: 2024-06-10T11:28:29.771232
 source: https://example148.com
-completed: False
+completed: no
 due: 2025-01-29T11:28:29.771232
 ---
 

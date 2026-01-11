@@ -4,7 +4,7 @@ created: 2024-11-18T11:28:29.924171
 updated: 2025-10-25T11:28:29.924171
 source: https://example11.com
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - task
   - template

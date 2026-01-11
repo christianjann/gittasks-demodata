@@ -3,7 +3,7 @@ title: Note 25 in archive - old_notes - 2021
 created: 2025-01-08T11:28:29.731824
 updated: 2025-10-01T11:28:29.731824
 author: Grace Lee
-completed: True
+completed: yes
 due: 2026-06-11T11:28:29.731824
 tags:
   - task

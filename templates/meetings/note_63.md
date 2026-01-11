@@ -4,7 +4,7 @@ created: 2024-06-05T11:28:29.911787
 updated: 2024-08-14T11:28:29.911787
 source: https://example623.com
 author: Alice Johnson
-completed: True
+completed: yes
 due: 2024-12-16T11:28:29.911787
 tags:
   - task

@@ -3,7 +3,7 @@ title: Note 49 in personal - finances
 created: 2024-10-20T11:28:29.604985
 updated: 2025-08-08T11:28:29.604985
 source: https://example564.com
-completed: True
+completed: yes
 tags:
   - meeting
   - personal

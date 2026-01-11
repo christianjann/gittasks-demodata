@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -16.6567
 longitude: -179.8003
 altitude: 3827
-completed: True
+completed: yes
 ---
 
 # Note 19 in events - upcoming

@@ -6,7 +6,7 @@ source: https://example287.com
 latitude: -69.154
 longitude: -151.4779
 altitude: 2384
-completed: True
+completed: yes
 ---
 
 # Note 8 in blog - drafts

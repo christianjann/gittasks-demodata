@@ -4,7 +4,7 @@ created: 2023-09-23T11:28:29.919373
 updated: 2024-04-15T11:28:29.919373
 source: https://example477.com
 author: Frank Miller
-completed: False
+completed: no
 due: 2025-01-11T11:28:29.919373
 ---
 

@@ -4,7 +4,7 @@ created: 2025-06-03T11:28:29.736971
 updated: 2026-01-01T11:28:29.736971
 source: https://example727.com
 author: Bob Smith
-completed: False
+completed: no
 due: 2026-12-19T11:28:29.736971
 tags:
   - urgent

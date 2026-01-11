@@ -4,7 +4,7 @@ created: 2023-08-17T11:28:29.857327
 updated: 2023-12-02T11:28:29.857327
 source: https://example88.com
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - health
   - work

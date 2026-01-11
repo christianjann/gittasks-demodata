@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 35.735
 longitude: 10.4772
 altitude: 4121
-completed: True
+completed: yes
 tags:
   - note
   - meeting

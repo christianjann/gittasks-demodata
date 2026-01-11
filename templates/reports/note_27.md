@@ -3,7 +3,7 @@ title: Note 27 in templates - reports
 created: 2024-03-20T11:28:29.914065
 updated: 2024-05-29T11:28:29.914065
 source: https://example245.com
-completed: True
+completed: yes
 tags:
   - design
 ---

@@ -4,7 +4,7 @@ created: 2024-08-20T11:28:29.600197
 updated: 2025-08-11T11:28:29.600197
 source: https://example602.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2025-10-14T11:28:29.600197
 tags:
   - learning

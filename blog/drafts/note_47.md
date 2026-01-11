@@ -3,7 +3,7 @@ title: Note 47 in blog - drafts
 created: 2023-08-09T11:28:29.923085
 updated: 2024-07-16T11:28:29.923085
 source: https://example690.com
-completed: True
+completed: yes
 due: 2025-04-30T11:28:29.923085
 tags:
   - misc

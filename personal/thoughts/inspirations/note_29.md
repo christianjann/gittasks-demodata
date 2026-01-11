@@ -6,7 +6,7 @@ source: https://example322.com
 latitude: -18.9673
 longitude: 99.6694
 altitude: 4544
-completed: False
+completed: no
 due: 2026-01-18T11:28:29.588333
 tags:
   - recipe

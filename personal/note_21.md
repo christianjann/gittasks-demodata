@@ -5,7 +5,7 @@ updated: 2024-04-13T11:28:29.562103
 latitude: -40.6324
 longitude: 126.0606
 altitude: 1370
-completed: False
+completed: no
 tags:
   - note
   - blog

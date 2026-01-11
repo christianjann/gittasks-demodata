@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: -2.1202
 longitude: 35.5029
 altitude: 1875
-completed: True
+completed: yes
 tags:
   - learning
   - idea

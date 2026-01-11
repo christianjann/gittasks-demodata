@@ -3,7 +3,7 @@ title: Note 13 in inbox - quick_notes
 created: 2023-08-21T11:28:29.839604
 updated: 2024-03-03T11:28:29.839604
 author: Eve Adams
-completed: True
+completed: yes
 due: 2024-10-25T11:28:29.839604
 ---
 

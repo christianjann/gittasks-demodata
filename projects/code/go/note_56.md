@@ -3,7 +3,7 @@ title: Note 56 in projects - code - go
 created: 2024-06-23T11:28:29.690121
 updated: 2025-02-11T11:28:29.690121
 source: https://example349.com
-completed: True
+completed: yes
 tags:
   - work
   - idea

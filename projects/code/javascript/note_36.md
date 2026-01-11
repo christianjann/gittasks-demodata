@@ -4,7 +4,7 @@ created: 2025-11-30T11:28:29.683676
 updated: 2026-01-12T11:28:29.683676
 source: https://example357.com
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - urgent
   - social

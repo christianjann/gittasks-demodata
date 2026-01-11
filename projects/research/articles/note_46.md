@@ -5,7 +5,7 @@ updated: 2026-02-10T11:28:29.710304
 latitude: 22.4763
 longitude: -7.8733
 altitude: 1356
-completed: True
+completed: yes
 tags:
   - note
   - urgent

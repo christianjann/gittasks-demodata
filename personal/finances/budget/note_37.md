@@ -3,7 +3,7 @@ title: Note 37 in personal - finances - budget
 created: 2025-05-29T11:28:29.607665
 updated: 2026-05-28T11:28:29.607665
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2026-08-16T11:28:29.607665
 ---
 

@@ -4,7 +4,7 @@ created: 2024-10-29T11:28:29.608077
 updated: 2024-11-13T11:28:29.608077
 source: https://example855.com
 author: Alice Johnson
-completed: False
+completed: no
 due: 2025-01-06T11:28:29.608077
 tags:
   - health

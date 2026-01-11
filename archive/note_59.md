@@ -2,7 +2,7 @@
 title: Note 59 in archive
 created: 2025-10-09T11:28:29.719001
 updated: 2026-10-07T11:28:29.719001
-completed: True
+completed: yes
 due: 2027-03-15T11:28:29.719001
 tags:
   - shopping

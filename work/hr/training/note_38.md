@@ -3,7 +3,7 @@ title: Note 38 in work - hr - training
 created: 2023-08-01T11:28:29.669455
 updated: 2023-11-09T11:28:29.669455
 source: https://example516.com
-completed: False
+completed: no
 ---
 
 # Note 38 in work - hr - training

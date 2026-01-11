@@ -2,7 +2,7 @@
 title: Note 31 in hobbies - cooking
 created: 2025-03-25T11:28:29.982936
 updated: 2025-12-02T11:28:29.982936
-completed: True
+completed: yes
 tags:
   - event
   - design

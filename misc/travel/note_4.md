@@ -5,7 +5,7 @@ updated: 2024-01-31T11:28:29.786626
 latitude: 61.2653
 longitude: 112.9972
 altitude: 4775
-completed: False
+completed: no
 tags:
   - personal
   - journal

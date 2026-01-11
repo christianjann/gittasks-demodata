@@ -2,7 +2,7 @@
 title: Note 5 in hobbies - gaming
 created: 2025-12-14T11:28:29.974351
 updated: 2026-07-03T11:28:29.974351
-completed: True
+completed: yes
 tags:
   - learning
 ---

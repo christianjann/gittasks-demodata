@@ -4,7 +4,7 @@ created: 2023-04-07T11:28:29.665345
 updated: 2023-04-20T11:28:29.665345
 source: https://example70.com
 author: Charlie Brown
-completed: True
+completed: yes
 ---
 
 # Note 29 in work - hr - policies

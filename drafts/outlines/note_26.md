@@ -6,7 +6,7 @@ source: https://example910.com
 latitude: 27.8032
 longitude: -136.9468
 altitude: 1988
-completed: True
+completed: yes
 due: 2025-05-13T11:28:29.761151
 tags:
   - draft

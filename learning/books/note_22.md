@@ -3,7 +3,7 @@ title: Note 22 in learning - books
 created: 2025-09-22T11:28:29.819988
 updated: 2026-08-31T11:28:29.819988
 author: Diana Prince
-completed: True
+completed: yes
 due: 2027-03-23T11:28:29.819988
 ---
 

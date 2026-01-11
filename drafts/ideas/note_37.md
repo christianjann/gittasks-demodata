@@ -3,7 +3,7 @@ title: Note 37 in drafts - ideas
 created: 2025-11-21T11:28:29.748886
 updated: 2026-08-12T11:28:29.748886
 source: https://example34.com
-completed: False
+completed: no
 due: 2026-10-27T11:28:29.748886
 tags:
   - reference

@@ -3,7 +3,7 @@ title: Note 40 in inbox
 created: 2025-02-09T11:28:29.838846
 updated: 2026-01-11T11:28:29.838846
 source: https://example538.com
-completed: False
+completed: no
 due: 2026-07-24T11:28:29.838846
 tags:
   - learning

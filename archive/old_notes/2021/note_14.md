@@ -3,7 +3,7 @@ title: Note 14 in archive - old_notes - 2021
 created: 2023-02-09T11:28:29.731141
 updated: 2024-01-11T11:28:29.731141
 author: Diana Prince
-completed: False
+completed: no
 due: 2024-05-24T11:28:29.731141
 tags:
   - template

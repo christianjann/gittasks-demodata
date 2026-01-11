@@ -4,7 +4,7 @@ created: 2025-07-01T11:28:29.799238
 updated: 2026-01-26T11:28:29.799238
 source: https://example31.com
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - work
   - code

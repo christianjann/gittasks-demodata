@@ -3,7 +3,7 @@ title: Note 18 in archive - old_notes - 2019
 created: 2025-01-12T11:28:29.722915
 updated: 2025-07-30T11:28:29.722915
 source: https://example852.com
-completed: True
+completed: yes
 tags:
   - shopping
 ---

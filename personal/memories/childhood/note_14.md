@@ -2,7 +2,7 @@
 title: Note 14 in personal - memories - childhood
 created: 2025-06-22T11:28:29.595600
 updated: 2025-10-28T11:28:29.595600
-completed: True
+completed: yes
 tags:
   - code
   - misc

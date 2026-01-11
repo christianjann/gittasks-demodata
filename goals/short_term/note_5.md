@@ -3,7 +3,7 @@ title: Note 5 in goals - short_term
 created: 2023-12-07T11:28:29.853318
 updated: 2024-04-17T11:28:29.853318
 author: Charlie Brown
-completed: False
+completed: no
 due: 2024-07-06T11:28:29.853318
 tags:
   - personal

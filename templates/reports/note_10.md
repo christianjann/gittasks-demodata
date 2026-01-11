@@ -3,7 +3,7 @@ title: Note 10 in templates - reports
 created: 2023-02-03T11:28:29.912856
 updated: 2023-08-10T11:28:29.912856
 source: https://example142.com
-completed: True
+completed: yes
 due: 2024-02-27T11:28:29.912856
 tags:
   - hobby

@@ -3,7 +3,7 @@ title: Note 24 in work - hr - training
 created: 2025-01-02T11:28:29.668337
 updated: 2025-05-15T11:28:29.668337
 source: https://example61.com
-completed: False
+completed: no
 due: 2026-01-12T11:28:29.668337
 tags:
   - note

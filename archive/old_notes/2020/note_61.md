@@ -3,7 +3,7 @@ title: Note 61 in archive - old_notes - 2020
 created: 2025-08-05T11:28:29.729624
 updated: 2025-09-04T11:28:29.729624
 author: Alice Johnson
-completed: True
+completed: yes
 due: 2026-01-14T11:28:29.729624
 tags:
   - urgent

@@ -4,7 +4,7 @@ created: 2024-09-14T11:28:29.687793
 updated: 2025-02-13T11:28:29.687793
 source: https://example414.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2025-09-21T11:28:29.687793
 ---
 

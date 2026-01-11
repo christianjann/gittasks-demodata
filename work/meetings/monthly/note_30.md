@@ -5,7 +5,7 @@ updated: 2026-01-24T11:28:29.623160
 latitude: -33.5351
 longitude: -4.4411
 altitude: 1049
-completed: True
+completed: yes
 due: 2026-06-12T11:28:29.623160
 tags:
   - research

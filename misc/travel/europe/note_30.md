@@ -6,7 +6,7 @@ source: https://example735.com
 latitude: 78.5634
 longitude: 164.5789
 altitude: 3136
-completed: False
+completed: no
 ---
 
 # Note 30 in misc - travel - europe

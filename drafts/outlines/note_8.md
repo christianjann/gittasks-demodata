@@ -3,7 +3,7 @@ title: Note 8 in drafts - outlines
 created: 2024-09-29T11:28:29.760067
 updated: 2025-03-29T11:28:29.760067
 source: https://example751.com
-completed: True
+completed: yes
 tags:
   - blog
 ---

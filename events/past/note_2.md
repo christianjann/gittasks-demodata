@@ -4,7 +4,7 @@ created: 2025-05-11T11:28:29.952340
 updated: 2025-08-26T11:28:29.952340
 source: https://example334.com
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - urgent
   - hobby

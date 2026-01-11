@@ -3,7 +3,7 @@ title: Note 35 in misc
 created: 2025-12-23T11:28:29.774605
 updated: 2026-04-15T11:28:29.774605
 source: https://example611.com
-completed: False
+completed: no
 due: 2027-03-22T11:28:29.774605
 ---
 

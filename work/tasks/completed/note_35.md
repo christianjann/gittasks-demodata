@@ -6,7 +6,7 @@ source: https://example781.com
 latitude: -89.025
 longitude: -160.8772
 altitude: 3123
-completed: True
+completed: yes
 due: 2025-03-14T11:28:29.640239
 tags:
   - idea

@@ -2,7 +2,7 @@
 title: Note 38 in personal - finances - investments
 created: 2023-02-03T11:28:29.610938
 updated: 2023-04-06T11:28:29.610938
-completed: True
+completed: yes
 tags:
   - reference
   - urgent

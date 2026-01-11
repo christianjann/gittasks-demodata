@@ -4,7 +4,7 @@ created: 2024-10-10T11:28:29.625337
 updated: 2024-12-06T11:28:29.625337
 source: https://example488.com
 author: Diana Prince
-completed: True
+completed: yes
 due: 2024-12-19T11:28:29.625337
 tags:
   - shopping

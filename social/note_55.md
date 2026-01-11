@@ -4,7 +4,7 @@ created: 2023-12-18T11:28:29.935747
 updated: 2024-01-10T11:28:29.935747
 source: https://example312.com
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - code
   - finance

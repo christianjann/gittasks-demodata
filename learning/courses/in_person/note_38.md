@@ -3,7 +3,7 @@ title: Note 38 in learning - courses - in_person
 created: 2025-08-18T11:28:29.817001
 updated: 2026-03-20T11:28:29.817001
 source: https://example100.com
-completed: True
+completed: yes
 tags:
   - task
   - personal

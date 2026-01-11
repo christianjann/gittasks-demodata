@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 17.8713
 longitude: -18.3106
 altitude: 4429
-completed: True
+completed: yes
 due: 2026-10-28T11:28:29.858810
 tags:
   - thought

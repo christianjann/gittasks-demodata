@@ -3,7 +3,7 @@ title: Note 50 in work - hr - policies
 created: 2023-06-16T11:28:29.666814
 updated: 2023-09-08T11:28:29.666814
 author: Ivy Chen
-completed: False
+completed: no
 due: 2024-01-26T11:28:29.666814
 tags:
   - task

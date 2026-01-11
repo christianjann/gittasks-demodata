@@ -2,7 +2,7 @@
 title: Note 18 in personal - thoughts - random
 created: 2024-06-22T11:28:29.583356
 updated: 2024-06-26T11:28:29.583356
-completed: False
+completed: no
 due: 2025-05-09T11:28:29.583356
 tags:
   - archive

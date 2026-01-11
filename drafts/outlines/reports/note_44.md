@@ -6,7 +6,7 @@ source: https://example458.com
 latitude: 63.6986
 longitude: 14.6134
 altitude: 2988
-completed: True
+completed: yes
 tags:
   - learning
 ---

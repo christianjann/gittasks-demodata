@@ -6,7 +6,7 @@ source: https://example576.com
 latitude: -84.1586
 longitude: -61.1987
 altitude: 875
-completed: False
+completed: no
 tags:
   - template
   - research

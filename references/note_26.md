@@ -3,7 +3,7 @@ title: Note 26 in references
 created: 2025-02-19T11:28:29.882306
 updated: 2025-08-10T11:28:29.882306
 author: Jack Taylor
-completed: False
+completed: no
 due: 2026-04-05T11:28:29.882306
 tags:
   - hobby

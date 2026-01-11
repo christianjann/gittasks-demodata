@@ -2,7 +2,7 @@
 title: Note 7 in personal - diary - 2023
 created: 2025-06-15T11:28:29.569764
 updated: 2026-04-05T11:28:29.569764
-completed: True
+completed: yes
 due: 2026-05-16T11:28:29.569764
 ---
 

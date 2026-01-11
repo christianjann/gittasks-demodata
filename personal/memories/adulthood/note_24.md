@@ -5,7 +5,7 @@ updated: 2026-05-14T11:28:29.599535
 latitude: -80.4989
 longitude: -53.9491
 altitude: 3695
-completed: True
+completed: yes
 tags:
   - personal
   - template

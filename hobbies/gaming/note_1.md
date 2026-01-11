@@ -5,7 +5,7 @@ updated: 2023-11-13T11:28:29.974123
 latitude: 70.2437
 longitude: 106.612
 altitude: 1443
-completed: True
+completed: yes
 tags:
   - code
   - research

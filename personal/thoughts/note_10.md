@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -84.9973
 longitude: 14.719
 altitude: 1835
-completed: False
+completed: no
 due: 2026-03-11T11:28:29.579999
 tags:
   - draft

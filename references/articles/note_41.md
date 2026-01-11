@@ -2,7 +2,7 @@
 title: Note 41 in references - articles
 created: 2023-02-18T11:28:29.887424
 updated: 2023-12-28T11:28:29.887424
-completed: True
+completed: yes
 due: 2024-09-15T11:28:29.887424
 tags:
   - idea

@@ -3,7 +3,7 @@ title: Note 39 in misc - recipes - breakfast
 created: 2025-04-03T11:28:29.781394
 updated: 2025-09-13T11:28:29.781394
 source: https://example312.com
-completed: True
+completed: yes
 due: 2026-03-19T11:28:29.781394
 tags:
   - draft

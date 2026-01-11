@@ -4,7 +4,7 @@ created: 2023-02-14T11:28:29.898375
 updated: 2024-02-01T11:28:29.898375
 source: https://example755.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2024-02-02T11:28:29.898375
 tags:
   - meeting

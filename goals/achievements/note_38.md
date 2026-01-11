@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -13.1398
 longitude: -52.4036
 altitude: 3331
-completed: True
+completed: yes
 due: 2024-10-29T11:28:29.863345
 ---
 

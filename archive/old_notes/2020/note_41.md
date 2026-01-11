@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 78.7433
 longitude: -114.399
 altitude: 4560
-completed: True
+completed: yes
 tags:
   - meeting
   - finance

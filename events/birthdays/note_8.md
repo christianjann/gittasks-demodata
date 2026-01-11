@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 6.0559
 longitude: -139.896
 altitude: 3384
-completed: True
+completed: yes
 ---
 
 # Note 8 in events - birthdays

@@ -3,7 +3,7 @@ title: Note 65 in events - birthdays
 created: 2025-07-05T11:28:29.959255
 updated: 2026-03-10T11:28:29.959255
 author: Bob Smith
-completed: True
+completed: yes
 tags:
   - social
 ---

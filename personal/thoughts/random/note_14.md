@@ -6,7 +6,7 @@ source: https://example709.com
 latitude: 48.0191
 longitude: 108.0356
 altitude: 2643
-completed: True
+completed: yes
 due: 2025-08-10T11:28:29.583095
 tags:
   - finance

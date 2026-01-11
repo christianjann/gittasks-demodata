@@ -3,7 +3,7 @@ title: Note 11 in projects - design
 created: 2024-08-09T11:28:29.691014
 updated: 2024-10-19T11:28:29.691014
 author: Frank Miller
-completed: True
+completed: yes
 due: 2025-07-05T11:28:29.691014
 tags:
   - misc

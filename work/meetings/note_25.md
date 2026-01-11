@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: 55.3867
 longitude: 86.8948
 altitude: 2800
-completed: False
+completed: no
 ---
 
 # Note 25 in work - meetings

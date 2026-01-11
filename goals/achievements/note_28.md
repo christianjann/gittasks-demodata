@@ -6,7 +6,7 @@ source: https://example380.com
 latitude: -78.1731
 longitude: -132.2514
 altitude: 1106
-completed: True
+completed: yes
 due: 2027-01-26T11:28:29.862739
 ---
 

@@ -6,7 +6,7 @@ source: https://example10.com
 latitude: 26.9612
 longitude: -57.09
 altitude: 710
-completed: True
+completed: yes
 tags:
   - social
   - urgent

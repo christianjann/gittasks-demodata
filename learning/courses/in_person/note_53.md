@@ -3,7 +3,7 @@ title: Note 53 in learning - courses - in_person
 created: 2023-11-14T11:28:29.817864
 updated: 2024-09-20T11:28:29.817864
 source: https://example483.com
-completed: False
+completed: no
 due: 2025-07-12T11:28:29.817864
 ---
 

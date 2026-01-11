@@ -2,7 +2,7 @@
 title: Note 28 in templates - notes
 created: 2025-01-15T11:28:29.903638
 updated: 2025-04-16T11:28:29.903638
-completed: False
+completed: no
 due: 2026-03-10T11:28:29.903638
 tags:
   - idea

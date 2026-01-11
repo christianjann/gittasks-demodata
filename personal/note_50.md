@@ -3,7 +3,7 @@ title: Note 50 in personal
 created: 2023-09-27T11:28:29.564690
 updated: 2024-01-19T11:28:29.564690
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - template
   - reference

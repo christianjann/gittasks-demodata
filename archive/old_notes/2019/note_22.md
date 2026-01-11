@@ -6,7 +6,7 @@ source: https://example169.com
 latitude: 81.16
 longitude: -178.3255
 altitude: 2999
-completed: True
+completed: yes
 due: 2025-07-20T11:28:29.723133
 tags:
   - thought

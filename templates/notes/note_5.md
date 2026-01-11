@@ -4,7 +4,7 @@ created: 2025-09-24T11:28:29.902209
 updated: 2025-12-07T11:28:29.902209
 source: https://example560.com
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - diary
 ---

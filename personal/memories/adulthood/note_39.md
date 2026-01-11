@@ -5,7 +5,7 @@ updated: 2025-05-12T11:28:29.600450
 latitude: 24.9884
 longitude: 177.6172
 altitude: 3009
-completed: False
+completed: no
 tags:
   - travel
 ---

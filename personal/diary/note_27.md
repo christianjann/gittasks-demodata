@@ -4,7 +4,7 @@ created: 2023-02-05T11:28:29.568097
 updated: 2023-10-25T11:28:29.568097
 source: https://example497.com
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - learning
   - shopping

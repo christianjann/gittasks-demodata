@@ -4,7 +4,7 @@ created: 2023-01-25T11:28:29.947741
 updated: 2023-10-28T11:28:29.947741
 source: https://example733.com
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - event
   - journal

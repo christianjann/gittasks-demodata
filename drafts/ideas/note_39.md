@@ -3,7 +3,7 @@ title: Note 39 in drafts - ideas
 created: 2023-02-08T11:28:29.748997
 updated: 2023-09-21T11:28:29.748997
 author: Alice Johnson
-completed: False
+completed: no
 due: 2024-03-17T11:28:29.748997
 tags:
   - thought

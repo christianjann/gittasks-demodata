@@ -2,7 +2,7 @@
 title: Note 47 in templates
 created: 2024-11-14T11:28:29.901081
 updated: 2025-10-15T11:28:29.901081
-completed: False
+completed: no
 tags:
   - reference
   - misc

@@ -4,7 +4,7 @@ created: 2023-05-29T11:28:29.850128
 updated: 2023-08-28T11:28:29.850128
 source: https://example147.com
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - personal
 ---

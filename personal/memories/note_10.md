@@ -3,7 +3,7 @@ title: Note 10 in personal - memories
 created: 2023-08-24T11:28:29.590688
 updated: 2024-03-01T11:28:29.590688
 source: https://example107.com
-completed: True
+completed: yes
 ---
 
 # Note 10 in personal - memories

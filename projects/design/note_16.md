@@ -2,7 +2,7 @@
 title: Note 16 in projects - design
 created: 2024-06-09T11:28:29.691305
 updated: 2024-11-25T11:28:29.691305
-completed: False
+completed: no
 tags:
   - learning
 ---

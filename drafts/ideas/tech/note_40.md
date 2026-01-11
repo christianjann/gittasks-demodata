@@ -6,7 +6,7 @@ source: https://example745.com
 latitude: 54.2179
 longitude: 169.5223
 altitude: 2721
-completed: False
+completed: no
 due: 2024-12-07T11:28:29.753372
 tags:
   - template

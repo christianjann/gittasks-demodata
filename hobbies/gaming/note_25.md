@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: -5.625
 longitude: -113.9957
 altitude: 2769
-completed: False
+completed: no
 tags:
   - thought
   - social

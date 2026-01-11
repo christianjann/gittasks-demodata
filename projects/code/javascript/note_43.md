@@ -6,7 +6,7 @@ source: https://example381.com
 latitude: -25.2857
 longitude: -157.1555
 altitude: 3570
-completed: False
+completed: no
 tags:
   - reference
   - misc

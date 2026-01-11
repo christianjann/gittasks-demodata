@@ -2,7 +2,7 @@
 title: Note 2 in blog - drafts
 created: 2023-03-15T11:28:29.919910
 updated: 2023-06-23T11:28:29.919910
-completed: False
+completed: no
 due: 2023-08-03T11:28:29.919910
 tags:
   - work

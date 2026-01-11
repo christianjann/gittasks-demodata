@@ -3,7 +3,7 @@ title: Note 38 in drafts - ideas
 created: 2023-12-01T11:28:29.748944
 updated: 2024-06-22T11:28:29.748944
 source: https://example69.com
-completed: True
+completed: yes
 tags:
   - research
   - health

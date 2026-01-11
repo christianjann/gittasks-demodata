@@ -4,7 +4,7 @@ created: 2024-11-30T11:28:29.813520
 updated: 2025-04-01T11:28:29.813520
 source: https://example646.com
 author: Bob Smith
-completed: False
+completed: no
 ---
 
 # Note 21 in learning - courses - online

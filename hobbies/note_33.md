@@ -2,7 +2,7 @@
 title: Note 33 in hobbies
 created: 2023-10-11T11:28:29.970325
 updated: 2024-02-21T11:28:29.970325
-completed: False
+completed: no
 tags:
   - learning
   - design

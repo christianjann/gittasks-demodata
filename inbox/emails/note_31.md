@@ -5,7 +5,7 @@ updated: 2025-02-04T11:28:29.848328
 latitude: 33.8874
 longitude: -128.1232
 altitude: 1491
-completed: False
+completed: no
 tags:
   - misc
   - idea

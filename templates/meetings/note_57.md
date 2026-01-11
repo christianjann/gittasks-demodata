@@ -3,7 +3,7 @@ title: Note 57 in templates - meetings
 created: 2024-07-10T11:28:29.911401
 updated: 2024-09-08T11:28:29.911401
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2025-07-22T11:28:29.911401
 ---
 

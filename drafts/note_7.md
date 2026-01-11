@@ -2,7 +2,7 @@
 title: Note 7 in drafts
 created: 2023-03-02T11:28:29.742991
 updated: 2024-02-08T11:28:29.742991
-completed: False
+completed: no
 tags:
   - social
   - work

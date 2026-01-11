@@ -4,7 +4,7 @@ created: 2024-10-29T11:28:29.958001
 updated: 2025-06-03T11:28:29.958001
 source: https://example690.com
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - template
 ---

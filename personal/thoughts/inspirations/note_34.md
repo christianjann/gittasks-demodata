@@ -4,7 +4,7 @@ created: 2025-07-27T11:28:29.588807
 updated: 2026-04-04T11:28:29.588807
 source: https://example740.com
 author: Bob Smith
-completed: True
+completed: yes
 due: 2026-08-10T11:28:29.588807
 ---
 

@@ -4,7 +4,7 @@ created: 2025-02-08T11:28:29.947582
 updated: 2025-05-21T11:28:29.947582
 source: https://example263.com
 author: Bob Smith
-completed: True
+completed: yes
 ---
 
 # Note 17 in events

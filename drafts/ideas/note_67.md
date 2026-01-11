@@ -4,7 +4,7 @@ created: 2025-01-03T11:28:29.750773
 updated: 2025-04-16T11:28:29.750773
 source: https://example795.com
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - journal
 ---

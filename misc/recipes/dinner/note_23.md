@@ -3,7 +3,7 @@ title: Note 23 in misc - recipes - dinner
 created: 2023-10-13T11:28:29.784316
 updated: 2023-10-22T11:28:29.784316
 author: Bob Smith
-completed: True
+completed: yes
 tags:
   - thought
 ---

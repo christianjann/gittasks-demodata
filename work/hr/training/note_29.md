@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -64.5333
 longitude: 93.9754
 altitude: 3607
-completed: True
+completed: yes
 due: 2026-06-06T11:28:29.668692
 tags:
   - blog

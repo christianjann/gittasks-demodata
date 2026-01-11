@@ -6,7 +6,7 @@ source: https://example86.com
 latitude: -5.7824
 longitude: 55.6744
 altitude: 2
-completed: True
+completed: yes
 due: 2027-08-09T11:28:29.841626
 tags:
   - draft

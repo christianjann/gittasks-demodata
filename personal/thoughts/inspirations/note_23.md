@@ -4,7 +4,7 @@ created: 2023-03-13T11:28:29.587966
 updated: 2023-10-14T11:28:29.587966
 source: https://example98.com
 author: Grace Lee
-completed: False
+completed: no
 due: 2024-08-25T11:28:29.587966
 tags:
   - code

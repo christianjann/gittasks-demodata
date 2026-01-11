@@ -3,7 +3,7 @@ title: Note 24 in misc - travel - europe
 created: 2023-05-20T11:28:29.791652
 updated: 2023-12-29T11:28:29.791652
 source: https://example25.com
-completed: True
+completed: yes
 tags:
   - urgent
   - journal

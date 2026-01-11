@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: -9.9755
 longitude: -72.5044
 altitude: 246
-completed: True
+completed: yes
 tags:
   - blog
   - finance

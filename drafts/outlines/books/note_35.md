@@ -4,7 +4,7 @@ created: 2023-11-09T11:28:29.765894
 updated: 2023-12-08T11:28:29.765894
 source: https://example515.com
 author: Grace Lee
-completed: True
+completed: yes
 ---
 
 # Note 35 in drafts - outlines - books

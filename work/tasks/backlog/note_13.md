@@ -2,7 +2,7 @@
 title: Note 13 in work - tasks - backlog
 created: 2024-01-04T11:28:29.633873
 updated: 2024-03-28T11:28:29.633873
-completed: True
+completed: yes
 tags:
   - research
 ---

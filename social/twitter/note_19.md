@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: -53.5692
 longitude: 104.7355
 altitude: 1666
-completed: False
+completed: no
 tags:
   - learning
   - code

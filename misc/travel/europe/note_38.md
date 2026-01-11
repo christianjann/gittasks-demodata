@@ -3,7 +3,7 @@ title: Note 38 in misc - travel - europe
 created: 2023-01-17T11:28:29.792482
 updated: 2023-04-18T11:28:29.792482
 author: Jack Taylor
-completed: False
+completed: no
 ---
 
 # Note 38 in misc - travel - europe

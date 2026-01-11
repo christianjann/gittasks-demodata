@@ -6,7 +6,7 @@ source: https://example235.com
 latitude: 83.151
 longitude: 131.8921
 altitude: 926
-completed: False
+completed: no
 due: 2026-10-07T11:28:29.747709
 tags:
   - journal

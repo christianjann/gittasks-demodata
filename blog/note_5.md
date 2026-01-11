@@ -3,7 +3,7 @@ title: Note 5 in blog
 created: 2025-02-17T11:28:29.915910
 updated: 2025-10-28T11:28:29.915910
 author: Charlie Brown
-completed: False
+completed: no
 due: 2026-01-22T11:28:29.915910
 tags:
   - thought

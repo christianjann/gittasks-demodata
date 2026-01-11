@@ -4,7 +4,7 @@ created: 2023-10-14T11:28:29.915475
 updated: 2024-05-17T11:28:29.915475
 source: https://example137.com
 author: Diana Prince
-completed: False
+completed: no
 due: 2024-08-06T11:28:29.915475
 tags:
   - blog

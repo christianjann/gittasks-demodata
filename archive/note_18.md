@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: -58.4669
 longitude: -107.6716
 altitude: 2814
-completed: False
+completed: no
 tags:
   - meeting
   - reference

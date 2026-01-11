@@ -3,7 +3,7 @@ title: Note 42 in archive - backup
 created: 2023-07-03T11:28:29.735328
 updated: 2024-05-20T11:28:29.735328
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - travel
 ---

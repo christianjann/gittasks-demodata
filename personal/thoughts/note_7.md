@@ -6,7 +6,7 @@ author: Diana Prince
 latitude: -35.4102
 longitude: -80.5004
 altitude: 2149
-completed: False
+completed: no
 due: 2026-04-06T11:28:29.579803
 tags:
   - thought

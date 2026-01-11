@@ -3,7 +3,7 @@ title: Note 9 in journal - yearly
 created: 2023-03-22T11:28:29.877577
 updated: 2023-09-19T11:28:29.877577
 source: https://example759.com
-completed: True
+completed: yes
 tags:
   - finance
   - shopping

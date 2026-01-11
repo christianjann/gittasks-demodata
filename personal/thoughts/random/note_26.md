@@ -4,7 +4,7 @@ created: 2025-05-22T11:28:29.583919
 updated: 2026-05-14T11:28:29.583919
 source: https://example125.com
 author: Charlie Brown
-completed: True
+completed: yes
 ---
 
 # Note 26 in personal - thoughts - random

@@ -3,7 +3,7 @@ title: Note 4 in personal - diary - 2024
 created: 2025-08-21T11:28:29.573193
 updated: 2026-07-31T11:28:29.573193
 source: https://example215.com
-completed: False
+completed: no
 due: 2027-05-03T11:28:29.573193
 tags:
   - research

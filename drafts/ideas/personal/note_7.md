@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 14.3163
 longitude: 103.7817
 altitude: 3904
-completed: False
+completed: no
 due: 2025-11-04T11:28:29.757794
 tags:
   - shopping

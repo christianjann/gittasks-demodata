@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: 31.4072
 longitude: 51.3941
 altitude: 2130
-completed: True
+completed: yes
 tags:
   - misc
   - reference

@@ -3,7 +3,7 @@ title: Note 49 in projects - research - articles
 created: 2025-12-23T11:28:29.710537
 updated: 2026-04-28T11:28:29.710537
 author: Henry Wilson
-completed: False
+completed: no
 due: 2026-07-05T11:28:29.710537
 tags:
   - archive

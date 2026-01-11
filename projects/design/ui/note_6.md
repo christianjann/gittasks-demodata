@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 24.0498
 longitude: -151.2348
 altitude: 3560
-completed: True
+completed: yes
 due: 2024-12-19T11:28:29.693232
 tags:
   - journal

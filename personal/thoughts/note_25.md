@@ -4,7 +4,7 @@ created: 2025-03-28T11:28:29.581070
 updated: 2025-04-02T11:28:29.581070
 source: https://example934.com
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - note
   - shopping

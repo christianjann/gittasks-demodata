@@ -6,7 +6,7 @@ source: https://example776.com
 latitude: 89.2004
 longitude: -64.4823
 altitude: 3051
-completed: True
+completed: yes
 due: 2024-12-13T11:28:29.657595
 tags:
   - health

@@ -3,7 +3,7 @@ title: Note 16 in projects - code - java
 created: 2024-11-27T11:28:29.684977
 updated: 2025-11-01T11:28:29.684977
 source: https://example613.com
-completed: False
+completed: no
 tags:
   - journal
   - archive

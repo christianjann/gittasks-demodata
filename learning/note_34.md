@@ -4,7 +4,7 @@ created: 2024-12-18T11:28:29.809122
 updated: 2025-04-07T11:28:29.809122
 source: https://example654.com
 author: Eve Adams
-completed: False
+completed: no
 ---
 
 # Note 34 in learning

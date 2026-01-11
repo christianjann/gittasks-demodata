@@ -5,7 +5,7 @@ updated: 2026-01-11T11:28:29.813963
 latitude: 24.9956
 longitude: -36.3257
 altitude: 3045
-completed: True
+completed: yes
 tags:
   - design
 ---

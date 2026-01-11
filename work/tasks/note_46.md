@@ -3,7 +3,7 @@ title: Note 46 in work - tasks
 created: 2023-04-26T11:28:29.629857
 updated: 2023-12-15T11:28:29.629857
 source: https://example918.com
-completed: False
+completed: no
 tags:
   - personal
   - thought

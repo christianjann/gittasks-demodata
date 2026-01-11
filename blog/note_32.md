@@ -6,7 +6,7 @@ source: https://example19.com
 latitude: 24.6997
 longitude: -53.9865
 altitude: 4574
-completed: True
+completed: yes
 due: 2025-03-11T11:28:29.917732
 tags:
   - travel

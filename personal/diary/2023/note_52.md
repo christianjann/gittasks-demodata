@@ -3,7 +3,7 @@ title: Note 52 in personal - diary - 2023
 created: 2024-10-25T11:28:29.572917
 updated: 2025-05-05T11:28:29.572917
 source: https://example843.com
-completed: True
+completed: yes
 tags:
   - thought
   - travel

@@ -3,7 +3,7 @@ title: Note 62 in goals - short_term
 created: 2023-11-08T11:28:29.856643
 updated: 2024-01-03T11:28:29.856643
 author: Jack Taylor
-completed: False
+completed: no
 ---
 
 # Note 62 in goals - short_term

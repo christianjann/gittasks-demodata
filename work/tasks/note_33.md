@@ -6,7 +6,7 @@ source: https://example976.com
 latitude: 48.4285
 longitude: -110.8481
 altitude: 3384
-completed: False
+completed: no
 tags:
   - personal
   - finance

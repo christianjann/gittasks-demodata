@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -68.4953
 longitude: 126.9254
 altitude: 4764
-completed: False
+completed: no
 tags:
   - learning
   - social

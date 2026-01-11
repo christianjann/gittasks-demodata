@@ -3,7 +3,7 @@ title: Note 33 in work - projects - proposals
 created: 2024-06-10T11:28:29.657537
 updated: 2025-02-26T11:28:29.657537
 source: https://example316.com
-completed: False
+completed: no
 tags:
   - finance
 ---

@@ -3,7 +3,7 @@ title: Note 37 in personal - diary - 2023
 created: 2023-05-21T11:28:29.571918
 updated: 2024-01-05T11:28:29.571918
 source: https://example671.com
-completed: True
+completed: yes
 tags:
   - design
   - note

@@ -2,7 +2,7 @@
 title: Note 15 in events - birthdays
 created: 2025-01-08T11:28:29.956219
 updated: 2025-04-21T11:28:29.956219
-completed: False
+completed: no
 due: 2025-07-04T11:28:29.956219
 ---
 

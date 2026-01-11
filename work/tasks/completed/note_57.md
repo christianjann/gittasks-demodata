@@ -3,7 +3,7 @@ title: Note 57 in work - tasks - completed
 created: 2023-10-09T11:28:29.641762
 updated: 2024-03-06T11:28:29.641762
 source: https://example918.com
-completed: False
+completed: no
 ---
 
 # Note 57 in work - tasks - completed

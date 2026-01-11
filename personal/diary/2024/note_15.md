@@ -6,7 +6,7 @@ source: https://example806.com
 latitude: 4.2208
 longitude: 88.4798
 altitude: 4327
-completed: False
+completed: no
 tags:
   - social
   - learning

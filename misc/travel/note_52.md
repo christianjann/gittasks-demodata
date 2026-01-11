@@ -3,7 +3,7 @@ title: Note 52 in misc - travel
 created: 2025-08-27T11:28:29.789748
 updated: 2025-10-23T11:28:29.789748
 source: https://example469.com
-completed: False
+completed: no
 due: 2026-06-13T11:28:29.789748
 ---
 

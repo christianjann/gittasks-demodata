@@ -4,7 +4,7 @@ created: 2024-06-02T11:28:29.631271
 updated: 2025-02-21T11:28:29.631271
 source: https://example197.com
 author: Frank Miller
-completed: False
+completed: no
 ---
 
 # Note 20 in work - tasks - urgent

@@ -3,7 +3,7 @@ title: Note 41 in events - upcoming
 created: 2023-08-06T11:28:29.951562
 updated: 2023-11-29T11:28:29.951562
 source: https://example276.com
-completed: False
+completed: no
 due: 2024-02-23T11:28:29.951562
 tags:
   - diary

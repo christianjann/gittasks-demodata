@@ -3,7 +3,7 @@ title: Note 33 in learning - tutorials
 created: 2025-02-20T11:28:29.830122
 updated: 2025-04-25T11:28:29.830122
 source: https://example238.com
-completed: False
+completed: no
 due: 2025-09-15T11:28:29.830122
 tags:
   - personal

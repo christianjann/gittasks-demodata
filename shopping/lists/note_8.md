@@ -3,7 +3,7 @@ title: Note 8 in shopping - lists
 created: 2025-02-05T11:28:29.962646
 updated: 2025-09-06T11:28:29.962646
 source: https://example412.com
-completed: False
+completed: no
 tags:
   - work
   - draft

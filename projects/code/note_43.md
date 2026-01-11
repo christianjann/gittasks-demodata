@@ -3,7 +3,7 @@ title: Note 43 in projects - code
 created: 2024-08-26T11:28:29.676669
 updated: 2025-01-23T11:28:29.676669
 author: Diana Prince
-completed: False
+completed: no
 due: 2025-11-16T11:28:29.676669
 tags:
   - finance

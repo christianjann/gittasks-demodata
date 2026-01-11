@@ -3,7 +3,7 @@ title: Note 53 in drafts - outlines - reports
 created: 2023-10-26T11:28:29.772568
 updated: 2024-04-11T11:28:29.772568
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - idea
 ---

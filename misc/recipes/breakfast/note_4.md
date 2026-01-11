@@ -6,7 +6,7 @@ source: https://example453.com
 latitude: -54.5417
 longitude: -123.2625
 altitude: 2403
-completed: True
+completed: yes
 tags:
   - hobby
   - meeting

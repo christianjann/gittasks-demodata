@@ -4,7 +4,7 @@ created: 2023-04-13T11:28:29.655083
 updated: 2023-06-03T11:28:29.655083
 source: https://example134.com
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2024-01-22T11:28:29.655083
 tags:
   - event

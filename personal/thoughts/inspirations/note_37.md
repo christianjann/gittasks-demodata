@@ -3,7 +3,7 @@ title: Note 37 in personal - thoughts - inspirations
 created: 2023-01-18T11:28:29.588999
 updated: 2023-10-19T11:28:29.588999
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - travel
   - health

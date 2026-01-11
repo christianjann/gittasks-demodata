@@ -2,7 +2,7 @@
 title: Note 42 in work - meetings - quarterly
 created: 2023-07-23T11:28:29.626425
 updated: 2024-04-02T11:28:29.626425
-completed: True
+completed: yes
 tags:
   - archive
 ---

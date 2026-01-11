@@ -3,7 +3,7 @@ title: Note 44 in projects - code - go
 created: 2025-07-09T11:28:29.689465
 updated: 2026-04-30T11:28:29.689465
 author: Charlie Brown
-completed: True
+completed: yes
 ---
 
 # Note 44 in projects - code - go

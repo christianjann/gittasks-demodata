@@ -6,7 +6,7 @@ author: Jack Taylor
 latitude: -13.0667
 longitude: 22.3432
 altitude: 2815
-completed: False
+completed: no
 ---
 
 # Note 4 in references - podcasts

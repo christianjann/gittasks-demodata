@@ -4,7 +4,7 @@ created: 2025-10-08T11:28:29.968025
 updated: 2025-12-15T11:28:29.968025
 source: https://example531.com
 author: Ivy Chen
-completed: False
+completed: no
 ---
 
 # Note 50 in shopping - reviews

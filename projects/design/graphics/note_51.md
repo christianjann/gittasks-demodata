@@ -6,7 +6,7 @@ author: Henry Wilson
 latitude: 73.6305
 longitude: 82.8863
 altitude: 3283
-completed: True
+completed: yes
 tags:
   - social
   - event

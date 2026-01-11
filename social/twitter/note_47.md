@@ -4,7 +4,7 @@ created: 2025-10-29T11:28:29.939610
 updated: 2026-02-06T11:28:29.939610
 source: https://example581.com
 author: Charlie Brown
-completed: True
+completed: yes
 ---
 
 # Note 47 in social - twitter

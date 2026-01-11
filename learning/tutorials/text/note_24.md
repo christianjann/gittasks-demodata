@@ -4,7 +4,7 @@ created: 2023-09-02T11:28:29.835514
 updated: 2024-08-07T11:28:29.835514
 source: https://example415.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - shopping
   - health

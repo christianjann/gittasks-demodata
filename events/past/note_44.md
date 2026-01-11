@@ -2,7 +2,7 @@
 title: Note 44 in events - past
 created: 2024-11-13T11:28:29.954793
 updated: 2025-05-28T11:28:29.954793
-completed: False
+completed: no
 due: 2025-10-14T11:28:29.954793
 tags:
   - health

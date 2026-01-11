@@ -3,7 +3,7 @@ title: Note 47 in learning
 created: 2025-05-05T11:28:29.809841
 updated: 2026-01-12T11:28:29.809841
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - design
 ---

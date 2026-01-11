@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: 5.5317
 longitude: 114.4941
 altitude: 933
-completed: True
+completed: yes
 ---
 
 # Note 8 in archive - old_notes

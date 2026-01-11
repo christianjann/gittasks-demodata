@@ -6,7 +6,7 @@ source: https://example255.com
 latitude: 53.9678
 longitude: -167.0927
 altitude: 2427
-completed: False
+completed: no
 ---
 
 # Note 5 in references - podcasts

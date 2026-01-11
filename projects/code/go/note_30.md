@@ -5,7 +5,7 @@ updated: 2026-01-20T11:28:29.688344
 latitude: 68.4259
 longitude: -27.6543
 altitude: 1309
-completed: True
+completed: yes
 due: 2026-06-07T11:28:29.688344
 tags:
   - note

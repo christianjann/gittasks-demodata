@@ -4,7 +4,7 @@ created: 2023-06-26T11:28:29.866447
 updated: 2023-10-27T11:28:29.866447
 source: https://example882.com
 author: Jack Taylor
-completed: False
+completed: no
 due: 2024-08-07T11:28:29.866447
 tags:
   - meeting

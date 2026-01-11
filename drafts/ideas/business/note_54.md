@@ -2,7 +2,7 @@
 title: Note 54 in drafts - ideas - business
 created: 2024-06-24T11:28:29.756823
 updated: 2025-06-24T11:28:29.756823
-completed: True
+completed: yes
 ---
 
 # Note 54 in drafts - ideas - business

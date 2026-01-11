@@ -3,7 +3,7 @@ title: Note 12 in personal - thoughts - inspirations
 created: 2023-01-29T11:28:29.587296
 updated: 2023-10-19T11:28:29.587296
 source: https://example682.com
-completed: True
+completed: yes
 due: 2024-04-05T11:28:29.587296
 tags:
   - research

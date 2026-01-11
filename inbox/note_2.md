@@ -2,7 +2,7 @@
 title: Note 2 in inbox
 created: 2025-06-09T11:28:29.836546
 updated: 2025-08-24T11:28:29.836546
-completed: True
+completed: yes
 tags:
   - shopping
   - blog

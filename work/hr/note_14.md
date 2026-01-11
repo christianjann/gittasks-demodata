@@ -6,7 +6,7 @@ source: https://example895.com
 latitude: -1.3366
 longitude: 55.3214
 altitude: 2557
-completed: True
+completed: yes
 ---
 
 # Note 14 in work - hr

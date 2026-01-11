@@ -6,7 +6,7 @@ source: https://example398.com
 latitude: 83.5173
 longitude: 126.8381
 altitude: 47
-completed: True
+completed: yes
 tags:
   - meeting
 ---

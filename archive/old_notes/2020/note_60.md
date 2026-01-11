@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: 75.9621
 longitude: -137.9597
 altitude: 1982
-completed: False
+completed: no
 due: 2025-10-28T11:28:29.729538
 ---
 

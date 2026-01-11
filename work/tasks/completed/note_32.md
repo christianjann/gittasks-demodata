@@ -4,7 +4,7 @@ created: 2025-06-17T11:28:29.639957
 updated: 2025-12-22T11:28:29.639957
 source: https://example688.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - social
 ---

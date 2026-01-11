@@ -3,7 +3,7 @@ title: Note 24 in events - upcoming
 created: 2025-06-11T11:28:29.950546
 updated: 2026-02-02T11:28:29.950546
 source: https://example492.com
-completed: True
+completed: yes
 due: 2026-10-19T11:28:29.950546
 tags:
   - goal

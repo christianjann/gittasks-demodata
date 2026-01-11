@@ -4,7 +4,7 @@ created: 2025-02-20T11:28:29.943465
 updated: 2025-11-14T11:28:29.943465
 source: https://example576.com
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - design
   - event

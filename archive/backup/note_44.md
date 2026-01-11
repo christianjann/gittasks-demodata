@@ -4,7 +4,7 @@ created: 2025-12-14T11:28:29.735453
 updated: 2026-02-14T11:28:29.735453
 source: https://example396.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - note
   - learning

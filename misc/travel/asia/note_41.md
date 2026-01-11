@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: -44.201
 longitude: -176.1351
 altitude: 1444
-completed: False
+completed: no
 due: 2025-02-11T11:28:29.795968
 tags:
   - finance

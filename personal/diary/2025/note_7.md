@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -24.5078
 longitude: -102.8475
 altitude: 4644
-completed: False
+completed: no
 tags:
   - research
   - design

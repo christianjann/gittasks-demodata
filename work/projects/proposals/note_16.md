@@ -3,7 +3,7 @@ title: Note 16 in work - projects - proposals
 created: 2025-08-29T11:28:29.656071
 updated: 2026-01-20T11:28:29.656071
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - code
   - reference

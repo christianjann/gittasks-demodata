@@ -4,7 +4,7 @@ created: 2025-10-10T11:28:29.638157
 updated: 2026-06-19T11:28:29.638157
 source: https://example601.com
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2026-12-28T11:28:29.638157
 tags:
   - urgent

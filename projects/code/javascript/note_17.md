@@ -6,7 +6,7 @@ source: https://example121.com
 latitude: 38.9491
 longitude: -92.2095
 altitude: 3025
-completed: False
+completed: no
 tags:
   - draft
 ---

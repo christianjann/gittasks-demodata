@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 57.1638
 longitude: -43.4879
 altitude: 156
-completed: True
+completed: yes
 due: 2023-12-13T11:28:29.731428
 tags:
   - goal

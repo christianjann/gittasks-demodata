@@ -2,7 +2,7 @@
 title: Note 2 in references - podcasts
 created: 2024-12-19T11:28:29.894942
 updated: 2025-07-17T11:28:29.894942
-completed: True
+completed: yes
 tags:
   - code
   - archive

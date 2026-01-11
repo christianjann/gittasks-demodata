@@ -3,7 +3,7 @@ title: Note 3 in learning
 created: 2024-09-24T11:28:29.807386
 updated: 2025-08-20T11:28:29.807386
 source: https://example311.com
-completed: False
+completed: no
 tags:
   - diary
 ---

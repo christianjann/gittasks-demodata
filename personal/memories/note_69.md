@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: 81.9793
 longitude: -153.7242
 altitude: 3576
-completed: False
+completed: no
 ---
 
 # Note 69 in personal - memories

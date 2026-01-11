@@ -3,7 +3,7 @@ title: Note 30 in personal - finances - budget
 created: 2024-06-01T11:28:29.607276
 updated: 2024-09-06T11:28:29.607276
 source: https://example21.com
-completed: False
+completed: no
 tags:
   - misc
   - journal

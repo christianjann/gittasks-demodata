@@ -4,7 +4,7 @@ created: 2023-03-24T11:28:29.770913
 updated: 2023-12-03T11:28:29.770913
 source: https://example674.com
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - health
 ---

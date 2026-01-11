@@ -6,7 +6,7 @@ source: https://example21.com
 latitude: -57.2842
 longitude: -25.6643
 altitude: 4398
-completed: False
+completed: no
 tags:
   - social
   - thought

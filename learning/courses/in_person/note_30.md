@@ -3,7 +3,7 @@ title: Note 30 in learning - courses - in_person
 created: 2025-01-13T11:28:29.816570
 updated: 2025-03-29T11:28:29.816570
 source: https://example707.com
-completed: False
+completed: no
 due: 2025-07-12T11:28:29.816570
 ---
 

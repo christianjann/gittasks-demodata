@@ -6,7 +6,7 @@ source: https://example241.com
 latitude: 84.9513
 longitude: 13.7856
 altitude: 4147
-completed: True
+completed: yes
 due: 2024-06-22T11:28:29.706854
 tags:
   - goal

@@ -7,7 +7,7 @@ author: Charlie Brown
 latitude: -22.3518
 longitude: -84.456
 altitude: 4332
-completed: False
+completed: no
 tags:
   - thought
   - note

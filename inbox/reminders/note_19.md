@@ -6,7 +6,7 @@ source: https://example680.com
 latitude: -48.6956
 longitude: -149.9788
 altitude: 3506
-completed: True
+completed: yes
 due: 2025-04-27T11:28:29.843922
 tags:
   - design

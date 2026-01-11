@@ -3,7 +3,7 @@ title: Note 13 in work - projects - proposals
 created: 2024-10-23T11:28:29.655833
 updated: 2025-02-22T11:28:29.655833
 source: https://example968.com
-completed: False
+completed: no
 tags:
   - hobby
   - travel

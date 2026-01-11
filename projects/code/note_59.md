@@ -6,7 +6,7 @@ source: https://example602.com
 latitude: 28.2787
 longitude: -102.3029
 altitude: 754
-completed: True
+completed: yes
 tags:
   - note
   - meeting

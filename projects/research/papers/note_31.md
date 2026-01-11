@@ -3,7 +3,7 @@ title: Note 31 in projects - research - papers
 created: 2024-11-22T11:28:29.706798
 updated: 2025-06-02T11:28:29.706798
 source: https://example860.com
-completed: False
+completed: no
 due: 2026-01-20T11:28:29.706798
 tags:
   - shopping

@@ -4,7 +4,7 @@ created: 2023-03-03T11:28:29.846747
 updated: 2023-06-01T11:28:29.846747
 source: https://example617.com
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - reference
   - idea

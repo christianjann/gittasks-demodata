@@ -3,7 +3,7 @@ title: Note 6 in work - meetings
 created: 2024-10-20T11:28:29.616128
 updated: 2025-04-23T11:28:29.616128
 source: https://example244.com
-completed: True
+completed: yes
 due: 2025-08-29T11:28:29.616128
 ---
 

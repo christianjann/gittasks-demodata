@@ -3,7 +3,7 @@ title: Note 67 in personal - memories
 created: 2024-10-04T11:28:29.594520
 updated: 2025-01-25T11:28:29.594520
 source: https://example725.com
-completed: False
+completed: no
 tags:
   - diary
   - note

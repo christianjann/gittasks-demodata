@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -68.7807
 longitude: 174.2152
 altitude: 1849
-completed: True
+completed: yes
 ---
 
 # Note 39 in projects - code - javascript

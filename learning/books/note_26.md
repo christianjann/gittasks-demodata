@@ -3,7 +3,7 @@ title: Note 26 in learning - books
 created: 2025-03-05T11:28:29.820216
 updated: 2025-03-08T11:28:29.820216
 source: https://example999.com
-completed: True
+completed: yes
 ---
 
 # Note 26 in learning - books

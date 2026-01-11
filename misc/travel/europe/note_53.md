@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: -12.604
 longitude: -102.1058
 altitude: 362
-completed: False
+completed: no
 ---
 
 # Note 53 in misc - travel - europe

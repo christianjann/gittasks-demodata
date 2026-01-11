@@ -5,7 +5,7 @@ updated: 2023-10-08T11:28:29.982989
 latitude: 24.3501
 longitude: -59.396
 altitude: 3635
-completed: False
+completed: no
 tags:
   - meeting
   - personal

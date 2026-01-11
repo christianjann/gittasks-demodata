@@ -4,7 +4,7 @@ created: 2023-01-23T11:28:29.623379
 updated: 2023-03-25T11:28:29.623379
 source: https://example33.com
 author: Henry Wilson
-completed: False
+completed: no
 due: 2023-08-14T11:28:29.623379
 tags:
   - journal

@@ -3,7 +3,7 @@ title: Note 33 in misc - health
 created: 2025-03-01T11:28:29.798260
 updated: 2026-01-03T11:28:29.798260
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2026-10-25T11:28:29.798260
 tags:
   - shopping

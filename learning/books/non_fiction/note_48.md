@@ -6,7 +6,7 @@ source: https://example235.com
 latitude: -35.8309
 longitude: 11.9461
 altitude: 1081
-completed: False
+completed: no
 due: 2025-11-06T11:28:29.826773
 tags:
   - code

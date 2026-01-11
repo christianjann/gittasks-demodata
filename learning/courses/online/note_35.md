@@ -4,7 +4,7 @@ created: 2025-06-18T11:28:29.814291
 updated: 2026-05-25T11:28:29.814291
 source: https://example304.com
 author: Eve Adams
-completed: False
+completed: no
 due: 2026-12-19T11:28:29.814291
 tags:
   - idea

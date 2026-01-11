@@ -5,7 +5,7 @@ updated: 2024-12-10T11:28:29.570281
 latitude: -59.2247
 longitude: -72.8319
 altitude: 1536
-completed: False
+completed: no
 tags:
   - reference
   - finance

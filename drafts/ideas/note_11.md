@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -31.3212
 longitude: 27.9419
 altitude: 4667
-completed: True
+completed: yes
 due: 2024-08-02T11:28:29.747364
 tags:
   - hobby

@@ -3,7 +3,7 @@ title: Note 22 in misc - health - mental
 created: 2025-08-17T11:28:29.805177
 updated: 2026-08-07T11:28:29.805177
 source: https://example471.com
-completed: True
+completed: yes
 due: 2027-02-27T11:28:29.805177
 tags:
   - event

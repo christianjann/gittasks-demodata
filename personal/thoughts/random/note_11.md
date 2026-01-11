@@ -2,7 +2,7 @@
 title: Note 11 in personal - thoughts - random
 created: 2025-11-20T11:28:29.582908
 updated: 2026-03-18T11:28:29.582908
-completed: True
+completed: yes
 tags:
   - social
   - personal

@@ -2,7 +2,7 @@
 title: Note 45 in references
 created: 2023-07-02T11:28:29.883665
 updated: 2024-03-30T11:28:29.883665
-completed: False
+completed: no
 due: 2024-10-04T11:28:29.883665
 tags:
   - diary

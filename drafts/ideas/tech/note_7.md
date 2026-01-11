@@ -2,7 +2,7 @@
 title: Note 7 in drafts - ideas - tech
 created: 2023-01-21T11:28:29.751274
 updated: 2023-12-25T11:28:29.751274
-completed: False
+completed: no
 due: 2024-03-29T11:28:29.751274
 tags:
   - hobby

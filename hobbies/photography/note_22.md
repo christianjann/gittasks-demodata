@@ -3,7 +3,7 @@ title: Note 22 in hobbies - photography
 created: 2024-08-07T11:28:29.972586
 updated: 2024-09-21T11:28:29.972586
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - design
   - recipe

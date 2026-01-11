@@ -6,7 +6,7 @@ source: https://example249.com
 latitude: -71.9729
 longitude: -177.9163
 altitude: 4593
-completed: False
+completed: no
 tags:
   - archive
   - draft

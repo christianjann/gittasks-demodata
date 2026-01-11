@@ -6,7 +6,7 @@ source: https://example808.com
 latitude: -37.051
 longitude: -100.0823
 altitude: 3884
-completed: False
+completed: no
 due: 2027-03-22T11:28:29.651835
 tags:
   - code

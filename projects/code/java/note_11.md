@@ -3,7 +3,7 @@ title: Note 11 in projects - code - java
 created: 2025-01-17T11:28:29.684707
 updated: 2025-06-02T11:28:29.684707
 source: https://example940.com
-completed: False
+completed: no
 tags:
   - research
   - goal

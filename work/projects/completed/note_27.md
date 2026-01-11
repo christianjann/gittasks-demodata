@@ -3,7 +3,7 @@ title: Note 27 in work - projects - completed
 created: 2023-02-26T11:28:29.652297
 updated: 2023-12-24T11:28:29.652297
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - finance
   - shopping

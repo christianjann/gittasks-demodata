@@ -3,7 +3,7 @@ title: Note 12 in learning - tutorials
 created: 2025-04-01T11:28:29.828800
 updated: 2026-01-04T11:28:29.828800
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - diary
   - idea

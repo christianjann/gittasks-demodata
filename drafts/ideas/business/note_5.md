@@ -3,7 +3,7 @@ title: Note 5 in drafts - ideas - business
 created: 2025-03-01T11:28:29.754015
 updated: 2025-12-02T11:28:29.754015
 source: https://example857.com
-completed: False
+completed: no
 tags:
   - reference
   - hobby

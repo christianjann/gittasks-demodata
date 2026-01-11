@@ -6,7 +6,7 @@ source: https://example825.com
 latitude: 81.7219
 longitude: -152.8029
 altitude: 207
-completed: False
+completed: no
 tags:
   - hobby
   - urgent

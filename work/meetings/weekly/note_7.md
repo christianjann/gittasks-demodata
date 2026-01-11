@@ -3,7 +3,7 @@ title: Note 7 in work - meetings - weekly
 created: 2024-07-13T11:28:29.618740
 updated: 2024-10-26T11:28:29.618740
 source: https://example369.com
-completed: True
+completed: yes
 tags:
   - design
   - task

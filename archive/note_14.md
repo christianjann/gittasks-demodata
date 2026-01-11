@@ -3,7 +3,7 @@ title: Note 14 in archive
 created: 2024-07-19T11:28:29.715768
 updated: 2025-03-19T11:28:29.715768
 source: https://example358.com
-completed: False
+completed: no
 due: 2026-01-31T11:28:29.715768
 tags:
   - research

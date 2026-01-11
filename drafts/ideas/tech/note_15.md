@@ -3,7 +3,7 @@ title: Note 15 in drafts - ideas - tech
 created: 2025-08-27T11:28:29.751762
 updated: 2026-06-03T11:28:29.751762
 source: https://example913.com
-completed: False
+completed: no
 tags:
   - shopping
   - event

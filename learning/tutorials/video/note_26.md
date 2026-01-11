@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -49.6295
 longitude: -131.385
 altitude: 4724
-completed: False
+completed: no
 tags:
   - health
   - urgent

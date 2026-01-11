@@ -3,7 +3,7 @@ title: Note 65 in projects - code
 created: 2025-08-22T11:28:29.678000
 updated: 2025-12-26T11:28:29.678000
 source: https://example526.com
-completed: False
+completed: no
 due: 2026-04-16T11:28:29.678000
 tags:
   - shopping

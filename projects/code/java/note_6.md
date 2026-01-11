@@ -4,7 +4,7 @@ created: 2023-12-22T11:28:29.684407
 updated: 2024-04-28T11:28:29.684407
 source: https://example740.com
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - idea
 ---

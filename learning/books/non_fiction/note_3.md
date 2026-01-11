@@ -3,7 +3,7 @@ title: Note 3 in learning - books - non_fiction
 created: 2023-04-26T11:28:29.824192
 updated: 2023-12-26T11:28:29.824192
 source: https://example119.com
-completed: False
+completed: no
 tags:
   - work
   - recipe

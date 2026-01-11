@@ -6,7 +6,7 @@ source: https://example99.com
 latitude: -51.249
 longitude: -70.0529
 altitude: 32
-completed: True
+completed: yes
 ---
 
 # Note 29 in projects - research - papers

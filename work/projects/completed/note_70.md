@@ -6,7 +6,7 @@ source: https://example597.com
 latitude: 24.2148
 longitude: 178.858
 altitude: 3239
-completed: True
+completed: yes
 tags:
   - recipe
   - note

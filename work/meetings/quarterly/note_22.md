@@ -3,7 +3,7 @@ title: Note 22 in work - meetings - quarterly
 created: 2025-11-18T11:28:29.625208
 updated: 2026-08-03T11:28:29.625208
 author: Grace Lee
-completed: False
+completed: no
 tags:
   - misc
 ---

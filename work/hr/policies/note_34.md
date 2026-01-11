@@ -3,7 +3,7 @@ title: Note 34 in work - hr - policies
 created: 2023-09-11T11:28:29.665698
 updated: 2023-12-21T11:28:29.665698
 author: Diana Prince
-completed: False
+completed: no
 due: 2024-03-14T11:28:29.665698
 tags:
   - note

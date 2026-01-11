@@ -3,7 +3,7 @@ title: Note 6 in personal - diary - 2024
 created: 2024-12-06T11:28:29.573315
 updated: 2025-04-07T11:28:29.573315
 source: https://example865.com
-completed: False
+completed: no
 tags:
   - urgent
 ---

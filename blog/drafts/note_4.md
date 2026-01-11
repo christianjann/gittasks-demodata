@@ -3,7 +3,7 @@ title: Note 4 in blog - drafts
 created: 2025-08-29T11:28:29.920027
 updated: 2026-08-04T11:28:29.920027
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2027-03-02T11:28:29.920027
 ---
 

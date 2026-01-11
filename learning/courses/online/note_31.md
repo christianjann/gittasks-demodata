@@ -4,7 +4,7 @@ created: 2025-08-16T11:28:29.814075
 updated: 2026-01-28T11:28:29.814075
 source: https://example198.com
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - blog
 ---

@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -7.5123
 longitude: 50.4691
 altitude: 2343
-completed: False
+completed: no
 due: 2027-05-23T11:28:29.977373
 tags:
   - recipe

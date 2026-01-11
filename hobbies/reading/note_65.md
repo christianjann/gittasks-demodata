@@ -2,7 +2,7 @@
 title: Note 65 in hobbies - reading
 created: 2023-03-16T11:28:29.980899
 updated: 2023-08-21T11:28:29.980899
-completed: True
+completed: yes
 tags:
   - health
   - note

@@ -3,7 +3,7 @@ title: Note 16 in work - meetings
 created: 2023-12-09T11:28:29.616738
 updated: 2024-09-28T11:28:29.616738
 source: https://example45.com
-completed: True
+completed: yes
 tags:
   - journal
 ---

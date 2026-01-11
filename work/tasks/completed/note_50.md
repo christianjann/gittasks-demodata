@@ -6,7 +6,7 @@ source: https://example712.com
 latitude: 8.0619
 longitude: -97.3117
 altitude: 4961
-completed: False
+completed: no
 tags:
   - research
   - personal

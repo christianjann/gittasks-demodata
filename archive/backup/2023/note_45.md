@@ -6,7 +6,7 @@ source: https://example67.com
 latitude: 74.9975
 longitude: -81.6259
 altitude: 541
-completed: False
+completed: no
 due: 2024-06-04T11:28:29.741407
 tags:
   - idea

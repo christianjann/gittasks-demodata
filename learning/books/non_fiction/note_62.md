@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: 7.7211
 longitude: 46.2547
 altitude: 1316
-completed: True
+completed: yes
 ---
 
 # Note 62 in learning - books - non_fiction

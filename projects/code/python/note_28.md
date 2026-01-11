@@ -2,7 +2,7 @@
 title: Note 28 in projects - code - python
 created: 2025-11-30T11:28:29.679991
 updated: 2026-10-28T11:28:29.679991
-completed: False
+completed: no
 due: 2027-09-09T11:28:29.679991
 ---
 

@@ -3,7 +3,7 @@ title: Note 41 in archive - backup
 created: 2024-06-13T11:28:29.735266
 updated: 2024-11-05T11:28:29.735266
 source: https://example662.com
-completed: False
+completed: no
 due: 2025-05-14T11:28:29.735266
 tags:
   - finance

@@ -6,7 +6,7 @@ source: https://example418.com
 latitude: -73.3883
 longitude: -58.588
 altitude: 3662
-completed: True
+completed: yes
 tags:
   - travel
   - idea

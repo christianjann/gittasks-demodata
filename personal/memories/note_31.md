@@ -2,7 +2,7 @@
 title: Note 31 in personal - memories
 created: 2025-12-16T11:28:29.592074
 updated: 2026-12-07T11:28:29.592074
-completed: True
+completed: yes
 due: 2027-08-28T11:28:29.592074
 ---
 

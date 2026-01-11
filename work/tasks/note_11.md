@@ -3,7 +3,7 @@ title: Note 11 in work - tasks
 created: 2025-05-25T11:28:29.627217
 updated: 2026-05-17T11:28:29.627217
 source: https://example956.com
-completed: True
+completed: yes
 due: 2027-04-20T11:28:29.627217
 tags:
   - personal

@@ -4,7 +4,7 @@ created: 2025-10-23T11:28:29.909275
 updated: 2025-11-29T11:28:29.909275
 source: https://example169.com
 author: Jack Taylor
-completed: False
+completed: no
 due: 2026-10-19T11:28:29.909275
 tags:
   - event

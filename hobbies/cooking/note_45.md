@@ -3,7 +3,7 @@ title: Note 45 in hobbies - cooking
 created: 2024-10-11T11:28:29.983741
 updated: 2025-04-19T11:28:29.983741
 source: https://example686.com
-completed: True
+completed: yes
 tags:
   - blog
   - journal

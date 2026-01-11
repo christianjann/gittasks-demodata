@@ -6,7 +6,7 @@ source: https://example163.com
 latitude: -38.9066
 longitude: 171.0512
 altitude: 4949
-completed: True
+completed: yes
 due: 2025-06-12T11:28:29.584794
 tags:
   - note

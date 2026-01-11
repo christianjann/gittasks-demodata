@@ -4,7 +4,7 @@ created: 2025-02-11T11:28:29.945162
 updated: 2025-03-19T11:28:29.945162
 source: https://example799.com
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - social
   - meeting

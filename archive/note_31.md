@@ -3,7 +3,7 @@ title: Note 31 in archive
 created: 2024-08-04T11:28:29.717113
 updated: 2025-05-24T11:28:29.717113
 source: https://example766.com
-completed: True
+completed: yes
 tags:
   - draft
 ---

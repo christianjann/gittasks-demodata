@@ -3,7 +3,7 @@ title: Note 48 in goals
 created: 2024-11-11T11:28:29.852878
 updated: 2025-08-15T11:28:29.852878
 author: Diana Prince
-completed: True
+completed: yes
 due: 2025-12-26T11:28:29.852878
 ---
 

@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: -24.615
 longitude: 30.493
 altitude: 2027
-completed: True
+completed: yes
 due: 2024-05-29T11:28:29.833242
 tags:
   - learning

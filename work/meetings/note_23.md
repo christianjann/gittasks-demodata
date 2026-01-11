@@ -4,7 +4,7 @@ created: 2023-08-17T11:28:29.617237
 updated: 2023-09-02T11:28:29.617237
 source: https://example256.com
 author: Charlie Brown
-completed: True
+completed: yes
 ---
 
 # Note 23 in work - meetings

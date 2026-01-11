@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: -67.0697
 longitude: -19.5544
 altitude: 23
-completed: False
+completed: no
 due: 2023-12-22T11:28:29.774232
 tags:
   - learning

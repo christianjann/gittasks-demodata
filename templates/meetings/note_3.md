@@ -3,7 +3,7 @@ title: Note 3 in templates - meetings
 created: 2023-06-05T11:28:29.908146
 updated: 2023-06-30T11:28:29.908146
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - personal
   - archive

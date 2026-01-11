@@ -6,7 +6,7 @@ source: https://example48.com
 latitude: 53.7868
 longitude: 34.1162
 altitude: 2023
-completed: True
+completed: yes
 due: 2026-07-16T11:28:29.619715
 tags:
   - diary

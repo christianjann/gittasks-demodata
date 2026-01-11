@@ -6,7 +6,7 @@ source: https://example690.com
 latitude: 72.4694
 longitude: -16.445
 altitude: 1159
-completed: False
+completed: no
 due: 2025-05-11T11:28:29.780742
 tags:
   - reference

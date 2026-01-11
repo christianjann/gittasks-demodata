@@ -6,7 +6,7 @@ source: https://example449.com
 latitude: -33.1175
 longitude: -177.9926
 altitude: 1712
-completed: True
+completed: yes
 due: 2025-06-04T11:28:29.913314
 tags:
   - blog

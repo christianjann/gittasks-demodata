@@ -2,7 +2,7 @@
 title: Note 34 in personal - diary
 created: 2023-09-24T11:28:29.568614
 updated: 2024-07-15T11:28:29.568614
-completed: True
+completed: yes
 tags:
   - shopping
   - draft

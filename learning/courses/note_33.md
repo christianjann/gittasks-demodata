@@ -3,7 +3,7 @@ title: Note 33 in learning - courses
 created: 2024-07-18T11:28:29.811889
 updated: 2025-03-26T11:28:29.811889
 source: https://example847.com
-completed: True
+completed: yes
 tags:
   - design
   - diary

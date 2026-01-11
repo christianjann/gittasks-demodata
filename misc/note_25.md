@@ -3,7 +3,7 @@ title: Note 25 in misc
 created: 2025-01-20T11:28:29.774004
 updated: 2025-10-25T11:28:29.774004
 author: Alice Johnson
-completed: True
+completed: yes
 due: 2026-06-03T11:28:29.774004
 tags:
   - idea

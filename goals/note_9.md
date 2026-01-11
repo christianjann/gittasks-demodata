@@ -3,7 +3,7 @@ title: Note 9 in goals
 created: 2025-01-01T11:28:29.850687
 updated: 2025-05-11T11:28:29.850687
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - diary
   - blog

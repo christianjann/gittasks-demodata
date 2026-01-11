@@ -3,7 +3,7 @@ title: Note 2 in archive - old_notes - 2020
 created: 2024-04-30T11:28:29.725656
 updated: 2025-02-17T11:28:29.725656
 source: https://example75.com
-completed: False
+completed: no
 tags:
   - draft
   - note

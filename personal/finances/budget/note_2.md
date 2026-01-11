@@ -2,7 +2,7 @@
 title: Note 2 in personal - finances - budget
 created: 2025-11-16T11:28:29.605768
 updated: 2026-10-13T11:28:29.605768
-completed: False
+completed: no
 tags:
   - draft
   - work

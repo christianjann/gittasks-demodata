@@ -3,7 +3,7 @@ title: Note 15 in misc - recipes - breakfast
 created: 2023-08-19T11:28:29.779937
 updated: 2024-03-31T11:28:29.779937
 source: https://example878.com
-completed: False
+completed: no
 tags:
   - draft
   - event

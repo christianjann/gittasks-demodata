@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: 8.8596
 longitude: 69.4695
 altitude: 4851
-completed: False
+completed: no
 tags:
   - personal
   - shopping

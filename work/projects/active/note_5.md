@@ -6,7 +6,7 @@ source: https://example867.com
 latitude: 55.3173
 longitude: 36.8079
 altitude: 1371
-completed: False
+completed: no
 ---
 
 # Note 5 in work - projects - active

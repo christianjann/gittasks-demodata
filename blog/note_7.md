@@ -3,7 +3,7 @@ title: Note 7 in blog
 created: 2025-06-01T11:28:29.916030
 updated: 2025-07-17T11:28:29.916030
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - code
   - journal

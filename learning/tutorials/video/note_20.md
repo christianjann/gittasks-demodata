@@ -4,7 +4,7 @@ created: 2024-06-26T11:28:29.832578
 updated: 2025-03-18T11:28:29.832578
 source: https://example150.com
 author: Diana Prince
-completed: False
+completed: no
 ---
 
 # Note 20 in learning - tutorials - video

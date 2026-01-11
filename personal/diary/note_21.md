@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: 39.0052
 longitude: -160.6109
 altitude: 4878
-completed: True
+completed: yes
 tags:
   - code
 ---

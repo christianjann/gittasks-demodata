@@ -3,7 +3,7 @@ title: Note 40 in archive - backup - 2023
 created: 2023-04-25T11:28:29.741125
 updated: 2024-01-08T11:28:29.741125
 source: https://example62.com
-completed: False
+completed: no
 due: 2024-05-15T11:28:29.741125
 ---
 

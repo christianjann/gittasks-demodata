@@ -3,7 +3,7 @@ title: Note 17 in projects - research - articles
 created: 2024-03-19T11:28:29.708638
 updated: 2024-05-17T11:28:29.708638
 source: https://example381.com
-completed: True
+completed: yes
 due: 2025-01-13T11:28:29.708638
 ---
 

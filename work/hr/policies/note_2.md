@@ -2,7 +2,7 @@
 title: Note 2 in work - hr - policies
 created: 2025-11-30T11:28:29.663634
 updated: 2026-08-29T11:28:29.663634
-completed: False
+completed: no
 due: 2026-10-06T11:28:29.663634
 tags:
   - hobby

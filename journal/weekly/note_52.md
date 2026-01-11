@@ -3,7 +3,7 @@ title: Note 52 in journal - weekly
 created: 2024-12-23T11:28:29.874290
 updated: 2025-11-09T11:28:29.874290
 author: Eve Adams
-completed: False
+completed: no
 ---
 
 # Note 52 in journal - weekly

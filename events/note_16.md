@@ -3,7 +3,7 @@ title: Note 16 in events
 created: 2025-10-12T11:28:29.947516
 updated: 2026-07-15T11:28:29.947516
 source: https://example226.com
-completed: True
+completed: yes
 due: 2027-06-25T11:28:29.947516
 ---
 

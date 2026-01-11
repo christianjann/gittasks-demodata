@@ -3,7 +3,7 @@ title: Note 28 in hobbies
 created: 2024-04-25T11:28:29.970023
 updated: 2024-10-05T11:28:29.970023
 author: Eve Adams
-completed: False
+completed: no
 due: 2024-10-06T11:28:29.970023
 tags:
   - note

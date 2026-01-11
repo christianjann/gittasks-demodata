@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: -26.0906
 longitude: 95.116
 altitude: 4286
-completed: False
+completed: no
 ---
 
 # Note 18 in journal - yearly

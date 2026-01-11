@@ -2,7 +2,7 @@
 title: Note 27 in projects - research - articles
 created: 2025-03-11T11:28:29.709190
 updated: 2025-06-03T11:28:29.709190
-completed: True
+completed: yes
 due: 2025-09-14T11:28:29.709190
 tags:
   - social

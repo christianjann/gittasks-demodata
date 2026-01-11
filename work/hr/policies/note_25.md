@@ -6,7 +6,7 @@ author: Ivy Chen
 latitude: 84.7766
 longitude: 163.2298
 altitude: 1433
-completed: True
+completed: yes
 due: 2025-04-13T11:28:29.665095
 tags:
   - research

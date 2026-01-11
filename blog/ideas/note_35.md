@@ -4,7 +4,7 @@ created: 2024-04-15T11:28:29.930332
 updated: 2024-10-23T11:28:29.930332
 source: https://example224.com
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - blog
   - design

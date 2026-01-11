@@ -4,7 +4,7 @@ created: 2025-07-16T11:28:29.852284
 updated: 2026-07-15T11:28:29.852284
 source: https://example604.com
 author: Eve Adams
-completed: True
+completed: yes
 ---
 
 # Note 38 in goals

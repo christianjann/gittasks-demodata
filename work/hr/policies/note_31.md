@@ -3,7 +3,7 @@ title: Note 31 in work - hr - policies
 created: 2025-10-21T11:28:29.665495
 updated: 2026-02-22T11:28:29.665495
 author: Eve Adams
-completed: True
+completed: yes
 due: 2026-04-26T11:28:29.665495
 tags:
   - finance

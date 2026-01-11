@@ -3,7 +3,7 @@ title: Note 10 in social - facebook
 created: 2024-04-13T11:28:29.944738
 updated: 2025-03-11T11:28:29.944738
 source: https://example166.com
-completed: False
+completed: no
 due: 2025-07-13T11:28:29.944738
 tags:
   - journal

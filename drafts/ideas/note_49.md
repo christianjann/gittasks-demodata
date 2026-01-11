@@ -4,7 +4,7 @@ created: 2024-09-20T11:28:29.749578
 updated: 2025-01-18T11:28:29.749578
 source: https://example657.com
 author: Diana Prince
-completed: False
+completed: no
 due: 2025-05-24T11:28:29.749578
 ---
 

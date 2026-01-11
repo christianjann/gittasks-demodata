@@ -3,7 +3,7 @@ title: Note 44 in learning - books - non_fiction
 created: 2025-07-07T11:28:29.826549
 updated: 2025-07-18T11:28:29.826549
 author: Eve Adams
-completed: False
+completed: no
 due: 2025-08-01T11:28:29.826549
 tags:
   - urgent

@@ -3,7 +3,7 @@ title: Note 36 in work - tasks
 created: 2025-12-04T11:28:29.629033
 updated: 2025-12-04T11:28:29.629033
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - finance
   - health

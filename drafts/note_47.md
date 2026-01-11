@@ -4,7 +4,7 @@ created: 2026-01-02T11:28:29.745710
 updated: 2026-04-19T11:28:29.745710
 source: https://example245.com
 author: Grace Lee
-completed: True
+completed: yes
 ---
 
 # Note 47 in drafts

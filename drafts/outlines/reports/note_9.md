@@ -6,7 +6,7 @@ source: https://example996.com
 latitude: 35.9546
 longitude: -91.2578
 altitude: 4624
-completed: False
+completed: no
 tags:
   - travel
 ---

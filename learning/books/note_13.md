@@ -3,7 +3,7 @@ title: Note 13 in learning - books
 created: 2023-05-05T11:28:29.819430
 updated: 2023-12-23T11:28:29.819430
 source: https://example561.com
-completed: True
+completed: yes
 tags:
   - diary
   - shopping

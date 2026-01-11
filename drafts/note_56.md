@@ -4,7 +4,7 @@ created: 2023-02-16T11:28:29.746234
 updated: 2023-04-27T11:28:29.746234
 source: https://example737.com
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - archive
   - goal

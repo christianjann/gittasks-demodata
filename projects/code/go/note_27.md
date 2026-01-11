@@ -2,7 +2,7 @@
 title: Note 27 in projects - code - go
 created: 2025-10-30T11:28:29.688185
 updated: 2026-08-21T11:28:29.688185
-completed: False
+completed: no
 due: 2027-04-22T11:28:29.688185
 tags:
   - task

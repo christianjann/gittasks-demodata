@@ -3,7 +3,7 @@ title: Note 6 in templates - notes
 created: 2023-08-20T11:28:29.902284
 updated: 2024-01-27T11:28:29.902284
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2024-06-02T11:28:29.902284
 tags:
   - idea

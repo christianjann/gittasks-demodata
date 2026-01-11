@@ -3,7 +3,7 @@ title: Note 11 in learning - books - non_fiction
 created: 2025-11-09T11:28:29.824640
 updated: 2026-05-06T11:28:29.824640
 author: Bob Smith
-completed: True
+completed: yes
 ---
 
 # Note 11 in learning - books - non_fiction

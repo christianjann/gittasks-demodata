@@ -4,7 +4,7 @@ created: 2023-07-16T11:28:29.770580
 updated: 2023-10-21T11:28:29.770580
 source: https://example918.com
 author: Bob Smith
-completed: False
+completed: no
 due: 2024-01-27T11:28:29.770580
 tags:
   - journal

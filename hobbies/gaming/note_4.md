@@ -6,7 +6,7 @@ source: https://example451.com
 latitude: -19.6339
 longitude: -62.4819
 altitude: 720
-completed: True
+completed: yes
 tags:
   - hobby
   - goal

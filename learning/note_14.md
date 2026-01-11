@@ -6,7 +6,7 @@ source: https://example243.com
 latitude: -15.8941
 longitude: 77.7617
 altitude: 1606
-completed: True
+completed: yes
 tags:
   - personal
   - reference

@@ -4,7 +4,7 @@ created: 2023-09-06T11:28:29.609999
 updated: 2023-11-18T11:28:29.609999
 source: https://example337.com
 author: Frank Miller
-completed: False
+completed: no
 due: 2023-11-24T11:28:29.609999
 tags:
   - social

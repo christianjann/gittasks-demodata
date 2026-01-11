@@ -3,7 +3,7 @@ title: Note 47 in journal
 created: 2025-05-26T11:28:29.867043
 updated: 2025-09-28T11:28:29.867043
 source: https://example681.com
-completed: False
+completed: no
 tags:
   - archive
   - urgent

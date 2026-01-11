@@ -3,7 +3,7 @@ title: Note 43 in drafts - ideas - business
 created: 2024-03-11T11:28:29.756166
 updated: 2025-02-24T11:28:29.756166
 source: https://example898.com
-completed: True
+completed: yes
 due: 2025-08-27T11:28:29.756166
 ---
 

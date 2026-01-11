@@ -3,7 +3,7 @@ title: Note 51 in work - meetings - weekly
 created: 2025-09-21T11:28:29.621310
 updated: 2026-06-23T11:28:29.621310
 source: https://example74.com
-completed: True
+completed: yes
 due: 2027-01-19T11:28:29.621310
 tags:
   - note

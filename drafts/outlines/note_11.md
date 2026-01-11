@@ -3,7 +3,7 @@ title: Note 11 in drafts - outlines
 created: 2023-04-28T11:28:29.760224
 updated: 2023-09-16T11:28:29.760224
 author: Grace Lee
-completed: False
+completed: no
 tags:
   - learning
 ---

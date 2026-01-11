@@ -4,7 +4,7 @@ created: 2024-08-12T11:28:29.580427
 updated: 2025-07-19T11:28:29.580427
 source: https://example245.com
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - design
 ---

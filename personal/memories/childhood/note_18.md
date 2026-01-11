@@ -4,7 +4,7 @@ created: 2023-10-17T11:28:29.595822
 updated: 2024-06-15T11:28:29.595822
 source: https://example167.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - task
 ---

@@ -3,7 +3,7 @@ title: Note 50 in misc
 created: 2023-04-25T11:28:29.775429
 updated: 2023-06-14T11:28:29.775429
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - health
   - goal

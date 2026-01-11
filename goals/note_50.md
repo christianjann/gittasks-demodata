@@ -3,7 +3,7 @@ title: Note 50 in goals
 created: 2023-08-16T11:28:29.852994
 updated: 2023-09-12T11:28:29.852994
 source: https://example972.com
-completed: True
+completed: yes
 due: 2024-04-07T11:28:29.852994
 ---
 

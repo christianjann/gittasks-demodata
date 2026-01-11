@@ -3,7 +3,7 @@ title: Note 29 in blog
 created: 2025-10-15T11:28:29.917538
 updated: 2026-02-07T11:28:29.917538
 source: https://example686.com
-completed: False
+completed: no
 due: 2026-02-12T11:28:29.917538
 tags:
   - thought

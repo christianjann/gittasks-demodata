@@ -6,7 +6,7 @@ source: https://example260.com
 latitude: -5.6497
 longitude: -149.546
 altitude: 4383
-completed: False
+completed: no
 due: 2025-11-04T11:28:29.957711
 tags:
   - journal

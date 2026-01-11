@@ -3,7 +3,7 @@ title: Note 20 in shopping - reviews
 created: 2023-11-28T11:28:29.966401
 updated: 2024-06-14T11:28:29.966401
 source: https://example396.com
-completed: False
+completed: no
 due: 2025-01-30T11:28:29.966401
 tags:
   - personal

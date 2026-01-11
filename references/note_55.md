@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 6.8038
 longitude: -10.9924
 altitude: 457
-completed: False
+completed: no
 tags:
   - urgent
   - design

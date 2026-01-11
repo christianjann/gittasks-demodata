@@ -6,7 +6,7 @@ source: https://example532.com
 latitude: 80.3968
 longitude: 41.9353
 altitude: 519
-completed: False
+completed: no
 due: 2025-05-31T11:28:29.955687
 tags:
   - design

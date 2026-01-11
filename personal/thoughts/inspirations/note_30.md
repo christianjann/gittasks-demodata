@@ -3,7 +3,7 @@ title: Note 30 in personal - thoughts - inspirations
 created: 2023-11-03T11:28:29.588403
 updated: 2024-01-13T11:28:29.588403
 author: Frank Miller
-completed: False
+completed: no
 due: 2024-07-09T11:28:29.588403
 tags:
   - idea

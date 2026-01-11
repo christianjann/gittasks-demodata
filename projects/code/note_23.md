@@ -4,7 +4,7 @@ created: 2023-12-18T11:28:29.675475
 updated: 2023-12-21T11:28:29.675475
 source: https://example962.com
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - diary
   - archive

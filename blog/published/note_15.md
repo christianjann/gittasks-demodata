@@ -3,7 +3,7 @@ title: Note 15 in blog - published
 created: 2023-07-25T11:28:29.925134
 updated: 2024-07-01T11:28:29.925134
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - travel
   - draft

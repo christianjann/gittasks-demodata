@@ -3,7 +3,7 @@ title: Note 58 in drafts - outlines - presentations
 created: 2025-12-17T11:28:29.769415
 updated: 2026-01-17T11:28:29.769415
 source: https://example385.com
-completed: False
+completed: no
 due: 2026-03-17T11:28:29.769415
 tags:
   - idea

@@ -2,7 +2,7 @@
 title: Note 30 in references - websites
 created: 2023-01-27T11:28:29.894021
 updated: 2024-01-25T11:28:29.894021
-completed: True
+completed: yes
 tags:
   - template
   - urgent

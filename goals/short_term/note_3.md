@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -24.5303
 longitude: -135.0689
 altitude: 2731
-completed: False
+completed: no
 ---
 
 # Note 3 in goals - short_term

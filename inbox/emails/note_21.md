@@ -4,7 +4,7 @@ created: 2023-09-14T11:28:29.847776
 updated: 2024-06-23T11:28:29.847776
 source: https://example709.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2025-04-16T11:28:29.847776
 tags:
   - finance

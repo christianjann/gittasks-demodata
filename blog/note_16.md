@@ -3,7 +3,7 @@ title: Note 16 in blog
 created: 2025-08-03T11:28:29.916718
 updated: 2026-05-05T11:28:29.916718
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - idea
   - work

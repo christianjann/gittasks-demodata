@@ -2,7 +2,7 @@
 title: Note 17 in goals - long_term
 created: 2023-08-08T11:28:29.857946
 updated: 2023-12-05T11:28:29.857946
-completed: False
+completed: no
 due: 2024-10-30T11:28:29.857946
 tags:
   - travel

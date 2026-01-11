@@ -3,7 +3,7 @@ title: Note 11 in templates
 created: 2023-08-29T11:28:29.898695
 updated: 2023-12-20T11:28:29.898695
 source: https://example885.com
-completed: False
+completed: no
 tags:
   - journal
 ---

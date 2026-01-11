@@ -4,7 +4,7 @@ created: 2024-09-16T11:28:29.582152
 updated: 2025-03-16T11:28:29.582152
 source: https://example742.com
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - meeting
 ---

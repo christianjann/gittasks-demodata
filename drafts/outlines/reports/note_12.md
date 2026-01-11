@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: -35.7169
 longitude: 18.5289
 altitude: 2729
-completed: False
+completed: no
 tags:
   - recipe
 ---

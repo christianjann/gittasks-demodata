@@ -3,7 +3,7 @@ title: Note 22 in projects - research - articles
 created: 2025-03-15T11:28:29.708915
 updated: 2025-12-23T11:28:29.708915
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - thought
   - meeting

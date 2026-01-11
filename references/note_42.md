@@ -4,7 +4,7 @@ created: 2025-05-06T11:28:29.883462
 updated: 2025-12-24T11:28:29.883462
 source: https://example418.com
 author: Jack Taylor
-completed: False
+completed: no
 due: 2026-03-04T11:28:29.883462
 tags:
   - reference

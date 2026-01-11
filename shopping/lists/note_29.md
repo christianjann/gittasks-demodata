@@ -6,7 +6,7 @@ author: Diana Prince
 latitude: 68.1335
 longitude: 120.8696
 altitude: 4883
-completed: True
+completed: yes
 tags:
   - design
   - shopping

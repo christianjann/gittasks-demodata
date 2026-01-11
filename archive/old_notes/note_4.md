@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 47.4849
 longitude: -162.4035
 altitude: 275
-completed: True
+completed: yes
 tags:
   - journal
   - event

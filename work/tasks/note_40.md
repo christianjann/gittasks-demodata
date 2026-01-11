@@ -3,7 +3,7 @@ title: Note 40 in work - tasks
 created: 2024-10-09T11:28:29.629339
 updated: 2025-04-20T11:28:29.629339
 author: Diana Prince
-completed: False
+completed: no
 due: 2025-07-21T11:28:29.629339
 tags:
   - goal

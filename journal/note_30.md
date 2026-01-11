@@ -7,7 +7,7 @@ author: Ivy Chen
 latitude: 76.4677
 longitude: 102.9993
 altitude: 4877
-completed: True
+completed: yes
 due: 2025-12-07T11:28:29.865551
 tags:
   - social

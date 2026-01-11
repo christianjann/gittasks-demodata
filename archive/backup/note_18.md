@@ -3,7 +3,7 @@ title: Note 18 in archive - backup
 created: 2023-08-17T11:28:29.733892
 updated: 2023-11-22T11:28:29.733892
 author: Frank Miller
-completed: False
+completed: no
 due: 2024-07-24T11:28:29.733892
 ---
 

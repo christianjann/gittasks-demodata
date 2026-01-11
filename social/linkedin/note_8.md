@@ -4,7 +4,7 @@ created: 2024-10-12T11:28:29.940817
 updated: 2025-07-15T11:28:29.940817
 source: https://example521.com
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - task
   - personal

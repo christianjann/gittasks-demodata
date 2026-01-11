@@ -5,7 +5,7 @@ updated: 2026-03-22T11:28:29.966879
 latitude: 44.5376
 longitude: -87.2674
 altitude: 1848
-completed: False
+completed: no
 ---
 
 # Note 29 in shopping - reviews

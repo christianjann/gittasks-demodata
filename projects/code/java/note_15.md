@@ -3,7 +3,7 @@ title: Note 15 in projects - code - java
 created: 2025-12-07T11:28:29.684923
 updated: 2026-09-26T11:28:29.684923
 source: https://example814.com
-completed: True
+completed: yes
 due: 2027-08-01T11:28:29.684923
 tags:
   - social

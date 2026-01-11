@@ -4,7 +4,7 @@ created: 2024-10-28T11:28:29.938385
 updated: 2025-06-22T11:28:29.938385
 source: https://example366.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - finance
 ---

@@ -4,7 +4,7 @@ created: 2024-11-26T11:28:29.823068
 updated: 2025-04-07T11:28:29.823068
 source: https://example552.com
 author: Alice Johnson
-completed: False
+completed: no
 due: 2025-07-16T11:28:29.823068
 tags:
   - shopping

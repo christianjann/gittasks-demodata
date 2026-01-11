@@ -3,7 +3,7 @@ title: Note 4 in personal - memories
 created: 2024-05-26T11:28:29.590307
 updated: 2025-05-14T11:28:29.590307
 source: https://example690.com
-completed: False
+completed: no
 due: 2026-04-06T11:28:29.590307
 tags:
   - thought

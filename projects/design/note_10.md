@@ -3,7 +3,7 @@ title: Note 10 in projects - design
 created: 2023-04-21T11:28:29.690959
 updated: 2023-08-24T11:28:29.690959
 source: https://example298.com
-completed: False
+completed: no
 due: 2024-07-01T11:28:29.690959
 tags:
   - urgent

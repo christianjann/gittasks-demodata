@@ -4,7 +4,7 @@ created: 2023-09-10T11:28:29.838449
 updated: 2023-12-01T11:28:29.838449
 source: https://example669.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2024-06-21T11:28:29.838449
 ---
 

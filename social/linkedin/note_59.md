@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: -13.235
 longitude: -50.6139
 altitude: 610
-completed: False
+completed: no
 tags:
   - recipe
   - finance

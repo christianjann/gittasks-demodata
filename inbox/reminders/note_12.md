@@ -6,7 +6,7 @@ source: https://example227.com
 latitude: 52.5588
 longitude: -129.9491
 altitude: 89
-completed: False
+completed: no
 tags:
   - shopping
   - event

@@ -4,7 +4,7 @@ created: 2025-11-09T11:28:29.870142
 updated: 2026-09-02T11:28:29.870142
 source: https://example537.com
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - recipe
   - diary

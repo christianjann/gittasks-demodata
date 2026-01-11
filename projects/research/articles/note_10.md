@@ -4,7 +4,7 @@ created: 2023-04-04T11:28:29.708189
 updated: 2023-08-25T11:28:29.708189
 source: https://example855.com
 author: Ivy Chen
-completed: False
+completed: no
 ---
 
 # Note 10 in projects - research - articles

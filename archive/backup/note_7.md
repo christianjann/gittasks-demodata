@@ -3,7 +3,7 @@ title: Note 7 in archive - backup
 created: 2025-10-15T11:28:29.733198
 updated: 2026-03-16T11:28:29.733198
 source: https://example977.com
-completed: True
+completed: yes
 due: 2026-06-22T11:28:29.733198
 tags:
   - health

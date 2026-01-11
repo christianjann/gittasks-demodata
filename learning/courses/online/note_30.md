@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: -2.5168
 longitude: 49.6265
 altitude: 3420
-completed: True
+completed: yes
 ---
 
 # Note 30 in learning - courses - online

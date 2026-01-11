@@ -4,7 +4,7 @@ created: 2023-12-01T11:28:29.816176
 updated: 2024-08-12T11:28:29.816176
 source: https://example345.com
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2024-08-26T11:28:29.816176
 tags:
   - idea

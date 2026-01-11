@@ -3,7 +3,7 @@ title: Note 31 in learning - books - non_fiction
 created: 2023-10-02T11:28:29.825793
 updated: 2024-07-21T11:28:29.825793
 source: https://example566.com
-completed: False
+completed: no
 tags:
   - draft
   - work

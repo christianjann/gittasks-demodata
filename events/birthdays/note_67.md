@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 11.2869
 longitude: 39.1107
 altitude: 3521
-completed: True
+completed: yes
 due: 2025-07-11T11:28:29.959375
 tags:
   - code

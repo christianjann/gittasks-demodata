@@ -6,7 +6,7 @@ author: Charlie Brown
 latitude: 24.5901
 longitude: 116.7207
 altitude: 4493
-completed: True
+completed: yes
 tags:
   - design
   - research

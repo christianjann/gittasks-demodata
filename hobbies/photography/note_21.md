@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: -79.197
 longitude: 102.0704
 altitude: 1815
-completed: False
+completed: no
 due: 2026-11-27T11:28:29.972522
 tags:
   - diary

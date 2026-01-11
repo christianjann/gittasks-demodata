@@ -4,7 +4,7 @@ created: 2023-08-20T11:28:29.610440
 updated: 2023-10-12T11:28:29.610440
 source: https://example416.com
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - finance
   - social

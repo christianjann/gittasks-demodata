@@ -4,7 +4,7 @@ created: 2024-01-20T11:28:29.659973
 updated: 2024-06-11T11:28:29.659973
 source: https://example367.com
 author: Charlie Brown
-completed: True
+completed: yes
 due: 2025-02-26T11:28:29.659973
 tags:
   - goal

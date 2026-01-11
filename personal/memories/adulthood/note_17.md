@@ -2,7 +2,7 @@
 title: Note 17 in personal - memories - adulthood
 created: 2023-11-10T11:28:29.599136
 updated: 2024-07-20T11:28:29.599136
-completed: True
+completed: yes
 due: 2024-09-06T11:28:29.599136
 tags:
   - template

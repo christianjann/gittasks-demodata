@@ -7,7 +7,7 @@ author: Alice Johnson
 latitude: 28.1058
 longitude: 31.9243
 altitude: 3907
-completed: False
+completed: no
 tags:
   - draft
 ---

@@ -2,7 +2,7 @@
 title: Note 5 in misc - travel - asia
 created: 2024-12-10T11:28:29.793769
 updated: 2025-10-14T11:28:29.793769
-completed: False
+completed: no
 due: 2026-03-16T11:28:29.793769
 ---
 

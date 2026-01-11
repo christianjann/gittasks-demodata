@@ -5,7 +5,7 @@ updated: 2024-03-07T11:28:29.757498
 latitude: 66.2836
 longitude: -87.48
 altitude: 4876
-completed: True
+completed: yes
 tags:
   - work
   - draft

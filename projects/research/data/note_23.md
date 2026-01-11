@@ -3,7 +3,7 @@ title: Note 23 in projects - research - data
 created: 2025-11-24T11:28:29.712899
 updated: 2025-12-13T11:28:29.712899
 source: https://example101.com
-completed: True
+completed: yes
 ---
 
 # Note 23 in projects - research - data

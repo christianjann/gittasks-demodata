@@ -3,7 +3,7 @@ title: Note 47 in personal - finances
 created: 2025-05-19T11:28:29.604872
 updated: 2025-10-26T11:28:29.604872
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - travel
 ---

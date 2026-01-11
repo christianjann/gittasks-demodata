@@ -3,7 +3,7 @@ title: Note 18 in shopping - reviews
 created: 2025-03-18T11:28:29.966298
 updated: 2026-03-15T11:28:29.966298
 author: Alice Johnson
-completed: False
+completed: no
 due: 2026-07-25T11:28:29.966298
 ---
 

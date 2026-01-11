@@ -6,7 +6,7 @@ source: https://example742.com
 latitude: -1.3693
 longitude: -28.3737
 altitude: 4253
-completed: False
+completed: no
 due: 2024-12-05T11:28:29.783787
 tags:
   - health

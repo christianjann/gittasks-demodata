@@ -6,7 +6,7 @@ source: https://example981.com
 latitude: 26.174
 longitude: -170.4436
 altitude: 14
-completed: True
+completed: yes
 tags:
   - event
 ---

@@ -3,7 +3,7 @@ title: Note 21 in projects
 created: 2023-02-09T11:28:29.671675
 updated: 2023-10-23T11:28:29.671675
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - thought
   - task

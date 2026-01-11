@@ -3,7 +3,7 @@ title: Note 16 in social - facebook
 created: 2023-06-10T11:28:29.945106
 updated: 2024-01-28T11:28:29.945106
 author: Ivy Chen
-completed: False
+completed: no
 tags:
   - idea
 ---

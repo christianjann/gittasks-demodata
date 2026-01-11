@@ -6,7 +6,7 @@ source: https://example601.com
 latitude: 73.0858
 longitude: 176.1762
 altitude: 703
-completed: False
+completed: no
 tags:
   - social
 ---

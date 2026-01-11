@@ -3,7 +3,7 @@ title: Note 62 in projects - code
 created: 2024-04-17T11:28:29.677807
 updated: 2024-11-03T11:28:29.677807
 source: https://example976.com
-completed: False
+completed: no
 tags:
   - social
   - design

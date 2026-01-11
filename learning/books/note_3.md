@@ -6,7 +6,7 @@ source: https://example326.com
 latitude: -74.346
 longitude: 173.912
 altitude: 3163
-completed: False
+completed: no
 ---
 
 # Note 3 in learning - books

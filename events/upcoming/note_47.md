@@ -3,7 +3,7 @@ title: Note 47 in events - upcoming
 created: 2023-01-18T11:28:29.951900
 updated: 2023-02-12T11:28:29.951900
 source: https://example538.com
-completed: False
+completed: no
 tags:
   - misc
   - journal

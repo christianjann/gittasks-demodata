@@ -4,7 +4,7 @@ created: 2024-10-27T11:28:29.974181
 updated: 2025-09-06T11:28:29.974181
 source: https://example585.com
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - blog
 ---

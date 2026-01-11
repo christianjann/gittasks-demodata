@@ -6,7 +6,7 @@ author: Charlie Brown
 latitude: 53.4779
 longitude: -39.1126
 altitude: 2559
-completed: True
+completed: yes
 due: 2025-09-13T11:28:29.862991
 tags:
   - task

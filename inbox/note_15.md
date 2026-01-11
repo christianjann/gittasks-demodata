@@ -7,7 +7,7 @@ author: Diana Prince
 latitude: 31.1779
 longitude: -139.7355
 altitude: 2374
-completed: False
+completed: no
 tags:
   - travel
   - event

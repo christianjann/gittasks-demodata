@@ -7,7 +7,7 @@ author: Eve Adams
 latitude: 10.7775
 longitude: 75.4181
 altitude: 268
-completed: True
+completed: yes
 tags:
   - finance
   - thought

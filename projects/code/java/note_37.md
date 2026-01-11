@@ -6,7 +6,7 @@ source: https://example652.com
 latitude: 11.9912
 longitude: 54.3281
 altitude: 1124
-completed: True
+completed: yes
 tags:
   - urgent
 ---

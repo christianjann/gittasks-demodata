@@ -6,7 +6,7 @@ source: https://example965.com
 latitude: 32.1898
 longitude: -179.5351
 altitude: 4434
-completed: False
+completed: no
 due: 2027-01-29T11:28:29.973682
 tags:
   - work

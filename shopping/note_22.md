@@ -3,7 +3,7 @@ title: Note 22 in shopping
 created: 2024-03-18T11:28:29.960896
 updated: 2024-11-22T11:28:29.960896
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - hobby
   - research

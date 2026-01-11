@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: 22.8909
 longitude: 166.0848
 altitude: 842
-completed: True
+completed: yes
 due: 2025-06-16T11:28:29.594588
 tags:
   - thought

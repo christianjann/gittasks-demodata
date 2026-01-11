@@ -2,7 +2,7 @@
 title: Note 34 in personal - memories - childhood
 created: 2024-08-20T11:28:29.596760
 updated: 2025-02-02T11:28:29.596760
-completed: True
+completed: yes
 tags:
   - diary
   - template

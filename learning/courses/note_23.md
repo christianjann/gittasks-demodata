@@ -3,7 +3,7 @@ title: Note 23 in learning - courses
 created: 2024-08-17T11:28:29.811298
 updated: 2025-02-27T11:28:29.811298
 source: https://example928.com
-completed: True
+completed: yes
 tags:
   - blog
   - shopping

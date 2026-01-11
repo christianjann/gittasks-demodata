@@ -4,7 +4,7 @@ created: 2025-06-04T11:28:29.595450
 updated: 2026-05-19T11:28:29.595450
 source: https://example38.com
 author: Grace Lee
-completed: False
+completed: no
 tags:
   - idea
   - draft

@@ -4,7 +4,7 @@ created: 2025-10-27T11:28:29.675789
 updated: 2026-07-17T11:28:29.675789
 source: https://example145.com
 author: Bob Smith
-completed: True
+completed: yes
 due: 2026-11-04T11:28:29.675789
 tags:
   - blog

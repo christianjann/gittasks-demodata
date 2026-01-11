@@ -2,7 +2,7 @@
 title: Note 53 in journal - weekly
 created: 2024-05-03T11:28:29.874341
 updated: 2025-04-04T11:28:29.874341
-completed: False
+completed: no
 due: 2026-02-05T11:28:29.874341
 tags:
   - learning

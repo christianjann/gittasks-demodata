@@ -3,7 +3,7 @@ title: Note 32 in learning - books
 created: 2025-12-05T11:28:29.820556
 updated: 2026-11-25T11:28:29.820556
 source: https://example56.com
-completed: False
+completed: no
 due: 2027-03-17T11:28:29.820556
 tags:
   - goal

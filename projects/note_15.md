@@ -3,7 +3,7 @@ title: Note 15 in projects
 created: 2023-09-24T11:28:29.671273
 updated: 2024-08-14T11:28:29.671273
 source: https://example516.com
-completed: False
+completed: no
 tags:
   - goal
   - social

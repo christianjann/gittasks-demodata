@@ -3,7 +3,7 @@ title: Note 16 in archive - backup
 created: 2025-06-04T11:28:29.733783
 updated: 2025-11-14T11:28:29.733783
 author: Diana Prince
-completed: True
+completed: yes
 due: 2026-03-30T11:28:29.733783
 ---
 

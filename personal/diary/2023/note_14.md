@@ -3,7 +3,7 @@ title: Note 14 in personal - diary - 2023
 created: 2026-01-06T11:28:29.570218
 updated: 2026-12-06T11:28:29.570218
 source: https://example815.com
-completed: False
+completed: no
 due: 2027-02-09T11:28:29.570218
 ---
 

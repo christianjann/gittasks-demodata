@@ -3,7 +3,7 @@ title: Note 7 in inbox - reminders
 created: 2024-10-07T11:28:29.843181
 updated: 2025-02-25T11:28:29.843181
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - idea
   - blog

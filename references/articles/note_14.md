@@ -5,7 +5,7 @@ updated: 2026-10-01T11:28:29.885902
 latitude: -32.3754
 longitude: 124.3335
 altitude: 169
-completed: True
+completed: yes
 tags:
   - event
   - design

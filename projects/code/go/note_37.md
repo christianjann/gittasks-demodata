@@ -5,7 +5,7 @@ updated: 2024-02-28T11:28:29.689059
 latitude: 51.0029
 longitude: 34.8839
 altitude: 1649
-completed: False
+completed: no
 tags:
   - recipe
   - finance

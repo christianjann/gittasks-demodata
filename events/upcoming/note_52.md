@@ -3,7 +3,7 @@ title: Note 52 in events - upcoming
 created: 2024-06-06T11:28:29.952179
 updated: 2024-08-18T11:28:29.952179
 source: https://example882.com
-completed: True
+completed: yes
 ---
 
 # Note 52 in events - upcoming

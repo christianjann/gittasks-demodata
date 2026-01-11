@@ -6,7 +6,7 @@ source: https://example532.com
 latitude: 89.6712
 longitude: -31.8901
 altitude: 1649
-completed: True
+completed: yes
 due: 2025-03-13T11:28:29.584273
 tags:
   - archive

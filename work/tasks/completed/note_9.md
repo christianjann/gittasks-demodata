@@ -3,7 +3,7 @@ title: Note 9 in work - tasks - completed
 created: 2023-01-25T11:28:29.637924
 updated: 2023-08-20T11:28:29.637924
 source: https://example156.com
-completed: True
+completed: yes
 ---
 
 # Note 9 in work - tasks - completed

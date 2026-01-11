@@ -6,7 +6,7 @@ source: https://example469.com
 latitude: -7.1152
 longitude: 160.6826
 altitude: 3055
-completed: False
+completed: no
 due: 2024-05-16T11:28:29.742818
 tags:
   - archive

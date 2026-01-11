@@ -4,7 +4,7 @@ created: 2025-06-25T11:28:29.698485
 updated: 2025-06-27T11:28:29.698485
 source: https://example402.com
 author: Grace Lee
-completed: False
+completed: no
 tags:
   - finance
   - journal

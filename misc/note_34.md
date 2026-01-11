@@ -3,7 +3,7 @@ title: Note 34 in misc
 created: 2023-10-26T11:28:29.774556
 updated: 2024-06-03T11:28:29.774556
 source: https://example79.com
-completed: False
+completed: no
 ---
 
 # Note 34 in misc

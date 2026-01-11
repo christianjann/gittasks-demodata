@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -59.9029
 longitude: -4.1096
 altitude: 2729
-completed: True
+completed: yes
 due: 2026-06-20T11:28:29.588869
 tags:
   - social

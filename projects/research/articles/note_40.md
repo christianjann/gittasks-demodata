@@ -3,7 +3,7 @@ title: Note 40 in projects - research - articles
 created: 2024-09-04T11:28:29.709965
 updated: 2025-04-16T11:28:29.709965
 source: https://example837.com
-completed: False
+completed: no
 due: 2026-01-27T11:28:29.709965
 tags:
   - research

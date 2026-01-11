@@ -2,7 +2,7 @@
 title: Note 40 in goals - long_term
 created: 2024-07-14T11:28:29.859279
 updated: 2025-06-07T11:28:29.859279
-completed: True
+completed: yes
 due: 2025-10-31T11:28:29.859279
 tags:
   - finance

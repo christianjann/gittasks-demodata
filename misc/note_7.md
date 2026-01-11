@@ -4,7 +4,7 @@ created: 2025-11-13T11:28:29.773024
 updated: 2026-05-23T11:28:29.773024
 source: https://example455.com
 author: Alice Johnson
-completed: False
+completed: no
 ---
 
 # Note 7 in misc

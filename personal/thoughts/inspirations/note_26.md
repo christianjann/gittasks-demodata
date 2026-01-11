@@ -3,7 +3,7 @@ title: Note 26 in personal - thoughts - inspirations
 created: 2026-01-07T11:28:29.588148
 updated: 2026-01-30T11:28:29.588148
 source: https://example271.com
-completed: False
+completed: no
 due: 2026-07-26T11:28:29.588148
 tags:
   - template

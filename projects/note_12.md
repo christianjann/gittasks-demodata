@@ -4,7 +4,7 @@ created: 2024-10-25T11:28:29.671103
 updated: 2025-01-30T11:28:29.671103
 source: https://example106.com
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - event
   - goal

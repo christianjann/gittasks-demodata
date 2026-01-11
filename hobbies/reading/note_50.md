@@ -3,7 +3,7 @@ title: Note 50 in hobbies - reading
 created: 2024-02-01T11:28:29.979906
 updated: 2024-12-14T11:28:29.979906
 source: https://example789.com
-completed: True
+completed: yes
 ---
 
 # Note 50 in hobbies - reading

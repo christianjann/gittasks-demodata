@@ -6,7 +6,7 @@ source: https://example808.com
 latitude: -89.5479
 longitude: 165.8231
 altitude: 3571
-completed: False
+completed: no
 due: 2026-05-27T11:28:29.561470
 tags:
   - design

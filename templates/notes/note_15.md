@@ -3,7 +3,7 @@ title: Note 15 in templates - notes
 created: 2025-06-17T11:28:29.902843
 updated: 2026-01-01T11:28:29.902843
 source: https://example697.com
-completed: False
+completed: no
 tags:
   - design
   - event

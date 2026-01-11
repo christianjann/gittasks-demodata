@@ -3,7 +3,7 @@ title: Note 52 in references - articles
 created: 2024-07-28T11:28:29.888258
 updated: 2024-10-19T11:28:29.888258
 source: https://example836.com
-completed: False
+completed: no
 due: 2025-09-28T11:28:29.888258
 tags:
   - goal

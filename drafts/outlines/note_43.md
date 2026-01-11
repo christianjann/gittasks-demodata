@@ -2,7 +2,7 @@
 title: Note 43 in drafts - outlines
 created: 2024-03-23T11:28:29.762268
 updated: 2025-02-07T11:28:29.762268
-completed: False
+completed: no
 due: 2026-01-17T11:28:29.762268
 ---
 

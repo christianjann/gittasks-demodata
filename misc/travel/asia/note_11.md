@@ -3,7 +3,7 @@ title: Note 11 in misc - travel - asia
 created: 2024-08-14T11:28:29.794104
 updated: 2025-03-19T11:28:29.794104
 author: Bob Smith
-completed: False
+completed: no
 tags:
   - meeting
   - health

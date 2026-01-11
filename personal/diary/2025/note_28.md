@@ -6,7 +6,7 @@ source: https://example844.com
 latitude: -43.2572
 longitude: -53.4642
 altitude: 4453
-completed: False
+completed: no
 tags:
   - code
   - misc

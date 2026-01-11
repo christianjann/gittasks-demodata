@@ -3,7 +3,7 @@ title: Note 15 in shopping - lists
 created: 2024-10-03T11:28:29.963005
 updated: 2025-05-30T11:28:29.963005
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - draft
 ---

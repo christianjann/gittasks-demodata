@@ -3,7 +3,7 @@ title: Note 46 in journal - weekly
 created: 2023-03-27T11:28:29.873954
 updated: 2024-01-07T11:28:29.873954
 author: Frank Miller
-completed: False
+completed: no
 due: 2024-09-30T11:28:29.873954
 tags:
   - misc

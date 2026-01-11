@@ -3,7 +3,7 @@ title: Note 35 in journal - yearly
 created: 2024-11-03T11:28:29.879529
 updated: 2024-11-08T11:28:29.879529
 source: https://example942.com
-completed: False
+completed: no
 due: 2025-10-09T11:28:29.879529
 ---
 

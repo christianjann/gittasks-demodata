@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: 45.9697
 longitude: -18.4236
 altitude: 825
-completed: False
+completed: no
 due: 2025-08-17T11:28:29.646773
 tags:
   - thought

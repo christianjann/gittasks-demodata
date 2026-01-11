@@ -3,7 +3,7 @@ title: Note 49 in work - projects - completed
 created: 2023-12-11T11:28:29.653612
 updated: 2024-08-27T11:28:29.653612
 author: Charlie Brown
-completed: False
+completed: no
 tags:
   - design
 ---

@@ -3,7 +3,7 @@ title: Note 9 in references - books
 created: 2024-05-27T11:28:29.889141
 updated: 2025-03-01T11:28:29.889141
 source: https://example167.com
-completed: False
+completed: no
 tags:
   - thought
   - design

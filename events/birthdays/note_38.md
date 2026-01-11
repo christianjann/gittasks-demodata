@@ -3,7 +3,7 @@ title: Note 38 in events - birthdays
 created: 2023-05-04T11:28:29.957600
 updated: 2023-08-30T11:28:29.957600
 author: Eve Adams
-completed: False
+completed: no
 tags:
   - diary
 ---

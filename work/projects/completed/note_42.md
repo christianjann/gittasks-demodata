@@ -3,7 +3,7 @@ title: Note 42 in work - projects - completed
 created: 2024-05-23T11:28:29.653192
 updated: 2024-07-30T11:28:29.653192
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - draft
 ---

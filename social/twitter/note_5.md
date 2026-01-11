@@ -3,7 +3,7 @@ title: Note 5 in social - twitter
 created: 2024-12-06T11:28:29.937029
 updated: 2025-04-12T11:28:29.937029
 source: https://example492.com
-completed: True
+completed: yes
 due: 2025-08-01T11:28:29.937029
 tags:
   - task

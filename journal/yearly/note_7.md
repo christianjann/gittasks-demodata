@@ -3,7 +3,7 @@ title: Note 7 in journal - yearly
 created: 2024-09-05T11:28:29.877426
 updated: 2025-06-02T11:28:29.877426
 source: https://example725.com
-completed: False
+completed: no
 ---
 
 # Note 7 in journal - yearly

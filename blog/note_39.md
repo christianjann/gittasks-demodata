@@ -6,7 +6,7 @@ author: Frank Miller
 latitude: -55.8361
 longitude: 42.1373
 altitude: 3333
-completed: False
+completed: no
 tags:
   - journal
   - work

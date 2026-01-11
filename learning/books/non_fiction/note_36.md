@@ -5,7 +5,7 @@ updated: 2023-09-28T11:28:29.826089
 latitude: -89.4907
 longitude: -24.8398
 altitude: 3943
-completed: False
+completed: no
 ---
 
 # Note 36 in learning - books - non_fiction

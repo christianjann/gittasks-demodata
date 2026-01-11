@@ -6,7 +6,7 @@ source: https://example132.com
 latitude: -49.0153
 longitude: 91.8576
 altitude: 3856
-completed: True
+completed: yes
 due: 2024-10-22T11:28:29.626154
 tags:
   - shopping

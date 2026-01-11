@@ -6,7 +6,7 @@ source: https://example213.com
 latitude: 62.1747
 longitude: 6.99
 altitude: 3510
-completed: True
+completed: yes
 tags:
   - idea
   - personal

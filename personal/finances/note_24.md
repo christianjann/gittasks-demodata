@@ -3,7 +3,7 @@ title: Note 24 in personal - finances
 created: 2024-12-13T11:28:29.603547
 updated: 2025-08-01T11:28:29.603547
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - task
   - note

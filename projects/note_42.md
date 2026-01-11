@@ -6,7 +6,7 @@ source: https://example987.com
 latitude: -10.4573
 longitude: -132.8407
 altitude: 4903
-completed: True
+completed: yes
 due: 2026-07-24T11:28:29.672978
 tags:
   - hobby

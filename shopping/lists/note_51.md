@@ -6,7 +6,7 @@ author: Alice Johnson
 latitude: -63.9498
 longitude: 85.1413
 altitude: 949
-completed: False
+completed: no
 tags:
   - event
   - design

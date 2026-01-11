@@ -4,7 +4,7 @@ created: 2023-12-03T11:28:29.589867
 updated: 2024-07-01T11:28:29.589867
 source: https://example899.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2024-08-13T11:28:29.589867
 tags:
   - thought

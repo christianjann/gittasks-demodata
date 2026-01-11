@@ -3,7 +3,7 @@ title: Note 19 in misc
 created: 2024-04-16T11:28:29.773679
 updated: 2024-07-30T11:28:29.773679
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - event
   - health

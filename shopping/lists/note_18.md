@@ -5,7 +5,7 @@ updated: 2025-11-21T11:28:29.963158
 latitude: -89.1322
 longitude: 63.6704
 altitude: 2077
-completed: False
+completed: no
 due: 2026-01-16T11:28:29.963158
 tags:
   - idea

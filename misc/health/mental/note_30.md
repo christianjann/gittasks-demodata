@@ -3,7 +3,7 @@ title: Note 30 in misc - health - mental
 created: 2025-10-16T11:28:29.805598
 updated: 2026-01-26T11:28:29.805598
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2027-01-17T11:28:29.805598
 tags:
   - goal

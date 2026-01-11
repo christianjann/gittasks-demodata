@@ -4,7 +4,7 @@ created: 2023-07-19T11:28:29.884221
 updated: 2024-02-13T11:28:29.884221
 source: https://example100.com
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - travel
   - idea

@@ -4,7 +4,7 @@ created: 2023-11-21T11:28:29.800055
 updated: 2024-03-16T11:28:29.800055
 source: https://example880.com
 author: Eve Adams
-completed: False
+completed: no
 due: 2024-09-29T11:28:29.800055
 tags:
   - draft

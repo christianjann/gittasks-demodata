@@ -3,7 +3,7 @@ title: Note 34 in references - websites
 created: 2023-06-11T11:28:29.894241
 updated: 2023-09-13T11:28:29.894241
 author: Eve Adams
-completed: True
+completed: yes
 due: 2024-01-26T11:28:29.894241
 tags:
   - finance

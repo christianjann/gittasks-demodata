@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -41.047
 longitude: 125.4254
 altitude: 3475
-completed: False
+completed: no
 tags:
   - hobby
   - social

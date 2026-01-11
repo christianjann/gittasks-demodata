@@ -4,7 +4,7 @@ created: 2025-12-19T11:28:29.713950
 updated: 2026-09-29T11:28:29.713950
 source: https://example468.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2027-07-16T11:28:29.713950
 tags:
   - travel

@@ -3,7 +3,7 @@ title: Note 12 in learning - tutorials - video
 created: 2024-11-20T11:28:29.832107
 updated: 2025-01-17T11:28:29.832107
 source: https://example570.com
-completed: True
+completed: yes
 tags:
   - urgent
   - task

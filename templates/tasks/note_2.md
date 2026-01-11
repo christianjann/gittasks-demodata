@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -42.6577
 longitude: 16.172
 altitude: 4199
-completed: False
+completed: no
 tags:
   - thought
   - event

@@ -6,7 +6,7 @@ source: https://example317.com
 latitude: 80.6103
 longitude: 28.103
 altitude: 353
-completed: False
+completed: no
 tags:
   - idea
   - goal

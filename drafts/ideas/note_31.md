@@ -6,7 +6,7 @@ author: Bob Smith
 latitude: -19.7866
 longitude: 152.691
 altitude: 1040
-completed: False
+completed: no
 tags:
   - thought
   - shopping

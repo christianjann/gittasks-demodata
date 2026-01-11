@@ -4,7 +4,7 @@ created: 2023-07-02T11:28:29.637743
 updated: 2024-01-05T11:28:29.637743
 source: https://example410.com
 author: Diana Prince
-completed: True
+completed: yes
 ---
 
 # Note 6 in work - tasks - completed

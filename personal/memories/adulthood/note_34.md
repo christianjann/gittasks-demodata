@@ -2,7 +2,7 @@
 title: Note 34 in personal - memories - adulthood
 created: 2025-08-28T11:28:29.600142
 updated: 2026-02-28T11:28:29.600142
-completed: False
+completed: no
 due: 2026-07-21T11:28:29.600142
 ---
 

@@ -4,7 +4,7 @@ created: 2025-04-22T11:28:29.680244
 updated: 2025-08-23T11:28:29.680244
 source: https://example18.com
 author: Grace Lee
-completed: False
+completed: no
 due: 2026-05-04T11:28:29.680244
 tags:
   - work

@@ -4,7 +4,7 @@ created: 2025-07-07T11:28:29.914529
 updated: 2025-10-01T11:28:29.914529
 source: https://example499.com
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - journal
   - personal

@@ -2,7 +2,7 @@
 title: Note 48 in personal - thoughts - random
 created: 2025-05-07T11:28:29.585289
 updated: 2026-03-07T11:28:29.585289
-completed: True
+completed: yes
 due: 2026-12-03T11:28:29.585289
 ---
 

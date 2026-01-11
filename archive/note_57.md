@@ -4,7 +4,7 @@ created: 2025-09-15T11:28:29.718871
 updated: 2025-10-25T11:28:29.718871
 source: https://example489.com
 author: Frank Miller
-completed: True
+completed: yes
 tags:
   - idea
   - diary

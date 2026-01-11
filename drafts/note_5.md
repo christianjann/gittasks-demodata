@@ -4,7 +4,7 @@ created: 2023-11-28T11:28:29.742882
 updated: 2024-02-10T11:28:29.742882
 source: https://example533.com
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - archive
   - reference

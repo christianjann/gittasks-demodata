@@ -3,7 +3,7 @@ title: Note 47 in social
 created: 2025-04-27T11:28:29.935236
 updated: 2025-12-01T11:28:29.935236
 source: https://example555.com
-completed: True
+completed: yes
 due: 2026-05-09T11:28:29.935236
 ---
 

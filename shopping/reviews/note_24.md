@@ -4,7 +4,7 @@ created: 2024-04-01T11:28:29.966622
 updated: 2024-06-12T11:28:29.966622
 source: https://example957.com
 author: Bob Smith
-completed: False
+completed: no
 due: 2024-07-19T11:28:29.966622
 ---
 

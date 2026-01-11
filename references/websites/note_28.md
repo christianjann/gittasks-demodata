@@ -6,7 +6,7 @@ source: https://example565.com
 latitude: -81.3348
 longitude: -129.6718
 altitude: 1221
-completed: True
+completed: yes
 ---
 
 # Note 28 in references - websites

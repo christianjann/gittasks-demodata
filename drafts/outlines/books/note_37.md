@@ -3,7 +3,7 @@ title: Note 37 in drafts - outlines - books
 created: 2025-12-08T11:28:29.766000
 updated: 2026-04-21T11:28:29.766000
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - blog
   - task

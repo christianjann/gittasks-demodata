@@ -3,7 +3,7 @@ title: Note 13 in drafts - ideas - business
 created: 2023-10-05T11:28:29.754441
 updated: 2024-03-30T11:28:29.754441
 author: Grace Lee
-completed: True
+completed: yes
 tags:
   - learning
 ---

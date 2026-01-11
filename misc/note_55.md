@@ -5,7 +5,7 @@ updated: 2024-11-18T11:28:29.775720
 latitude: 75.9407
 longitude: 2.7503
 altitude: 1646
-completed: False
+completed: no
 tags:
   - journal
   - design

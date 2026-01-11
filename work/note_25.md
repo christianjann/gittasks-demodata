@@ -4,7 +4,7 @@ created: 2025-10-11T11:28:29.614363
 updated: 2025-11-28T11:28:29.614363
 source: https://example897.com
 author: Eve Adams
-completed: True
+completed: yes
 due: 2026-05-03T11:28:29.614363
 tags:
   - diary

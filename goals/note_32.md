@@ -3,7 +3,7 @@ title: Note 32 in goals
 created: 2025-03-22T11:28:29.851978
 updated: 2025-07-25T11:28:29.851978
 author: Eve Adams
-completed: True
+completed: yes
 due: 2025-09-09T11:28:29.851978
 tags:
   - learning

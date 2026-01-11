@@ -3,7 +3,7 @@ title: Note 19 in blog - ideas
 created: 2023-11-07T11:28:29.929319
 updated: 2024-05-13T11:28:29.929319
 source: https://example605.com
-completed: False
+completed: no
 due: 2024-08-05T11:28:29.929319
 tags:
   - diary

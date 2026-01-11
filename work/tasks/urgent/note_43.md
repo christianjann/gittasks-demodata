@@ -3,7 +3,7 @@ title: Note 43 in work - tasks - urgent
 created: 2024-12-21T11:28:29.632664
 updated: 2025-03-02T11:28:29.632664
 source: https://example832.com
-completed: True
+completed: yes
 tags:
   - personal
 ---

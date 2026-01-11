@@ -3,7 +3,7 @@ title: Note 10 in learning - books
 created: 2023-03-13T11:28:29.819200
 updated: 2023-07-30T11:28:29.819200
 source: https://example254.com
-completed: True
+completed: yes
 due: 2023-10-26T11:28:29.819200
 tags:
   - learning

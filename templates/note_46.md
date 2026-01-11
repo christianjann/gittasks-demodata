@@ -3,7 +3,7 @@ title: Note 46 in templates
 created: 2023-03-10T11:28:29.901025
 updated: 2024-01-31T11:28:29.901025
 source: https://example438.com
-completed: False
+completed: no
 tags:
   - personal
 ---

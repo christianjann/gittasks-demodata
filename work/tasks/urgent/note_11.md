@@ -3,7 +3,7 @@ title: Note 11 in work - tasks - urgent
 created: 2025-07-08T11:28:29.630723
 updated: 2025-10-22T11:28:29.630723
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - learning
   - work

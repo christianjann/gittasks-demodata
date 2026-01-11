@@ -3,7 +3,7 @@ title: Note 8 in drafts - outlines - presentations
 created: 2025-06-27T11:28:29.766612
 updated: 2025-10-27T11:28:29.766612
 source: https://example114.com
-completed: False
+completed: no
 due: 2026-06-11T11:28:29.766612
 ---
 

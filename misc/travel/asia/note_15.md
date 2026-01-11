@@ -3,7 +3,7 @@ title: Note 15 in misc - travel - asia
 created: 2023-11-15T11:28:29.794318
 updated: 2024-01-17T11:28:29.794318
 source: https://example312.com
-completed: True
+completed: yes
 ---
 
 # Note 15 in misc - travel - asia

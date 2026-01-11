@@ -3,7 +3,7 @@ title: Note 61 in references
 created: 2025-11-24T11:28:29.884722
 updated: 2026-05-05T11:28:29.884722
 source: https://example44.com
-completed: False
+completed: no
 due: 2027-02-07T11:28:29.884722
 tags:
   - task

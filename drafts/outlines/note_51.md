@@ -2,7 +2,7 @@
 title: Note 51 in drafts - outlines
 created: 2024-05-13T11:28:29.762784
 updated: 2025-04-15T11:28:29.762784
-completed: True
+completed: yes
 due: 2025-06-06T11:28:29.762784
 tags:
   - shopping

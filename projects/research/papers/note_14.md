@@ -6,7 +6,7 @@ source: https://example136.com
 latitude: -30.4489
 longitude: 128.6511
 altitude: 4402
-completed: True
+completed: yes
 ---
 
 # Note 14 in projects - research - papers

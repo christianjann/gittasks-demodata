@@ -3,7 +3,7 @@ title: Note 31 in misc - recipes - dinner
 created: 2024-12-02T11:28:29.784768
 updated: 2025-05-24T11:28:29.784768
 source: https://example82.com
-completed: False
+completed: no
 due: 2025-12-09T11:28:29.784768
 tags:
   - diary

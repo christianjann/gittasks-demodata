@@ -6,7 +6,7 @@ source: https://example687.com
 latitude: 41.6593
 longitude: -2.5948
 altitude: 4853
-completed: False
+completed: no
 due: 2026-05-27T11:28:29.855707
 tags:
   - note

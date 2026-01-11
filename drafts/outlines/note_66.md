@@ -6,7 +6,7 @@ source: https://example370.com
 latitude: -45.789
 longitude: 173.9324
 altitude: 3611
-completed: True
+completed: yes
 ---
 
 # Note 66 in drafts - outlines

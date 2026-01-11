@@ -3,7 +3,7 @@ title: Note 20 in drafts - outlines - reports
 created: 2025-09-12T11:28:29.770700
 updated: 2026-03-17T11:28:29.770700
 source: https://example290.com
-completed: True
+completed: yes
 tags:
   - urgent
   - finance

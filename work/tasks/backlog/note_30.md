@@ -3,7 +3,7 @@ title: Note 30 in work - tasks - backlog
 created: 2025-12-04T11:28:29.634891
 updated: 2026-03-12T11:28:29.634891
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - research
   - work

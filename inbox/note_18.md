@@ -3,7 +3,7 @@ title: Note 18 in inbox
 created: 2023-02-24T11:28:29.837405
 updated: 2023-08-05T11:28:29.837405
 author: Frank Miller
-completed: True
+completed: yes
 due: 2024-02-17T11:28:29.837405
 tags:
   - urgent

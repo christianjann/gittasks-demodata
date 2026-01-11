@@ -6,7 +6,7 @@ source: https://example321.com
 latitude: -30.4379
 longitude: 121.7319
 altitude: 1495
-completed: True
+completed: yes
 tags:
   - note
   - draft

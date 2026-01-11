@@ -3,7 +3,7 @@ title: Note 18 in shopping
 created: 2025-03-16T11:28:29.960673
 updated: 2026-01-04T11:28:29.960673
 source: https://example827.com
-completed: False
+completed: no
 due: 2026-07-22T11:28:29.960673
 ---
 

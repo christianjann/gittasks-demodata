@@ -3,7 +3,7 @@ title: Note 33 in misc - recipes - dinner
 created: 2024-08-03T11:28:29.784886
 updated: 2025-05-23T11:28:29.784886
 author: Frank Miller
-completed: False
+completed: no
 due: 2026-04-26T11:28:29.784886
 tags:
   - diary

@@ -4,7 +4,7 @@ created: 2025-09-07T11:28:29.660715
 updated: 2026-04-01T11:28:29.660715
 source: https://example486.com
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2026-10-25T11:28:29.660715
 tags:
   - shopping

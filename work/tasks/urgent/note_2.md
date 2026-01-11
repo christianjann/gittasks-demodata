@@ -3,7 +3,7 @@ title: Note 2 in work - tasks - urgent
 created: 2026-01-04T11:28:29.630087
 updated: 2026-07-08T11:28:29.630087
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - journal
   - goal

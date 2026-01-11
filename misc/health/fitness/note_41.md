@@ -3,7 +3,7 @@ title: Note 41 in misc - health - fitness
 created: 2025-08-26T11:28:29.802427
 updated: 2025-10-19T11:28:29.802427
 source: https://example252.com
-completed: False
+completed: no
 ---
 
 # Note 41 in misc - health - fitness

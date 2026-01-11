@@ -2,7 +2,7 @@
 title: Note 40 in work - projects
 created: 2025-04-14T11:28:29.645264
 updated: 2026-03-31T11:28:29.645264
-completed: False
+completed: no
 tags:
   - thought
   - meeting

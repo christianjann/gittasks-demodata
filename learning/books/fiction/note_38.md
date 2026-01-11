@@ -3,7 +3,7 @@ title: Note 38 in learning - books - fiction
 created: 2025-01-29T11:28:29.823243
 updated: 2025-11-19T11:28:29.823243
 source: https://example625.com
-completed: True
+completed: yes
 tags:
   - blog
   - urgent

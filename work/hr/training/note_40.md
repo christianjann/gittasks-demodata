@@ -4,7 +4,7 @@ created: 2025-12-15T11:28:29.669607
 updated: 2026-07-06T11:28:29.669607
 source: https://example523.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - social
 ---

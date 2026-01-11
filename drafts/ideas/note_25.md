@@ -5,7 +5,7 @@ updated: 2024-05-28T11:28:29.748201
 latitude: 71.1066
 longitude: 149.8495
 altitude: 3863
-completed: True
+completed: yes
 ---
 
 # Note 25 in drafts - ideas

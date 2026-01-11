@@ -4,7 +4,7 @@ created: 2023-01-17T11:28:29.808125
 updated: 2023-06-11T11:28:29.808125
 source: https://example63.com
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2023-07-16T11:28:29.808125
 tags:
   - recipe

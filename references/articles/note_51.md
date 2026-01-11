@@ -3,7 +3,7 @@ title: Note 51 in references - articles
 created: 2024-12-06T11:28:29.888206
 updated: 2025-03-07T11:28:29.888206
 source: https://example174.com
-completed: False
+completed: no
 ---
 
 # Note 51 in references - articles

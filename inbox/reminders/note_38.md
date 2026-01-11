@@ -2,7 +2,7 @@
 title: Note 38 in inbox - reminders
 created: 2023-09-16T11:28:29.845171
 updated: 2024-01-07T11:28:29.845171
-completed: True
+completed: yes
 tags:
   - social
   - work

@@ -2,7 +2,7 @@
 title: Note 27 in social - linkedin
 created: 2023-04-05T11:28:29.941926
 updated: 2023-06-27T11:28:29.941926
-completed: True
+completed: yes
 due: 2023-10-14T11:28:29.941926
 tags:
   - meeting

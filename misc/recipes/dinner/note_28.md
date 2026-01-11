@@ -5,7 +5,7 @@ updated: 2025-05-09T11:28:29.784602
 latitude: 44.398
 longitude: 61.9647
 altitude: 4884
-completed: False
+completed: no
 ---
 
 # Note 28 in misc - recipes - dinner

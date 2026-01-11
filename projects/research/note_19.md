@@ -5,7 +5,7 @@ updated: 2026-06-17T11:28:29.702236
 latitude: 54.386
 longitude: -37.1182
 altitude: 1279
-completed: False
+completed: no
 tags:
   - social
   - work

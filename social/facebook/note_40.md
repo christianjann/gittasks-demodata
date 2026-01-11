@@ -6,7 +6,7 @@ source: https://example238.com
 latitude: 67.0324
 longitude: 166.8179
 altitude: 4889
-completed: False
+completed: no
 tags:
   - misc
   - task

@@ -3,7 +3,7 @@ title: Note 37 in misc - travel - europe
 created: 2025-10-26T11:28:29.792419
 updated: 2026-09-27T11:28:29.792419
 source: https://example893.com
-completed: True
+completed: yes
 due: 2027-06-16T11:28:29.792419
 tags:
   - recipe

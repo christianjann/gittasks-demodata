@@ -6,7 +6,7 @@ source: https://example214.com
 latitude: -61.5334
 longitude: 61.5955
 altitude: 3880
-completed: True
+completed: yes
 tags:
   - personal
   - event

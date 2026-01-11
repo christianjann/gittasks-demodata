@@ -3,7 +3,7 @@ title: Note 28 in projects - code - java
 created: 2024-02-28T11:28:29.685742
 updated: 2024-05-25T11:28:29.685742
 source: https://example240.com
-completed: False
+completed: no
 ---
 
 # Note 28 in projects - code - java

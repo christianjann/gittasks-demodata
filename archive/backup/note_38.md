@@ -6,7 +6,7 @@ source: https://example892.com
 latitude: -13.1113
 longitude: -28.7586
 altitude: 2728
-completed: True
+completed: yes
 tags:
   - learning
   - hobby

@@ -3,7 +3,7 @@ title: Note 50 in goals - short_term
 created: 2024-01-10T11:28:29.855890
 updated: 2024-01-27T11:28:29.855890
 source: https://example111.com
-completed: True
+completed: yes
 tags:
   - blog
 ---

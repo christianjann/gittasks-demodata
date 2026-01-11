@@ -3,7 +3,7 @@ title: Note 36 in projects - code - java
 created: 2024-07-04T11:28:29.686181
 updated: 2024-08-02T11:28:29.686181
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - goal
   - personal

@@ -3,7 +3,7 @@ title: Note 6 in social
 created: 2024-08-12T11:28:29.932760
 updated: 2025-02-18T11:28:29.932760
 author: Henry Wilson
-completed: False
+completed: no
 tags:
   - learning
   - goal

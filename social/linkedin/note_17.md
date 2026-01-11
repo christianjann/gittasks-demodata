@@ -5,7 +5,7 @@ updated: 2025-02-22T11:28:29.941310
 latitude: 80.8338
 longitude: -123.8654
 altitude: 4090
-completed: True
+completed: yes
 due: 2025-08-07T11:28:29.941310
 tags:
   - diary

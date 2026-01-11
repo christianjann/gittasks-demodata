@@ -2,7 +2,7 @@
 title: Note 21 in projects - code - java
 created: 2023-05-17T11:28:29.685285
 updated: 2023-07-30T11:28:29.685285
-completed: True
+completed: yes
 due: 2024-02-02T11:28:29.685285
 tags:
   - note

@@ -4,7 +4,7 @@ created: 2026-01-09T11:28:29.917673
 updated: 2026-07-31T11:28:29.917673
 source: https://example589.com
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - recipe
   - draft

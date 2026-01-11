@@ -2,7 +2,7 @@
 title: Note 63 in personal - finances - investments
 created: 2024-12-10T11:28:29.612479
 updated: 2025-11-30T11:28:29.612479
-completed: True
+completed: yes
 due: 2026-01-05T11:28:29.612479
 tags:
   - draft

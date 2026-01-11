@@ -3,7 +3,7 @@ title: Note 10 in personal - memories - adulthood
 created: 2023-02-17T11:28:29.598726
 updated: 2023-05-08T11:28:29.598726
 source: https://example464.com
-completed: False
+completed: no
 due: 2023-11-08T11:28:29.598726
 tags:
   - journal

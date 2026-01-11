@@ -4,7 +4,7 @@ created: 2025-10-24T11:28:29.906584
 updated: 2026-07-31T11:28:29.906584
 source: https://example439.com
 author: Ivy Chen
-completed: True
+completed: yes
 due: 2027-07-27T11:28:29.906584
 ---
 

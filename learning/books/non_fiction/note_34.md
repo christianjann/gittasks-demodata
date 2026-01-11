@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: 51.3805
 longitude: 163.1845
 altitude: 3630
-completed: True
+completed: yes
 tags:
   - blog
   - research

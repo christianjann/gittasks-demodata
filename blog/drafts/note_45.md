@@ -4,7 +4,7 @@ created: 2025-05-14T11:28:29.922954
 updated: 2026-03-15T11:28:29.922954
 source: https://example315.com
 author: Alice Johnson
-completed: True
+completed: yes
 due: 2026-07-19T11:28:29.922954
 tags:
   - event

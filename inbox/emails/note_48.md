@@ -3,7 +3,7 @@ title: Note 48 in inbox - emails
 created: 2024-08-13T11:28:29.849292
 updated: 2025-06-18T11:28:29.849292
 source: https://example337.com
-completed: False
+completed: no
 due: 2025-12-26T11:28:29.849292
 ---
 

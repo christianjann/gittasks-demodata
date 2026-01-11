@@ -3,7 +3,7 @@ title: Note 9 in references - websites
 created: 2024-02-28T11:28:29.892746
 updated: 2024-09-11T11:28:29.892746
 source: https://example27.com
-completed: True
+completed: yes
 tags:
   - personal
   - note

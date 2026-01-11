@@ -3,7 +3,7 @@ title: Note 13 in personal - finances - budget
 created: 2023-01-21T11:28:29.606353
 updated: 2023-12-04T11:28:29.606353
 source: https://example786.com
-completed: True
+completed: yes
 due: 2023-12-09T11:28:29.606353
 tags:
   - meeting

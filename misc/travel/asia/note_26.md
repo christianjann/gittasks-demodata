@@ -4,7 +4,7 @@ created: 2023-06-27T11:28:29.795092
 updated: 2023-09-24T11:28:29.795092
 source: https://example12.com
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - misc
   - travel

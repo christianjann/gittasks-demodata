@@ -6,7 +6,7 @@ source: https://example32.com
 latitude: 89.741
 longitude: -39.1326
 altitude: 3923
-completed: True
+completed: yes
 due: 2024-10-12T11:28:29.707895
 tags:
   - diary

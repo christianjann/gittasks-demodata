@@ -4,7 +4,7 @@ created: 2024-03-27T11:28:29.578677
 updated: 2024-06-09T11:28:29.578677
 source: https://example910.com
 author: Eve Adams
-completed: True
+completed: yes
 tags:
   - note
   - draft

@@ -6,7 +6,7 @@ source: https://example667.com
 latitude: -46.8435
 longitude: -51.878
 altitude: 2360
-completed: False
+completed: no
 due: 2025-09-28T11:28:29.948136
 tags:
   - learning

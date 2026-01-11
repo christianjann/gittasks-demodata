@@ -3,7 +3,7 @@ title: Note 1 in projects - code - java
 created: 2025-10-01T11:28:29.684130
 updated: 2026-06-27T11:28:29.684130
 author: Diana Prince
-completed: False
+completed: no
 due: 2026-09-23T11:28:29.684130
 tags:
   - diary

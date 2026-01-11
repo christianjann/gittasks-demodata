@@ -6,7 +6,7 @@ source: https://example537.com
 latitude: 87.8416
 longitude: -170.4996
 altitude: 2360
-completed: False
+completed: no
 due: 2026-06-07T11:28:29.613764
 tags:
   - misc

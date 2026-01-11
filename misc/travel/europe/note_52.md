@@ -6,7 +6,7 @@ source: https://example515.com
 latitude: -21.535
 longitude: 110.5334
 altitude: 3619
-completed: False
+completed: no
 tags:
   - meeting
   - shopping

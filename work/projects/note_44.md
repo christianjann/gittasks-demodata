@@ -3,7 +3,7 @@ title: Note 44 in work - projects
 created: 2025-03-07T11:28:29.645529
 updated: 2025-09-01T11:28:29.645529
 source: https://example282.com
-completed: True
+completed: yes
 tags:
   - diary
   - archive

@@ -3,7 +3,7 @@ title: Note 40 in projects - code - go
 created: 2024-11-23T11:28:29.689236
 updated: 2025-03-24T11:28:29.689236
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - research
 ---

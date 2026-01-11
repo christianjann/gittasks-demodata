@@ -7,7 +7,7 @@ author: Henry Wilson
 latitude: -8.0779
 longitude: 7.2318
 altitude: 1704
-completed: False
+completed: no
 due: 2026-12-31T11:28:29.790416
 tags:
   - design

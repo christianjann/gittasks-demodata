@@ -3,7 +3,7 @@ title: Note 30 in projects - code - javascript
 created: 2025-05-24T11:28:29.683303
 updated: 2025-06-27T11:28:29.683303
 source: https://example63.com
-completed: True
+completed: yes
 tags:
   - research
 ---

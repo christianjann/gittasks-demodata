@@ -4,7 +4,7 @@ created: 2024-08-22T11:28:29.825081
 updated: 2025-07-08T11:28:29.825081
 source: https://example493.com
 author: Frank Miller
-completed: False
+completed: no
 tags:
   - misc
   - template

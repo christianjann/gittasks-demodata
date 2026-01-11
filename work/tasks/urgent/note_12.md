@@ -5,7 +5,7 @@ updated: 2023-07-23T11:28:29.630778
 latitude: -42.5126
 longitude: -174.7946
 altitude: 1100
-completed: True
+completed: yes
 tags:
   - recipe
   - journal

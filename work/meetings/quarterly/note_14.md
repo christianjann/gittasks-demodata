@@ -3,7 +3,7 @@ title: Note 14 in work - meetings - quarterly
 created: 2025-05-18T11:28:29.624760
 updated: 2025-11-20T11:28:29.624760
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - work
   - urgent

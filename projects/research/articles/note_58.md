@@ -3,7 +3,7 @@ title: Note 58 in projects - research - articles
 created: 2025-11-21T11:28:29.711076
 updated: 2026-10-15T11:28:29.711076
 author: Bob Smith
-completed: True
+completed: yes
 tags:
   - social
   - event

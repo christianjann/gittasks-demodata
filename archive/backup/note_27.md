@@ -5,7 +5,7 @@ updated: 2024-04-25T11:28:29.734386
 latitude: 18.6928
 longitude: -108.3533
 altitude: 3235
-completed: True
+completed: yes
 ---
 
 # Note 27 in archive - backup

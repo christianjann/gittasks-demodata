@@ -6,7 +6,7 @@ source: https://example617.com
 latitude: 31.1754
 longitude: -134.0738
 altitude: 3704
-completed: True
+completed: yes
 due: 2026-12-14T11:28:29.827912
 tags:
   - design

@@ -3,7 +3,7 @@ title: Note 1 in templates - reports
 created: 2023-06-07T11:28:29.912313
 updated: 2023-10-30T11:28:29.912313
 author: Ivy Chen
-completed: False
+completed: no
 due: 2024-04-15T11:28:29.912313
 ---
 

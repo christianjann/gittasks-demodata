@@ -4,7 +4,7 @@ created: 2025-03-25T11:28:29.844751
 updated: 2026-02-06T11:28:29.844751
 source: https://example666.com
 author: Diana Prince
-completed: True
+completed: yes
 ---
 
 # Note 31 in inbox - reminders

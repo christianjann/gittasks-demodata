@@ -3,7 +3,7 @@ title: Note 35 in misc - travel - europe
 created: 2024-07-25T11:28:29.792315
 updated: 2025-05-24T11:28:29.792315
 source: https://example987.com
-completed: False
+completed: no
 tags:
   - blog
 ---

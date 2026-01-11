@@ -6,7 +6,7 @@ source: https://example864.com
 latitude: -47.5544
 longitude: 86.0525
 altitude: 1517
-completed: True
+completed: yes
 ---
 
 # Note 5 in drafts - outlines - books

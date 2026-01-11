@@ -3,7 +3,7 @@ title: Note 18 in goals
 created: 2025-07-22T11:28:29.851176
 updated: 2026-01-25T11:28:29.851176
 source: https://example468.com
-completed: False
+completed: no
 due: 2027-01-03T11:28:29.851176
 tags:
   - note

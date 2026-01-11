@@ -3,7 +3,7 @@ title: Note 11 in misc - recipes - breakfast
 created: 2023-10-10T11:28:29.779681
 updated: 2024-08-15T11:28:29.779681
 source: https://example234.com
-completed: True
+completed: yes
 tags:
   - health
   - work

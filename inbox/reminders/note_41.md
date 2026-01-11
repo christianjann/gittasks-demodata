@@ -6,7 +6,7 @@ source: https://example161.com
 latitude: -69.1682
 longitude: 115.2651
 altitude: 2369
-completed: False
+completed: no
 tags:
   - archive
   - recipe

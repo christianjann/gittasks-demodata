@@ -7,7 +7,7 @@ author: Grace Lee
 latitude: -19.0014
 longitude: -90.4742
 altitude: 2133
-completed: False
+completed: no
 tags:
   - thought
   - blog

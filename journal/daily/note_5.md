@@ -4,7 +4,7 @@ created: 2023-04-21T11:28:29.868518
 updated: 2023-11-26T11:28:29.868518
 source: https://example804.com
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2024-06-17T11:28:29.868518
 tags:
   - research

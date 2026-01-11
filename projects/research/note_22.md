@@ -3,7 +3,7 @@ title: Note 22 in projects - research
 created: 2024-04-16T11:28:29.702493
 updated: 2024-12-18T11:28:29.702493
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - meeting
 ---

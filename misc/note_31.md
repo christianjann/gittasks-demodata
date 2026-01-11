@@ -3,7 +3,7 @@ title: Note 31 in misc
 created: 2024-11-19T11:28:29.774348
 updated: 2025-06-11T11:28:29.774348
 source: https://example303.com
-completed: True
+completed: yes
 due: 2025-12-19T11:28:29.774348
 tags:
   - draft

@@ -2,7 +2,7 @@
 title: Note 22 in archive - old_notes
 created: 2024-02-03T11:28:29.720469
 updated: 2024-11-12T11:28:29.720469
-completed: False
+completed: no
 tags:
   - meeting
 ---

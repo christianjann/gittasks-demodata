@@ -7,7 +7,7 @@ author: Frank Miller
 latitude: -60.2994
 longitude: -107.5036
 altitude: 2654
-completed: True
+completed: yes
 ---
 
 # Note 1 in shopping - reviews

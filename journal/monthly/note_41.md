@@ -4,7 +4,7 @@ created: 2023-11-08T11:28:29.876796
 updated: 2024-09-10T11:28:29.876796
 source: https://example808.com
 author: Grace Lee
-completed: True
+completed: yes
 due: 2024-10-23T11:28:29.876796
 tags:
   - journal

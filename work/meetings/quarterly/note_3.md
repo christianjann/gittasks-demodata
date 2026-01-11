@@ -2,7 +2,7 @@
 title: Note 3 in work - meetings - quarterly
 created: 2025-08-16T11:28:29.624098
 updated: 2026-06-12T11:28:29.624098
-completed: True
+completed: yes
 due: 2026-11-01T11:28:29.624098
 tags:
   - meeting

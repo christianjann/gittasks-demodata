@@ -6,7 +6,7 @@ source: https://example107.com
 latitude: 58.4611
 longitude: -134.6889
 altitude: 69
-completed: True
+completed: yes
 ---
 
 # Note 4 in projects - code - go

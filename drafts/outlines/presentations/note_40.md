@@ -3,7 +3,7 @@ title: Note 40 in drafts - outlines - presentations
 created: 2023-03-24T11:28:29.768355
 updated: 2023-08-15T11:28:29.768355
 source: https://example34.com
-completed: False
+completed: no
 tags:
   - diary
 ---

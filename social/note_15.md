@@ -7,7 +7,7 @@ author: Bob Smith
 latitude: -82.1461
 longitude: 150.0174
 altitude: 2260
-completed: True
+completed: yes
 tags:
   - event
   - task

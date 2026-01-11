@@ -6,7 +6,7 @@ source: https://example332.com
 latitude: -18.578
 longitude: 83.7168
 altitude: 3970
-completed: False
+completed: no
 ---
 
 # Note 22 in drafts - outlines

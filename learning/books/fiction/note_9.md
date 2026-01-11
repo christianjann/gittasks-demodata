@@ -4,7 +4,7 @@ created: 2023-02-03T11:28:29.821652
 updated: 2023-10-30T11:28:29.821652
 source: https://example413.com
 author: Bob Smith
-completed: True
+completed: yes
 ---
 
 # Note 9 in learning - books - fiction

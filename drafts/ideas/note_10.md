@@ -3,7 +3,7 @@ title: Note 10 in drafts - ideas
 created: 2024-06-29T11:28:29.747309
 updated: 2025-03-19T11:28:29.747309
 source: https://example948.com
-completed: True
+completed: yes
 due: 2025-03-31T11:28:29.747309
 tags:
   - draft

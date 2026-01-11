@@ -3,7 +3,7 @@ title: Note 6 in archive - old_notes - 2019
 created: 2024-05-25T11:28:29.722283
 updated: 2025-05-24T11:28:29.722283
 source: https://example291.com
-completed: True
+completed: yes
 due: 2025-09-21T11:28:29.722283
 tags:
   - archive

@@ -6,7 +6,7 @@ author: Eve Adams
 latitude: 65.5413
 longitude: 64.6266
 altitude: 195
-completed: False
+completed: no
 tags:
   - shopping
   - event

@@ -4,7 +4,7 @@ created: 2023-10-28T11:28:29.925924
 updated: 2024-08-18T11:28:29.925924
 source: https://example56.com
 author: Bob Smith
-completed: False
+completed: no
 due: 2024-11-08T11:28:29.925924
 ---
 

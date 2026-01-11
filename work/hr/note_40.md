@@ -4,7 +4,7 @@ created: 2024-01-28T11:28:29.661375
 updated: 2024-02-09T11:28:29.661375
 source: https://example271.com
 author: Ivy Chen
-completed: True
+completed: yes
 tags:
   - research
   - code

@@ -4,7 +4,7 @@ created: 2023-11-19T11:28:29.587235
 updated: 2024-02-28T11:28:29.587235
 source: https://example761.com
 author: Charlie Brown
-completed: False
+completed: no
 due: 2024-08-15T11:28:29.587235
 tags:
   - template

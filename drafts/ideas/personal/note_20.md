@@ -3,7 +3,7 @@ title: Note 20 in drafts - ideas - personal
 created: 2023-05-24T11:28:29.758497
 updated: 2024-04-13T11:28:29.758497
 author: Henry Wilson
-completed: True
+completed: yes
 due: 2024-12-13T11:28:29.758497
 tags:
   - recipe

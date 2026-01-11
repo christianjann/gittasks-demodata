@@ -4,7 +4,7 @@ created: 2023-11-16T11:28:29.602571
 updated: 2024-01-29T11:28:29.602571
 source: https://example5.com
 author: Jack Taylor
-completed: True
+completed: yes
 tags:
   - journal
   - goal

@@ -6,7 +6,7 @@ source: https://example501.com
 latitude: 43.8313
 longitude: -161.7976
 altitude: 3620
-completed: True
+completed: yes
 tags:
   - finance
   - research

@@ -2,7 +2,7 @@
 title: Note 7 in goals
 created: 2023-11-20T11:28:29.850565
 updated: 2024-03-02T11:28:29.850565
-completed: True
+completed: yes
 ---
 
 # Note 7 in goals

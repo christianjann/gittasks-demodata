@@ -4,7 +4,7 @@ created: 2025-05-14T11:28:29.923500
 updated: 2025-10-08T11:28:29.923500
 source: https://example748.com
 author: Jack Taylor
-completed: False
+completed: no
 tags:
   - task
   - shopping

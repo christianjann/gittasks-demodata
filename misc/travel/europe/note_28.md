@@ -4,7 +4,7 @@ created: 2024-11-16T11:28:29.791868
 updated: 2025-03-31T11:28:29.791868
 source: https://example608.com
 author: Frank Miller
-completed: True
+completed: yes
 due: 2026-02-27T11:28:29.791868
 ---
 

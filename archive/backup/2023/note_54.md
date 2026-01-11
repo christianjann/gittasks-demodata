@@ -4,7 +4,7 @@ created: 2024-05-01T11:28:29.742082
 updated: 2024-08-01T11:28:29.742082
 source: https://example609.com
 author: Bob Smith
-completed: True
+completed: yes
 due: 2024-12-18T11:28:29.742082
 tags:
   - goal

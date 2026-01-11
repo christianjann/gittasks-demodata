@@ -4,7 +4,7 @@ created: 2025-07-31T11:28:29.631216
 updated: 2026-02-01T11:28:29.631216
 source: https://example456.com
 author: Bob Smith
-completed: True
+completed: yes
 tags:
   - draft
   - health

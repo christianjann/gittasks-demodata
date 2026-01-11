@@ -3,7 +3,7 @@ title: Note 51 in work - tasks - completed
 created: 2025-09-16T11:28:29.641343
 updated: 2026-07-20T11:28:29.641343
 source: https://example756.com
-completed: True
+completed: yes
 due: 2026-09-26T11:28:29.641343
 tags:
   - hobby

@@ -3,7 +3,7 @@ title: Note 32 in references - articles
 created: 2025-05-05T11:28:29.886928
 updated: 2026-03-15T11:28:29.886928
 author: Frank Miller
-completed: False
+completed: no
 due: 2026-09-17T11:28:29.886928
 tags:
   - code

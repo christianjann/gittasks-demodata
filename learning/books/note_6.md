@@ -4,7 +4,7 @@ created: 2025-03-04T11:28:29.818966
 updated: 2025-08-05T11:28:29.818966
 source: https://example242.com
 author: Frank Miller
-completed: False
+completed: no
 due: 2026-01-19T11:28:29.818966
 tags:
   - personal

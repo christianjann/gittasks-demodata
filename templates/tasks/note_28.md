@@ -3,7 +3,7 @@ title: Note 28 in templates - tasks
 created: 2023-07-19T11:28:29.906370
 updated: 2024-06-15T11:28:29.906370
 source: https://example898.com
-completed: True
+completed: yes
 due: 2024-10-13T11:28:29.906370
 ---
 

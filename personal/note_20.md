@@ -3,7 +3,7 @@ title: Note 20 in personal
 created: 2026-01-07T11:28:29.562031
 updated: 2026-08-15T11:28:29.562031
 source: https://example294.com
-completed: True
+completed: yes
 due: 2026-09-06T11:28:29.562031
 ---
 

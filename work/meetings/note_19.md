@@ -6,7 +6,7 @@ source: https://example488.com
 latitude: 5.7379
 longitude: -55.71
 altitude: 4110
-completed: True
+completed: yes
 due: 2027-05-27T11:28:29.616932
 tags:
   - draft

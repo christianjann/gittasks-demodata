@@ -5,7 +5,7 @@ updated: 2024-04-10T11:28:29.874887
 latitude: 6.071
 longitude: -173.2644
 altitude: 688
-completed: False
+completed: no
 ---
 
 # Note 9 in journal - monthly

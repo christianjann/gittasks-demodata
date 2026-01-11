@@ -3,7 +3,7 @@ title: Note 8 in personal - memories - childhood
 created: 2024-10-26T11:28:29.595204
 updated: 2025-04-26T11:28:29.595204
 source: https://example979.com
-completed: True
+completed: yes
 due: 2026-04-02T11:28:29.595204
 tags:
   - health

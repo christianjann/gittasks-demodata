@@ -3,7 +3,7 @@ title: Note 35 in drafts
 created: 2023-10-09T11:28:29.744900
 updated: 2024-08-11T11:28:29.744900
 author: Frank Miller
-completed: True
+completed: yes
 due: 2024-08-29T11:28:29.744900
 tags:
   - event

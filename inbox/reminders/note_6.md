@@ -3,7 +3,7 @@ title: Note 6 in inbox - reminders
 created: 2025-02-15T11:28:29.843130
 updated: 2025-04-16T11:28:29.843130
 author: Diana Prince
-completed: False
+completed: no
 tags:
   - health
   - archive

@@ -5,7 +5,7 @@ updated: 2026-02-04T11:28:29.839927
 latitude: -85.1729
 longitude: -143.7079
 altitude: 2000
-completed: False
+completed: no
 tags:
   - reference
   - archive

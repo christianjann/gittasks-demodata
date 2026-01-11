@@ -2,7 +2,7 @@
 title: Note 5 in learning - books - fiction
 created: 2025-02-27T11:28:29.821430
 updated: 2025-08-13T11:28:29.821430
-completed: False
+completed: no
 ---
 
 # Note 5 in learning - books - fiction

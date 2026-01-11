@@ -2,7 +2,7 @@
 title: Note 34 in goals - short_term
 created: 2024-04-20T11:28:29.854951
 updated: 2024-06-28T11:28:29.854951
-completed: True
+completed: yes
 due: 2024-09-26T11:28:29.854951
 tags:
   - journal

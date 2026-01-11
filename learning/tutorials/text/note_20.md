@@ -6,7 +6,7 @@ source: https://example442.com
 latitude: 84.5443
 longitude: 89.1232
 altitude: 2653
-completed: True
+completed: yes
 due: 2024-08-04T11:28:29.835170
 ---
 

@@ -3,7 +3,7 @@ title: Note 43 in work - projects - active
 created: 2024-07-18T11:28:29.649794
 updated: 2024-12-10T11:28:29.649794
 author: Charlie Brown
-completed: False
+completed: no
 due: 2025-08-23T11:28:29.649794
 tags:
   - misc

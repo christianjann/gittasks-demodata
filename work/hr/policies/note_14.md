@@ -4,7 +4,7 @@ created: 2023-10-21T11:28:29.664379
 updated: 2023-11-29T11:28:29.664379
 source: https://example500.com
 author: Alice Johnson
-completed: True
+completed: yes
 tags:
   - shopping
 ---

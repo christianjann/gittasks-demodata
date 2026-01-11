@@ -4,7 +4,7 @@ created: 2024-11-28T11:28:29.755954
 updated: 2025-09-10T11:28:29.755954
 source: https://example344.com
 author: Eve Adams
-completed: False
+completed: no
 due: 2026-08-07T11:28:29.755954
 ---
 

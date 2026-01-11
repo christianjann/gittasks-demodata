@@ -7,7 +7,7 @@ author: Jack Taylor
 latitude: -13.5314
 longitude: 175.7684
 altitude: 4634
-completed: False
+completed: no
 tags:
   - research
   - recipe

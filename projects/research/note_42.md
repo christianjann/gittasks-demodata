@@ -3,7 +3,7 @@ title: Note 42 in projects - research
 created: 2023-03-07T11:28:29.703891
 updated: 2023-11-14T11:28:29.703891
 source: https://example371.com
-completed: False
+completed: no
 due: 2024-01-24T11:28:29.703891
 tags:
   - event

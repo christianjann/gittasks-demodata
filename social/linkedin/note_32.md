@@ -3,7 +3,7 @@ title: Note 32 in social - linkedin
 created: 2024-08-16T11:28:29.942319
 updated: 2024-10-01T11:28:29.942319
 source: https://example99.com
-completed: False
+completed: no
 tags:
   - misc
   - task

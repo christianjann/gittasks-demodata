@@ -3,7 +3,7 @@ title: Note 12 in hobbies - photography
 created: 2024-10-05T11:28:29.972006
 updated: 2024-11-20T11:28:29.972006
 source: https://example801.com
-completed: False
+completed: no
 due: 2025-09-24T11:28:29.972006
 tags:
   - work

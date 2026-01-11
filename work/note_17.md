@@ -3,7 +3,7 @@ title: Note 17 in work
 created: 2023-08-01T11:28:29.613892
 updated: 2023-11-24T11:28:29.613892
 source: https://example809.com
-completed: False
+completed: no
 tags:
   - template
   - personal

@@ -3,7 +3,7 @@ title: Note 34 in learning - courses
 created: 2025-01-12T11:28:29.811942
 updated: 2025-03-14T11:28:29.811942
 source: https://example351.com
-completed: True
+completed: yes
 due: 2025-03-26T11:28:29.811942
 tags:
   - work

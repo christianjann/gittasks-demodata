@@ -6,7 +6,7 @@ source: https://example891.com
 latitude: 65.428
 longitude: -107.1497
 altitude: 1390
-completed: False
+completed: no
 tags:
   - meeting
   - learning

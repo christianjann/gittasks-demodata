@@ -3,7 +3,7 @@ title: Note 6 in learning - tutorials - video
 created: 2024-01-05T11:28:29.831769
 updated: 2024-06-28T11:28:29.831769
 source: https://example348.com
-completed: False
+completed: no
 due: 2025-06-20T11:28:29.831769
 tags:
   - event

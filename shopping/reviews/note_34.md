@@ -3,7 +3,7 @@ title: Note 34 in shopping - reviews
 created: 2024-09-13T11:28:29.967144
 updated: 2025-06-05T11:28:29.967144
 source: https://example156.com
-completed: False
+completed: no
 due: 2025-11-28T11:28:29.967144
 tags:
   - blog

@@ -3,7 +3,7 @@ title: Note 20 in shopping - lists
 created: 2025-05-21T11:28:29.963269
 updated: 2025-11-11T11:28:29.963269
 source: https://example872.com
-completed: False
+completed: no
 due: 2026-04-19T11:28:29.963269
 tags:
   - meeting

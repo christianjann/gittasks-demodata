@@ -6,7 +6,7 @@ source: https://example598.com
 latitude: -47.1173
 longitude: -26.1024
 altitude: 1437
-completed: True
+completed: yes
 due: 2025-05-22T11:28:29.612289
 tags:
   - misc

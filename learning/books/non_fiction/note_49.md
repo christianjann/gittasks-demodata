@@ -6,7 +6,7 @@ source: https://example564.com
 latitude: -88.691
 longitude: -59.5953
 altitude: 4646
-completed: True
+completed: yes
 tags:
   - thought
   - blog

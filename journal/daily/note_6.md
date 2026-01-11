@@ -4,7 +4,7 @@ created: 2025-06-28T11:28:29.868580
 updated: 2025-12-22T11:28:29.868580
 source: https://example871.com
 author: Jack Taylor
-completed: False
+completed: no
 ---
 
 # Note 6 in journal - daily

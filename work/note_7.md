@@ -3,7 +3,7 @@ title: Note 7 in work
 created: 2025-02-04T11:28:29.613226
 updated: 2025-03-28T11:28:29.613226
 author: Henry Wilson
-completed: True
+completed: yes
 tags:
   - recipe
   - learning

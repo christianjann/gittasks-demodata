@@ -4,7 +4,7 @@ created: 2025-10-25T11:28:29.789689
 updated: 2026-10-21T11:28:29.789689
 source: https://example490.com
 author: Alice Johnson
-completed: False
+completed: no
 tags:
   - urgent
   - design

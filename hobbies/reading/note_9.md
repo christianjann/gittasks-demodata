@@ -4,7 +4,7 @@ created: 2024-11-12T11:28:29.977160
 updated: 2025-03-02T11:28:29.977160
 source: https://example828.com
 author: Eve Adams
-completed: True
+completed: yes
 due: 2025-03-23T11:28:29.977160
 tags:
   - note

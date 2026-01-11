@@ -3,7 +3,7 @@ title: Note 13 in goals
 created: 2025-10-05T11:28:29.850899
 updated: 2026-06-03T11:28:29.850899
 author: Jack Taylor
-completed: True
+completed: yes
 due: 2027-05-27T11:28:29.850899
 ---
 

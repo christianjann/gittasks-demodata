@@ -2,7 +2,7 @@
 title: Note 13 in goals - achievements
 created: 2024-09-22T11:28:29.861793
 updated: 2025-02-22T11:28:29.861793
-completed: True
+completed: yes
 due: 2025-03-27T11:28:29.861793
 tags:
   - travel

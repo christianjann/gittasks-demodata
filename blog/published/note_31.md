@@ -6,7 +6,7 @@ source: https://example49.com
 latitude: -66.3448
 longitude: 85.927
 altitude: 969
-completed: False
+completed: no
 tags:
   - blog
 ---

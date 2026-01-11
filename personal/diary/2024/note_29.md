@@ -6,7 +6,7 @@ author: Grace Lee
 latitude: 83.9532
 longitude: -87.1133
 altitude: 1872
-completed: True
+completed: yes
 tags:
   - hobby
 ---

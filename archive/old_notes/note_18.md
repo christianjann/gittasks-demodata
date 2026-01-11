@@ -3,7 +3,7 @@ title: Note 18 in archive - old_notes
 created: 2025-07-14T11:28:29.720223
 updated: 2026-04-27T11:28:29.720223
 source: https://example28.com
-completed: False
+completed: no
 due: 2026-12-20T11:28:29.720223
 ---
 

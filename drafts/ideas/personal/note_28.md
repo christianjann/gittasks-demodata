@@ -6,7 +6,7 @@ source: https://example380.com
 latitude: 44.1524
 longitude: -29.2694
 altitude: 3772
-completed: False
+completed: no
 due: 2026-10-13T11:28:29.758932
 tags:
   - research

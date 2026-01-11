@@ -6,7 +6,7 @@ source: https://example88.com
 latitude: -87.9026
 longitude: -30.9889
 altitude: 4808
-completed: True
+completed: yes
 tags:
   - archive
   - code

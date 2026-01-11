@@ -4,7 +4,7 @@ created: 2024-07-22T11:28:29.813585
 updated: 2024-08-03T11:28:29.813585
 source: https://example755.com
 author: Ivy Chen
-completed: False
+completed: no
 due: 2025-07-15T11:28:29.813585
 tags:
   - misc

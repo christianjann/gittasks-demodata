@@ -6,7 +6,7 @@ source: https://example922.com
 latitude: -72.791
 longitude: -112.9302
 altitude: 3227
-completed: False
+completed: no
 due: 2026-03-14T11:28:29.725283
 tags:
   - goal

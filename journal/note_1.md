@@ -4,7 +4,7 @@ created: 2024-05-09T11:28:29.863594
 updated: 2024-12-22T11:28:29.863594
 source: https://example970.com
 author: Charlie Brown
-completed: True
+completed: yes
 tags:
   - blog
   - shopping

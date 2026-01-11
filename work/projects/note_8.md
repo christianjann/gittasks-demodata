@@ -3,7 +3,7 @@ title: Note 8 in work - projects
 created: 2025-03-01T11:28:29.642530
 updated: 2025-12-27T11:28:29.642530
 source: https://example78.com
-completed: False
+completed: no
 tags:
   - event
   - thought

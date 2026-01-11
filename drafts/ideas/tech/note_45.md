@@ -3,7 +3,7 @@ title: Note 45 in drafts - ideas - tech
 created: 2025-12-29T11:28:29.753694
 updated: 2026-07-17T11:28:29.753694
 author: Diana Prince
-completed: False
+completed: no
 due: 2026-10-07T11:28:29.753694
 tags:
   - archive

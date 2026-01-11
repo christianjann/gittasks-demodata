@@ -2,7 +2,7 @@
 title: Note 50 in personal - finances - investments
 created: 2023-06-25T11:28:29.611719
 updated: 2023-07-28T11:28:29.611719
-completed: False
+completed: no
 tags:
   - urgent
   - note
